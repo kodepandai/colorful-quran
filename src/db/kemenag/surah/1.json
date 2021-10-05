@@ -1,0 +1,65 @@
+[
+  {
+    "aya_id": 1,
+    "aya_number": 1,
+    "aya_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+    "sura_id": 1,
+    "juz_id": 1,
+    "page_number": 1,
+    "translation_aya_text": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+  },
+  {
+    "aya_id": 2,
+    "aya_number": 2,
+    "aya_text": "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَۙ",
+    "sura_id": 1,
+    "juz_id": 1,
+    "page_number": 1,
+    "translation_aya_text": "Segala puji bagi Allah, Tuhan seluruh alam,"
+  },
+  {
+    "aya_id": 3,
+    "aya_number": 3,
+    "aya_text": "الرَّحْمٰنِ الرَّحِيْمِۙ",
+    "sura_id": 1,
+    "juz_id": 1,
+    "page_number": 1,
+    "translation_aya_text": "Yang Maha Pengasih, Maha Penyayang,"
+  },
+  {
+    "aya_id": 4,
+    "aya_number": 4,
+    "aya_text": "مٰلِكِ يَوْمِ الدِّيْنِۗ",
+    "sura_id": 1,
+    "juz_id": 1,
+    "page_number": 1,
+    "translation_aya_text": "Pemilik hari pembalasan."
+  },
+  {
+    "aya_id": 5,
+    "aya_number": 5,
+    "aya_text": "اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُۗ",
+    "sura_id": 1,
+    "juz_id": 1,
+    "page_number": 1,
+    "translation_aya_text": "Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami mohon pertolongan."
+  },
+  {
+    "aya_id": 6,
+    "aya_number": 6,
+    "aya_text": "اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ ۙ",
+    "sura_id": 1,
+    "juz_id": 1,
+    "page_number": 1,
+    "translation_aya_text": "Tunjukilah kami jalan yang lurus,"
+  },
+  {
+    "aya_id": 7,
+    "aya_number": 7,
+    "aya_text": "صِرَاطَ الَّذِيْنَ اَنْعَمْتَ عَلَيْهِمْ ەۙ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّاۤلِّيْنَ ࣖ",
+    "sura_id": 1,
+    "juz_id": 1,
+    "page_number": 1,
+    "translation_aya_text": "(yaitu) jalan orang-orang yang telah Engkau beri nikmat kepadanya; bukan (jalan) mereka yang dimurkai, dan bukan (pula jalan) mereka yang sesat."
+  }
+]
