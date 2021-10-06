@@ -1,2045 +1,2045 @@
 [
-  {
-    "aya_id": 2933,
-    "aya_number": 1,
-    "aya_text": "طٰسۤمّۤ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 367,
-    "translation_aya_text": "Tha Sin Mim"
-  },
-  {
-    "aya_id": 2934,
-    "aya_number": 2,
-    "aya_text": "تِلْكَ اٰيٰتُ الْكِتٰبِ الْمُبِيْنِ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 367,
-    "translation_aya_text": "Inilah ayat-ayat Kitab (Al-Qur'an) yang jelas."
-  },
-  {
-    "aya_id": 2935,
-    "aya_number": 3,
-    "aya_text": "لَعَلَّكَ بَاخِعٌ نَّفْسَكَ اَلَّا يَكُوْنُوْا مُؤْمِنِيْنَ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 367,
-    "translation_aya_text": "Boleh jadi engkau (Muhammad) akan membinasakan dirimu (dengan kesedihan), karena mereka (penduduk Mekah) tidak beriman."
-  },
-  {
-    "aya_id": 2936,
-    "aya_number": 4,
-    "aya_text": "اِنْ نَّشَأْ نُنَزِّلْ عَلَيْهِمْ مِّنَ السَّمَاۤءِ اٰيَةً فَظَلَّتْ اَعْنَاقُهُمْ لَهَا خَاضِعِيْنَ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 367,
-    "translation_aya_text": "Jika Kami menghendaki, niscaya Kami turunkan kepada mereka mukjizat dari langit, yang akan membuat tengkuk mereka tunduk dengan rendah hati kepadanya."
-  },
-  {
-    "aya_id": 2937,
-    "aya_number": 5,
-    "aya_text": "وَمَا يَأْتِيْهِمْ مِّنْ ذِكْرٍ مِّنَ الرَّحْمٰنِ مُحْدَثٍ اِلَّا كَانُوْا عَنْهُ مُعْرِضِيْنَ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 367,
-    "translation_aya_text": "Dan setiap kali disampaikan kepada mereka suatu peringatan baru (ayat Al-Qur'an yang diturunkan) dari Tuhan Yang Maha Pengasih, mereka selalu berpaling darinya."
-  },
-  {
-    "aya_id": 2938,
-    "aya_number": 6,
-    "aya_text": "فَقَدْ كَذَّبُوْا فَسَيَأْتِيْهِمْ اَنْۢبـٰۤؤُا مَا كَانُوْا بِهٖ يَسْتَهْزِءُوْنَ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 367,
-    "translation_aya_text": "Sungguh, mereka telah mendustakan (Al-Qur'an), maka kelak akan datang kepada mereka (kebenaran) berita-berita mengenai apa (azab) yang dulu mereka perolok-olokkan."
-  },
-  {
-    "aya_id": 2939,
-    "aya_number": 7,
-    "aya_text": "اَوَلَمْ يَرَوْا اِلَى الْاَرْضِ كَمْ اَنْۢبَتْنَا فِيْهَا مِنْ كُلِّ زَوْجٍ كَرِيْمٍ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 367,
-    "translation_aya_text": "Dan apakah mereka tidak memperhatikan bumi, betapa banyak Kami tumbuhkan di bumi itu berbagai macam pasangan (tumbuh-tumbuhan) yang baik?"
-  },
-  {
-    "aya_id": 2940,
-    "aya_number": 8,
-    "aya_text": "اِنَّ فِيْ ذٰلِكَ لَاٰيَةًۗ وَمَا كَانَ اَكْثَرُهُمْ مُّؤْمِنِيْنَ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 367,
-    "translation_aya_text": "Sungguh, pada yang demikian itu terdapat tanda (kebesaran Allah), tetapi kebanyakan mereka tidak beriman."
-  },
-  {
-    "aya_id": 2941,
-    "aya_number": 9,
-    "aya_text": "وَاِنَّ رَبَّكَ لَهُوَ الْعَزِيْزُ الرَّحِيْمُ ࣖ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 367,
-    "translation_aya_text": "Dan sungguh, Tuhanmu Dialah Yang Mahaperkasa, Maha Penyayang."
-  },
-  {
-    "aya_id": 2942,
-    "aya_number": 10,
-    "aya_text": "وَاِذْ نَادٰى رَبُّكَ مُوْسٰٓى اَنِ ائْتِ الْقَوْمَ الظّٰلِمِيْنَ ۙ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 367,
-    "translation_aya_text": "Dan (ingatlah) ketika Tuhanmu menyeru Musa (dengan firman-Nya), “Datangilah kaum yang zalim itu,"
-  },
-  {
-    "aya_id": 2943,
-    "aya_number": 11,
-    "aya_text": "قَوْمَ فِرْعَوْنَ ۗ اَلَا يَتَّقُوْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 367,
-    "translation_aya_text": "(yaitu) kaum Fir‘aun. Mengapa mereka tidak bertakwa?”"
-  },
-  {
-    "aya_id": 2944,
-    "aya_number": 12,
-    "aya_text": "قَالَ رَبِّ اِنِّيْٓ اَخَافُ اَنْ يُّكَذِّبُوْنِ ۗ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 367,
-    "translation_aya_text": "Dia (Musa) berkata, “Ya Tuhanku, sungguh, aku takut mereka akan mendustakan aku,"
-  },
-  {
-    "aya_id": 2945,
-    "aya_number": 13,
-    "aya_text": "وَيَضِيْقُ صَدْرِيْ وَلَا يَنْطَلِقُ لِسَانِيْ فَاَرْسِلْ اِلٰى هٰرُوْنَ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 367,
-    "translation_aya_text": "sehingga dadaku terasa sempit dan lidahku tidak lancar, maka utuslah Harun (bersamaku)."
-  },
-  {
-    "aya_id": 2946,
-    "aya_number": 14,
-    "aya_text": "وَلَهُمْ عَلَيَّ ذَنْۢبٌ فَاَخَافُ اَنْ يَّقْتُلُوْنِ  ۚ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 367,
-    "translation_aya_text": "Sebab aku berdosa terhadap mereka, maka aku takut mereka akan membunuhku.”"
-  },
-  {
-    "aya_id": 2947,
-    "aya_number": 15,
-    "aya_text": "قَالَ كَلَّاۚ فَاذْهَبَا بِاٰيٰتِنَآ اِنَّا مَعَكُمْ مُّسْتَمِعُوْنَ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 367,
-    "translation_aya_text": "(Allah) berfirman, “Jangan takut (mereka tidak akan dapat membunuhmu)! Maka pergilah kamu berdua dengan membawa ayat-ayat Kami (mukjizat-mukjizat); sungguh, Kami bersamamu mendengarkan (apa yang mereka katakan),"
-  },
-  {
-    "aya_id": 2948,
-    "aya_number": 16,
-    "aya_text": "فَأْتِيَا فِرْعَوْنَ فَقُوْلَآ اِنَّا رَسُوْلُ رَبِّ الْعٰلَمِيْنَ ۙ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 367,
-    "translation_aya_text": "maka datanglah kamu berdua kepada Fir‘aun dan katakan, “Sesungguhnya kami adalah rasul-rasul Tuhan seluruh alam,"
-  },
-  {
-    "aya_id": 2949,
-    "aya_number": 17,
-    "aya_text": "اَنْ اَرْسِلْ مَعَنَا بَنِيْٓ اِسْرَاۤءِيْلَ ۗ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 367,
-    "translation_aya_text": "lepaskanlah Bani Israil (pergi) bersama kami.”"
-  },
-  {
-    "aya_id": 2950,
-    "aya_number": 18,
-    "aya_text": "قَالَ اَلَمْ نُرَبِّكَ فِيْنَا وَلِيْدًا وَّلَبِثْتَ فِيْنَا مِنْ عُمُرِكَ سِنِيْنَ ۗ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 367,
-    "translation_aya_text": "Dia (Fir‘aun) menjawab, “Bukankah kami telah mengasuhmu dalam lingkungan (keluarga) kami, waktu engkau masih kanak-kanak dan engkau tinggal bersama kami beberapa tahun dari umurmu."
-  },
-  {
-    "aya_id": 2951,
-    "aya_number": 19,
-    "aya_text": "وَفَعَلْتَ فَعْلَتَكَ الَّتِيْ فَعَلْتَ وَاَنْتَ مِنَ الْكٰفِرِيْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 367,
-    "translation_aya_text": "Dan engkau (Musa) telah melakukan (kesalahan dari) perbuatan yang telah engkau lakukan dan engkau termasuk orang yang tidak tahu berterima kasih.”"
-  },
-  {
-    "aya_id": 2952,
-    "aya_number": 20,
-    "aya_text": "قَالَ فَعَلْتُهَآ اِذًا وَّاَنَا۠ مِنَ الضَّاۤلِّيْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 368,
-    "translation_aya_text": "Dia (Musa) berkata, “Aku telah melakukannya, dan ketika itu aku termasuk orang yang khilaf."
-  },
-  {
-    "aya_id": 2953,
-    "aya_number": 21,
-    "aya_text": "فَفَرَرْتُ مِنْكُمْ لَمَّا خِفْتُكُمْ فَوَهَبَ لِيْ رَبِّيْ حُكْمًا وَّجَعَلَنِيْ مِنَ الْمُرْسَلِيْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 368,
-    "translation_aya_text": "Lalu aku lari darimu karena aku takut kepadamu, kemudian Tuhanku menganugerahkan ilmu kepadaku serta Dia menjadikan aku salah seorang di antara rasul-rasul."
-  },
-  {
-    "aya_id": 2954,
-    "aya_number": 22,
-    "aya_text": "وَتِلْكَ نِعْمَةٌ تَمُنُّهَا عَلَيَّ اَنْ عَبَّدْتَّ بَنِيْٓ اِسْرَاۤءِيْلَ ۗ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 368,
-    "translation_aya_text": "Dan itulah kebaikan yang telah engkau berikan kepadaku, (sementara) itu engkau telah memperbudak Bani Israil.”"
-  },
-  {
-    "aya_id": 2955,
-    "aya_number": 23,
-    "aya_text": "قَالَ فِرْعَوْنُ وَمَا رَبُّ الْعٰلَمِيْنَ ۗ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 368,
-    "translation_aya_text": "Fir‘aun bertanya, “Siapa Tuhan seluruh alam itu?”"
-  },
-  {
-    "aya_id": 2956,
-    "aya_number": 24,
-    "aya_text": "قَالَ رَبُّ السَّمٰوٰتِ وَالْاَرْضِ وَمَا بَيْنَهُمَاۗ اِنْ كُنْتُمْ مُّوْقِنِيْنَ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 368,
-    "translation_aya_text": "Dia (Musa) menjawab, “Tuhan pencipta langit dan bumi dan apa yang ada di antara keduanya (itulah Tuhanmu), jika kamu mempercayai-Nya.”"
-  },
-  {
-    "aya_id": 2957,
-    "aya_number": 25,
-    "aya_text": "قَالَ لِمَنْ حَوْلَهٗٓ اَلَا تَسْتَمِعُوْنَ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 368,
-    "translation_aya_text": "Dia (Fir‘aun) berkata kepada orang-orang di sekelilingnya, “Apakah kamu tidak mendengar (apa yang dikatakannya)?”"
-  },
-  {
-    "aya_id": 2958,
-    "aya_number": 26,
-    "aya_text": "قَالَ رَبُّكُمْ وَرَبُّ اٰبَاۤىِٕكُمُ الْاَوَّلِيْنَ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 368,
-    "translation_aya_text": "Dia (Musa) berkata, “(Dia) Tuhanmu dan juga Tuhan nenek moyangmu terdahulu.”"
-  },
-  {
-    "aya_id": 2959,
-    "aya_number": 27,
-    "aya_text": "قَالَ اِنَّ رَسُوْلَكُمُ الَّذِيْٓ اُرْسِلَ اِلَيْكُمْ لَمَجْنُوْنٌ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 368,
-    "translation_aya_text": "Dia (Fir‘aun) berkata, “Sungguh, Rasulmu yang diutus kepada kamu benar-benar orang gila.” "
-  },
-  {
-    "aya_id": 2960,
-    "aya_number": 28,
-    "aya_text": "قَالَ رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ وَمَا بَيْنَهُمَاۗ اِنْ كُنْتُمْ تَعْقِلُوْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 368,
-    "translation_aya_text": "Dia (Musa) berkata, “(Dialah) Tuhan (yang menguasai) timur dan barat dan apa yang ada di antara keduanya; jika kamu mengerti.”"
-  },
-  {
-    "aya_id": 2961,
-    "aya_number": 29,
-    "aya_text": "قَالَ لَىِٕنِ اتَّخَذْتَ اِلٰهًا غَيْرِيْ لَاَجْعَلَنَّكَ مِنَ الْمَسْجُوْنِيْنَ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 368,
-    "translation_aya_text": "Dia (Fir‘aun) berkata, “Sungguh, jika engkau menyembah Tuhan selain aku, pasti aku masukkan engkau ke dalam penjara.”"
-  },
-  {
-    "aya_id": 2962,
-    "aya_number": 30,
-    "aya_text": "قَالَ اَوَلَوْ جِئْتُكَ بِشَيْءٍ مُّبِيْنٍ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 368,
-    "translation_aya_text": "Dia (Musa) berkata, “Apakah (engkau akan melakukan itu) sekalipun aku tunjukkan kepadamu sesuatu (bukti) yang nyata?”"
-  },
-  {
-    "aya_id": 2963,
-    "aya_number": 31,
-    "aya_text": "قَالَ فَأْتِ بِهٖٓ اِنْ كُنْتَ مِنَ الصّٰدِقِيْنَ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 368,
-    "translation_aya_text": "Dia (Fir‘aun) berkata, “Tunjukkan sesuatu (bukti yang nyata) itu, jika engkau termasuk orang yang benar!”"
-  },
-  {
-    "aya_id": 2964,
-    "aya_number": 32,
-    "aya_text": "فَاَلْقٰى عَصَاهُ فَاِذَا هِيَ ثُعْبَانٌ مُّبِيْنٌ ۚ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 368,
-    "translation_aya_text": "Maka dia (Musa) melemparkan tongkatnya, tiba-tiba tongkat itu menjadi ular besar yang sebenarnya."
-  },
-  {
-    "aya_id": 2965,
-    "aya_number": 33,
-    "aya_text": "وَنَزَعَ يَدَهٗ فَاِذَا هِيَ بَيْضَاۤءُ لِلنّٰظِرِيْنَ ࣖ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 368,
-    "translation_aya_text": "Dan dia mengeluarkan tangannya (dari dalam bajunya), tiba-tiba tangan itu menjadi putih (bercahaya) bagi orang-orang yang melihatnya."
-  },
-  {
-    "aya_id": 2966,
-    "aya_number": 34,
-    "aya_text": "قَالَ لِلْمَلَاِ حَوْلَهٗٓ اِنَّ هٰذَا لَسٰحِرٌ عَلِيْمٌ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 368,
-    "translation_aya_text": "Dia (Fir‘aun) berkata kepada para pemuka di sekelilingnya, “Sesungguhnya dia (Musa) ini pasti seorang pesihir yang pandai,"
-  },
-  {
-    "aya_id": 2967,
-    "aya_number": 35,
-    "aya_text": "يُّرِيْدُ اَنْ يُّخْرِجَكُمْ مِّنْ اَرْضِكُمْ بِسِحْرِهٖۖ فَمَاذَا تَأْمُرُوْنَ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 368,
-    "translation_aya_text": "dia hendak mengusir kamu dari negerimu dengan sihirnya; karena itu apakah yang kamu sarankan?”"
-  },
-  {
-    "aya_id": 2968,
-    "aya_number": 36,
-    "aya_text": "قَالُوْٓا اَرْجِهْ وَاَخَاهُ وَابْعَثْ فِى الْمَدَاۤىِٕنِ حٰشِرِيْنَ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 368,
-    "translation_aya_text": "Mereka menjawab, “Tahanlah (untuk sementara) dia dan saudaranya, dan utuslah ke seluruh negeri orang-orang yang akan mengumpulkan (pesihir),"
-  },
-  {
-    "aya_id": 2969,
-    "aya_number": 37,
-    "aya_text": "يَأْتُوْكَ بِكُلِّ سَحَّارٍ عَلِيْمٍ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 368,
-    "translation_aya_text": "niscaya mereka akan mendatangkan semua pesihir yang pandai kepadamu.” "
-  },
-  {
-    "aya_id": 2970,
-    "aya_number": 38,
-    "aya_text": "فَجُمِعَ السَّحَرَةُ لِمِيْقَاتِ يَوْمٍ مَّعْلُوْمٍ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 368,
-    "translation_aya_text": "Lalu dikumpulkanlah para pesihir pada waktu (yang ditetapkan) pada hari yang telah ditentukan, "
-  },
-  {
-    "aya_id": 2971,
-    "aya_number": 39,
-    "aya_text": "وَّقِيْلَ لِلنَّاسِ هَلْ اَنْتُمْ مُّجْتَمِعُوْنَ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 368,
-    "translation_aya_text": "dan diumumkan kepada orang banyak, “Berkumpullah kamu semua,"
-  },
-  {
-    "aya_id": 2972,
-    "aya_number": 40,
-    "aya_text": "لَعَلَّنَا نَتَّبِعُ السَّحَرَةَ اِنْ كَانُوْا هُمُ الْغٰلِبِيْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 369,
-    "translation_aya_text": "agar kita mengikuti para pesihir itu, jika mereka yang menang.”"
-  },
-  {
-    "aya_id": 2973,
-    "aya_number": 41,
-    "aya_text": "فَلَمَّا جَاۤءَ السَّحَرَةُ قَالُوْا لِفِرْعَوْنَ اَىِٕنَّ لَنَا لَاَجْرًا اِنْ كُنَّا نَحْنُ الْغٰلِبِيْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 369,
-    "translation_aya_text": "Maka ketika para pesihir datang, mereka berkata kepada Fir‘aun, “Apakah kami benar-benar akan mendapat imbalan yang besar jika kami yang menang?”"
-  },
-  {
-    "aya_id": 2974,
-    "aya_number": 42,
-    "aya_text": "قَالَ نَعَمْ وَاِنَّكُمْ اِذًا لَّمِنَ الْمُقَرَّبِيْنَ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 369,
-    "translation_aya_text": "Dia (Fir‘aun) menjawab, “Ya, dan bahkan kamu pasti akan mendapat kedudukan yang dekat (kepadaku).”"
-  },
-  {
-    "aya_id": 2975,
-    "aya_number": 43,
-    "aya_text": "قَالَ لَهُمْ مُّوْسٰٓى اَلْقُوْا مَآ اَنْتُمْ مُّلْقُوْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 369,
-    "translation_aya_text": "Dia (Musa) berkata kepada mereka, “Lemparkanlah apa yang hendak kamu lemparkan.”"
-  },
-  {
-    "aya_id": 2976,
-    "aya_number": 44,
-    "aya_text": "فَاَلْقَوْا حِبَالَهُمْ وَعِصِيَّهُمْ وَقَالُوْا بِعِزَّةِ فِرْعَوْنَ اِنَّا لَنَحْنُ الْغٰلِبُوْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 369,
-    "translation_aya_text": "Lalu mereka melemparkan tali temali dan tongkat-tongkat mereka seraya berkata, “Demi kekuasaan Fir‘aun, pasti kamilah yang akan menang.”"
-  },
-  {
-    "aya_id": 2977,
-    "aya_number": 45,
-    "aya_text": "فَاَلْقٰى مُوْسٰى عَصَاهُ فَاِذَا هِيَ تَلْقَفُ مَا يَأْفِكُوْنَ ۚ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 369,
-    "translation_aya_text": "Kemudian Musa melemparkan tongkatnya, maka tiba-tiba ia menelan benda-benda palsu yang mereka ada-adakan itu."
-  },
-  {
-    "aya_id": 2978,
-    "aya_number": 46,
-    "aya_text": "فَاُلْقِيَ السَّحَرَةُ سٰجِدِيْنَ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 369,
-    "translation_aya_text": "Maka menyungkurlah para pesihir itu, bersujud."
-  },
-  {
-    "aya_id": 2979,
-    "aya_number": 47,
-    "aya_text": "قَالُوْٓا اٰمَنَّا بِرَبِّ الْعٰلَمِيْنَ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 369,
-    "translation_aya_text": "Mereka berkata, “Kami beriman kepada Tuhan seluruh alam,"
-  },
-  {
-    "aya_id": 2980,
-    "aya_number": 48,
-    "aya_text": "رَبِّ مُوْسٰى وَهٰرُوْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 369,
-    "translation_aya_text": "(yaitu) Tuhannya Musa dan Harun.”"
-  },
-  {
-    "aya_id": 2981,
-    "aya_number": 49,
-    "aya_text": "قَالَ اٰمَنْتُمْ لَهٗ قَبْلَ اَنْ اٰذَنَ لَكُمْۚ اِنَّهٗ لَكَبِيْرُكُمُ الَّذِيْ عَلَّمَكُمُ السِّحْرَۚ فَلَسَوْفَ تَعْلَمُوْنَ ەۗ لَاُقَطِّعَنَّ اَيْدِيَكُمْ وَاَرْجُلَكُمْ مِّنْ خِلَافٍ وَّلَاُصَلِّبَنَّكُمْ اَجْمَعِيْنَۚ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 369,
-    "translation_aya_text": "Dia (Fir‘aun) berkata, “Mengapa kamu beriman kepada Musa sebelum aku memberi izin kepadamu? Sesungguhnya dia pemimpinmu yang mengajarkan sihir kepadamu. Nanti kamu pasti akan tahu (akibat perbuatanmu). Pasti akan kupotong tangan dan kakimu bersilang dan sungguh, akan kusalib kamu semuanya.”"
-  },
-  {
-    "aya_id": 2982,
-    "aya_number": 50,
-    "aya_text": "قَالُوْا لَا ضَيْرَ ۖاِنَّآ اِلٰى رَبِّنَا مُنْقَلِبُوْنَ ۚ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 369,
-    "translation_aya_text": "Mereka berkata, “Tidak ada yang kami takutkan, karena kami akan kembali kepada Tuhan kami."
-  },
-  {
-    "aya_id": 2983,
-    "aya_number": 51,
-    "aya_text": " اِنَّا نَطْمَعُ اَنْ يَّغْفِرَ لَنَا رَبُّنَا خَطٰيٰنَآ اَنْ كُنَّآ اَوَّلَ الْمُؤْمِنِيْنَ ۗ ࣖ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 369,
-    "translation_aya_text": "Sesungguhnya kami sangat menginginkan sekiranya Tuhan kami akan mengampuni kesalahan kami, karena kami menjadi orang yang pertama-tama beriman.”"
-  },
-  {
-    "aya_id": 2984,
-    "aya_number": 52,
-    "aya_text": "۞ وَاَوْحَيْنَآ اِلٰى مُوْسٰٓى اَنْ اَسْرِ بِعِبَادِيْٓ اِنَّكُمْ مُّتَّبَعُوْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 369,
-    "translation_aya_text": "Dan Kami wahyukan (perintahkan) kepada Musa, “Pergilah pada malam hari dengan membawa hamba-hamba-Ku (Bani Israil), sebab pasti kamu akan dikejar.”"
-  },
-  {
-    "aya_id": 2985,
-    "aya_number": 53,
-    "aya_text": "فَاَرْسَلَ فِرْعَوْنُ فِى الْمَدَاۤىِٕنِ حٰشِرِيْنَ ۚ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 369,
-    "translation_aya_text": "Kemudian Fir‘aun mengirimkan orang ke kota-kota (untuk mengumpulkan bala tentaranya)."
-  },
-  {
-    "aya_id": 2986,
-    "aya_number": 54,
-    "aya_text": "اِنَّ هٰٓؤُلَاۤءِ لَشِرْذِمَةٌ قَلِيْلُوْنَۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 369,
-    "translation_aya_text": "(Fir‘aun berkata), “Sesungguhnya mereka (Bani Israil) hanya sekelompok kecil,"
-  },
-  {
-    "aya_id": 2987,
-    "aya_number": 55,
-    "aya_text": "وَاِنَّهُمْ لَنَا لَغَاۤىِٕظُوْنَ ۙ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 369,
-    "translation_aya_text": "dan sesungguhnya mereka telah berbuat hal-hal yang menimbulkan amarah kita,"
-  },
-  {
-    "aya_id": 2988,
-    "aya_number": 56,
-    "aya_text": "وَاِنَّا لَجَمِيْعٌ حٰذِرُوْنَ ۗ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 369,
-    "translation_aya_text": "dan sesungguhnya kita semua tanpa kecuali harus selalu waspada.”"
-  },
-  {
-    "aya_id": 2989,
-    "aya_number": 57,
-    "aya_text": "فَاَخْرَجْنٰهُمْ مِّنْ جَنّٰتٍ وَّعُيُوْنٍ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 369,
-    "translation_aya_text": "Kemudian, Kami keluarkan mereka (Fir‘aun dan kaumnya) dari taman-taman dan mata air,"
-  },
-  {
-    "aya_id": 2990,
-    "aya_number": 58,
-    "aya_text": "وَّكُنُوْزٍ وَّمَقَامٍ كَرِيْمٍ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 369,
-    "translation_aya_text": "dan (dari) harta kekayaan dan kedudukan yang mulia, "
-  },
-  {
-    "aya_id": 2991,
-    "aya_number": 59,
-    "aya_text": "كَذٰلِكَۚ وَاَوْرَثْنٰهَا بَنِيْٓ اِسْرَاۤءِيْلَ ۗ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 369,
-    "translation_aya_text": "demikianlah, dan Kami anugerahkan semuanya (itu) kepada Bani Israil."
-  },
-  {
-    "aya_id": 2992,
-    "aya_number": 60,
-    "aya_text": "فَاَتْبَعُوْهُمْ مُّشْرِقِيْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 369,
-    "translation_aya_text": "Lalu (Fir‘aun dan bala tentaranya) dapat menyusul mereka pada waktu matahari terbit."
-  },
-  {
-    "aya_id": 2993,
-    "aya_number": 61,
-    "aya_text": "فَلَمَّا تَرَاۤءَ الْجَمْعٰنِ قَالَ اَصْحٰبُ مُوْسٰٓى اِنَّا لَمُدْرَكُوْنَ ۚ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 370,
-    "translation_aya_text": "Maka ketika kedua golongan itu saling melihat, berkatalah pengikut-pengikut Musa, “Kita benar-benar akan tersusul.”"
-  },
-  {
-    "aya_id": 2994,
-    "aya_number": 62,
-    "aya_text": "قَالَ كَلَّاۗ اِنَّ مَعِيَ رَبِّيْ سَيَهْدِيْنِ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 370,
-    "translation_aya_text": "Dia (Musa) menjawab, “Sekali-kali tidak akan (tersusul); sesungguhnya Tuhanku bersamaku, Dia akan memberi petunjuk kepadaku.”"
-  },
-  {
-    "aya_id": 2995,
-    "aya_number": 63,
-    "aya_text": "فَاَوْحَيْنَآ اِلٰى مُوْسٰٓى اَنِ اضْرِبْ بِّعَصَاكَ الْبَحْرَۗ فَانْفَلَقَ فَكَانَ كُلُّ فِرْقٍ كَالطَّوْدِ الْعَظِيْمِ ۚ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 370,
-    "translation_aya_text": "Lalu Kami wahyukan kepada Musa, “Pukullah laut itu dengan tongkatmu.” Maka terbelahlah lautan itu, dan setiap belahan seperti gunung yang besar."
-  },
-  {
-    "aya_id": 2996,
-    "aya_number": 64,
-    "aya_text": "وَاَزْلَفْنَا ثَمَّ الْاٰخَرِيْنَ ۚ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 370,
-    "translation_aya_text": "Dan di sanalah Kami dekatkan golongan yang lain. "
-  },
-  {
-    "aya_id": 2997,
-    "aya_number": 65,
-    "aya_text": "وَاَنْجَيْنَا مُوْسٰى وَمَنْ مَّعَهٗٓ اَجْمَعِيْنَ ۚ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 370,
-    "translation_aya_text": "Dan Kami selamatkan Musa dan orang-orang yang bersamanya."
-  },
-  {
-    "aya_id": 2998,
-    "aya_number": 66,
-    "aya_text": "ثُمَّ اَغْرَقْنَا الْاٰخَرِيْنَ ۗ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 370,
-    "translation_aya_text": "Kemudian Kami tenggelamkan golongan yang lain."
-  },
-  {
-    "aya_id": 2999,
-    "aya_number": 67,
-    "aya_text": "اِنَّ فِيْ ذٰلِكَ لَاٰيَةً ۗوَمَا كَانَ اَكْثَرُهُمْ مُّؤْمِنِيْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 370,
-    "translation_aya_text": "Sungguh, pada yang demikian itu terdapat suatu tanda (kekuasaan Allah), tetapi kebanyakan mereka tidak beriman."
-  },
-  {
-    "aya_id": 3000,
-    "aya_number": 68,
-    "aya_text": "وَاِنَّ رَبَّكَ لَهُوَ الْعَزِيْزُ الرَّحِيْمُ ࣖ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 370,
-    "translation_aya_text": "Dan sesungguhnya Tuhanmu Dialah Yang Mahaperkasa, Maha Penyayang."
-  },
-  {
-    "aya_id": 3001,
-    "aya_number": 69,
-    "aya_text": "وَاتْلُ عَلَيْهِمْ نَبَاَ اِبْرٰهِيْمَ ۘ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 370,
-    "translation_aya_text": "Dan bacakanlah kepada mereka kisah Ibrahim."
-  },
-  {
-    "aya_id": 3002,
-    "aya_number": 70,
-    "aya_text": "اِذْ قَالَ لِاَبِيْهِ وَقَوْمِهٖ مَا تَعْبُدُوْنَ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 370,
-    "translation_aya_text": "Ketika dia (Ibrahim) berkata kepada ayahnya dan kaumnya, “Apakah yang kamu sembah?”"
-  },
-  {
-    "aya_id": 3003,
-    "aya_number": 71,
-    "aya_text": "قَالُوْا نَعْبُدُ اَصْنَامًا فَنَظَلُّ لَهَا عٰكِفِيْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 370,
-    "translation_aya_text": "Mereka menjawab, “Kami menyembah berhala-berhala dan kami senantiasa tekun menyembahnya.”"
-  },
-  {
-    "aya_id": 3004,
-    "aya_number": 72,
-    "aya_text": "قَالَ هَلْ يَسْمَعُوْنَكُمْ اِذْ تَدْعُوْنَ ۙ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 370,
-    "translation_aya_text": "Dia (Ibrahim) berkata, “Apakah mereka mendengarmu ketika kamu berdoa (kepadanya)?"
-  },
-  {
-    "aya_id": 3005,
-    "aya_number": 73,
-    "aya_text": "اَوْ يَنْفَعُوْنَكُمْ اَوْ يَضُرُّوْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 370,
-    "translation_aya_text": "Atau (dapatkah) mereka memberi manfaat atau mencelakakan kamu?”"
-  },
-  {
-    "aya_id": 3006,
-    "aya_number": 74,
-    "aya_text": "قَالُوْا بَلْ وَجَدْنَآ اٰبَاۤءَنَا كَذٰلِكَ يَفْعَلُوْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 370,
-    "translation_aya_text": "Mereka menjawab, “Tidak, tetapi kami dapati nenek moyang kami berbuat begitu.”"
-  },
-  {
-    "aya_id": 3007,
-    "aya_number": 75,
-    "aya_text": "قَالَ اَفَرَءَيْتُمْ مَّا كُنْتُمْ تَعْبُدُوْنَ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 370,
-    "translation_aya_text": "Dia (Ibrahim) berkata, “Apakah kamu memperhatikan apa yang kamu sembah,"
-  },
-  {
-    "aya_id": 3008,
-    "aya_number": 76,
-    "aya_text": "اَنْتُمْ وَاٰبَاۤؤُكُمُ الْاَقْدَمُوْنَ ۙ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 370,
-    "translation_aya_text": "kamu dan nenek moyang kamu yang terdahulu?"
-  },
-  {
-    "aya_id": 3009,
-    "aya_number": 77,
-    "aya_text": "فَاِنَّهُمْ عَدُوٌّ لِّيْٓ اِلَّا رَبَّ الْعٰلَمِيْنَ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 370,
-    "translation_aya_text": "Sesungguhnya mereka (apa yang kamu sembah) itu musuhku, lain halnya Tuhan seluruh alam,"
-  },
-  {
-    "aya_id": 3010,
-    "aya_number": 78,
-    "aya_text": "الَّذِيْ خَلَقَنِيْ فَهُوَ يَهْدِيْنِ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 370,
-    "translation_aya_text": "(yaitu) Yang telah menciptakan aku, maka Dia yang memberi petunjuk kepadaku,"
-  },
-  {
-    "aya_id": 3011,
-    "aya_number": 79,
-    "aya_text": "وَالَّذِيْ هُوَ يُطْعِمُنِيْ وَيَسْقِيْنِ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 370,
-    "translation_aya_text": "dan Yang memberi makan dan minum kepadaku;"
-  },
-  {
-    "aya_id": 3012,
-    "aya_number": 80,
-    "aya_text": "وَاِذَا مَرِضْتُ فَهُوَ يَشْفِيْنِ ۙ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 370,
-    "translation_aya_text": "dan apabila aku sakit, Dialah yang menyembuhkan aku, "
-  },
-  {
-    "aya_id": 3013,
-    "aya_number": 81,
-    "aya_text": "وَالَّذِيْ يُمِيْتُنِيْ ثُمَّ يُحْيِيْنِ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 370,
-    "translation_aya_text": "dan Yang akan mematikan aku, kemudian akan menghidupkan aku (kembali),"
-  },
-  {
-    "aya_id": 3014,
-    "aya_number": 82,
-    "aya_text": "وَالَّذِيْٓ اَطْمَعُ اَنْ يَّغْفِرَ لِيْ خَطِيْۤـَٔتِيْ يَوْمَ الدِّيْنِ ۗ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 370,
-    "translation_aya_text": "dan Yang sangat kuinginkan akan mengampuni kesalahanku pada hari Kiamat.”"
-  },
-  {
-    "aya_id": 3015,
-    "aya_number": 83,
-    "aya_text": "رَبِّ هَبْ لِيْ حُكْمًا وَّاَلْحِقْنِيْ بِالصّٰلِحِيْنَ ۙ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 370,
-    "translation_aya_text": "Ibrahim berdoa), “Ya Tuhanku, berikanlah kepadaku ilmu dan masukkanlah aku ke dalam golongan orang-orang yang saleh,"
-  },
-  {
-    "aya_id": 3016,
-    "aya_number": 84,
-    "aya_text": "وَاجْعَلْ لِّيْ لِسَانَ صِدْقٍ فِى الْاٰخِرِيْنَ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 371,
-    "translation_aya_text": "dan jadikanlah aku buah tutur yang baik bagi orang-orang (yang datang) kemudian,"
-  },
-  {
-    "aya_id": 3017,
-    "aya_number": 85,
-    "aya_text": "وَاجْعَلْنِيْ مِنْ وَّرَثَةِ جَنَّةِ النَّعِيْمِ ۙ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 371,
-    "translation_aya_text": "dan jadikanlah aku termasuk orang yang mewarisi surga yang penuh kenikmatan,"
-  },
-  {
-    "aya_id": 3018,
-    "aya_number": 86,
-    "aya_text": "وَاغْفِرْ لِاَبِيْٓ اِنَّهٗ كَانَ مِنَ الضَّاۤلِّيْنَ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 371,
-    "translation_aya_text": "dan ampunilah ayahku, sesungguhnya dia termasuk orang yang sesat,"
-  },
-  {
-    "aya_id": 3019,
-    "aya_number": 87,
-    "aya_text": "وَلَا تُخْزِنِيْ يَوْمَ يُبْعَثُوْنَۙ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 371,
-    "translation_aya_text": "dan janganlah Engkau hinakan aku pada hari mereka dibangkitkan,"
-  },
-  {
-    "aya_id": 3020,
-    "aya_number": 88,
-    "aya_text": "يَوْمَ لَا يَنْفَعُ مَالٌ وَّلَا بَنُوْنَ ۙ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 371,
-    "translation_aya_text": "(yaitu) pada hari (ketika) harta dan anak-anak  tidak berguna,"
-  },
-  {
-    "aya_id": 3021,
-    "aya_number": 89,
-    "aya_text": "اِلَّا مَنْ اَتَى اللّٰهَ بِقَلْبٍ سَلِيْمٍ ۗ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 371,
-    "translation_aya_text": "kecuali orang-orang yang menghadap Allah dengan hati yang bersih,"
-  },
-  {
-    "aya_id": 3022,
-    "aya_number": 90,
-    "aya_text": "وَاُزْلِفَتِ الْجَنَّةُ لِلْمُتَّقِيْنَ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 371,
-    "translation_aya_text": "dan surga didekatkan kepada orang-orang yang bertakwa,"
-  },
-  {
-    "aya_id": 3023,
-    "aya_number": 91,
-    "aya_text": "وَبُرِّزَتِ الْجَحِيْمُ لِلْغٰوِيْنَ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 371,
-    "translation_aya_text": "dan neraka Jahim diperlihatkan dengan jelas kepada orang-orang yang sesat,”"
-  },
-  {
-    "aya_id": 3024,
-    "aya_number": 92,
-    "aya_text": "وَقِيْلَ لَهُمْ اَيْنَ مَا كُنْتُمْ تَعْبُدُوْنَ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 371,
-    "translation_aya_text": "dan dikatakan kepada mereka, “Di mana berhala-berhala yang dahulu kamu sembah,"
-  },
-  {
-    "aya_id": 3025,
-    "aya_number": 93,
-    "aya_text": "مِنْ دُوْنِ اللّٰهِ ۗهَلْ يَنْصُرُوْنَكُمْ اَوْ يَنْتَصِرُوْنَ ۗ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 371,
-    "translation_aya_text": "selain Allah? Dapatkah mereka menolong kamu atau menolong diri mereka sendiri?”"
-  },
-  {
-    "aya_id": 3026,
-    "aya_number": 94,
-    "aya_text": "فَكُبْكِبُوْا فِيْهَا هُمْ وَالْغَاوٗنَ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 371,
-    "translation_aya_text": "Maka mereka (sesembahan itu) dijungkirkan ke dalam neraka bersama orang-orang yang sesat,"
-  },
-  {
-    "aya_id": 3027,
-    "aya_number": 95,
-    "aya_text": "وَجُنُوْدُ اِبْلِيْسَ اَجْمَعُوْنَ ۗ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 371,
-    "translation_aya_text": "dan bala tentara Iblis semuanya."
-  },
-  {
-    "aya_id": 3028,
-    "aya_number": 96,
-    "aya_text": "قَالُوْا وَهُمْ فِيْهَا يَخْتَصِمُوْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 371,
-    "translation_aya_text": "Mereka berkata sambil bertengkar di dalamnya (neraka),"
-  },
-  {
-    "aya_id": 3029,
-    "aya_number": 97,
-    "aya_text": "تَاللّٰهِ اِنْ كُنَّا لَفِيْ ضَلٰلٍ مُّبِيْنٍ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 371,
-    "translation_aya_text": "”Demi Allah, sesungguhnya kita dahulu (di dunia) dalam kesesatan yang nyata,"
-  },
-  {
-    "aya_id": 3030,
-    "aya_number": 98,
-    "aya_text": "اِذْ نُسَوِّيْكُمْ بِرَبِّ الْعٰلَمِيْنَ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 371,
-    "translation_aya_text": "karena kita mempersamakan kamu (berhala-berhala) dengan Tuhan seluruh alam."
-  },
-  {
-    "aya_id": 3031,
-    "aya_number": 99,
-    "aya_text": "وَمَآ اَضَلَّنَآ اِلَّا الْمُجْرِمُوْنَ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 371,
-    "translation_aya_text": "Dan tidak ada yang menyesatkan kita kecuali orang-orang yang berdosa."
-  },
-  {
-    "aya_id": 3032,
-    "aya_number": 100,
-    "aya_text": "فَمَا لَنَا مِنْ شَافِعِيْنَ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 371,
-    "translation_aya_text": "Maka sehingga (sekarang) kita tidak mempunyai pemberi syafaat (penolong),"
-  },
-  {
-    "aya_id": 3033,
-    "aya_number": 101,
-    "aya_text": "وَلَا صَدِيْقٍ حَمِيْمٍ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 371,
-    "translation_aya_text": "dan tidak pula mempunyai teman yang akrab,"
-  },
-  {
-    "aya_id": 3034,
-    "aya_number": 102,
-    "aya_text": "فَلَوْ اَنَّ لَنَا كَرَّةً فَنَكُوْنَ مِنَ الْمُؤْمِنِيْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 371,
-    "translation_aya_text": "Maka seandainya kita dapat kembali (ke dunia) niscaya kita menjadi orang-orang yang beriman.”"
-  },
-  {
-    "aya_id": 3035,
-    "aya_number": 103,
-    "aya_text": "اِنَّ فِيْ ذٰلِكَ لَاٰيَةً ۗوَمَا كَانَ اَكْثَرُهُمْ مُّؤْمِنِيْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 371,
-    "translation_aya_text": "Sungguh, pada yang demikian itu terdapat tanda (kekuasaan Allah), tetapi kebanyakan mereka tidak beriman."
-  },
-  {
-    "aya_id": 3036,
-    "aya_number": 104,
-    "aya_text": "وَاِنَّ رَبَّكَ لَهُوَ الْعَزِيْزُ الرَّحِيْمُ ࣖ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 371,
-    "translation_aya_text": "Dan sungguh, Tuhanmu benar-benar Dialah Mahaperkasa, Maha Penyayang."
-  },
-  {
-    "aya_id": 3037,
-    "aya_number": 105,
-    "aya_text": "كَذَّبَتْ قَوْمُ نُوْحِ ِۨالْمُرْسَلِيْنَ ۚ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 371,
-    "translation_aya_text": "Kaum Nuh telah mendustakan para rasul."
-  },
-  {
-    "aya_id": 3038,
-    "aya_number": 106,
-    "aya_text": "اِذْ قَالَ لَهُمْ اَخُوْهُمْ نُوْحٌ اَلَا تَتَّقُوْنَ ۚ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 371,
-    "translation_aya_text": "Ketika saudara mereka (Nuh) berkata kepada mereka, “Mengapa kamu tidak bertakwa?"
-  },
-  {
-    "aya_id": 3039,
-    "aya_number": 107,
-    "aya_text": "اِنِّيْ لَكُمْ رَسُوْلٌ اَمِيْنٌ ۙ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 371,
-    "translation_aya_text": "Sesungguhnya aku ini seorang rasul kepercayaan (yang diutus) kepadamu,"
-  },
-  {
-    "aya_id": 3040,
-    "aya_number": 108,
-    "aya_text": "فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِۚ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 371,
-    "translation_aya_text": "Maka bertakwalah kamu kepada Allah dan taatlah kepadaku."
-  },
-  {
-    "aya_id": 3041,
-    "aya_number": 109,
-    "aya_text": "وَمَآ اَسْـَٔلُكُمْ عَلَيْهِ مِنْ اَجْرٍۚ اِنْ اَجْرِيَ اِلَّا عَلٰى رَبِّ الْعٰلَمِيْنَ ۚ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 371,
-    "translation_aya_text": "Dan aku tidak meminta imbalan kepadamu atas ajakan itu; imbalanku hanyalah dari Tuhan seluruh alam."
-  },
-  {
-    "aya_id": 3042,
-    "aya_number": 110,
-    "aya_text": "فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 371,
-    "translation_aya_text": "Maka bertakwalah kamu kepada Allah dan taatlah kepadaku.”"
-  },
-  {
-    "aya_id": 3043,
-    "aya_number": 111,
-    "aya_text": "۞ قَالُوْٓا اَنُؤْمِنُ لَكَ وَاتَّبَعَكَ الْاَرْذَلُوْنَ ۗ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 371,
-    "translation_aya_text": "Mereka berkata, “Apakah kami harus beriman kepadamu, padahal pengikut-pengikutmu orang-orang yang hina?”"
-  },
-  {
-    "aya_id": 3044,
-    "aya_number": 112,
-    "aya_text": "قَالَ وَمَا عِلْمِيْ بِمَا كَانُوْا يَعْمَلُوْنَ ۚ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 372,
-    "translation_aya_text": "Dia (Nuh) menjawab, “Tidak ada pengetahuanku tentang apa yang mereka kerjakan."
-  },
-  {
-    "aya_id": 3045,
-    "aya_number": 113,
-    "aya_text": "اِنْ حِسَابُهُمْ اِلَّا عَلٰى رَبِّيْ لَوْ تَشْعُرُوْنَ ۚ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 372,
-    "translation_aya_text": "Perhitungan (amal perbuatan) mereka tidak lain hanyalah kepada Tuhanku, jika kamu menyadari."
-  },
-  {
-    "aya_id": 3046,
-    "aya_number": 114,
-    "aya_text": "وَمَآ اَنَا۠ بِطَارِدِ الْمُؤْمِنِيْنَ ۚ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 372,
-    "translation_aya_text": "Dan aku tidak akan mengusir orang-orang yang beriman."
-  },
-  {
-    "aya_id": 3047,
-    "aya_number": 115,
-    "aya_text": "اِنْ اَنَا۠ اِلَّا نَذِيْرٌ مُّبِيْنٌ ۗ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 372,
-    "translation_aya_text": "Aku (ini) hanyalah pemberi peringatan yang jelas.”"
-  },
-  {
-    "aya_id": 3048,
-    "aya_number": 116,
-    "aya_text": "قَالُوْا لَىِٕنْ لَّمْ تَنْتَهِ يٰنُوْحُ لَتَكُوْنَنَّ مِنَ الْمَرْجُوْمِيْنَۗ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 372,
-    "translation_aya_text": "Mereka berkata, “Wahai Nuh! Sungguh, jika engkau tidak (mau) berhenti, niscaya engkau termasuk orang yang dirajam (dilempari batu sampai mati).”"
-  },
-  {
-    "aya_id": 3049,
-    "aya_number": 117,
-    "aya_text": "قَالَ رَبِّ اِنَّ قَوْمِيْ كَذَّبُوْنِۖ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 372,
-    "translation_aya_text": "Dia (Nuh) berkata, “Ya Tuhanku, sungguh kaumku telah mendustakan aku;"
-  },
-  {
-    "aya_id": 3050,
-    "aya_number": 118,
-    "aya_text": "فَافْتَحْ بَيْنِيْ وَبَيْنَهُمْ فَتْحًا وَّنَجِّنِيْ وَمَنْ مَّعِيَ مِنَ الْمُؤْمِنِيْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 372,
-    "translation_aya_text": "maka berilah keputusan antara aku dengan mereka, dan selamatkanlah aku dan mereka yang beriman bersamaku.” "
-  },
-  {
-    "aya_id": 3051,
-    "aya_number": 119,
-    "aya_text": "فَاَنْجَيْنٰهُ وَمَنْ مَّعَهٗ فِى الْفُلْكِ الْمَشْحُوْنِ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 372,
-    "translation_aya_text": "Kemudian Kami menyelamatkannya Nuh dan orang-orang yang bersamanya di dalam kapal yang penuh muatan."
-  },
-  {
-    "aya_id": 3052,
-    "aya_number": 120,
-    "aya_text": "ثُمَّ اَغْرَقْنَا بَعْدُ الْبٰقِيْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 372,
-    "translation_aya_text": "Kemudian setelah itu Kami tenggelamkan orang-orang yang tinggal."
-  },
-  {
-    "aya_id": 3053,
-    "aya_number": 121,
-    "aya_text": "اِنَّ فِيْ ذٰلِكَ لَاٰيَةً ۗوَمَا كَانَ اَكْثَرُهُمْ مُّؤْمِنِيْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 372,
-    "translation_aya_text": "Sungguh, pada yang demikian itu benar-benar terdapat tanda (kekuasaan Allah), tetapi kebanyakan mereka tidak beriman."
-  },
-  {
-    "aya_id": 3054,
-    "aya_number": 122,
-    "aya_text": "وَاِنَّ رَبَّكَ لَهُوَ الْعَزِيْزُ الرَّحِيْمُ ࣖ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 372,
-    "translation_aya_text": "Dan sungguh, Tuhanmu, Dialah Yang Mahaperkasa, Maha Penyayang."
-  },
-  {
-    "aya_id": 3055,
-    "aya_number": 123,
-    "aya_text": "كَذَّبَتْ عَادُ ِۨالْمُرْسَلِيْنَ ۖ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 372,
-    "translation_aya_text": "(Kaum) ‘Ad telah mendustakan para rasul."
-  },
-  {
-    "aya_id": 3056,
-    "aya_number": 124,
-    "aya_text": "اِذْ قَالَ لَهُمْ اَخُوْهُمْ هُوْدٌ اَلَا تَتَّقُوْنَ ۚ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 372,
-    "translation_aya_text": "Ketika saudara mereka Hud berkata kepada mereka, “Mengapa kamu tidak bertakwa?"
-  },
-  {
-    "aya_id": 3057,
-    "aya_number": 125,
-    "aya_text": "اِنِّيْ لَكُمْ رَسُوْلٌ اَمِيْنٌ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 372,
-    "translation_aya_text": "Sungguh, aku ini seorang rasul kepercayaan (yang diutus) kepadamu,"
-  },
-  {
-    "aya_id": 3058,
-    "aya_number": 126,
-    "aya_text": "فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِ ۚ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 372,
-    "translation_aya_text": "karena itu bertakwalah kepada Allah dan taatlah kepadaku."
-  },
-  {
-    "aya_id": 3059,
-    "aya_number": 127,
-    "aya_text": "وَمَآ اَسْـَٔلُكُمْ عَلَيْهِ مِنْ اَجْرٍۚ اِنْ اَجْرِيَ اِلَّا عَلٰى رَبِّ الْعٰلَمِيْنَ ۗ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 372,
-    "translation_aya_text": "Dan aku tidak meminta imbalan kepadamu atas ajakan itu; imbalanku hanyalah dari Tuhan seluruh alam."
-  },
-  {
-    "aya_id": 3060,
-    "aya_number": 128,
-    "aya_text": "اَتَبْنُوْنَ بِكُلِّ رِيْعٍ اٰيَةً تَعْبَثُوْنَ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 372,
-    "translation_aya_text": "Apakah kamu mendirikan istana-istana pada setiap tanah yang tinggi untuk kemegahan tanpa ditempati, "
-  },
-  {
-    "aya_id": 3061,
-    "aya_number": 129,
-    "aya_text": "وَتَتَّخِذُوْنَ مَصَانِعَ لَعَلَّكُمْ تَخْلُدُوْنَۚ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 372,
-    "translation_aya_text": "dan kamu membuat benteng-benteng dengan harapan kamu hidup kekal?"
-  },
-  {
-    "aya_id": 3062,
-    "aya_number": 130,
-    "aya_text": "وَاِذَا بَطَشْتُمْ بَطَشْتُمْ جَبَّارِيْنَۚ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 372,
-    "translation_aya_text": "Dan apabila kamu menyiksa, maka kamu lakukan secara kejam dan bengis."
-  },
-  {
-    "aya_id": 3063,
-    "aya_number": 131,
-    "aya_text": "فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِۚ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 372,
-    "translation_aya_text": "Maka bertakwalah kepada Allah dan taatlah kepadaku,"
-  },
-  {
-    "aya_id": 3064,
-    "aya_number": 132,
-    "aya_text": "وَاتَّقُوا الَّذِيْٓ اَمَدَّكُمْ بِمَا تَعْلَمُوْنَ  ۚ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 372,
-    "translation_aya_text": "dan tetaplah kamu bertakwa kepada-Nya yang telah menganugerahkan kepadamu apa yang kamu ketahui."
-  },
-  {
-    "aya_id": 3065,
-    "aya_number": 133,
-    "aya_text": "اَمَدَّكُمْ بِاَنْعَامٍ وَّبَنِيْنَۙ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 372,
-    "translation_aya_text": "Dia (Allah) telah menganugerahkan kepadamu hewan ternak dan anak-anak,"
-  },
-  {
-    "aya_id": 3066,
-    "aya_number": 134,
-    "aya_text": "وَجَنّٰتٍ وَّعُيُوْنٍۚ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 372,
-    "translation_aya_text": "dan kebun-kebun, dan mata air,"
-  },
-  {
-    "aya_id": 3067,
-    "aya_number": 135,
-    "aya_text": "اِنِّيْٓ اَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيْمٍ ۗ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 372,
-    "translation_aya_text": "sesungguhnya aku takut kamu akan ditimpa azab pada hari yang besar.” "
-  },
-  {
-    "aya_id": 3068,
-    "aya_number": 136,
-    "aya_text": "قَالُوْا سَوَاۤءٌ عَلَيْنَآ اَوَعَظْتَ اَمْ لَمْ تَكُنْ مِّنَ الْوَاعِظِيْنَ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 372,
-    "translation_aya_text": "Mereka menjawab, “Sama saja bagi kami, apakah engkau memberi nasihat atau tidak memberi nasihat,"
-  },
-  {
-    "aya_id": 3069,
-    "aya_number": 137,
-    "aya_text": "اِنْ هٰذَآ اِلَّا خُلُقُ الْاَوَّلِيْنَ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 373,
-    "translation_aya_text": "(agama kami) ini tidak lain hanyalah adat kebiasaan orang-orang terdahulu,"
-  },
-  {
-    "aya_id": 3070,
-    "aya_number": 138,
-    "aya_text": "وَمَا نَحْنُ بِمُعَذَّبِيْنَ ۚ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 373,
-    "translation_aya_text": "dan kami (sama sekali) tidak akan diazab.”"
-  },
-  {
-    "aya_id": 3071,
-    "aya_number": 139,
-    "aya_text": "فَكَذَّبُوْهُ فَاَهْلَكْنٰهُمْۗ اِنَّ فِيْ ذٰلِكَ لَاٰيَةً ۗوَمَا كَانَ اَكْثَرُهُمْ مُّؤْمِنِيْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 373,
-    "translation_aya_text": "Maka mereka mendustakannya (Hud), lalu Kami binasakan mereka. Sungguh, pada yang demikian itu terdapat tanda (kekuasaan Allah), tetapi kebanyakan mereka tidak beriman."
-  },
-  {
-    "aya_id": 3072,
-    "aya_number": 140,
-    "aya_text": "وَاِنَّ رَبَّكَ لَهُوَ الْعَزِيْزُ الرَّحِيْمُ ࣖ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 373,
-    "translation_aya_text": "Dan sungguh, Tuhanmu, Dialah Yang Mahaperkasa, Maha Penyayang."
-  },
-  {
-    "aya_id": 3073,
-    "aya_number": 141,
-    "aya_text": "كَذَّبَتْ ثَمُوْدُ الْمُرْسَلِيْنَ  ۖ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 373,
-    "translation_aya_text": "Kaum Samud telah mendustakan para rasul."
-  },
-  {
-    "aya_id": 3074,
-    "aya_number": 142,
-    "aya_text": "اِذْ قَالَ لَهُمْ اَخُوْهُمْ صٰلِحٌ اَلَا تَتَّقُوْنَ ۚ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 373,
-    "translation_aya_text": "Ketika saudara mereka Saleh berkata kepada mereka, “Mengapa kamu tidak bertakwa?"
-  },
-  {
-    "aya_id": 3075,
-    "aya_number": 143,
-    "aya_text": "اِنِّيْ لَكُمْ رَسُوْلٌ اَمِيْنٌ ۙ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 373,
-    "translation_aya_text": "Sungguh, aku ini seorang rasul kepercayaan (yang diutus) kepadamu,"
-  },
-  {
-    "aya_id": 3076,
-    "aya_number": 144,
-    "aya_text": "فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِ ۚ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 373,
-    "translation_aya_text": "karena itu bertakwalah kepada Allah dan taatlah kepadaku."
-  },
-  {
-    "aya_id": 3077,
-    "aya_number": 145,
-    "aya_text": "وَمَآ اَسْـَٔلُكُمْ عَلَيْهِ مِنْ اَجْرٍۚ اِنْ اَجْرِيَ اِلَّا عَلٰى رَبِّ الْعٰلَمِيْنَ ۗ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 373,
-    "translation_aya_text": "Dan aku tidak meminta sesuatu imbalan kepadamu atas ajakan itu, imbalanku hanyalah dari Tuhan seluruh alam."
-  },
-  {
-    "aya_id": 3078,
-    "aya_number": 146,
-    "aya_text": "اَتُتْرَكُوْنَ فِيْ مَا هٰهُنَآ اٰمِنِيْنَ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 373,
-    "translation_aya_text": "Apakah kamu (mengira) akan dibiarkan tinggal di sini (di negeri kamu ini) dengan aman,"
-  },
-  {
-    "aya_id": 3079,
-    "aya_number": 147,
-    "aya_text": "فِيْ جَنّٰتٍ وَّعُيُوْنٍ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 373,
-    "translation_aya_text": "di dalam kebun-kebun dan mata air,"
-  },
-  {
-    "aya_id": 3080,
-    "aya_number": 148,
-    "aya_text": "وَّزُرُوْعٍ وَّنَخْلٍ طَلْعُهَا هَضِيْمٌ ۚ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 373,
-    "translation_aya_text": "dan tanaman-tanaman dan pohon-pohon kurma yang mayangnya lembut."
-  },
-  {
-    "aya_id": 3081,
-    "aya_number": 149,
-    "aya_text": "وَتَنْحِتُوْنَ مِنَ الْجِبَالِ بُيُوْتًا فٰرِهِيْنَ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 373,
-    "translation_aya_text": "Dan kamu pahat dengan terampil sebagian gunung-gunung untuk dijadikan rumah-rumah;"
-  },
-  {
-    "aya_id": 3082,
-    "aya_number": 150,
-    "aya_text": "فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِ ۚ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 373,
-    "translation_aya_text": "maka bertakwalah kepada Allah dan taatlah kepadaku;"
-  },
-  {
-    "aya_id": 3083,
-    "aya_number": 151,
-    "aya_text": "وَلَا تُطِيْعُوْٓا اَمْرَ الْمُسْرِفِيْنَ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 373,
-    "translation_aya_text": "dan janganlah kamu menaati perintah orang-orang yang melampaui batas,"
-  },
-  {
-    "aya_id": 3084,
-    "aya_number": 152,
-    "aya_text": "الَّذِيْنَ يُفْسِدُوْنَ فِى الْاَرْضِ وَلَا يُصْلِحُوْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 373,
-    "translation_aya_text": "yang berbuat kerusakan di bumi dan tidak mengadakan perbaikan.”"
-  },
-  {
-    "aya_id": 3085,
-    "aya_number": 153,
-    "aya_text": "قَالُوْٓا اِنَّمَآ اَنْتَ مِنَ الْمُسَحَّرِيْنَ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 373,
-    "translation_aya_text": "Mereka berkata, “Sungguh, engkau hanyalah termasuk orang yang kena sihir;"
-  },
-  {
-    "aya_id": 3086,
-    "aya_number": 154,
-    "aya_text": "مَآ اَنْتَ اِلَّا بَشَرٌ مِّثْلُنَاۙ فَأْتِ بِاٰيَةٍ اِنْ كُنْتَ مِنَ الصّٰدِقِيْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 373,
-    "translation_aya_text": "engkau hanyalah manusia seperti kami; maka datangkanlah sesuatu mukjizat jika engkau termasuk orang yang benar.”"
-  },
-  {
-    "aya_id": 3087,
-    "aya_number": 155,
-    "aya_text": "قَالَ هٰذِهٖ نَاقَةٌ لَّهَا شِرْبٌ وَّلَكُمْ شِرْبُ يَوْمٍ مَّعْلُوْمٍ ۚ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 373,
-    "translation_aya_text": "Dia (Saleh) menjawab, “Ini seekor unta betina, yang berhak mendapatkan (giliran) minum, dan kamu juga berhak mendapatkan minum pada hari yang ditentukan."
-  },
-  {
-    "aya_id": 3088,
-    "aya_number": 156,
-    "aya_text": "وَلَا تَمَسُّوْهَا بِسُوْۤءٍ فَيَأْخُذَكُمْ عَذَابُ يَوْمٍ عَظِيْمٍ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 373,
-    "translation_aya_text": "Dan jangan kamu menyentuhnya (unta itu) dengan sesuatu kejahatan, nanti kamu akan ditimpa azab pada hari yang dahsyat.”"
-  },
-  {
-    "aya_id": 3089,
-    "aya_number": 157,
-    "aya_text": "فَعَقَرُوْهَا فَاَصْبَحُوْا نٰدِمِيْنَ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 373,
-    "translation_aya_text": "Kemudian mereka membunuhnya, lalu mereka merasa menyesal,"
-  },
-  {
-    "aya_id": 3090,
-    "aya_number": 158,
-    "aya_text": "فَاَخَذَهُمُ الْعَذَابُۗ اِنَّ فِيْ ذٰلِكَ لَاٰيَةً ۗوَمَا كَانَ اَكْثَرُهُمْ مُّؤْمِنِيْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 373,
-    "translation_aya_text": "maka mereka ditimpa azab. Sungguh, pada yang demikian itu terdapat tanda (kekuasaan Allah), tetapi kebanyakan mereka tidak beriman."
-  },
-  {
-    "aya_id": 3091,
-    "aya_number": 159,
-    "aya_text": "وَاِنَّ رَبَّكَ لَهُوَ الْعَزِيْزُ الرَّحِيْمُ ࣖ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 373,
-    "translation_aya_text": "Dan sungguh, Tuhanmu, Dialah Yang Mahaperkasa, Maha Penyayang."
-  },
-  {
-    "aya_id": 3092,
-    "aya_number": 160,
-    "aya_text": "كَذَّبَتْ قَوْمُ لُوْطِ ِۨالْمُرْسَلِيْنَ ۖ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 374,
-    "translation_aya_text": "Kaum Lut telah mendustakan para rasul,"
-  },
-  {
-    "aya_id": 3093,
-    "aya_number": 161,
-    "aya_text": "اِذْ قَالَ لَهُمْ اَخُوْهُمْ لُوْطٌ اَلَا تَتَّقُوْنَ ۚ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 374,
-    "translation_aya_text": "ketika saudara mereka Lut berkata kepada mereka, “Mengapa kamu tidak bertakwa?”"
-  },
-  {
-    "aya_id": 3094,
-    "aya_number": 162,
-    "aya_text": "اِنِّيْ لَكُمْ رَسُوْلٌ اَمِيْنٌ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 374,
-    "translation_aya_text": "Sungguh, aku ini seorang rasul kepercayaan (yang diutus) kepadamu,"
-  },
-  {
-    "aya_id": 3095,
-    "aya_number": 163,
-    "aya_text": "فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِ ۚ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 374,
-    "translation_aya_text": "maka bertakwalah kepada Allah dan taatlah kepadaku."
-  },
-  {
-    "aya_id": 3096,
-    "aya_number": 164,
-    "aya_text": "وَمَآ اَسْـَٔلُكُمْ عَلَيْهِ مِنْ اَجْرٍ اِنْ اَجْرِيَ اِلَّا عَلٰى رَبِّ الْعٰلَمِيْنَ ۗ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 374,
-    "translation_aya_text": "Dan aku tidak meminta imbalan kepadamu atas ajakan itu; imbalanku hanyalah dari Tuhan seluruh alam."
-  },
-  {
-    "aya_id": 3097,
-    "aya_number": 165,
-    "aya_text": "اَتَأْتُوْنَ الذُّكْرَانَ مِنَ الْعٰلَمِيْنَ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 374,
-    "translation_aya_text": "Mengapa kamu mendatangi jenis laki-laki di antara manusia (berbuat homoseks),"
-  },
-  {
-    "aya_id": 3098,
-    "aya_number": 166,
-    "aya_text": "وَتَذَرُوْنَ مَا خَلَقَ لَكُمْ رَبُّكُمْ مِّنْ اَزْوَاجِكُمْۗ بَلْ اَنْتُمْ قَوْمٌ عٰدُوْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 374,
-    "translation_aya_text": "dan kamu tinggalkan (perempuan) yang diciptakan Tuhan untuk menjadi istri-istri kamu? Kamu (memang) orang-orang yang melampaui batas.” "
-  },
-  {
-    "aya_id": 3099,
-    "aya_number": 167,
-    "aya_text": "قَالُوْا لَىِٕنْ لَّمْ تَنْتَهِ يٰلُوْطُ لَتَكُوْنَنَّ مِنَ الْمُخْرَجِيْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 374,
-    "translation_aya_text": "Mereka menjawab, “Wahai Lut! Jika engkau tidak berhenti, engkau termasuk orang-orang yang terusir.”"
-  },
-  {
-    "aya_id": 3100,
-    "aya_number": 168,
-    "aya_text": "قَالَ ِانِّيْ لِعَمَلِكُمْ مِّنَ الْقَالِيْنَ  ۗ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 374,
-    "translation_aya_text": "Dia (Lut) berkata, “Aku sungguh benci kepada perbuatanmu.”"
-  },
-  {
-    "aya_id": 3101,
-    "aya_number": 169,
-    "aya_text": "رَبِّ نَجِّنِيْ وَاَهْلِيْ مِمَّا يَعْمَلُوْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 374,
-    "translation_aya_text": "(Lut berdoa), “Ya Tuhanku, selamatkanlah aku dan keluargaku dari (akibat) perbuatan yang mereka kerjakan.”"
-  },
-  {
-    "aya_id": 3102,
-    "aya_number": 170,
-    "aya_text": "فَنَجَّيْنٰهُ وَاَهْلَهٗٓ اَجْمَعِيْنَ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 374,
-    "translation_aya_text": "Lalu Kami selamatkan dia bersama keluarganya semua,"
-  },
-  {
-    "aya_id": 3103,
-    "aya_number": 171,
-    "aya_text": "اِلَّا عَجُوْزًا فِى الْغٰبِرِيْنَ ۚ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 374,
-    "translation_aya_text": "kecuali seorang perempuan tua (istrinya), yang termasuk dalam golongan yang tinggal."
-  },
-  {
-    "aya_id": 3104,
-    "aya_number": 172,
-    "aya_text": "ثُمَّ دَمَّرْنَا الْاٰخَرِيْنَ ۚ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 374,
-    "translation_aya_text": "Kemudian Kami binasakan yang lain."
-  },
-  {
-    "aya_id": 3105,
-    "aya_number": 173,
-    "aya_text": "وَاَمْطَرْنَا عَلَيْهِمْ مَّطَرًاۚ فَسَاۤءَ مَطَرُ الْمُنْذَرِيْنَ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 374,
-    "translation_aya_text": "Dan Kami hujani mereka (dengan hujan batu), maka betapa buruk hujan yang menimpa orang-orang yang telah diberi peringatan itu."
-  },
-  {
-    "aya_id": 3106,
-    "aya_number": 174,
-    "aya_text": "اِنَّ فِيْ ذٰلِكَ لَاٰيَةً ۗوَمَا كَانَ اَكْثَرُهُمْ مُّؤْمِنِيْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 374,
-    "translation_aya_text": "Sungguh, pada yang demikian itu terdapat tanda (kekuasaan Allah), tetapi kebanyakan mereka tidak beriman."
-  },
-  {
-    "aya_id": 3107,
-    "aya_number": 175,
-    "aya_text": "وَاِنَّ رَبَّكَ لَهُوَ الْعَزِيْزُ الرَّحِيْمُ ࣖ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 374,
-    "translation_aya_text": "Dan sungguh, Tuhanmu, Dialah Yang Mahaperkasa, Maha Penyayang."
-  },
-  {
-    "aya_id": 3108,
-    "aya_number": 176,
-    "aya_text": "كَذَّبَ اَصْحٰبُ لْـَٔيْكَةِ الْمُرْسَلِيْنَ ۖ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 374,
-    "translation_aya_text": "Penduduk Aikah telah mendustakan para rasul;"
-  },
-  {
-    "aya_id": 3109,
-    "aya_number": 177,
-    "aya_text": "اِذْ قَالَ لَهُمْ شُعَيْبٌ اَلَا تَتَّقُوْنَ ۚ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 374,
-    "translation_aya_text": "ketika Syuaib berkata kepada mereka, “Mengapa kamu tidak bertakwa?"
-  },
-  {
-    "aya_id": 3110,
-    "aya_number": 178,
-    "aya_text": "اِنِّيْ لَكُمْ رَسُوْلٌ اَمِيْنٌ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 374,
-    "translation_aya_text": "Sungguh, aku adalah rasul kepercayaan (yang diutus) kepadamu,"
-  },
-  {
-    "aya_id": 3111,
-    "aya_number": 179,
-    "aya_text": "فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِ ۚ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 374,
-    "translation_aya_text": "maka bertakwalah kepada Allah dan taatlah kepadaku;"
-  },
-  {
-    "aya_id": 3112,
-    "aya_number": 180,
-    "aya_text": "وَمَآ اَسْـَٔلُكُمْ عَلَيْهِ مِنْ اَجْرٍ اِنْ اَجْرِيَ اِلَّا عَلٰى رَبِّ الْعٰلَمِيْنَ ۗ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 374,
-    "translation_aya_text": "Dan aku tidak meminta imbalan kepadamu atas ajakan itu; imbalanku hanyalah dari Tuhan seluruh alam."
-  },
-  {
-    "aya_id": 3113,
-    "aya_number": 181,
-    "aya_text": "۞ اَوْفُوا الْكَيْلَ وَلَا تَكُوْنُوْا مِنَ الْمُخْسِرِيْنَ ۚ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 374,
-    "translation_aya_text": "Sempurnakanlah takaran dan janganlah kamu merugikan orang lain."
-  },
-  {
-    "aya_id": 3114,
-    "aya_number": 182,
-    "aya_text": "وَزِنُوْا بِالْقِسْطَاسِ الْمُسْتَقِيْمِ ۚ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 374,
-    "translation_aya_text": "Dan timbanglah dengan timbangan yang benar."
-  },
-  {
-    "aya_id": 3115,
-    "aya_number": 183,
-    "aya_text": "وَلَا تَبْخَسُوا النَّاسَ اَشْيَاۤءَهُمْ وَلَا تَعْثَوْا فِى الْاَرْضِ مُفْسِدِيْنَ ۚ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 374,
-    "translation_aya_text": "Dan janganlah kamu merugikan manusia dengan mengurangi hak-haknya dan janganlah membuat kerusakan di bumi;"
-  },
-  {
-    "aya_id": 3116,
-    "aya_number": 184,
-    "aya_text": "وَاتَّقُوا الَّذِيْ خَلَقَكُمْ وَالْجِبِلَّةَ الْاَوَّلِيْنَ ۗ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 375,
-    "translation_aya_text": "dan bertakwalah kepada Allah yang telah menciptakan kamu dan umat-umat yang terdahulu.”"
-  },
-  {
-    "aya_id": 3117,
-    "aya_number": 185,
-    "aya_text": "قَالُوْٓا اِنَّمَآ اَنْتَ مِنَ الْمُسَحَّرِيْنَ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 375,
-    "translation_aya_text": "Mereka berkata, “Engkau tidak lain hanyalah orang-orang yang kena sihir."
-  },
-  {
-    "aya_id": 3118,
-    "aya_number": 186,
-    "aya_text": "وَمَآ اَنْتَ اِلَّا بَشَرٌ مِّثْلُنَا وَاِنْ نَّظُنُّكَ لَمِنَ الْكٰذِبِيْنَ ۚ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 375,
-    "translation_aya_text": "Dan engkau hanyalah manusia seperti kami, dan sesungguhnya kami yakin engkau termasuk orang-orang yang berdusta."
-  },
-  {
-    "aya_id": 3119,
-    "aya_number": 187,
-    "aya_text": "فَاَسْقِطْ عَلَيْنَا كِسَفًا مِّنَ السَّمَاۤءِ اِنْ كُنْتَ مِنَ الصّٰدِقِيْنَ ۗ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 375,
-    "translation_aya_text": "Maka jatuhkanlah kepada kami gumpalan dari langit, jika engkau termasuk orang-orang yang benar.”"
-  },
-  {
-    "aya_id": 3120,
-    "aya_number": 188,
-    "aya_text": "قَالَ رَبِّيْٓ اَعْلَمُ بِمَا تَعْمَلُوْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 375,
-    "translation_aya_text": "Dia (Syuaib) berkata, “Tuhanku lebih mengetahui apa yang kamu kerjakan.”"
-  },
-  {
-    "aya_id": 3121,
-    "aya_number": 189,
-    "aya_text": "فَكَذَّبُوْهُ فَاَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ ۗاِنَّهٗ كَانَ عَذَابَ يَوْمٍ عَظِيْمٍ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 375,
-    "translation_aya_text": "Kemudian mereka mendustakannya (Syuaib), lalu mereka ditimpa azab pada hari yang gelap. Sungguh, itulah azab pada hari yang dahsyat."
-  },
-  {
-    "aya_id": 3122,
-    "aya_number": 190,
-    "aya_text": "اِنَّ فِيْ ذٰلِكَ لَاٰيَةً ۗوَمَا كَانَ اَكْثَرُهُمْ مُّؤْمِنِيْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 375,
-    "translation_aya_text": "Sungguh, pada yang demikian itu benar-benar terdapat tanda (kekuasaan Allah), tetapi kebanyakan mereka tidak beriman."
-  },
-  {
-    "aya_id": 3123,
-    "aya_number": 191,
-    "aya_text": "وَاِنَّ رَبَّكَ لَهُوَ الْعَزِيْزُ الرَّحِيْمُ ࣖ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 375,
-    "translation_aya_text": "Dan sungguh, Tuhanmu, Dialah yang Mahaperkasa, Maha Penyayang."
-  },
-  {
-    "aya_id": 3124,
-    "aya_number": 192,
-    "aya_text": "وَاِنَّهٗ لَتَنْزِيْلُ رَبِّ الْعٰلَمِيْنَ ۗ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 375,
-    "translation_aya_text": "Dan sungguh, (Al-Qur'an) ini benar-benar diturunkan oleh Tuhan seluruh alam,"
-  },
-  {
-    "aya_id": 3125,
-    "aya_number": 193,
-    "aya_text": "نَزَلَ بِهِ الرُّوْحُ الْاَمِيْنُ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 375,
-    "translation_aya_text": "Yang dibawa turun oleh ar-Ruh al-Amin (Jibril), "
-  },
-  {
-    "aya_id": 3126,
-    "aya_number": 194,
-    "aya_text": "عَلٰى قَلْبِكَ لِتَكُوْنَ مِنَ الْمُنْذِرِيْنَ ۙ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 375,
-    "translation_aya_text": "ke dalam hatimu (Muhammad) agar engkau termasuk orang yang memberi peringatan,"
-  },
-  {
-    "aya_id": 3127,
-    "aya_number": 195,
-    "aya_text": "بِلِسَانٍ عَرَبِيٍّ مُّبِيْنٍ ۗ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 375,
-    "translation_aya_text": "dengan bahasa Arab yang jelas."
-  },
-  {
-    "aya_id": 3128,
-    "aya_number": 196,
-    "aya_text": "وَاِنَّهٗ لَفِيْ زُبُرِ الْاَوَّلِيْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 375,
-    "translation_aya_text": "Dan sungguh, (Al-Qur'an) itu (disebut) dalam kitab-kitab orang yang terdahulu."
-  },
-  {
-    "aya_id": 3129,
-    "aya_number": 197,
-    "aya_text": "اَوَلَمْ يَكُنْ لَّهُمْ اٰيَةً اَنْ يَّعْلَمَهٗ عُلَمٰۤؤُا بَنِيْٓ اِسْرَاۤءِيْلَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 375,
-    "translation_aya_text": "Apakah tidak (cukup) menjadi bukti bagi mereka, bahwa para ulama Bani Israil mengetahuinya?"
-  },
-  {
-    "aya_id": 3130,
-    "aya_number": 198,
-    "aya_text": "وَلَوْ نَزَّلْنٰهُ عَلٰى بَعْضِ الْاَعْجَمِيْنَ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 375,
-    "translation_aya_text": "Dan seandainya (Al-Qur'an) itu Kami turunkan kepada sebagian dari golongan bukan Arab,"
-  },
-  {
-    "aya_id": 3131,
-    "aya_number": 199,
-    "aya_text": "فَقَرَاَهٗ عَلَيْهِمْ مَّا كَانُوْا بِهٖ مُؤْمِنِيْنَ ۗ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 375,
-    "translation_aya_text": "lalu dia membacakannya kepada mereka (orang-orang kafir); niscaya mereka tidak juga akan beriman kepadanya."
-  },
-  {
-    "aya_id": 3132,
-    "aya_number": 200,
-    "aya_text": "كَذٰلِكَ سَلَكْنٰهُ فِيْ قُلُوْبِ الْمُجْرِمِيْنَ ۗ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 375,
-    "translation_aya_text": "Demikianlah, Kami masukkan (sifat dusta dan ingkar) ke dalam hati orang-orang yang berdosa,"
-  },
-  {
-    "aya_id": 3133,
-    "aya_number": 201,
-    "aya_text": "لَا يُؤْمِنُوْنَ بِهٖ حَتّٰى يَرَوُا الْعَذَابَ الْاَلِيْمَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 375,
-    "translation_aya_text": "mereka tidak akan beriman kepadanya, hingga mereka melihat azab yang pedih,"
-  },
-  {
-    "aya_id": 3134,
-    "aya_number": 202,
-    "aya_text": "فَيَأْتِيَهُمْ بَغْتَةً وَّهُمْ لَا يَشْعُرُوْنَ ۙ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 375,
-    "translation_aya_text": "maka datang azab kepada mereka secara mendadak, ketika mereka tidak menyadarinya,"
-  },
-  {
-    "aya_id": 3135,
-    "aya_number": 203,
-    "aya_text": "فَيَقُوْلُوْا هَلْ نَحْنُ مُنْظَرُوْنَ ۗ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 375,
-    "translation_aya_text": "lalu mereka berkata, “Apakah kami diberi penangguhan waktu?” "
-  },
-  {
-    "aya_id": 3136,
-    "aya_number": 204,
-    "aya_text": "اَفَبِعَذَابِنَا يَسْتَعْجِلُوْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 375,
-    "translation_aya_text": "Bukankah mereka yang meminta agar azab Kami dipercepat?"
-  },
-  {
-    "aya_id": 3137,
-    "aya_number": 205,
-    "aya_text": "اَفَرَءَيْتَ اِنْ مَّتَّعْنٰهُمْ سِنِيْنَ ۙ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 375,
-    "translation_aya_text": "Maka bagaimana pendapatmu jika kepada mereka Kami berikan kenikmatan hidup beberapa tahun,"
-  },
-  {
-    "aya_id": 3138,
-    "aya_number": 206,
-    "aya_text": "ثُمَّ جَاۤءَهُمْ مَّا كَانُوْا يُوْعَدُوْنَ ۙ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 375,
-    "translation_aya_text": "kemudian datang kepada mereka azab yang diancamkan kepada mereka,"
-  },
-  {
-    "aya_id": 3139,
-    "aya_number": 207,
-    "aya_text": "مَآ اَغْنٰى عَنْهُمْ مَّا كَانُوْا يُمَتَّعُوْنَ ۗ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 376,
-    "translation_aya_text": "niscaya tidak berguna bagi mereka kenikmatan yang mereka rasakan."
-  },
-  {
-    "aya_id": 3140,
-    "aya_number": 208,
-    "aya_text": "وَمَآ اَهْلَكْنَا مِنْ قَرْيَةٍ اِلَّا لَهَا مُنْذِرُوْنَ ۖ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 376,
-    "translation_aya_text": "Dan Kami tidak membinasakan sesuatu negeri, kecuali setelah ada orang-orang yang memberi peringatan kepadanya;"
-  },
-  {
-    "aya_id": 3141,
-    "aya_number": 209,
-    "aya_text": "ذِكْرٰىۚ وَمَا كُنَّا ظٰلِمِيْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 376,
-    "translation_aya_text": "untuk (menjadi) peringatan. Dan Kami tidak berlaku zalim. "
-  },
-  {
-    "aya_id": 3142,
-    "aya_number": 210,
-    "aya_text": "وَمَا تَنَزَّلَتْ بِهِ الشَّيٰطِيْنُ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 376,
-    "translation_aya_text": "Dan (Al-Qur'an) itu tidaklah dibawa turun oleh setan-setan."
-  },
-  {
-    "aya_id": 3143,
-    "aya_number": 211,
-    "aya_text": "وَمَا يَنْۢبَغِيْ لَهُمْ وَمَا يَسْتَطِيْعُوْنَ ۗ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 376,
-    "translation_aya_text": "Dan tidaklah pantas bagi mereka (Al-Qur'an itu), dan mereka pun tidak akan sanggup."
-  },
-  {
-    "aya_id": 3144,
-    "aya_number": 212,
-    "aya_text": "اِنَّهُمْ عَنِ السَّمْعِ لَمَعْزُوْلُوْنَ ۗ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 376,
-    "translation_aya_text": "Sesungguhnya untuk mendengarkannya pun mereka dijauhkan."
-  },
-  {
-    "aya_id": 3145,
-    "aya_number": 213,
-    "aya_text": "فَلَا تَدْعُ مَعَ اللّٰهِ اِلٰهًا اٰخَرَ فَتَكُوْنَ مِنَ الْمُعَذَّبِيْنَ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 376,
-    "translation_aya_text": "Maka janganlah kamu menyeru (menyembah) tuhan selain Allah, nanti kamu termasuk orang-orang yang diazab."
-  },
-  {
-    "aya_id": 3146,
-    "aya_number": 214,
-    "aya_text": "وَاَنْذِرْ عَشِيْرَتَكَ الْاَقْرَبِيْنَ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 376,
-    "translation_aya_text": "Dan berilah peringatan kepada kerabat-kerabatmu (Muhammad) yang terdekat,"
-  },
-  {
-    "aya_id": 3147,
-    "aya_number": 215,
-    "aya_text": "وَاخْفِضْ جَنَاحَكَ لِمَنِ اتَّبَعَكَ مِنَ الْمُؤْمِنِيْنَ ۚ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 376,
-    "translation_aya_text": "dan rendahkanlah dirimu terhadap orang-orang yang beriman yang mengikutimu."
-  },
-  {
-    "aya_id": 3148,
-    "aya_number": 216,
-    "aya_text": "فَاِنْ عَصَوْكَ فَقُلْ اِنِّيْ بَرِيْۤءٌ مِّمَّا تَعْمَلُوْنَ ۚ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 376,
-    "translation_aya_text": "Kemudian jika mereka mendurhakaimu maka katakanlah (Muhammad), “Sesungguhnya aku tidak bertanggung jawab terhadap apa yang kamu kerjakan.”"
-  },
-  {
-    "aya_id": 3149,
-    "aya_number": 217,
-    "aya_text": "وَتَوَكَّلْ عَلَى الْعَزِيْزِ الرَّحِيْمِ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 376,
-    "translation_aya_text": "Dan bertawakallah kepada (Allah) Yang Mahaperkasa, Maha Penyayang."
-  },
-  {
-    "aya_id": 3150,
-    "aya_number": 218,
-    "aya_text": "الَّذِيْ يَرٰىكَ حِيْنَ تَقُوْمُ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 376,
-    "translation_aya_text": "Yang melihat engkau ketika engkau berdiri (untuk salat),"
-  },
-  {
-    "aya_id": 3151,
-    "aya_number": 219,
-    "aya_text": "وَتَقَلُّبَكَ فِى السّٰجِدِيْنَ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 376,
-    "translation_aya_text": "dan (melihat) perubahan gerakan badanmu di antara orang-orang yang sujud."
-  },
-  {
-    "aya_id": 3152,
-    "aya_number": 220,
-    "aya_text": "اِنَّهٗ هُوَ السَّمِيْعُ الْعَلِيْمُ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 376,
-    "translation_aya_text": "Sungguh, Dia Maha Mendengar, Maha Mengetahui."
-  },
-  {
-    "aya_id": 3153,
-    "aya_number": 221,
-    "aya_text": "هَلْ اُنَبِّئُكُمْ عَلٰى مَنْ تَنَزَّلُ الشَّيٰطِيْنُ ۗ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 376,
-    "translation_aya_text": "Maukah Aku beritakan kepadamu, kepada siapa setan-setan itu turun?"
-  },
-  {
-    "aya_id": 3154,
-    "aya_number": 222,
-    "aya_text": "تَنَزَّلُ عَلٰى كُلِّ اَفَّاكٍ اَثِيْمٍ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 376,
-    "translation_aya_text": "Mereka (setan) turun kepada setiap pendusta yang banyak berdosa,"
-  },
-  {
-    "aya_id": 3155,
-    "aya_number": 223,
-    "aya_text": "يُّلْقُوْنَ السَّمْعَ وَاَكْثَرُهُمْ كٰذِبُوْنَ ۗ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 376,
-    "translation_aya_text": "mereka menyampaikan hasil pendengaran mereka, sedangkan kebanyakan mereka orang-orang pendusta."
-  },
-  {
-    "aya_id": 3156,
-    "aya_number": 224,
-    "aya_text": "وَالشُّعَرَاۤءُ يَتَّبِعُهُمُ الْغَاوٗنَ ۗ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 376,
-    "translation_aya_text": "Dan penyair-penyair itu diikuti oleh orang-orang yang sesat."
-  },
-  {
-    "aya_id": 3157,
-    "aya_number": 225,
-    "aya_text": "اَلَمْ تَرَ اَنَّهُمْ فِيْ كُلِّ وَادٍ يَّهِيْمُوْنَ ۙ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 376,
-    "translation_aya_text": "Tidakkah engkau melihat bahwa mereka mengembara di setiap lembah,"
-  },
-  {
-    "aya_id": 3158,
-    "aya_number": 226,
-    "aya_text": "وَاَنَّهُمْ يَقُوْلُوْنَ مَا لَا يَفْعَلُوْنَ ۙ  ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 376,
-    "translation_aya_text": "dan bahwa mereka mengatakan apa yang mereka sendiri tidak mengerjakan(nya)?"
-  },
-  {
-    "aya_id": 3159,
-    "aya_number": 227,
-    "aya_text": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ وَذَكَرُوا اللّٰهَ كَثِيْرًا وَّانْتَصَرُوْا مِنْۢ بَعْدِ مَا ظُلِمُوْا ۗوَسَيَعْلَمُ الَّذِيْنَ ظَلَمُوْٓا اَيَّ مُنْقَلَبٍ يَّنْقَلِبُوْنَ ࣖ ",
-    "sura_id": 26,
-    "juz_id": 19,
-    "page_number": 376,
-    "translation_aya_text": "Kecuali orang-orang (penyair-penyair) yang beriman dan berbuat kebajikan dan banyak mengingat Allah dan mendapat kemenangan setelah terzalimi (karena menjawab puisi-puisi orang-orang kafir). Dan orang-orang yang zalim kelak akan tahu ke tempat mana mereka akan kembali."
-  }
+	{
+		"aya_id": 2933,
+		"aya_number": 1,
+		"aya_text": "طٰسۤمّۤ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 367,
+		"translation_aya_text": "Tha Sin Mim"
+	},
+	{
+		"aya_id": 2934,
+		"aya_number": 2,
+		"aya_text": "تِلْكَ اٰيٰتُ الْكِتٰبِ الْمُبِيْنِ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 367,
+		"translation_aya_text": "Inilah ayat-ayat Kitab (Al-Qur'an) yang jelas."
+	},
+	{
+		"aya_id": 2935,
+		"aya_number": 3,
+		"aya_text": "لَعَلَّكَ بَاخِعٌ نَّفْسَكَ اَلَّا يَكُوْنُوْا مُؤْمِنِيْنَ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 367,
+		"translation_aya_text": "Boleh jadi engkau (Muhammad) akan membinasakan dirimu (dengan kesedihan), karena mereka (penduduk Mekah) tidak beriman."
+	},
+	{
+		"aya_id": 2936,
+		"aya_number": 4,
+		"aya_text": "اِنْ نَّشَأْ نُنَزِّلْ عَلَيْهِمْ مِّنَ السَّمَاۤءِ اٰيَةً فَظَلَّتْ اَعْنَاقُهُمْ لَهَا خَاضِعِيْنَ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 367,
+		"translation_aya_text": "Jika Kami menghendaki, niscaya Kami turunkan kepada mereka mukjizat dari langit, yang akan membuat tengkuk mereka tunduk dengan rendah hati kepadanya."
+	},
+	{
+		"aya_id": 2937,
+		"aya_number": 5,
+		"aya_text": "وَمَا يَأْتِيْهِمْ مِّنْ ذِكْرٍ مِّنَ الرَّحْمٰنِ مُحْدَثٍ اِلَّا كَانُوْا عَنْهُ مُعْرِضِيْنَ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 367,
+		"translation_aya_text": "Dan setiap kali disampaikan kepada mereka suatu peringatan baru (ayat Al-Qur'an yang diturunkan) dari Tuhan Yang Maha Pengasih, mereka selalu berpaling darinya."
+	},
+	{
+		"aya_id": 2938,
+		"aya_number": 6,
+		"aya_text": "فَقَدْ كَذَّبُوْا فَسَيَأْتِيْهِمْ اَنْۢبـٰۤؤُا مَا كَانُوْا بِهٖ يَسْتَهْزِءُوْنَ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 367,
+		"translation_aya_text": "Sungguh, mereka telah mendustakan (Al-Qur'an), maka kelak akan datang kepada mereka (kebenaran) berita-berita mengenai apa (azab) yang dulu mereka perolok-olokkan."
+	},
+	{
+		"aya_id": 2939,
+		"aya_number": 7,
+		"aya_text": "اَوَلَمْ يَرَوْا اِلَى الْاَرْضِ كَمْ اَنْۢبَتْنَا فِيْهَا مِنْ كُلِّ زَوْجٍ كَرِيْمٍ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 367,
+		"translation_aya_text": "Dan apakah mereka tidak memperhatikan bumi, betapa banyak Kami tumbuhkan di bumi itu berbagai macam pasangan (tumbuh-tumbuhan) yang baik?"
+	},
+	{
+		"aya_id": 2940,
+		"aya_number": 8,
+		"aya_text": "اِنَّ فِيْ ذٰلِكَ لَاٰيَةًۗ وَمَا كَانَ اَكْثَرُهُمْ مُّؤْمِنِيْنَ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 367,
+		"translation_aya_text": "Sungguh, pada yang demikian itu terdapat tanda (kebesaran Allah), tetapi kebanyakan mereka tidak beriman."
+	},
+	{
+		"aya_id": 2941,
+		"aya_number": 9,
+		"aya_text": "وَاِنَّ رَبَّكَ لَهُوَ الْعَزِيْزُ الرَّحِيْمُ ࣖ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 367,
+		"translation_aya_text": "Dan sungguh, Tuhanmu Dialah Yang Mahaperkasa, Maha Penyayang."
+	},
+	{
+		"aya_id": 2942,
+		"aya_number": 10,
+		"aya_text": "وَاِذْ نَادٰى رَبُّكَ مُوْسٰٓى اَنِ ائْتِ الْقَوْمَ الظّٰلِمِيْنَ ۙ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 367,
+		"translation_aya_text": "Dan (ingatlah) ketika Tuhanmu menyeru Musa (dengan firman-Nya), “Datangilah kaum yang zalim itu,"
+	},
+	{
+		"aya_id": 2943,
+		"aya_number": 11,
+		"aya_text": "قَوْمَ فِرْعَوْنَ ۗ اَلَا يَتَّقُوْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 367,
+		"translation_aya_text": "(yaitu) kaum Fir‘aun. Mengapa mereka tidak bertakwa?”"
+	},
+	{
+		"aya_id": 2944,
+		"aya_number": 12,
+		"aya_text": "قَالَ رَبِّ اِنِّيْٓ اَخَافُ اَنْ يُّكَذِّبُوْنِ ۗ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 367,
+		"translation_aya_text": "Dia (Musa) berkata, “Ya Tuhanku, sungguh, aku takut mereka akan mendustakan aku,"
+	},
+	{
+		"aya_id": 2945,
+		"aya_number": 13,
+		"aya_text": "وَيَضِيْقُ صَدْرِيْ وَلَا يَنْطَلِقُ لِسَانِيْ فَاَرْسِلْ اِلٰى هٰرُوْنَ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 367,
+		"translation_aya_text": "sehingga dadaku terasa sempit dan lidahku tidak lancar, maka utuslah Harun (bersamaku)."
+	},
+	{
+		"aya_id": 2946,
+		"aya_number": 14,
+		"aya_text": "وَلَهُمْ عَلَيَّ ذَنْۢبٌ فَاَخَافُ اَنْ يَّقْتُلُوْنِ  ۚ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 367,
+		"translation_aya_text": "Sebab aku berdosa terhadap mereka, maka aku takut mereka akan membunuhku.”"
+	},
+	{
+		"aya_id": 2947,
+		"aya_number": 15,
+		"aya_text": "قَالَ كَلَّاۚ فَاذْهَبَا بِاٰيٰتِنَآ اِنَّا مَعَكُمْ مُّسْتَمِعُوْنَ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 367,
+		"translation_aya_text": "(Allah) berfirman, “Jangan takut (mereka tidak akan dapat membunuhmu)! Maka pergilah kamu berdua dengan membawa ayat-ayat Kami (mukjizat-mukjizat); sungguh, Kami bersamamu mendengarkan (apa yang mereka katakan),"
+	},
+	{
+		"aya_id": 2948,
+		"aya_number": 16,
+		"aya_text": "فَأْتِيَا فِرْعَوْنَ فَقُوْلَآ اِنَّا رَسُوْلُ رَبِّ الْعٰلَمِيْنَ ۙ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 367,
+		"translation_aya_text": "maka datanglah kamu berdua kepada Fir‘aun dan katakan, “Sesungguhnya kami adalah rasul-rasul Tuhan seluruh alam,"
+	},
+	{
+		"aya_id": 2949,
+		"aya_number": 17,
+		"aya_text": "اَنْ اَرْسِلْ مَعَنَا بَنِيْٓ اِسْرَاۤءِيْلَ ۗ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 367,
+		"translation_aya_text": "lepaskanlah Bani Israil (pergi) bersama kami.”"
+	},
+	{
+		"aya_id": 2950,
+		"aya_number": 18,
+		"aya_text": "قَالَ اَلَمْ نُرَبِّكَ فِيْنَا وَلِيْدًا وَّلَبِثْتَ فِيْنَا مِنْ عُمُرِكَ سِنِيْنَ ۗ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 367,
+		"translation_aya_text": "Dia (Fir‘aun) menjawab, “Bukankah kami telah mengasuhmu dalam lingkungan (keluarga) kami, waktu engkau masih kanak-kanak dan engkau tinggal bersama kami beberapa tahun dari umurmu."
+	},
+	{
+		"aya_id": 2951,
+		"aya_number": 19,
+		"aya_text": "وَفَعَلْتَ فَعْلَتَكَ الَّتِيْ فَعَلْتَ وَاَنْتَ مِنَ الْكٰفِرِيْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 367,
+		"translation_aya_text": "Dan engkau (Musa) telah melakukan (kesalahan dari) perbuatan yang telah engkau lakukan dan engkau termasuk orang yang tidak tahu berterima kasih.”"
+	},
+	{
+		"aya_id": 2952,
+		"aya_number": 20,
+		"aya_text": "قَالَ فَعَلْتُهَآ اِذًا وَّاَنَا۠ مِنَ الضَّاۤلِّيْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 368,
+		"translation_aya_text": "Dia (Musa) berkata, “Aku telah melakukannya, dan ketika itu aku termasuk orang yang khilaf."
+	},
+	{
+		"aya_id": 2953,
+		"aya_number": 21,
+		"aya_text": "فَفَرَرْتُ مِنْكُمْ لَمَّا خِفْتُكُمْ فَوَهَبَ لِيْ رَبِّيْ حُكْمًا وَّجَعَلَنِيْ مِنَ الْمُرْسَلِيْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 368,
+		"translation_aya_text": "Lalu aku lari darimu karena aku takut kepadamu, kemudian Tuhanku menganugerahkan ilmu kepadaku serta Dia menjadikan aku salah seorang di antara rasul-rasul."
+	},
+	{
+		"aya_id": 2954,
+		"aya_number": 22,
+		"aya_text": "وَتِلْكَ نِعْمَةٌ تَمُنُّهَا عَلَيَّ اَنْ عَبَّدْتَّ بَنِيْٓ اِسْرَاۤءِيْلَ ۗ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 368,
+		"translation_aya_text": "Dan itulah kebaikan yang telah engkau berikan kepadaku, (sementara) itu engkau telah memperbudak Bani Israil.”"
+	},
+	{
+		"aya_id": 2955,
+		"aya_number": 23,
+		"aya_text": "قَالَ فِرْعَوْنُ وَمَا رَبُّ الْعٰلَمِيْنَ ۗ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 368,
+		"translation_aya_text": "Fir‘aun bertanya, “Siapa Tuhan seluruh alam itu?”"
+	},
+	{
+		"aya_id": 2956,
+		"aya_number": 24,
+		"aya_text": "قَالَ رَبُّ السَّمٰوٰتِ وَالْاَرْضِ وَمَا بَيْنَهُمَاۗ اِنْ كُنْتُمْ مُّوْقِنِيْنَ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 368,
+		"translation_aya_text": "Dia (Musa) menjawab, “Tuhan pencipta langit dan bumi dan apa yang ada di antara keduanya (itulah Tuhanmu), jika kamu mempercayai-Nya.”"
+	},
+	{
+		"aya_id": 2957,
+		"aya_number": 25,
+		"aya_text": "قَالَ لِمَنْ حَوْلَهٗٓ اَلَا تَسْتَمِعُوْنَ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 368,
+		"translation_aya_text": "Dia (Fir‘aun) berkata kepada orang-orang di sekelilingnya, “Apakah kamu tidak mendengar (apa yang dikatakannya)?”"
+	},
+	{
+		"aya_id": 2958,
+		"aya_number": 26,
+		"aya_text": "قَالَ رَبُّكُمْ وَرَبُّ اٰبَاۤىِٕكُمُ الْاَوَّلِيْنَ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 368,
+		"translation_aya_text": "Dia (Musa) berkata, “(Dia) Tuhanmu dan juga Tuhan nenek moyangmu terdahulu.”"
+	},
+	{
+		"aya_id": 2959,
+		"aya_number": 27,
+		"aya_text": "قَالَ اِنَّ رَسُوْلَكُمُ الَّذِيْٓ اُرْسِلَ اِلَيْكُمْ لَمَجْنُوْنٌ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 368,
+		"translation_aya_text": "Dia (Fir‘aun) berkata, “Sungguh, Rasulmu yang diutus kepada kamu benar-benar orang gila.” "
+	},
+	{
+		"aya_id": 2960,
+		"aya_number": 28,
+		"aya_text": "قَالَ رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ وَمَا بَيْنَهُمَاۗ اِنْ كُنْتُمْ تَعْقِلُوْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 368,
+		"translation_aya_text": "Dia (Musa) berkata, “(Dialah) Tuhan (yang menguasai) timur dan barat dan apa yang ada di antara keduanya; jika kamu mengerti.”"
+	},
+	{
+		"aya_id": 2961,
+		"aya_number": 29,
+		"aya_text": "قَالَ لَىِٕنِ اتَّخَذْتَ اِلٰهًا غَيْرِيْ لَاَجْعَلَنَّكَ مِنَ الْمَسْجُوْنِيْنَ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 368,
+		"translation_aya_text": "Dia (Fir‘aun) berkata, “Sungguh, jika engkau menyembah Tuhan selain aku, pasti aku masukkan engkau ke dalam penjara.”"
+	},
+	{
+		"aya_id": 2962,
+		"aya_number": 30,
+		"aya_text": "قَالَ اَوَلَوْ جِئْتُكَ بِشَيْءٍ مُّبِيْنٍ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 368,
+		"translation_aya_text": "Dia (Musa) berkata, “Apakah (engkau akan melakukan itu) sekalipun aku tunjukkan kepadamu sesuatu (bukti) yang nyata?”"
+	},
+	{
+		"aya_id": 2963,
+		"aya_number": 31,
+		"aya_text": "قَالَ فَأْتِ بِهٖٓ اِنْ كُنْتَ مِنَ الصّٰدِقِيْنَ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 368,
+		"translation_aya_text": "Dia (Fir‘aun) berkata, “Tunjukkan sesuatu (bukti yang nyata) itu, jika engkau termasuk orang yang benar!”"
+	},
+	{
+		"aya_id": 2964,
+		"aya_number": 32,
+		"aya_text": "فَاَلْقٰى عَصَاهُ فَاِذَا هِيَ ثُعْبَانٌ مُّبِيْنٌ ۚ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 368,
+		"translation_aya_text": "Maka dia (Musa) melemparkan tongkatnya, tiba-tiba tongkat itu menjadi ular besar yang sebenarnya."
+	},
+	{
+		"aya_id": 2965,
+		"aya_number": 33,
+		"aya_text": "وَنَزَعَ يَدَهٗ فَاِذَا هِيَ بَيْضَاۤءُ لِلنّٰظِرِيْنَ ࣖ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 368,
+		"translation_aya_text": "Dan dia mengeluarkan tangannya (dari dalam bajunya), tiba-tiba tangan itu menjadi putih (bercahaya) bagi orang-orang yang melihatnya."
+	},
+	{
+		"aya_id": 2966,
+		"aya_number": 34,
+		"aya_text": "قَالَ لِلْمَلَاِ حَوْلَهٗٓ اِنَّ هٰذَا لَسٰحِرٌ عَلِيْمٌ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 368,
+		"translation_aya_text": "Dia (Fir‘aun) berkata kepada para pemuka di sekelilingnya, “Sesungguhnya dia (Musa) ini pasti seorang pesihir yang pandai,"
+	},
+	{
+		"aya_id": 2967,
+		"aya_number": 35,
+		"aya_text": "يُّرِيْدُ اَنْ يُّخْرِجَكُمْ مِّنْ اَرْضِكُمْ بِسِحْرِهٖۖ فَمَاذَا تَأْمُرُوْنَ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 368,
+		"translation_aya_text": "dia hendak mengusir kamu dari negerimu dengan sihirnya; karena itu apakah yang kamu sarankan?”"
+	},
+	{
+		"aya_id": 2968,
+		"aya_number": 36,
+		"aya_text": "قَالُوْٓا اَرْجِهْ وَاَخَاهُ وَابْعَثْ فِى الْمَدَاۤىِٕنِ حٰشِرِيْنَ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 368,
+		"translation_aya_text": "Mereka menjawab, “Tahanlah (untuk sementara) dia dan saudaranya, dan utuslah ke seluruh negeri orang-orang yang akan mengumpulkan (pesihir),"
+	},
+	{
+		"aya_id": 2969,
+		"aya_number": 37,
+		"aya_text": "يَأْتُوْكَ بِكُلِّ سَحَّارٍ عَلِيْمٍ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 368,
+		"translation_aya_text": "niscaya mereka akan mendatangkan semua pesihir yang pandai kepadamu.” "
+	},
+	{
+		"aya_id": 2970,
+		"aya_number": 38,
+		"aya_text": "فَجُمِعَ السَّحَرَةُ لِمِيْقَاتِ يَوْمٍ مَّعْلُوْمٍ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 368,
+		"translation_aya_text": "Lalu dikumpulkanlah para pesihir pada waktu (yang ditetapkan) pada hari yang telah ditentukan, "
+	},
+	{
+		"aya_id": 2971,
+		"aya_number": 39,
+		"aya_text": "وَّقِيْلَ لِلنَّاسِ هَلْ اَنْتُمْ مُّجْتَمِعُوْنَ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 368,
+		"translation_aya_text": "dan diumumkan kepada orang banyak, “Berkumpullah kamu semua,"
+	},
+	{
+		"aya_id": 2972,
+		"aya_number": 40,
+		"aya_text": "لَعَلَّنَا نَتَّبِعُ السَّحَرَةَ اِنْ كَانُوْا هُمُ الْغٰلِبِيْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 369,
+		"translation_aya_text": "agar kita mengikuti para pesihir itu, jika mereka yang menang.”"
+	},
+	{
+		"aya_id": 2973,
+		"aya_number": 41,
+		"aya_text": "فَلَمَّا جَاۤءَ السَّحَرَةُ قَالُوْا لِفِرْعَوْنَ اَىِٕنَّ لَنَا لَاَجْرًا اِنْ كُنَّا نَحْنُ الْغٰلِبِيْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 369,
+		"translation_aya_text": "Maka ketika para pesihir datang, mereka berkata kepada Fir‘aun, “Apakah kami benar-benar akan mendapat imbalan yang besar jika kami yang menang?”"
+	},
+	{
+		"aya_id": 2974,
+		"aya_number": 42,
+		"aya_text": "قَالَ نَعَمْ وَاِنَّكُمْ اِذًا لَّمِنَ الْمُقَرَّبِيْنَ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 369,
+		"translation_aya_text": "Dia (Fir‘aun) menjawab, “Ya, dan bahkan kamu pasti akan mendapat kedudukan yang dekat (kepadaku).”"
+	},
+	{
+		"aya_id": 2975,
+		"aya_number": 43,
+		"aya_text": "قَالَ لَهُمْ مُّوْسٰٓى اَلْقُوْا مَآ اَنْتُمْ مُّلْقُوْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 369,
+		"translation_aya_text": "Dia (Musa) berkata kepada mereka, “Lemparkanlah apa yang hendak kamu lemparkan.”"
+	},
+	{
+		"aya_id": 2976,
+		"aya_number": 44,
+		"aya_text": "فَاَلْقَوْا حِبَالَهُمْ وَعِصِيَّهُمْ وَقَالُوْا بِعِزَّةِ فِرْعَوْنَ اِنَّا لَنَحْنُ الْغٰلِبُوْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 369,
+		"translation_aya_text": "Lalu mereka melemparkan tali temali dan tongkat-tongkat mereka seraya berkata, “Demi kekuasaan Fir‘aun, pasti kamilah yang akan menang.”"
+	},
+	{
+		"aya_id": 2977,
+		"aya_number": 45,
+		"aya_text": "فَاَلْقٰى مُوْسٰى عَصَاهُ فَاِذَا هِيَ تَلْقَفُ مَا يَأْفِكُوْنَ ۚ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 369,
+		"translation_aya_text": "Kemudian Musa melemparkan tongkatnya, maka tiba-tiba ia menelan benda-benda palsu yang mereka ada-adakan itu."
+	},
+	{
+		"aya_id": 2978,
+		"aya_number": 46,
+		"aya_text": "فَاُلْقِيَ السَّحَرَةُ سٰجِدِيْنَ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 369,
+		"translation_aya_text": "Maka menyungkurlah para pesihir itu, bersujud."
+	},
+	{
+		"aya_id": 2979,
+		"aya_number": 47,
+		"aya_text": "قَالُوْٓا اٰمَنَّا بِرَبِّ الْعٰلَمِيْنَ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 369,
+		"translation_aya_text": "Mereka berkata, “Kami beriman kepada Tuhan seluruh alam,"
+	},
+	{
+		"aya_id": 2980,
+		"aya_number": 48,
+		"aya_text": "رَبِّ مُوْسٰى وَهٰرُوْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 369,
+		"translation_aya_text": "(yaitu) Tuhannya Musa dan Harun.”"
+	},
+	{
+		"aya_id": 2981,
+		"aya_number": 49,
+		"aya_text": "قَالَ اٰمَنْتُمْ لَهٗ قَبْلَ اَنْ اٰذَنَ لَكُمْۚ اِنَّهٗ لَكَبِيْرُكُمُ الَّذِيْ عَلَّمَكُمُ السِّحْرَۚ فَلَسَوْفَ تَعْلَمُوْنَ ەۗ لَاُقَطِّعَنَّ اَيْدِيَكُمْ وَاَرْجُلَكُمْ مِّنْ خِلَافٍ وَّلَاُصَلِّبَنَّكُمْ اَجْمَعِيْنَۚ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 369,
+		"translation_aya_text": "Dia (Fir‘aun) berkata, “Mengapa kamu beriman kepada Musa sebelum aku memberi izin kepadamu? Sesungguhnya dia pemimpinmu yang mengajarkan sihir kepadamu. Nanti kamu pasti akan tahu (akibat perbuatanmu). Pasti akan kupotong tangan dan kakimu bersilang dan sungguh, akan kusalib kamu semuanya.”"
+	},
+	{
+		"aya_id": 2982,
+		"aya_number": 50,
+		"aya_text": "قَالُوْا لَا ضَيْرَ ۖاِنَّآ اِلٰى رَبِّنَا مُنْقَلِبُوْنَ ۚ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 369,
+		"translation_aya_text": "Mereka berkata, “Tidak ada yang kami takutkan, karena kami akan kembali kepada Tuhan kami."
+	},
+	{
+		"aya_id": 2983,
+		"aya_number": 51,
+		"aya_text": " اِنَّا نَطْمَعُ اَنْ يَّغْفِرَ لَنَا رَبُّنَا خَطٰيٰنَآ اَنْ كُنَّآ اَوَّلَ الْمُؤْمِنِيْنَ ۗ ࣖ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 369,
+		"translation_aya_text": "Sesungguhnya kami sangat menginginkan sekiranya Tuhan kami akan mengampuni kesalahan kami, karena kami menjadi orang yang pertama-tama beriman.”"
+	},
+	{
+		"aya_id": 2984,
+		"aya_number": 52,
+		"aya_text": "۞ وَاَوْحَيْنَآ اِلٰى مُوْسٰٓى اَنْ اَسْرِ بِعِبَادِيْٓ اِنَّكُمْ مُّتَّبَعُوْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 369,
+		"translation_aya_text": "Dan Kami wahyukan (perintahkan) kepada Musa, “Pergilah pada malam hari dengan membawa hamba-hamba-Ku (Bani Israil), sebab pasti kamu akan dikejar.”"
+	},
+	{
+		"aya_id": 2985,
+		"aya_number": 53,
+		"aya_text": "فَاَرْسَلَ فِرْعَوْنُ فِى الْمَدَاۤىِٕنِ حٰشِرِيْنَ ۚ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 369,
+		"translation_aya_text": "Kemudian Fir‘aun mengirimkan orang ke kota-kota (untuk mengumpulkan bala tentaranya)."
+	},
+	{
+		"aya_id": 2986,
+		"aya_number": 54,
+		"aya_text": "اِنَّ هٰٓؤُلَاۤءِ لَشِرْذِمَةٌ قَلِيْلُوْنَۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 369,
+		"translation_aya_text": "(Fir‘aun berkata), “Sesungguhnya mereka (Bani Israil) hanya sekelompok kecil,"
+	},
+	{
+		"aya_id": 2987,
+		"aya_number": 55,
+		"aya_text": "وَاِنَّهُمْ لَنَا لَغَاۤىِٕظُوْنَ ۙ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 369,
+		"translation_aya_text": "dan sesungguhnya mereka telah berbuat hal-hal yang menimbulkan amarah kita,"
+	},
+	{
+		"aya_id": 2988,
+		"aya_number": 56,
+		"aya_text": "وَاِنَّا لَجَمِيْعٌ حٰذِرُوْنَ ۗ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 369,
+		"translation_aya_text": "dan sesungguhnya kita semua tanpa kecuali harus selalu waspada.”"
+	},
+	{
+		"aya_id": 2989,
+		"aya_number": 57,
+		"aya_text": "فَاَخْرَجْنٰهُمْ مِّنْ جَنّٰتٍ وَّعُيُوْنٍ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 369,
+		"translation_aya_text": "Kemudian, Kami keluarkan mereka (Fir‘aun dan kaumnya) dari taman-taman dan mata air,"
+	},
+	{
+		"aya_id": 2990,
+		"aya_number": 58,
+		"aya_text": "وَّكُنُوْزٍ وَّمَقَامٍ كَرِيْمٍ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 369,
+		"translation_aya_text": "dan (dari) harta kekayaan dan kedudukan yang mulia, "
+	},
+	{
+		"aya_id": 2991,
+		"aya_number": 59,
+		"aya_text": "كَذٰلِكَۚ وَاَوْرَثْنٰهَا بَنِيْٓ اِسْرَاۤءِيْلَ ۗ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 369,
+		"translation_aya_text": "demikianlah, dan Kami anugerahkan semuanya (itu) kepada Bani Israil."
+	},
+	{
+		"aya_id": 2992,
+		"aya_number": 60,
+		"aya_text": "فَاَتْبَعُوْهُمْ مُّشْرِقِيْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 369,
+		"translation_aya_text": "Lalu (Fir‘aun dan bala tentaranya) dapat menyusul mereka pada waktu matahari terbit."
+	},
+	{
+		"aya_id": 2993,
+		"aya_number": 61,
+		"aya_text": "فَلَمَّا تَرَاۤءَ الْجَمْعٰنِ قَالَ اَصْحٰبُ مُوْسٰٓى اِنَّا لَمُدْرَكُوْنَ ۚ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 370,
+		"translation_aya_text": "Maka ketika kedua golongan itu saling melihat, berkatalah pengikut-pengikut Musa, “Kita benar-benar akan tersusul.”"
+	},
+	{
+		"aya_id": 2994,
+		"aya_number": 62,
+		"aya_text": "قَالَ كَلَّاۗ اِنَّ مَعِيَ رَبِّيْ سَيَهْدِيْنِ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 370,
+		"translation_aya_text": "Dia (Musa) menjawab, “Sekali-kali tidak akan (tersusul); sesungguhnya Tuhanku bersamaku, Dia akan memberi petunjuk kepadaku.”"
+	},
+	{
+		"aya_id": 2995,
+		"aya_number": 63,
+		"aya_text": "فَاَوْحَيْنَآ اِلٰى مُوْسٰٓى اَنِ اضْرِبْ بِّعَصَاكَ الْبَحْرَۗ فَانْفَلَقَ فَكَانَ كُلُّ فِرْقٍ كَالطَّوْدِ الْعَظِيْمِ ۚ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 370,
+		"translation_aya_text": "Lalu Kami wahyukan kepada Musa, “Pukullah laut itu dengan tongkatmu.” Maka terbelahlah lautan itu, dan setiap belahan seperti gunung yang besar."
+	},
+	{
+		"aya_id": 2996,
+		"aya_number": 64,
+		"aya_text": "وَاَزْلَفْنَا ثَمَّ الْاٰخَرِيْنَ ۚ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 370,
+		"translation_aya_text": "Dan di sanalah Kami dekatkan golongan yang lain. "
+	},
+	{
+		"aya_id": 2997,
+		"aya_number": 65,
+		"aya_text": "وَاَنْجَيْنَا مُوْسٰى وَمَنْ مَّعَهٗٓ اَجْمَعِيْنَ ۚ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 370,
+		"translation_aya_text": "Dan Kami selamatkan Musa dan orang-orang yang bersamanya."
+	},
+	{
+		"aya_id": 2998,
+		"aya_number": 66,
+		"aya_text": "ثُمَّ اَغْرَقْنَا الْاٰخَرِيْنَ ۗ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 370,
+		"translation_aya_text": "Kemudian Kami tenggelamkan golongan yang lain."
+	},
+	{
+		"aya_id": 2999,
+		"aya_number": 67,
+		"aya_text": "اِنَّ فِيْ ذٰلِكَ لَاٰيَةً ۗوَمَا كَانَ اَكْثَرُهُمْ مُّؤْمِنِيْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 370,
+		"translation_aya_text": "Sungguh, pada yang demikian itu terdapat suatu tanda (kekuasaan Allah), tetapi kebanyakan mereka tidak beriman."
+	},
+	{
+		"aya_id": 3000,
+		"aya_number": 68,
+		"aya_text": "وَاِنَّ رَبَّكَ لَهُوَ الْعَزِيْزُ الرَّحِيْمُ ࣖ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 370,
+		"translation_aya_text": "Dan sesungguhnya Tuhanmu Dialah Yang Mahaperkasa, Maha Penyayang."
+	},
+	{
+		"aya_id": 3001,
+		"aya_number": 69,
+		"aya_text": "وَاتْلُ عَلَيْهِمْ نَبَاَ اِبْرٰهِيْمَ ۘ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 370,
+		"translation_aya_text": "Dan bacakanlah kepada mereka kisah Ibrahim."
+	},
+	{
+		"aya_id": 3002,
+		"aya_number": 70,
+		"aya_text": "اِذْ قَالَ لِاَبِيْهِ وَقَوْمِهٖ مَا تَعْبُدُوْنَ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 370,
+		"translation_aya_text": "Ketika dia (Ibrahim) berkata kepada ayahnya dan kaumnya, “Apakah yang kamu sembah?”"
+	},
+	{
+		"aya_id": 3003,
+		"aya_number": 71,
+		"aya_text": "قَالُوْا نَعْبُدُ اَصْنَامًا فَنَظَلُّ لَهَا عٰكِفِيْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 370,
+		"translation_aya_text": "Mereka menjawab, “Kami menyembah berhala-berhala dan kami senantiasa tekun menyembahnya.”"
+	},
+	{
+		"aya_id": 3004,
+		"aya_number": 72,
+		"aya_text": "قَالَ هَلْ يَسْمَعُوْنَكُمْ اِذْ تَدْعُوْنَ ۙ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 370,
+		"translation_aya_text": "Dia (Ibrahim) berkata, “Apakah mereka mendengarmu ketika kamu berdoa (kepadanya)?"
+	},
+	{
+		"aya_id": 3005,
+		"aya_number": 73,
+		"aya_text": "اَوْ يَنْفَعُوْنَكُمْ اَوْ يَضُرُّوْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 370,
+		"translation_aya_text": "Atau (dapatkah) mereka memberi manfaat atau mencelakakan kamu?”"
+	},
+	{
+		"aya_id": 3006,
+		"aya_number": 74,
+		"aya_text": "قَالُوْا بَلْ وَجَدْنَآ اٰبَاۤءَنَا كَذٰلِكَ يَفْعَلُوْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 370,
+		"translation_aya_text": "Mereka menjawab, “Tidak, tetapi kami dapati nenek moyang kami berbuat begitu.”"
+	},
+	{
+		"aya_id": 3007,
+		"aya_number": 75,
+		"aya_text": "قَالَ اَفَرَءَيْتُمْ مَّا كُنْتُمْ تَعْبُدُوْنَ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 370,
+		"translation_aya_text": "Dia (Ibrahim) berkata, “Apakah kamu memperhatikan apa yang kamu sembah,"
+	},
+	{
+		"aya_id": 3008,
+		"aya_number": 76,
+		"aya_text": "اَنْتُمْ وَاٰبَاۤؤُكُمُ الْاَقْدَمُوْنَ ۙ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 370,
+		"translation_aya_text": "kamu dan nenek moyang kamu yang terdahulu?"
+	},
+	{
+		"aya_id": 3009,
+		"aya_number": 77,
+		"aya_text": "فَاِنَّهُمْ عَدُوٌّ لِّيْٓ اِلَّا رَبَّ الْعٰلَمِيْنَ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 370,
+		"translation_aya_text": "Sesungguhnya mereka (apa yang kamu sembah) itu musuhku, lain halnya Tuhan seluruh alam,"
+	},
+	{
+		"aya_id": 3010,
+		"aya_number": 78,
+		"aya_text": "الَّذِيْ خَلَقَنِيْ فَهُوَ يَهْدِيْنِ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 370,
+		"translation_aya_text": "(yaitu) Yang telah menciptakan aku, maka Dia yang memberi petunjuk kepadaku,"
+	},
+	{
+		"aya_id": 3011,
+		"aya_number": 79,
+		"aya_text": "وَالَّذِيْ هُوَ يُطْعِمُنِيْ وَيَسْقِيْنِ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 370,
+		"translation_aya_text": "dan Yang memberi makan dan minum kepadaku;"
+	},
+	{
+		"aya_id": 3012,
+		"aya_number": 80,
+		"aya_text": "وَاِذَا مَرِضْتُ فَهُوَ يَشْفِيْنِ ۙ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 370,
+		"translation_aya_text": "dan apabila aku sakit, Dialah yang menyembuhkan aku, "
+	},
+	{
+		"aya_id": 3013,
+		"aya_number": 81,
+		"aya_text": "وَالَّذِيْ يُمِيْتُنِيْ ثُمَّ يُحْيِيْنِ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 370,
+		"translation_aya_text": "dan Yang akan mematikan aku, kemudian akan menghidupkan aku (kembali),"
+	},
+	{
+		"aya_id": 3014,
+		"aya_number": 82,
+		"aya_text": "وَالَّذِيْٓ اَطْمَعُ اَنْ يَّغْفِرَ لِيْ خَطِيْۤـَٔتِيْ يَوْمَ الدِّيْنِ ۗ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 370,
+		"translation_aya_text": "dan Yang sangat kuinginkan akan mengampuni kesalahanku pada hari Kiamat.”"
+	},
+	{
+		"aya_id": 3015,
+		"aya_number": 83,
+		"aya_text": "رَبِّ هَبْ لِيْ حُكْمًا وَّاَلْحِقْنِيْ بِالصّٰلِحِيْنَ ۙ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 370,
+		"translation_aya_text": "Ibrahim berdoa), “Ya Tuhanku, berikanlah kepadaku ilmu dan masukkanlah aku ke dalam golongan orang-orang yang saleh,"
+	},
+	{
+		"aya_id": 3016,
+		"aya_number": 84,
+		"aya_text": "وَاجْعَلْ لِّيْ لِسَانَ صِدْقٍ فِى الْاٰخِرِيْنَ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 371,
+		"translation_aya_text": "dan jadikanlah aku buah tutur yang baik bagi orang-orang (yang datang) kemudian,"
+	},
+	{
+		"aya_id": 3017,
+		"aya_number": 85,
+		"aya_text": "وَاجْعَلْنِيْ مِنْ وَّرَثَةِ جَنَّةِ النَّعِيْمِ ۙ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 371,
+		"translation_aya_text": "dan jadikanlah aku termasuk orang yang mewarisi surga yang penuh kenikmatan,"
+	},
+	{
+		"aya_id": 3018,
+		"aya_number": 86,
+		"aya_text": "وَاغْفِرْ لِاَبِيْٓ اِنَّهٗ كَانَ مِنَ الضَّاۤلِّيْنَ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 371,
+		"translation_aya_text": "dan ampunilah ayahku, sesungguhnya dia termasuk orang yang sesat,"
+	},
+	{
+		"aya_id": 3019,
+		"aya_number": 87,
+		"aya_text": "وَلَا تُخْزِنِيْ يَوْمَ يُبْعَثُوْنَۙ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 371,
+		"translation_aya_text": "dan janganlah Engkau hinakan aku pada hari mereka dibangkitkan,"
+	},
+	{
+		"aya_id": 3020,
+		"aya_number": 88,
+		"aya_text": "يَوْمَ لَا يَنْفَعُ مَالٌ وَّلَا بَنُوْنَ ۙ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 371,
+		"translation_aya_text": "(yaitu) pada hari (ketika) harta dan anak-anak  tidak berguna,"
+	},
+	{
+		"aya_id": 3021,
+		"aya_number": 89,
+		"aya_text": "اِلَّا مَنْ اَتَى اللّٰهَ بِقَلْبٍ سَلِيْمٍ ۗ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 371,
+		"translation_aya_text": "kecuali orang-orang yang menghadap Allah dengan hati yang bersih,"
+	},
+	{
+		"aya_id": 3022,
+		"aya_number": 90,
+		"aya_text": "وَاُزْلِفَتِ الْجَنَّةُ لِلْمُتَّقِيْنَ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 371,
+		"translation_aya_text": "dan surga didekatkan kepada orang-orang yang bertakwa,"
+	},
+	{
+		"aya_id": 3023,
+		"aya_number": 91,
+		"aya_text": "وَبُرِّزَتِ الْجَحِيْمُ لِلْغٰوِيْنَ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 371,
+		"translation_aya_text": "dan neraka Jahim diperlihatkan dengan jelas kepada orang-orang yang sesat,”"
+	},
+	{
+		"aya_id": 3024,
+		"aya_number": 92,
+		"aya_text": "وَقِيْلَ لَهُمْ اَيْنَ مَا كُنْتُمْ تَعْبُدُوْنَ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 371,
+		"translation_aya_text": "dan dikatakan kepada mereka, “Di mana berhala-berhala yang dahulu kamu sembah,"
+	},
+	{
+		"aya_id": 3025,
+		"aya_number": 93,
+		"aya_text": "مِنْ دُوْنِ اللّٰهِ ۗهَلْ يَنْصُرُوْنَكُمْ اَوْ يَنْتَصِرُوْنَ ۗ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 371,
+		"translation_aya_text": "selain Allah? Dapatkah mereka menolong kamu atau menolong diri mereka sendiri?”"
+	},
+	{
+		"aya_id": 3026,
+		"aya_number": 94,
+		"aya_text": "فَكُبْكِبُوْا فِيْهَا هُمْ وَالْغَاوٗنَ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 371,
+		"translation_aya_text": "Maka mereka (sesembahan itu) dijungkirkan ke dalam neraka bersama orang-orang yang sesat,"
+	},
+	{
+		"aya_id": 3027,
+		"aya_number": 95,
+		"aya_text": "وَجُنُوْدُ اِبْلِيْسَ اَجْمَعُوْنَ ۗ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 371,
+		"translation_aya_text": "dan bala tentara Iblis semuanya."
+	},
+	{
+		"aya_id": 3028,
+		"aya_number": 96,
+		"aya_text": "قَالُوْا وَهُمْ فِيْهَا يَخْتَصِمُوْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 371,
+		"translation_aya_text": "Mereka berkata sambil bertengkar di dalamnya (neraka),"
+	},
+	{
+		"aya_id": 3029,
+		"aya_number": 97,
+		"aya_text": "تَاللّٰهِ اِنْ كُنَّا لَفِيْ ضَلٰلٍ مُّبِيْنٍ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 371,
+		"translation_aya_text": "”Demi Allah, sesungguhnya kita dahulu (di dunia) dalam kesesatan yang nyata,"
+	},
+	{
+		"aya_id": 3030,
+		"aya_number": 98,
+		"aya_text": "اِذْ نُسَوِّيْكُمْ بِرَبِّ الْعٰلَمِيْنَ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 371,
+		"translation_aya_text": "karena kita mempersamakan kamu (berhala-berhala) dengan Tuhan seluruh alam."
+	},
+	{
+		"aya_id": 3031,
+		"aya_number": 99,
+		"aya_text": "وَمَآ اَضَلَّنَآ اِلَّا الْمُجْرِمُوْنَ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 371,
+		"translation_aya_text": "Dan tidak ada yang menyesatkan kita kecuali orang-orang yang berdosa."
+	},
+	{
+		"aya_id": 3032,
+		"aya_number": 100,
+		"aya_text": "فَمَا لَنَا مِنْ شَافِعِيْنَ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 371,
+		"translation_aya_text": "Maka sehingga (sekarang) kita tidak mempunyai pemberi syafaat (penolong),"
+	},
+	{
+		"aya_id": 3033,
+		"aya_number": 101,
+		"aya_text": "وَلَا صَدِيْقٍ حَمِيْمٍ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 371,
+		"translation_aya_text": "dan tidak pula mempunyai teman yang akrab,"
+	},
+	{
+		"aya_id": 3034,
+		"aya_number": 102,
+		"aya_text": "فَلَوْ اَنَّ لَنَا كَرَّةً فَنَكُوْنَ مِنَ الْمُؤْمِنِيْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 371,
+		"translation_aya_text": "Maka seandainya kita dapat kembali (ke dunia) niscaya kita menjadi orang-orang yang beriman.”"
+	},
+	{
+		"aya_id": 3035,
+		"aya_number": 103,
+		"aya_text": "اِنَّ فِيْ ذٰلِكَ لَاٰيَةً ۗوَمَا كَانَ اَكْثَرُهُمْ مُّؤْمِنِيْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 371,
+		"translation_aya_text": "Sungguh, pada yang demikian itu terdapat tanda (kekuasaan Allah), tetapi kebanyakan mereka tidak beriman."
+	},
+	{
+		"aya_id": 3036,
+		"aya_number": 104,
+		"aya_text": "وَاِنَّ رَبَّكَ لَهُوَ الْعَزِيْزُ الرَّحِيْمُ ࣖ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 371,
+		"translation_aya_text": "Dan sungguh, Tuhanmu benar-benar Dialah Mahaperkasa, Maha Penyayang."
+	},
+	{
+		"aya_id": 3037,
+		"aya_number": 105,
+		"aya_text": "كَذَّبَتْ قَوْمُ نُوْحِ ِۨالْمُرْسَلِيْنَ ۚ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 371,
+		"translation_aya_text": "Kaum Nuh telah mendustakan para rasul."
+	},
+	{
+		"aya_id": 3038,
+		"aya_number": 106,
+		"aya_text": "اِذْ قَالَ لَهُمْ اَخُوْهُمْ نُوْحٌ اَلَا تَتَّقُوْنَ ۚ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 371,
+		"translation_aya_text": "Ketika saudara mereka (Nuh) berkata kepada mereka, “Mengapa kamu tidak bertakwa?"
+	},
+	{
+		"aya_id": 3039,
+		"aya_number": 107,
+		"aya_text": "اِنِّيْ لَكُمْ رَسُوْلٌ اَمِيْنٌ ۙ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 371,
+		"translation_aya_text": "Sesungguhnya aku ini seorang rasul kepercayaan (yang diutus) kepadamu,"
+	},
+	{
+		"aya_id": 3040,
+		"aya_number": 108,
+		"aya_text": "فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِۚ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 371,
+		"translation_aya_text": "Maka bertakwalah kamu kepada Allah dan taatlah kepadaku."
+	},
+	{
+		"aya_id": 3041,
+		"aya_number": 109,
+		"aya_text": "وَمَآ اَسْـَٔلُكُمْ عَلَيْهِ مِنْ اَجْرٍۚ اِنْ اَجْرِيَ اِلَّا عَلٰى رَبِّ الْعٰلَمِيْنَ ۚ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 371,
+		"translation_aya_text": "Dan aku tidak meminta imbalan kepadamu atas ajakan itu; imbalanku hanyalah dari Tuhan seluruh alam."
+	},
+	{
+		"aya_id": 3042,
+		"aya_number": 110,
+		"aya_text": "فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 371,
+		"translation_aya_text": "Maka bertakwalah kamu kepada Allah dan taatlah kepadaku.”"
+	},
+	{
+		"aya_id": 3043,
+		"aya_number": 111,
+		"aya_text": "۞ قَالُوْٓا اَنُؤْمِنُ لَكَ وَاتَّبَعَكَ الْاَرْذَلُوْنَ ۗ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 371,
+		"translation_aya_text": "Mereka berkata, “Apakah kami harus beriman kepadamu, padahal pengikut-pengikutmu orang-orang yang hina?”"
+	},
+	{
+		"aya_id": 3044,
+		"aya_number": 112,
+		"aya_text": "قَالَ وَمَا عِلْمِيْ بِمَا كَانُوْا يَعْمَلُوْنَ ۚ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 372,
+		"translation_aya_text": "Dia (Nuh) menjawab, “Tidak ada pengetahuanku tentang apa yang mereka kerjakan."
+	},
+	{
+		"aya_id": 3045,
+		"aya_number": 113,
+		"aya_text": "اِنْ حِسَابُهُمْ اِلَّا عَلٰى رَبِّيْ لَوْ تَشْعُرُوْنَ ۚ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 372,
+		"translation_aya_text": "Perhitungan (amal perbuatan) mereka tidak lain hanyalah kepada Tuhanku, jika kamu menyadari."
+	},
+	{
+		"aya_id": 3046,
+		"aya_number": 114,
+		"aya_text": "وَمَآ اَنَا۠ بِطَارِدِ الْمُؤْمِنِيْنَ ۚ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 372,
+		"translation_aya_text": "Dan aku tidak akan mengusir orang-orang yang beriman."
+	},
+	{
+		"aya_id": 3047,
+		"aya_number": 115,
+		"aya_text": "اِنْ اَنَا۠ اِلَّا نَذِيْرٌ مُّبِيْنٌ ۗ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 372,
+		"translation_aya_text": "Aku (ini) hanyalah pemberi peringatan yang jelas.”"
+	},
+	{
+		"aya_id": 3048,
+		"aya_number": 116,
+		"aya_text": "قَالُوْا لَىِٕنْ لَّمْ تَنْتَهِ يٰنُوْحُ لَتَكُوْنَنَّ مِنَ الْمَرْجُوْمِيْنَۗ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 372,
+		"translation_aya_text": "Mereka berkata, “Wahai Nuh! Sungguh, jika engkau tidak (mau) berhenti, niscaya engkau termasuk orang yang dirajam (dilempari batu sampai mati).”"
+	},
+	{
+		"aya_id": 3049,
+		"aya_number": 117,
+		"aya_text": "قَالَ رَبِّ اِنَّ قَوْمِيْ كَذَّبُوْنِۖ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 372,
+		"translation_aya_text": "Dia (Nuh) berkata, “Ya Tuhanku, sungguh kaumku telah mendustakan aku;"
+	},
+	{
+		"aya_id": 3050,
+		"aya_number": 118,
+		"aya_text": "فَافْتَحْ بَيْنِيْ وَبَيْنَهُمْ فَتْحًا وَّنَجِّنِيْ وَمَنْ مَّعِيَ مِنَ الْمُؤْمِنِيْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 372,
+		"translation_aya_text": "maka berilah keputusan antara aku dengan mereka, dan selamatkanlah aku dan mereka yang beriman bersamaku.” "
+	},
+	{
+		"aya_id": 3051,
+		"aya_number": 119,
+		"aya_text": "فَاَنْجَيْنٰهُ وَمَنْ مَّعَهٗ فِى الْفُلْكِ الْمَشْحُوْنِ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 372,
+		"translation_aya_text": "Kemudian Kami menyelamatkannya Nuh dan orang-orang yang bersamanya di dalam kapal yang penuh muatan."
+	},
+	{
+		"aya_id": 3052,
+		"aya_number": 120,
+		"aya_text": "ثُمَّ اَغْرَقْنَا بَعْدُ الْبٰقِيْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 372,
+		"translation_aya_text": "Kemudian setelah itu Kami tenggelamkan orang-orang yang tinggal."
+	},
+	{
+		"aya_id": 3053,
+		"aya_number": 121,
+		"aya_text": "اِنَّ فِيْ ذٰلِكَ لَاٰيَةً ۗوَمَا كَانَ اَكْثَرُهُمْ مُّؤْمِنِيْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 372,
+		"translation_aya_text": "Sungguh, pada yang demikian itu benar-benar terdapat tanda (kekuasaan Allah), tetapi kebanyakan mereka tidak beriman."
+	},
+	{
+		"aya_id": 3054,
+		"aya_number": 122,
+		"aya_text": "وَاِنَّ رَبَّكَ لَهُوَ الْعَزِيْزُ الرَّحِيْمُ ࣖ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 372,
+		"translation_aya_text": "Dan sungguh, Tuhanmu, Dialah Yang Mahaperkasa, Maha Penyayang."
+	},
+	{
+		"aya_id": 3055,
+		"aya_number": 123,
+		"aya_text": "كَذَّبَتْ عَادُ ِۨالْمُرْسَلِيْنَ ۖ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 372,
+		"translation_aya_text": "(Kaum) ‘Ad telah mendustakan para rasul."
+	},
+	{
+		"aya_id": 3056,
+		"aya_number": 124,
+		"aya_text": "اِذْ قَالَ لَهُمْ اَخُوْهُمْ هُوْدٌ اَلَا تَتَّقُوْنَ ۚ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 372,
+		"translation_aya_text": "Ketika saudara mereka Hud berkata kepada mereka, “Mengapa kamu tidak bertakwa?"
+	},
+	{
+		"aya_id": 3057,
+		"aya_number": 125,
+		"aya_text": "اِنِّيْ لَكُمْ رَسُوْلٌ اَمِيْنٌ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 372,
+		"translation_aya_text": "Sungguh, aku ini seorang rasul kepercayaan (yang diutus) kepadamu,"
+	},
+	{
+		"aya_id": 3058,
+		"aya_number": 126,
+		"aya_text": "فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِ ۚ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 372,
+		"translation_aya_text": "karena itu bertakwalah kepada Allah dan taatlah kepadaku."
+	},
+	{
+		"aya_id": 3059,
+		"aya_number": 127,
+		"aya_text": "وَمَآ اَسْـَٔلُكُمْ عَلَيْهِ مِنْ اَجْرٍۚ اِنْ اَجْرِيَ اِلَّا عَلٰى رَبِّ الْعٰلَمِيْنَ ۗ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 372,
+		"translation_aya_text": "Dan aku tidak meminta imbalan kepadamu atas ajakan itu; imbalanku hanyalah dari Tuhan seluruh alam."
+	},
+	{
+		"aya_id": 3060,
+		"aya_number": 128,
+		"aya_text": "اَتَبْنُوْنَ بِكُلِّ رِيْعٍ اٰيَةً تَعْبَثُوْنَ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 372,
+		"translation_aya_text": "Apakah kamu mendirikan istana-istana pada setiap tanah yang tinggi untuk kemegahan tanpa ditempati, "
+	},
+	{
+		"aya_id": 3061,
+		"aya_number": 129,
+		"aya_text": "وَتَتَّخِذُوْنَ مَصَانِعَ لَعَلَّكُمْ تَخْلُدُوْنَۚ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 372,
+		"translation_aya_text": "dan kamu membuat benteng-benteng dengan harapan kamu hidup kekal?"
+	},
+	{
+		"aya_id": 3062,
+		"aya_number": 130,
+		"aya_text": "وَاِذَا بَطَشْتُمْ بَطَشْتُمْ جَبَّارِيْنَۚ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 372,
+		"translation_aya_text": "Dan apabila kamu menyiksa, maka kamu lakukan secara kejam dan bengis."
+	},
+	{
+		"aya_id": 3063,
+		"aya_number": 131,
+		"aya_text": "فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِۚ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 372,
+		"translation_aya_text": "Maka bertakwalah kepada Allah dan taatlah kepadaku,"
+	},
+	{
+		"aya_id": 3064,
+		"aya_number": 132,
+		"aya_text": "وَاتَّقُوا الَّذِيْٓ اَمَدَّكُمْ بِمَا تَعْلَمُوْنَ  ۚ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 372,
+		"translation_aya_text": "dan tetaplah kamu bertakwa kepada-Nya yang telah menganugerahkan kepadamu apa yang kamu ketahui."
+	},
+	{
+		"aya_id": 3065,
+		"aya_number": 133,
+		"aya_text": "اَمَدَّكُمْ بِاَنْعَامٍ وَّبَنِيْنَۙ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 372,
+		"translation_aya_text": "Dia (Allah) telah menganugerahkan kepadamu hewan ternak dan anak-anak,"
+	},
+	{
+		"aya_id": 3066,
+		"aya_number": 134,
+		"aya_text": "وَجَنّٰتٍ وَّعُيُوْنٍۚ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 372,
+		"translation_aya_text": "dan kebun-kebun, dan mata air,"
+	},
+	{
+		"aya_id": 3067,
+		"aya_number": 135,
+		"aya_text": "اِنِّيْٓ اَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيْمٍ ۗ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 372,
+		"translation_aya_text": "sesungguhnya aku takut kamu akan ditimpa azab pada hari yang besar.” "
+	},
+	{
+		"aya_id": 3068,
+		"aya_number": 136,
+		"aya_text": "قَالُوْا سَوَاۤءٌ عَلَيْنَآ اَوَعَظْتَ اَمْ لَمْ تَكُنْ مِّنَ الْوَاعِظِيْنَ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 372,
+		"translation_aya_text": "Mereka menjawab, “Sama saja bagi kami, apakah engkau memberi nasihat atau tidak memberi nasihat,"
+	},
+	{
+		"aya_id": 3069,
+		"aya_number": 137,
+		"aya_text": "اِنْ هٰذَآ اِلَّا خُلُقُ الْاَوَّلِيْنَ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 373,
+		"translation_aya_text": "(agama kami) ini tidak lain hanyalah adat kebiasaan orang-orang terdahulu,"
+	},
+	{
+		"aya_id": 3070,
+		"aya_number": 138,
+		"aya_text": "وَمَا نَحْنُ بِمُعَذَّبِيْنَ ۚ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 373,
+		"translation_aya_text": "dan kami (sama sekali) tidak akan diazab.”"
+	},
+	{
+		"aya_id": 3071,
+		"aya_number": 139,
+		"aya_text": "فَكَذَّبُوْهُ فَاَهْلَكْنٰهُمْۗ اِنَّ فِيْ ذٰلِكَ لَاٰيَةً ۗوَمَا كَانَ اَكْثَرُهُمْ مُّؤْمِنِيْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 373,
+		"translation_aya_text": "Maka mereka mendustakannya (Hud), lalu Kami binasakan mereka. Sungguh, pada yang demikian itu terdapat tanda (kekuasaan Allah), tetapi kebanyakan mereka tidak beriman."
+	},
+	{
+		"aya_id": 3072,
+		"aya_number": 140,
+		"aya_text": "وَاِنَّ رَبَّكَ لَهُوَ الْعَزِيْزُ الرَّحِيْمُ ࣖ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 373,
+		"translation_aya_text": "Dan sungguh, Tuhanmu, Dialah Yang Mahaperkasa, Maha Penyayang."
+	},
+	{
+		"aya_id": 3073,
+		"aya_number": 141,
+		"aya_text": "كَذَّبَتْ ثَمُوْدُ الْمُرْسَلِيْنَ  ۖ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 373,
+		"translation_aya_text": "Kaum Samud telah mendustakan para rasul."
+	},
+	{
+		"aya_id": 3074,
+		"aya_number": 142,
+		"aya_text": "اِذْ قَالَ لَهُمْ اَخُوْهُمْ صٰلِحٌ اَلَا تَتَّقُوْنَ ۚ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 373,
+		"translation_aya_text": "Ketika saudara mereka Saleh berkata kepada mereka, “Mengapa kamu tidak bertakwa?"
+	},
+	{
+		"aya_id": 3075,
+		"aya_number": 143,
+		"aya_text": "اِنِّيْ لَكُمْ رَسُوْلٌ اَمِيْنٌ ۙ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 373,
+		"translation_aya_text": "Sungguh, aku ini seorang rasul kepercayaan (yang diutus) kepadamu,"
+	},
+	{
+		"aya_id": 3076,
+		"aya_number": 144,
+		"aya_text": "فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِ ۚ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 373,
+		"translation_aya_text": "karena itu bertakwalah kepada Allah dan taatlah kepadaku."
+	},
+	{
+		"aya_id": 3077,
+		"aya_number": 145,
+		"aya_text": "وَمَآ اَسْـَٔلُكُمْ عَلَيْهِ مِنْ اَجْرٍۚ اِنْ اَجْرِيَ اِلَّا عَلٰى رَبِّ الْعٰلَمِيْنَ ۗ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 373,
+		"translation_aya_text": "Dan aku tidak meminta sesuatu imbalan kepadamu atas ajakan itu, imbalanku hanyalah dari Tuhan seluruh alam."
+	},
+	{
+		"aya_id": 3078,
+		"aya_number": 146,
+		"aya_text": "اَتُتْرَكُوْنَ فِيْ مَا هٰهُنَآ اٰمِنِيْنَ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 373,
+		"translation_aya_text": "Apakah kamu (mengira) akan dibiarkan tinggal di sini (di negeri kamu ini) dengan aman,"
+	},
+	{
+		"aya_id": 3079,
+		"aya_number": 147,
+		"aya_text": "فِيْ جَنّٰتٍ وَّعُيُوْنٍ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 373,
+		"translation_aya_text": "di dalam kebun-kebun dan mata air,"
+	},
+	{
+		"aya_id": 3080,
+		"aya_number": 148,
+		"aya_text": "وَّزُرُوْعٍ وَّنَخْلٍ طَلْعُهَا هَضِيْمٌ ۚ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 373,
+		"translation_aya_text": "dan tanaman-tanaman dan pohon-pohon kurma yang mayangnya lembut."
+	},
+	{
+		"aya_id": 3081,
+		"aya_number": 149,
+		"aya_text": "وَتَنْحِتُوْنَ مِنَ الْجِبَالِ بُيُوْتًا فٰرِهِيْنَ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 373,
+		"translation_aya_text": "Dan kamu pahat dengan terampil sebagian gunung-gunung untuk dijadikan rumah-rumah;"
+	},
+	{
+		"aya_id": 3082,
+		"aya_number": 150,
+		"aya_text": "فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِ ۚ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 373,
+		"translation_aya_text": "maka bertakwalah kepada Allah dan taatlah kepadaku;"
+	},
+	{
+		"aya_id": 3083,
+		"aya_number": 151,
+		"aya_text": "وَلَا تُطِيْعُوْٓا اَمْرَ الْمُسْرِفِيْنَ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 373,
+		"translation_aya_text": "dan janganlah kamu menaati perintah orang-orang yang melampaui batas,"
+	},
+	{
+		"aya_id": 3084,
+		"aya_number": 152,
+		"aya_text": "الَّذِيْنَ يُفْسِدُوْنَ فِى الْاَرْضِ وَلَا يُصْلِحُوْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 373,
+		"translation_aya_text": "yang berbuat kerusakan di bumi dan tidak mengadakan perbaikan.”"
+	},
+	{
+		"aya_id": 3085,
+		"aya_number": 153,
+		"aya_text": "قَالُوْٓا اِنَّمَآ اَنْتَ مِنَ الْمُسَحَّرِيْنَ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 373,
+		"translation_aya_text": "Mereka berkata, “Sungguh, engkau hanyalah termasuk orang yang kena sihir;"
+	},
+	{
+		"aya_id": 3086,
+		"aya_number": 154,
+		"aya_text": "مَآ اَنْتَ اِلَّا بَشَرٌ مِّثْلُنَاۙ فَأْتِ بِاٰيَةٍ اِنْ كُنْتَ مِنَ الصّٰدِقِيْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 373,
+		"translation_aya_text": "engkau hanyalah manusia seperti kami; maka datangkanlah sesuatu mukjizat jika engkau termasuk orang yang benar.”"
+	},
+	{
+		"aya_id": 3087,
+		"aya_number": 155,
+		"aya_text": "قَالَ هٰذِهٖ نَاقَةٌ لَّهَا شِرْبٌ وَّلَكُمْ شِرْبُ يَوْمٍ مَّعْلُوْمٍ ۚ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 373,
+		"translation_aya_text": "Dia (Saleh) menjawab, “Ini seekor unta betina, yang berhak mendapatkan (giliran) minum, dan kamu juga berhak mendapatkan minum pada hari yang ditentukan."
+	},
+	{
+		"aya_id": 3088,
+		"aya_number": 156,
+		"aya_text": "وَلَا تَمَسُّوْهَا بِسُوْۤءٍ فَيَأْخُذَكُمْ عَذَابُ يَوْمٍ عَظِيْمٍ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 373,
+		"translation_aya_text": "Dan jangan kamu menyentuhnya (unta itu) dengan sesuatu kejahatan, nanti kamu akan ditimpa azab pada hari yang dahsyat.”"
+	},
+	{
+		"aya_id": 3089,
+		"aya_number": 157,
+		"aya_text": "فَعَقَرُوْهَا فَاَصْبَحُوْا نٰدِمِيْنَ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 373,
+		"translation_aya_text": "Kemudian mereka membunuhnya, lalu mereka merasa menyesal,"
+	},
+	{
+		"aya_id": 3090,
+		"aya_number": 158,
+		"aya_text": "فَاَخَذَهُمُ الْعَذَابُۗ اِنَّ فِيْ ذٰلِكَ لَاٰيَةً ۗوَمَا كَانَ اَكْثَرُهُمْ مُّؤْمِنِيْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 373,
+		"translation_aya_text": "maka mereka ditimpa azab. Sungguh, pada yang demikian itu terdapat tanda (kekuasaan Allah), tetapi kebanyakan mereka tidak beriman."
+	},
+	{
+		"aya_id": 3091,
+		"aya_number": 159,
+		"aya_text": "وَاِنَّ رَبَّكَ لَهُوَ الْعَزِيْزُ الرَّحِيْمُ ࣖ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 373,
+		"translation_aya_text": "Dan sungguh, Tuhanmu, Dialah Yang Mahaperkasa, Maha Penyayang."
+	},
+	{
+		"aya_id": 3092,
+		"aya_number": 160,
+		"aya_text": "كَذَّبَتْ قَوْمُ لُوْطِ ِۨالْمُرْسَلِيْنَ ۖ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 374,
+		"translation_aya_text": "Kaum Lut telah mendustakan para rasul,"
+	},
+	{
+		"aya_id": 3093,
+		"aya_number": 161,
+		"aya_text": "اِذْ قَالَ لَهُمْ اَخُوْهُمْ لُوْطٌ اَلَا تَتَّقُوْنَ ۚ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 374,
+		"translation_aya_text": "ketika saudara mereka Lut berkata kepada mereka, “Mengapa kamu tidak bertakwa?”"
+	},
+	{
+		"aya_id": 3094,
+		"aya_number": 162,
+		"aya_text": "اِنِّيْ لَكُمْ رَسُوْلٌ اَمِيْنٌ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 374,
+		"translation_aya_text": "Sungguh, aku ini seorang rasul kepercayaan (yang diutus) kepadamu,"
+	},
+	{
+		"aya_id": 3095,
+		"aya_number": 163,
+		"aya_text": "فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِ ۚ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 374,
+		"translation_aya_text": "maka bertakwalah kepada Allah dan taatlah kepadaku."
+	},
+	{
+		"aya_id": 3096,
+		"aya_number": 164,
+		"aya_text": "وَمَآ اَسْـَٔلُكُمْ عَلَيْهِ مِنْ اَجْرٍ اِنْ اَجْرِيَ اِلَّا عَلٰى رَبِّ الْعٰلَمِيْنَ ۗ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 374,
+		"translation_aya_text": "Dan aku tidak meminta imbalan kepadamu atas ajakan itu; imbalanku hanyalah dari Tuhan seluruh alam."
+	},
+	{
+		"aya_id": 3097,
+		"aya_number": 165,
+		"aya_text": "اَتَأْتُوْنَ الذُّكْرَانَ مِنَ الْعٰلَمِيْنَ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 374,
+		"translation_aya_text": "Mengapa kamu mendatangi jenis laki-laki di antara manusia (berbuat homoseks),"
+	},
+	{
+		"aya_id": 3098,
+		"aya_number": 166,
+		"aya_text": "وَتَذَرُوْنَ مَا خَلَقَ لَكُمْ رَبُّكُمْ مِّنْ اَزْوَاجِكُمْۗ بَلْ اَنْتُمْ قَوْمٌ عٰدُوْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 374,
+		"translation_aya_text": "dan kamu tinggalkan (perempuan) yang diciptakan Tuhan untuk menjadi istri-istri kamu? Kamu (memang) orang-orang yang melampaui batas.” "
+	},
+	{
+		"aya_id": 3099,
+		"aya_number": 167,
+		"aya_text": "قَالُوْا لَىِٕنْ لَّمْ تَنْتَهِ يٰلُوْطُ لَتَكُوْنَنَّ مِنَ الْمُخْرَجِيْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 374,
+		"translation_aya_text": "Mereka menjawab, “Wahai Lut! Jika engkau tidak berhenti, engkau termasuk orang-orang yang terusir.”"
+	},
+	{
+		"aya_id": 3100,
+		"aya_number": 168,
+		"aya_text": "قَالَ ِانِّيْ لِعَمَلِكُمْ مِّنَ الْقَالِيْنَ  ۗ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 374,
+		"translation_aya_text": "Dia (Lut) berkata, “Aku sungguh benci kepada perbuatanmu.”"
+	},
+	{
+		"aya_id": 3101,
+		"aya_number": 169,
+		"aya_text": "رَبِّ نَجِّنِيْ وَاَهْلِيْ مِمَّا يَعْمَلُوْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 374,
+		"translation_aya_text": "(Lut berdoa), “Ya Tuhanku, selamatkanlah aku dan keluargaku dari (akibat) perbuatan yang mereka kerjakan.”"
+	},
+	{
+		"aya_id": 3102,
+		"aya_number": 170,
+		"aya_text": "فَنَجَّيْنٰهُ وَاَهْلَهٗٓ اَجْمَعِيْنَ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 374,
+		"translation_aya_text": "Lalu Kami selamatkan dia bersama keluarganya semua,"
+	},
+	{
+		"aya_id": 3103,
+		"aya_number": 171,
+		"aya_text": "اِلَّا عَجُوْزًا فِى الْغٰبِرِيْنَ ۚ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 374,
+		"translation_aya_text": "kecuali seorang perempuan tua (istrinya), yang termasuk dalam golongan yang tinggal."
+	},
+	{
+		"aya_id": 3104,
+		"aya_number": 172,
+		"aya_text": "ثُمَّ دَمَّرْنَا الْاٰخَرِيْنَ ۚ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 374,
+		"translation_aya_text": "Kemudian Kami binasakan yang lain."
+	},
+	{
+		"aya_id": 3105,
+		"aya_number": 173,
+		"aya_text": "وَاَمْطَرْنَا عَلَيْهِمْ مَّطَرًاۚ فَسَاۤءَ مَطَرُ الْمُنْذَرِيْنَ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 374,
+		"translation_aya_text": "Dan Kami hujani mereka (dengan hujan batu), maka betapa buruk hujan yang menimpa orang-orang yang telah diberi peringatan itu."
+	},
+	{
+		"aya_id": 3106,
+		"aya_number": 174,
+		"aya_text": "اِنَّ فِيْ ذٰلِكَ لَاٰيَةً ۗوَمَا كَانَ اَكْثَرُهُمْ مُّؤْمِنِيْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 374,
+		"translation_aya_text": "Sungguh, pada yang demikian itu terdapat tanda (kekuasaan Allah), tetapi kebanyakan mereka tidak beriman."
+	},
+	{
+		"aya_id": 3107,
+		"aya_number": 175,
+		"aya_text": "وَاِنَّ رَبَّكَ لَهُوَ الْعَزِيْزُ الرَّحِيْمُ ࣖ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 374,
+		"translation_aya_text": "Dan sungguh, Tuhanmu, Dialah Yang Mahaperkasa, Maha Penyayang."
+	},
+	{
+		"aya_id": 3108,
+		"aya_number": 176,
+		"aya_text": "كَذَّبَ اَصْحٰبُ لْـَٔيْكَةِ الْمُرْسَلِيْنَ ۖ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 374,
+		"translation_aya_text": "Penduduk Aikah telah mendustakan para rasul;"
+	},
+	{
+		"aya_id": 3109,
+		"aya_number": 177,
+		"aya_text": "اِذْ قَالَ لَهُمْ شُعَيْبٌ اَلَا تَتَّقُوْنَ ۚ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 374,
+		"translation_aya_text": "ketika Syuaib berkata kepada mereka, “Mengapa kamu tidak bertakwa?"
+	},
+	{
+		"aya_id": 3110,
+		"aya_number": 178,
+		"aya_text": "اِنِّيْ لَكُمْ رَسُوْلٌ اَمِيْنٌ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 374,
+		"translation_aya_text": "Sungguh, aku adalah rasul kepercayaan (yang diutus) kepadamu,"
+	},
+	{
+		"aya_id": 3111,
+		"aya_number": 179,
+		"aya_text": "فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِ ۚ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 374,
+		"translation_aya_text": "maka bertakwalah kepada Allah dan taatlah kepadaku;"
+	},
+	{
+		"aya_id": 3112,
+		"aya_number": 180,
+		"aya_text": "وَمَآ اَسْـَٔلُكُمْ عَلَيْهِ مِنْ اَجْرٍ اِنْ اَجْرِيَ اِلَّا عَلٰى رَبِّ الْعٰلَمِيْنَ ۗ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 374,
+		"translation_aya_text": "Dan aku tidak meminta imbalan kepadamu atas ajakan itu; imbalanku hanyalah dari Tuhan seluruh alam."
+	},
+	{
+		"aya_id": 3113,
+		"aya_number": 181,
+		"aya_text": "۞ اَوْفُوا الْكَيْلَ وَلَا تَكُوْنُوْا مِنَ الْمُخْسِرِيْنَ ۚ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 374,
+		"translation_aya_text": "Sempurnakanlah takaran dan janganlah kamu merugikan orang lain."
+	},
+	{
+		"aya_id": 3114,
+		"aya_number": 182,
+		"aya_text": "وَزِنُوْا بِالْقِسْطَاسِ الْمُسْتَقِيْمِ ۚ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 374,
+		"translation_aya_text": "Dan timbanglah dengan timbangan yang benar."
+	},
+	{
+		"aya_id": 3115,
+		"aya_number": 183,
+		"aya_text": "وَلَا تَبْخَسُوا النَّاسَ اَشْيَاۤءَهُمْ وَلَا تَعْثَوْا فِى الْاَرْضِ مُفْسِدِيْنَ ۚ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 374,
+		"translation_aya_text": "Dan janganlah kamu merugikan manusia dengan mengurangi hak-haknya dan janganlah membuat kerusakan di bumi;"
+	},
+	{
+		"aya_id": 3116,
+		"aya_number": 184,
+		"aya_text": "وَاتَّقُوا الَّذِيْ خَلَقَكُمْ وَالْجِبِلَّةَ الْاَوَّلِيْنَ ۗ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 375,
+		"translation_aya_text": "dan bertakwalah kepada Allah yang telah menciptakan kamu dan umat-umat yang terdahulu.”"
+	},
+	{
+		"aya_id": 3117,
+		"aya_number": 185,
+		"aya_text": "قَالُوْٓا اِنَّمَآ اَنْتَ مِنَ الْمُسَحَّرِيْنَ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 375,
+		"translation_aya_text": "Mereka berkata, “Engkau tidak lain hanyalah orang-orang yang kena sihir."
+	},
+	{
+		"aya_id": 3118,
+		"aya_number": 186,
+		"aya_text": "وَمَآ اَنْتَ اِلَّا بَشَرٌ مِّثْلُنَا وَاِنْ نَّظُنُّكَ لَمِنَ الْكٰذِبِيْنَ ۚ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 375,
+		"translation_aya_text": "Dan engkau hanyalah manusia seperti kami, dan sesungguhnya kami yakin engkau termasuk orang-orang yang berdusta."
+	},
+	{
+		"aya_id": 3119,
+		"aya_number": 187,
+		"aya_text": "فَاَسْقِطْ عَلَيْنَا كِسَفًا مِّنَ السَّمَاۤءِ اِنْ كُنْتَ مِنَ الصّٰدِقِيْنَ ۗ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 375,
+		"translation_aya_text": "Maka jatuhkanlah kepada kami gumpalan dari langit, jika engkau termasuk orang-orang yang benar.”"
+	},
+	{
+		"aya_id": 3120,
+		"aya_number": 188,
+		"aya_text": "قَالَ رَبِّيْٓ اَعْلَمُ بِمَا تَعْمَلُوْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 375,
+		"translation_aya_text": "Dia (Syuaib) berkata, “Tuhanku lebih mengetahui apa yang kamu kerjakan.”"
+	},
+	{
+		"aya_id": 3121,
+		"aya_number": 189,
+		"aya_text": "فَكَذَّبُوْهُ فَاَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ ۗاِنَّهٗ كَانَ عَذَابَ يَوْمٍ عَظِيْمٍ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 375,
+		"translation_aya_text": "Kemudian mereka mendustakannya (Syuaib), lalu mereka ditimpa azab pada hari yang gelap. Sungguh, itulah azab pada hari yang dahsyat."
+	},
+	{
+		"aya_id": 3122,
+		"aya_number": 190,
+		"aya_text": "اِنَّ فِيْ ذٰلِكَ لَاٰيَةً ۗوَمَا كَانَ اَكْثَرُهُمْ مُّؤْمِنِيْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 375,
+		"translation_aya_text": "Sungguh, pada yang demikian itu benar-benar terdapat tanda (kekuasaan Allah), tetapi kebanyakan mereka tidak beriman."
+	},
+	{
+		"aya_id": 3123,
+		"aya_number": 191,
+		"aya_text": "وَاِنَّ رَبَّكَ لَهُوَ الْعَزِيْزُ الرَّحِيْمُ ࣖ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 375,
+		"translation_aya_text": "Dan sungguh, Tuhanmu, Dialah yang Mahaperkasa, Maha Penyayang."
+	},
+	{
+		"aya_id": 3124,
+		"aya_number": 192,
+		"aya_text": "وَاِنَّهٗ لَتَنْزِيْلُ رَبِّ الْعٰلَمِيْنَ ۗ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 375,
+		"translation_aya_text": "Dan sungguh, (Al-Qur'an) ini benar-benar diturunkan oleh Tuhan seluruh alam,"
+	},
+	{
+		"aya_id": 3125,
+		"aya_number": 193,
+		"aya_text": "نَزَلَ بِهِ الرُّوْحُ الْاَمِيْنُ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 375,
+		"translation_aya_text": "Yang dibawa turun oleh ar-Ruh al-Amin (Jibril), "
+	},
+	{
+		"aya_id": 3126,
+		"aya_number": 194,
+		"aya_text": "عَلٰى قَلْبِكَ لِتَكُوْنَ مِنَ الْمُنْذِرِيْنَ ۙ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 375,
+		"translation_aya_text": "ke dalam hatimu (Muhammad) agar engkau termasuk orang yang memberi peringatan,"
+	},
+	{
+		"aya_id": 3127,
+		"aya_number": 195,
+		"aya_text": "بِلِسَانٍ عَرَبِيٍّ مُّبِيْنٍ ۗ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 375,
+		"translation_aya_text": "dengan bahasa Arab yang jelas."
+	},
+	{
+		"aya_id": 3128,
+		"aya_number": 196,
+		"aya_text": "وَاِنَّهٗ لَفِيْ زُبُرِ الْاَوَّلِيْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 375,
+		"translation_aya_text": "Dan sungguh, (Al-Qur'an) itu (disebut) dalam kitab-kitab orang yang terdahulu."
+	},
+	{
+		"aya_id": 3129,
+		"aya_number": 197,
+		"aya_text": "اَوَلَمْ يَكُنْ لَّهُمْ اٰيَةً اَنْ يَّعْلَمَهٗ عُلَمٰۤؤُا بَنِيْٓ اِسْرَاۤءِيْلَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 375,
+		"translation_aya_text": "Apakah tidak (cukup) menjadi bukti bagi mereka, bahwa para ulama Bani Israil mengetahuinya?"
+	},
+	{
+		"aya_id": 3130,
+		"aya_number": 198,
+		"aya_text": "وَلَوْ نَزَّلْنٰهُ عَلٰى بَعْضِ الْاَعْجَمِيْنَ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 375,
+		"translation_aya_text": "Dan seandainya (Al-Qur'an) itu Kami turunkan kepada sebagian dari golongan bukan Arab,"
+	},
+	{
+		"aya_id": 3131,
+		"aya_number": 199,
+		"aya_text": "فَقَرَاَهٗ عَلَيْهِمْ مَّا كَانُوْا بِهٖ مُؤْمِنِيْنَ ۗ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 375,
+		"translation_aya_text": "lalu dia membacakannya kepada mereka (orang-orang kafir); niscaya mereka tidak juga akan beriman kepadanya."
+	},
+	{
+		"aya_id": 3132,
+		"aya_number": 200,
+		"aya_text": "كَذٰلِكَ سَلَكْنٰهُ فِيْ قُلُوْبِ الْمُجْرِمِيْنَ ۗ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 375,
+		"translation_aya_text": "Demikianlah, Kami masukkan (sifat dusta dan ingkar) ke dalam hati orang-orang yang berdosa,"
+	},
+	{
+		"aya_id": 3133,
+		"aya_number": 201,
+		"aya_text": "لَا يُؤْمِنُوْنَ بِهٖ حَتّٰى يَرَوُا الْعَذَابَ الْاَلِيْمَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 375,
+		"translation_aya_text": "mereka tidak akan beriman kepadanya, hingga mereka melihat azab yang pedih,"
+	},
+	{
+		"aya_id": 3134,
+		"aya_number": 202,
+		"aya_text": "فَيَأْتِيَهُمْ بَغْتَةً وَّهُمْ لَا يَشْعُرُوْنَ ۙ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 375,
+		"translation_aya_text": "maka datang azab kepada mereka secara mendadak, ketika mereka tidak menyadarinya,"
+	},
+	{
+		"aya_id": 3135,
+		"aya_number": 203,
+		"aya_text": "فَيَقُوْلُوْا هَلْ نَحْنُ مُنْظَرُوْنَ ۗ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 375,
+		"translation_aya_text": "lalu mereka berkata, “Apakah kami diberi penangguhan waktu?” "
+	},
+	{
+		"aya_id": 3136,
+		"aya_number": 204,
+		"aya_text": "اَفَبِعَذَابِنَا يَسْتَعْجِلُوْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 375,
+		"translation_aya_text": "Bukankah mereka yang meminta agar azab Kami dipercepat?"
+	},
+	{
+		"aya_id": 3137,
+		"aya_number": 205,
+		"aya_text": "اَفَرَءَيْتَ اِنْ مَّتَّعْنٰهُمْ سِنِيْنَ ۙ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 375,
+		"translation_aya_text": "Maka bagaimana pendapatmu jika kepada mereka Kami berikan kenikmatan hidup beberapa tahun,"
+	},
+	{
+		"aya_id": 3138,
+		"aya_number": 206,
+		"aya_text": "ثُمَّ جَاۤءَهُمْ مَّا كَانُوْا يُوْعَدُوْنَ ۙ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 375,
+		"translation_aya_text": "kemudian datang kepada mereka azab yang diancamkan kepada mereka,"
+	},
+	{
+		"aya_id": 3139,
+		"aya_number": 207,
+		"aya_text": "مَآ اَغْنٰى عَنْهُمْ مَّا كَانُوْا يُمَتَّعُوْنَ ۗ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 376,
+		"translation_aya_text": "niscaya tidak berguna bagi mereka kenikmatan yang mereka rasakan."
+	},
+	{
+		"aya_id": 3140,
+		"aya_number": 208,
+		"aya_text": "وَمَآ اَهْلَكْنَا مِنْ قَرْيَةٍ اِلَّا لَهَا مُنْذِرُوْنَ ۖ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 376,
+		"translation_aya_text": "Dan Kami tidak membinasakan sesuatu negeri, kecuali setelah ada orang-orang yang memberi peringatan kepadanya;"
+	},
+	{
+		"aya_id": 3141,
+		"aya_number": 209,
+		"aya_text": "ذِكْرٰىۚ وَمَا كُنَّا ظٰلِمِيْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 376,
+		"translation_aya_text": "untuk (menjadi) peringatan. Dan Kami tidak berlaku zalim. "
+	},
+	{
+		"aya_id": 3142,
+		"aya_number": 210,
+		"aya_text": "وَمَا تَنَزَّلَتْ بِهِ الشَّيٰطِيْنُ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 376,
+		"translation_aya_text": "Dan (Al-Qur'an) itu tidaklah dibawa turun oleh setan-setan."
+	},
+	{
+		"aya_id": 3143,
+		"aya_number": 211,
+		"aya_text": "وَمَا يَنْۢبَغِيْ لَهُمْ وَمَا يَسْتَطِيْعُوْنَ ۗ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 376,
+		"translation_aya_text": "Dan tidaklah pantas bagi mereka (Al-Qur'an itu), dan mereka pun tidak akan sanggup."
+	},
+	{
+		"aya_id": 3144,
+		"aya_number": 212,
+		"aya_text": "اِنَّهُمْ عَنِ السَّمْعِ لَمَعْزُوْلُوْنَ ۗ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 376,
+		"translation_aya_text": "Sesungguhnya untuk mendengarkannya pun mereka dijauhkan."
+	},
+	{
+		"aya_id": 3145,
+		"aya_number": 213,
+		"aya_text": "فَلَا تَدْعُ مَعَ اللّٰهِ اِلٰهًا اٰخَرَ فَتَكُوْنَ مِنَ الْمُعَذَّبِيْنَ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 376,
+		"translation_aya_text": "Maka janganlah kamu menyeru (menyembah) tuhan selain Allah, nanti kamu termasuk orang-orang yang diazab."
+	},
+	{
+		"aya_id": 3146,
+		"aya_number": 214,
+		"aya_text": "وَاَنْذِرْ عَشِيْرَتَكَ الْاَقْرَبِيْنَ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 376,
+		"translation_aya_text": "Dan berilah peringatan kepada kerabat-kerabatmu (Muhammad) yang terdekat,"
+	},
+	{
+		"aya_id": 3147,
+		"aya_number": 215,
+		"aya_text": "وَاخْفِضْ جَنَاحَكَ لِمَنِ اتَّبَعَكَ مِنَ الْمُؤْمِنِيْنَ ۚ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 376,
+		"translation_aya_text": "dan rendahkanlah dirimu terhadap orang-orang yang beriman yang mengikutimu."
+	},
+	{
+		"aya_id": 3148,
+		"aya_number": 216,
+		"aya_text": "فَاِنْ عَصَوْكَ فَقُلْ اِنِّيْ بَرِيْۤءٌ مِّمَّا تَعْمَلُوْنَ ۚ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 376,
+		"translation_aya_text": "Kemudian jika mereka mendurhakaimu maka katakanlah (Muhammad), “Sesungguhnya aku tidak bertanggung jawab terhadap apa yang kamu kerjakan.”"
+	},
+	{
+		"aya_id": 3149,
+		"aya_number": 217,
+		"aya_text": "وَتَوَكَّلْ عَلَى الْعَزِيْزِ الرَّحِيْمِ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 376,
+		"translation_aya_text": "Dan bertawakallah kepada (Allah) Yang Mahaperkasa, Maha Penyayang."
+	},
+	{
+		"aya_id": 3150,
+		"aya_number": 218,
+		"aya_text": "الَّذِيْ يَرٰىكَ حِيْنَ تَقُوْمُ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 376,
+		"translation_aya_text": "Yang melihat engkau ketika engkau berdiri (untuk salat),"
+	},
+	{
+		"aya_id": 3151,
+		"aya_number": 219,
+		"aya_text": "وَتَقَلُّبَكَ فِى السّٰجِدِيْنَ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 376,
+		"translation_aya_text": "dan (melihat) perubahan gerakan badanmu di antara orang-orang yang sujud."
+	},
+	{
+		"aya_id": 3152,
+		"aya_number": 220,
+		"aya_text": "اِنَّهٗ هُوَ السَّمِيْعُ الْعَلِيْمُ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 376,
+		"translation_aya_text": "Sungguh, Dia Maha Mendengar, Maha Mengetahui."
+	},
+	{
+		"aya_id": 3153,
+		"aya_number": 221,
+		"aya_text": "هَلْ اُنَبِّئُكُمْ عَلٰى مَنْ تَنَزَّلُ الشَّيٰطِيْنُ ۗ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 376,
+		"translation_aya_text": "Maukah Aku beritakan kepadamu, kepada siapa setan-setan itu turun?"
+	},
+	{
+		"aya_id": 3154,
+		"aya_number": 222,
+		"aya_text": "تَنَزَّلُ عَلٰى كُلِّ اَفَّاكٍ اَثِيْمٍ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 376,
+		"translation_aya_text": "Mereka (setan) turun kepada setiap pendusta yang banyak berdosa,"
+	},
+	{
+		"aya_id": 3155,
+		"aya_number": 223,
+		"aya_text": "يُّلْقُوْنَ السَّمْعَ وَاَكْثَرُهُمْ كٰذِبُوْنَ ۗ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 376,
+		"translation_aya_text": "mereka menyampaikan hasil pendengaran mereka, sedangkan kebanyakan mereka orang-orang pendusta."
+	},
+	{
+		"aya_id": 3156,
+		"aya_number": 224,
+		"aya_text": "وَالشُّعَرَاۤءُ يَتَّبِعُهُمُ الْغَاوٗنَ ۗ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 376,
+		"translation_aya_text": "Dan penyair-penyair itu diikuti oleh orang-orang yang sesat."
+	},
+	{
+		"aya_id": 3157,
+		"aya_number": 225,
+		"aya_text": "اَلَمْ تَرَ اَنَّهُمْ فِيْ كُلِّ وَادٍ يَّهِيْمُوْنَ ۙ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 376,
+		"translation_aya_text": "Tidakkah engkau melihat bahwa mereka mengembara di setiap lembah,"
+	},
+	{
+		"aya_id": 3158,
+		"aya_number": 226,
+		"aya_text": "وَاَنَّهُمْ يَقُوْلُوْنَ مَا لَا يَفْعَلُوْنَ ۙ  ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 376,
+		"translation_aya_text": "dan bahwa mereka mengatakan apa yang mereka sendiri tidak mengerjakan(nya)?"
+	},
+	{
+		"aya_id": 3159,
+		"aya_number": 227,
+		"aya_text": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ وَذَكَرُوا اللّٰهَ كَثِيْرًا وَّانْتَصَرُوْا مِنْۢ بَعْدِ مَا ظُلِمُوْا ۗوَسَيَعْلَمُ الَّذِيْنَ ظَلَمُوْٓا اَيَّ مُنْقَلَبٍ يَّنْقَلِبُوْنَ ࣖ ",
+		"sura_id": 26,
+		"juz_id": 19,
+		"page_number": 376,
+		"translation_aya_text": "Kecuali orang-orang (penyair-penyair) yang beriman dan berbuat kebajikan dan banyak mengingat Allah dan mendapat kemenangan setelah terzalimi (karena menjawab puisi-puisi orang-orang kafir). Dan orang-orang yang zalim kelak akan tahu ke tempat mana mereka akan kembali."
+	}
 ]

@@ -1,56 +1,56 @@
 [
-  {
-    "aya_id": 6231,
-    "aya_number": 1,
-    "aya_text": "قُلْ اَعُوْذُ بِرَبِّ النَّاسِۙ",
-    "sura_id": 114,
-    "juz_id": 30,
-    "page_number": 604,
-    "translation_aya_text": "Katakanlah, “Aku berlindung kepada Tuhannya manusia,"
-  },
-  {
-    "aya_id": 6232,
-    "aya_number": 2,
-    "aya_text": "مَلِكِ النَّاسِۙ",
-    "sura_id": 114,
-    "juz_id": 30,
-    "page_number": 604,
-    "translation_aya_text": "Raja manusia,"
-  },
-  {
-    "aya_id": 6233,
-    "aya_number": 3,
-    "aya_text": "اِلٰهِ النَّاسِۙ",
-    "sura_id": 114,
-    "juz_id": 30,
-    "page_number": 604,
-    "translation_aya_text": "sembahan manusia,"
-  },
-  {
-    "aya_id": 6234,
-    "aya_number": 4,
-    "aya_text": "مِنْ شَرِّ الْوَسْوَاسِ ەۙ الْخَنَّاسِۖ",
-    "sura_id": 114,
-    "juz_id": 30,
-    "page_number": 604,
-    "translation_aya_text": "dari kejahatan (bisikan) setan yang bersembunyi,"
-  },
-  {
-    "aya_id": 6235,
-    "aya_number": 5,
-    "aya_text": "الَّذِيْ يُوَسْوِسُ فِيْ صُدُوْرِ النَّاسِۙ",
-    "sura_id": 114,
-    "juz_id": 30,
-    "page_number": 604,
-    "translation_aya_text": "yang membisikkan (kejahatan) ke dalam dada manusia,"
-  },
-  {
-    "aya_id": 6236,
-    "aya_number": 6,
-    "aya_text": "مِنَ الْجِنَّةِ وَالنَّاسِ ࣖ ",
-    "sura_id": 114,
-    "juz_id": 30,
-    "page_number": 604,
-    "translation_aya_text": "dari (golongan) jin dan manusia.”"
-  }
+	{
+		"aya_id": 6231,
+		"aya_number": 1,
+		"aya_text": "قُلْ اَعُوْذُ بِرَبِّ النَّاسِۙ",
+		"sura_id": 114,
+		"juz_id": 30,
+		"page_number": 604,
+		"translation_aya_text": "Katakanlah, “Aku berlindung kepada Tuhannya manusia,"
+	},
+	{
+		"aya_id": 6232,
+		"aya_number": 2,
+		"aya_text": "مَلِكِ النَّاسِۙ",
+		"sura_id": 114,
+		"juz_id": 30,
+		"page_number": 604,
+		"translation_aya_text": "Raja manusia,"
+	},
+	{
+		"aya_id": 6233,
+		"aya_number": 3,
+		"aya_text": "اِلٰهِ النَّاسِۙ",
+		"sura_id": 114,
+		"juz_id": 30,
+		"page_number": 604,
+		"translation_aya_text": "sembahan manusia,"
+	},
+	{
+		"aya_id": 6234,
+		"aya_number": 4,
+		"aya_text": "مِنْ شَرِّ الْوَسْوَاسِ ەۙ الْخَنَّاسِۖ",
+		"sura_id": 114,
+		"juz_id": 30,
+		"page_number": 604,
+		"translation_aya_text": "dari kejahatan (bisikan) setan yang bersembunyi,"
+	},
+	{
+		"aya_id": 6235,
+		"aya_number": 5,
+		"aya_text": "الَّذِيْ يُوَسْوِسُ فِيْ صُدُوْرِ النَّاسِۙ",
+		"sura_id": 114,
+		"juz_id": 30,
+		"page_number": 604,
+		"translation_aya_text": "yang membisikkan (kejahatan) ke dalam dada manusia,"
+	},
+	{
+		"aya_id": 6236,
+		"aya_number": 6,
+		"aya_text": "مِنَ الْجِنَّةِ وَالنَّاسِ ࣖ ",
+		"sura_id": 114,
+		"juz_id": 30,
+		"page_number": 604,
+		"translation_aya_text": "dari (golongan) jin dan manusia.”"
+	}
 ]

@@ -2,10 +2,10 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 
+@font-face {
+	font-family: 'Kemenag LPMQ';
+	src: url('../font/LPMQ.ttf');
+}
 :root {
-	--font-arab: 'Geeza Pro', 'Nadeem', 'Al Bayan', 'DecoType Naskh', 'DejaVu Serif', 'STFangsong',
-		'STHeiti', 'STKaiti', 'STSong', 'AB AlBayan', 'AB Geeza', 'AB Kufi', 'DecoType Naskh', 'Aldhabi',
-		'Andalus', 'Sakkal Majalla', 'Simplified arab', 'Traditional arab', 'arab Typesetting',
-		'Urdu Typesetting', 'Droid Naskh', 'Droid Kufi', 'Roboto', 'Tahoma', 'Times New Roman', 'Arial',
-		serif;
+	--font-arab: 'Kemenag LPMQ';
 }

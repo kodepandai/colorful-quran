@@ -1,74 +1,74 @@
 [
-  {
-    "aya_id": 6091,
-    "aya_number": 1,
-    "aya_text": "اَلَمْ نَشْرَحْ لَكَ صَدْرَكَۙ",
-    "sura_id": 94,
-    "juz_id": 30,
-    "page_number": 596,
-    "translation_aya_text": "Bukankah Kami telah melapangkan dadamu (Muhammad)?"
-  },
-  {
-    "aya_id": 6092,
-    "aya_number": 2,
-    "aya_text": "وَوَضَعْنَا عَنْكَ وِزْرَكَۙ",
-    "sura_id": 94,
-    "juz_id": 30,
-    "page_number": 596,
-    "translation_aya_text": "dan Kami pun telah menurunkan bebanmu darimu,"
-  },
-  {
-    "aya_id": 6093,
-    "aya_number": 3,
-    "aya_text": "الَّذِيْٓ اَنْقَضَ ظَهْرَكَۙ",
-    "sura_id": 94,
-    "juz_id": 30,
-    "page_number": 596,
-    "translation_aya_text": "yang memberatkan punggungmu, "
-  },
-  {
-    "aya_id": 6094,
-    "aya_number": 4,
-    "aya_text": "وَرَفَعْنَا لَكَ ذِكْرَكَۗ",
-    "sura_id": 94,
-    "juz_id": 30,
-    "page_number": 596,
-    "translation_aya_text": "dan Kami tinggikan sebutan (nama)mu bagimu."
-  },
-  {
-    "aya_id": 6095,
-    "aya_number": 5,
-    "aya_text": "فَاِنَّ مَعَ الْعُسْرِ يُسْرًاۙ",
-    "sura_id": 94,
-    "juz_id": 30,
-    "page_number": 596,
-    "translation_aya_text": "Maka sesungguhnya beserta kesulitan ada kemudahan,"
-  },
-  {
-    "aya_id": 6096,
-    "aya_number": 6,
-    "aya_text": "اِنَّ مَعَ الْعُسْرِ يُسْرًاۗ",
-    "sura_id": 94,
-    "juz_id": 30,
-    "page_number": 596,
-    "translation_aya_text": "sesungguhnya beserta kesulitan itu ada kemudahan."
-  },
-  {
-    "aya_id": 6097,
-    "aya_number": 7,
-    "aya_text": "فَاِذَا فَرَغْتَ فَانْصَبْۙ",
-    "sura_id": 94,
-    "juz_id": 30,
-    "page_number": 596,
-    "translation_aya_text": "Maka apabila engkau telah selesai (dari sesuatu urusan), tetaplah bekerja keras (untuk urusan yang lain),"
-  },
-  {
-    "aya_id": 6098,
-    "aya_number": 8,
-    "aya_text": "وَاِلٰى رَبِّكَ فَارْغَبْ ࣖ",
-    "sura_id": 94,
-    "juz_id": 30,
-    "page_number": 596,
-    "translation_aya_text": "dan hanya kepada Tuhanmulah engkau berharap."
-  }
+	{
+		"aya_id": 6091,
+		"aya_number": 1,
+		"aya_text": "اَلَمْ نَشْرَحْ لَكَ صَدْرَكَۙ",
+		"sura_id": 94,
+		"juz_id": 30,
+		"page_number": 596,
+		"translation_aya_text": "Bukankah Kami telah melapangkan dadamu (Muhammad)?"
+	},
+	{
+		"aya_id": 6092,
+		"aya_number": 2,
+		"aya_text": "وَوَضَعْنَا عَنْكَ وِزْرَكَۙ",
+		"sura_id": 94,
+		"juz_id": 30,
+		"page_number": 596,
+		"translation_aya_text": "dan Kami pun telah menurunkan bebanmu darimu,"
+	},
+	{
+		"aya_id": 6093,
+		"aya_number": 3,
+		"aya_text": "الَّذِيْٓ اَنْقَضَ ظَهْرَكَۙ",
+		"sura_id": 94,
+		"juz_id": 30,
+		"page_number": 596,
+		"translation_aya_text": "yang memberatkan punggungmu, "
+	},
+	{
+		"aya_id": 6094,
+		"aya_number": 4,
+		"aya_text": "وَرَفَعْنَا لَكَ ذِكْرَكَۗ",
+		"sura_id": 94,
+		"juz_id": 30,
+		"page_number": 596,
+		"translation_aya_text": "dan Kami tinggikan sebutan (nama)mu bagimu."
+	},
+	{
+		"aya_id": 6095,
+		"aya_number": 5,
+		"aya_text": "فَاِنَّ مَعَ الْعُسْرِ يُسْرًاۙ",
+		"sura_id": 94,
+		"juz_id": 30,
+		"page_number": 596,
+		"translation_aya_text": "Maka sesungguhnya beserta kesulitan ada kemudahan,"
+	},
+	{
+		"aya_id": 6096,
+		"aya_number": 6,
+		"aya_text": "اِنَّ مَعَ الْعُسْرِ يُسْرًاۗ",
+		"sura_id": 94,
+		"juz_id": 30,
+		"page_number": 596,
+		"translation_aya_text": "sesungguhnya beserta kesulitan itu ada kemudahan."
+	},
+	{
+		"aya_id": 6097,
+		"aya_number": 7,
+		"aya_text": "فَاِذَا فَرَغْتَ فَانْصَبْۙ",
+		"sura_id": 94,
+		"juz_id": 30,
+		"page_number": 596,
+		"translation_aya_text": "Maka apabila engkau telah selesai (dari sesuatu urusan), tetaplah bekerja keras (untuk urusan yang lain),"
+	},
+	{
+		"aya_id": 6098,
+		"aya_number": 8,
+		"aya_text": "وَاِلٰى رَبِّكَ فَارْغَبْ ࣖ",
+		"sura_id": 94,
+		"juz_id": 30,
+		"page_number": 596,
+		"translation_aya_text": "dan hanya kepada Tuhanmulah engkau berharap."
+	}
 ]
