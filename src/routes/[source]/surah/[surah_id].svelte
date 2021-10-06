@@ -20,7 +20,12 @@
 </script>
 
 {#each surah as aya}
-	<div class="font-arab" style="direction: rtl;">
-		{aya.aya_text}
+<div class="p-2">
+	<div class="font-arab p-3 bg-gray-400 rounded-md" style="direction: rtl;">
+		{`${aya.aya_text.slice}`}
 	</div>
+	<div class="font-arab mt-2">
+		{`${aya.aya_number}. ${aya.translation_aya_text}`}
+	</div>
+</div>
 {/each}
