@@ -6,6 +6,9 @@ module.exports = {
   ],
   theme: {
       extend: {
+        fontFamily: {
+          arab: ['var(--font-arab)', 'serif']
+        }
       }
   }
 }
