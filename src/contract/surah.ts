@@ -1,3 +1,9 @@
+
+export interface ITajweed {
+    class: string
+    start: number
+    end: number
+}
 export interface IAya {
 	aya_id: number;
 	aya_number: number;
@@ -6,4 +12,5 @@ export interface IAya {
 	juz_id: number;
 	page_number: number;
 	translation_aya_text: string;
+    tajweed?: ITajweed[]
 }
