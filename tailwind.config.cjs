@@ -4,10 +4,8 @@ module.exports = {
 	theme: {
 		extend: {
 			fontFamily: {
-				lato: ['Lato', 'sans-seri'],
-				arab: ['Scheherazade New', 'serif']
-			},
-			fontSize: { text24: '24px' }
+				arab: ['var(--font-arab)', 'serif']
+			}
 		}
 	}
 };

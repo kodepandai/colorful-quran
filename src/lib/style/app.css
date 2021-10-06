@@ -2,4 +2,10 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 
-@import url('https://fonts.googleapis.com/css2?family=Lato&family=Scheherazade+New:wght@700&display=swap');
+:root {
+	--font-arab: 'Geeza Pro', 'Nadeem', 'Al Bayan', 'DecoType Naskh', 'DejaVu Serif', 'STFangsong',
+		'STHeiti', 'STKaiti', 'STSong', 'AB AlBayan', 'AB Geeza', 'AB Kufi', 'DecoType Naskh', 'Aldhabi',
+		'Andalus', 'Sakkal Majalla', 'Simplified arab', 'Traditional arab', 'arab Typesetting',
+		'Urdu Typesetting', 'Droid Naskh', 'Droid Kufi', 'Roboto', 'Tahoma', 'Times New Roman', 'Arial',
+		serif;
+}

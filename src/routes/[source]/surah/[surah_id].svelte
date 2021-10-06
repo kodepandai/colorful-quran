@@ -1,6 +1,8 @@
 <script context="module" lang="ts">
+	import type { IAya } from '$contract/surah';
+
 	import type { Load } from '@sveltejs/kit';
-	let surah;
+	let surah: IAya[];
 
 	const getSurah = async (source, surah_id) => {
 		surah = (await import(`../../../db/${source}/surah/${surah_id}.json`)).default;
@@ -17,6 +19,8 @@
 	};
 </script>
 
-<pre>
-    {JSON.stringify(surah, null, 2)}
-</pre>
+{#each surah as aya}
+	<div class="font-arab" style="direction: rtl;">
+		{aya.aya_text}
+	</div>
+{/each}

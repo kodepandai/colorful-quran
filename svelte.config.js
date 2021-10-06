@@ -13,7 +13,9 @@ const config = {
 		vite: {
 			resolve: {
 				alias: {
-					"$db": resolve("./src/db")
+					"$db": resolve("./src/db"),
+					"$contract": resolve('./src/contract'),
+					"$component": resolve('./src/component')
 				}
 			}
 		}
