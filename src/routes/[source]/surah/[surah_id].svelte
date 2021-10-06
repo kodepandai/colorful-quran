@@ -8,7 +8,7 @@
 		surah = (await import(`../../../db/${source}/surah/${surah_id}.json`)).default;
 	};
 
-	export const load: Load = async ({ page, fetch, session }) => {
+	export const load: Load = async ({ page }) => {
 		await getSurah(page.params.source, page.params.surah_id);
 		return {
 			status: 200,

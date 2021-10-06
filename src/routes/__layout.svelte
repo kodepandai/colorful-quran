@@ -1,5 +1,4 @@
 <script>
-	import FontLoader from '$component/support/FontLoader.svelte';
 	import '$lib/style/app.css';
 </script>
 
@@ -10,4 +9,3 @@
 </svelte:head>
 
 <slot />
-<FontLoader />

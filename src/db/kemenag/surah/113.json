@@ -1,47 +1,47 @@
 [
-  {
-    "aya_id": 6226,
-    "aya_number": 1,
-    "aya_text": "قُلْ اَعُوْذُ بِرَبِّ الْفَلَقِۙ",
-    "sura_id": 113,
-    "juz_id": 30,
-    "page_number": 604,
-    "translation_aya_text": "Katakanlah, “Aku berlindung kepada Tuhan yang menguasai subuh (fajar),"
-  },
-  {
-    "aya_id": 6227,
-    "aya_number": 2,
-    "aya_text": "مِنْ شَرِّ مَا خَلَقَۙ",
-    "sura_id": 113,
-    "juz_id": 30,
-    "page_number": 604,
-    "translation_aya_text": "dari kejahatan (makhluk yang) Dia ciptakan,"
-  },
-  {
-    "aya_id": 6228,
-    "aya_number": 3,
-    "aya_text": "وَمِنْ شَرِّ غَاسِقٍ اِذَا وَقَبَۙ",
-    "sura_id": 113,
-    "juz_id": 30,
-    "page_number": 604,
-    "translation_aya_text": "dan dari kejahatan malam apabila telah gelap gulita,"
-  },
-  {
-    "aya_id": 6229,
-    "aya_number": 4,
-    "aya_text": "وَمِنْ شَرِّ النَّفّٰثٰتِ فِى الْعُقَدِۙ",
-    "sura_id": 113,
-    "juz_id": 30,
-    "page_number": 604,
-    "translation_aya_text": "dan dari kejahatan (perempuan-perempuan) penyihir yang meniup pada buhul-buhul (talinya),"
-  },
-  {
-    "aya_id": 6230,
-    "aya_number": 5,
-    "aya_text": "وَمِنْ شَرِّ حَاسِدٍ اِذَا حَسَدَ ࣖ",
-    "sura_id": 113,
-    "juz_id": 30,
-    "page_number": 604,
-    "translation_aya_text": "dan dari kejahatan orang yang dengki apabila dia dengki.”"
-  }
+	{
+		"aya_id": 6226,
+		"aya_number": 1,
+		"aya_text": "قُلْ اَعُوْذُ بِرَبِّ الْفَلَقِۙ",
+		"sura_id": 113,
+		"juz_id": 30,
+		"page_number": 604,
+		"translation_aya_text": "Katakanlah, “Aku berlindung kepada Tuhan yang menguasai subuh (fajar),"
+	},
+	{
+		"aya_id": 6227,
+		"aya_number": 2,
+		"aya_text": "مِنْ شَرِّ مَا خَلَقَۙ",
+		"sura_id": 113,
+		"juz_id": 30,
+		"page_number": 604,
+		"translation_aya_text": "dari kejahatan (makhluk yang) Dia ciptakan,"
+	},
+	{
+		"aya_id": 6228,
+		"aya_number": 3,
+		"aya_text": "وَمِنْ شَرِّ غَاسِقٍ اِذَا وَقَبَۙ",
+		"sura_id": 113,
+		"juz_id": 30,
+		"page_number": 604,
+		"translation_aya_text": "dan dari kejahatan malam apabila telah gelap gulita,"
+	},
+	{
+		"aya_id": 6229,
+		"aya_number": 4,
+		"aya_text": "وَمِنْ شَرِّ النَّفّٰثٰتِ فِى الْعُقَدِۙ",
+		"sura_id": 113,
+		"juz_id": 30,
+		"page_number": 604,
+		"translation_aya_text": "dan dari kejahatan (perempuan-perempuan) penyihir yang meniup pada buhul-buhul (talinya),"
+	},
+	{
+		"aya_id": 6230,
+		"aya_number": 5,
+		"aya_text": "وَمِنْ شَرِّ حَاسِدٍ اِذَا حَسَدَ ࣖ",
+		"sura_id": 113,
+		"juz_id": 30,
+		"page_number": 604,
+		"translation_aya_text": "dan dari kejahatan orang yang dengki apabila dia dengki.”"
+	}
 ]

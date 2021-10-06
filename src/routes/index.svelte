@@ -1,6 +1,5 @@
 <script lang="ts">
 	import list from '$db/kemenag/list.json';
-	import SurahId from './[source]/surah/[surah_id].svelte';
 </script>
 
 <h1 class="text-7xl text-center font-lato">Al Qur'an</h1>

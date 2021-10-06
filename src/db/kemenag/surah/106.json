@@ -1,38 +1,38 @@
 [
-  {
-    "aya_id": 6194,
-    "aya_number": 1,
-    "aya_text": "لِاِيْلٰفِ قُرَيْشٍۙ",
-    "sura_id": 106,
-    "juz_id": 30,
-    "page_number": 602,
-    "translation_aya_text": "Karena kebiasaan orang-orang Quraisy,"
-  },
-  {
-    "aya_id": 6195,
-    "aya_number": 2,
-    "aya_text": "اٖلٰفِهِمْ رِحْلَةَ الشِّتَاۤءِ وَالصَّيْفِۚ",
-    "sura_id": 106,
-    "juz_id": 30,
-    "page_number": 602,
-    "translation_aya_text": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas."
-  },
-  {
-    "aya_id": 6196,
-    "aya_number": 3,
-    "aya_text": "فَلْيَعْبُدُوْا رَبَّ هٰذَا الْبَيْتِۙ",
-    "sura_id": 106,
-    "juz_id": 30,
-    "page_number": 602,
-    "translation_aya_text": "Maka hendaklah mereka menyembah Tuhan (pemilik) rumah ini (Ka‘bah),"
-  },
-  {
-    "aya_id": 6197,
-    "aya_number": 4,
-    "aya_text": "الَّذِيْٓ اَطْعَمَهُمْ مِّنْ جُوْعٍ ەۙ وَّاٰمَنَهُمْ مِّنْ خَوْفٍ ࣖ",
-    "sura_id": 106,
-    "juz_id": 30,
-    "page_number": 602,
-    "translation_aya_text": "yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari rasa ketakutan."
-  }
+	{
+		"aya_id": 6194,
+		"aya_number": 1,
+		"aya_text": "لِاِيْلٰفِ قُرَيْشٍۙ",
+		"sura_id": 106,
+		"juz_id": 30,
+		"page_number": 602,
+		"translation_aya_text": "Karena kebiasaan orang-orang Quraisy,"
+	},
+	{
+		"aya_id": 6195,
+		"aya_number": 2,
+		"aya_text": "اٖلٰفِهِمْ رِحْلَةَ الشِّتَاۤءِ وَالصَّيْفِۚ",
+		"sura_id": 106,
+		"juz_id": 30,
+		"page_number": 602,
+		"translation_aya_text": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas."
+	},
+	{
+		"aya_id": 6196,
+		"aya_number": 3,
+		"aya_text": "فَلْيَعْبُدُوْا رَبَّ هٰذَا الْبَيْتِۙ",
+		"sura_id": 106,
+		"juz_id": 30,
+		"page_number": 602,
+		"translation_aya_text": "Maka hendaklah mereka menyembah Tuhan (pemilik) rumah ini (Ka‘bah),"
+	},
+	{
+		"aya_id": 6197,
+		"aya_number": 4,
+		"aya_text": "الَّذِيْٓ اَطْعَمَهُمْ مِّنْ جُوْعٍ ەۙ وَّاٰمَنَهُمْ مِّنْ خَوْفٍ ࣖ",
+		"sura_id": 106,
+		"juz_id": 30,
+		"page_number": 602,
+		"translation_aya_text": "yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari rasa ketakutan."
+	}
 ]

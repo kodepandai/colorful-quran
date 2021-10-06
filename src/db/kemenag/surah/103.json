@@ -1,29 +1,29 @@
 [
-  {
-    "aya_id": 6177,
-    "aya_number": 1,
-    "aya_text": "وَالْعَصْرِۙ",
-    "sura_id": 103,
-    "juz_id": 30,
-    "page_number": 601,
-    "translation_aya_text": "Demi masa,"
-  },
-  {
-    "aya_id": 6178,
-    "aya_number": 2,
-    "aya_text": "اِنَّ الْاِنْسَانَ لَفِيْ خُسْرٍۙ",
-    "sura_id": 103,
-    "juz_id": 30,
-    "page_number": 601,
-    "translation_aya_text": "sungguh, manusia berada dalam kerugian,"
-  },
-  {
-    "aya_id": 6179,
-    "aya_number": 3,
-    "aya_text": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ وَتَوَاصَوْا بِالْحَقِّ ەۙ وَتَوَاصَوْا بِالصَّبْرِ ࣖ",
-    "sura_id": 103,
-    "juz_id": 30,
-    "page_number": 601,
-    "translation_aya_text": "kecuali orang-orang yang beriman dan mengerjakan kebajikan serta saling menasihati untuk kebenaran dan saling menasihati untuk kesabaran."
-  }
+	{
+		"aya_id": 6177,
+		"aya_number": 1,
+		"aya_text": "وَالْعَصْرِۙ",
+		"sura_id": 103,
+		"juz_id": 30,
+		"page_number": 601,
+		"translation_aya_text": "Demi masa,"
+	},
+	{
+		"aya_id": 6178,
+		"aya_number": 2,
+		"aya_text": "اِنَّ الْاِنْسَانَ لَفِيْ خُسْرٍۙ",
+		"sura_id": 103,
+		"juz_id": 30,
+		"page_number": 601,
+		"translation_aya_text": "sungguh, manusia berada dalam kerugian,"
+	},
+	{
+		"aya_id": 6179,
+		"aya_number": 3,
+		"aya_text": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ وَتَوَاصَوْا بِالْحَقِّ ەۙ وَتَوَاصَوْا بِالصَّبْرِ ࣖ",
+		"sura_id": 103,
+		"juz_id": 30,
+		"page_number": 601,
+		"translation_aya_text": "kecuali orang-orang yang beriman dan mengerjakan kebajikan serta saling menasihati untuk kebenaran dan saling menasihati untuk kesabaran."
+	}
 ]

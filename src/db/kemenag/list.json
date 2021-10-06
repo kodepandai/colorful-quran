@@ -1,800 +1,800 @@
 [
-  {
-    "id": 1,
-    "surat_name": "Al-Fatihah",
-    "surat_text": " الفاتحة",
-    "surat_terjemahan": "Pembukaan",
-    "count_ayat": 7
-  },
-  {
-    "id": 2,
-    "surat_name": "Al-Baqarah",
-    "surat_text": " البقرة",
-    "surat_terjemahan": "Sapi",
-    "count_ayat": 286
-  },
-  {
-    "id": 3,
-    "surat_name": "Ali 'Imran",
-    "surat_text": " اٰل عمران",
-    "surat_terjemahan": "Keluarga Imran",
-    "count_ayat": 200
-  },
-  {
-    "id": 4,
-    "surat_name": "An-Nisa'",
-    "surat_text": " النساۤء",
-    "surat_terjemahan": "Wanita",
-    "count_ayat": 176
-  },
-  {
-    "id": 5,
-    "surat_name": "Al-Ma'idah",
-    "surat_text": " الماۤئدة",
-    "surat_terjemahan": "Hidangan",
-    "count_ayat": 120
-  },
-  {
-    "id": 6,
-    "surat_name": "Al-An'am",
-    "surat_text": " الانعام",
-    "surat_terjemahan": "Binatang Ternak",
-    "count_ayat": 165
-  },
-  {
-    "id": 7,
-    "surat_name": "Al-A'raf",
-    "surat_text": " الاعراف",
-    "surat_terjemahan": "Tempat Tertinggi",
-    "count_ayat": 206
-  },
-  {
-    "id": 8,
-    "surat_name": "Al-Anfal",
-    "surat_text": " الانفال",
-    "surat_terjemahan": "Rampasan Perang",
-    "count_ayat": 75
-  },
-  {
-    "id": 9,
-    "surat_name": "At-Taubah",
-    "surat_text": " التوبة",
-    "surat_terjemahan": "Pengampunan",
-    "count_ayat": 129
-  },
-  {
-    "id": 10,
-    "surat_name": "Yunus",
-    "surat_text": " يونس",
-    "surat_terjemahan": "Yunus",
-    "count_ayat": 109
-  },
-  {
-    "id": 11,
-    "surat_name": "Hud",
-    "surat_text": " هود",
-    "surat_terjemahan": "Hud",
-    "count_ayat": 123
-  },
-  {
-    "id": 12,
-    "surat_name": "Yusuf",
-    "surat_text": " يوسف",
-    "surat_terjemahan": "Yusuf",
-    "count_ayat": 111
-  },
-  {
-    "id": 13,
-    "surat_name": "Ar-Ra'd",
-    "surat_text": " الرّعد",
-    "surat_terjemahan": "Guruh",
-    "count_ayat": 43
-  },
-  {
-    "id": 14,
-    "surat_name": "Ibrahim",
-    "surat_text": " ابرٰهيم",
-    "surat_terjemahan": "Ibrahim",
-    "count_ayat": 52
-  },
-  {
-    "id": 15,
-    "surat_name": "Al-Hijr",
-    "surat_text": " الحجر",
-    "surat_terjemahan": "Hijr",
-    "count_ayat": 99
-  },
-  {
-    "id": 16,
-    "surat_name": "An-Nahl",
-    "surat_text": " النحل",
-    "surat_terjemahan": "Lebah",
-    "count_ayat": 128
-  },
-  {
-    "id": 17,
-    "surat_name": "Al-Isra'",
-    "surat_text": " الاسراۤء",
-    "surat_terjemahan": "Memperjalankan Malam Hari",
-    "count_ayat": 111
-  },
-  {
-    "id": 18,
-    "surat_name": "Al-Kahf",
-    "surat_text": " الكهف",
-    "surat_terjemahan": "Goa",
-    "count_ayat": 110
-  },
-  {
-    "id": 19,
-    "surat_name": "Maryam",
-    "surat_text": " مريم",
-    "surat_terjemahan": "Maryam",
-    "count_ayat": 98
-  },
-  {
-    "id": 20,
-    "surat_name": "Taha",
-    "surat_text": " طٰهٰ",
-    "surat_terjemahan": "Taha",
-    "count_ayat": 135
-  },
-  {
-    "id": 21,
-    "surat_name": "Al-Anbiya'",
-    "surat_text": " الانبياۤء",
-    "surat_terjemahan": "Para Nabi",
-    "count_ayat": 112
-  },
-  {
-    "id": 22,
-    "surat_name": "Al-Hajj",
-    "surat_text": " الحج",
-    "surat_terjemahan": "Haji",
-    "count_ayat": 78
-  },
-  {
-    "id": 23,
-    "surat_name": "Al-Mu'minun",
-    "surat_text": " المؤمنون",
-    "surat_terjemahan": "Orang-Orang Mukmin",
-    "count_ayat": 118
-  },
-  {
-    "id": 24,
-    "surat_name": "An-Nur",
-    "surat_text": " النّور",
-    "surat_terjemahan": "Cahaya",
-    "count_ayat": 64
-  },
-  {
-    "id": 25,
-    "surat_name": "Al-Furqan",
-    "surat_text": " الفرقان",
-    "surat_terjemahan": "Pembeda",
-    "count_ayat": 77
-  },
-  {
-    "id": 26,
-    "surat_name": "Asy-Syu'ara'",
-    "surat_text": " الشعراۤء",
-    "surat_terjemahan": "Para Penyair",
-    "count_ayat": 227
-  },
-  {
-    "id": 27,
-    "surat_name": "An-Naml",
-    "surat_text": " النمل",
-    "surat_terjemahan": "Semut-semut",
-    "count_ayat": 93
-  },
-  {
-    "id": 28,
-    "surat_name": "Al-Qasas",
-    "surat_text": " القصص",
-    "surat_terjemahan": "Kisah-Kisah",
-    "count_ayat": 88
-  },
-  {
-    "id": 29,
-    "surat_name": "Al-'Ankabut",
-    "surat_text": " العنكبوت",
-    "surat_terjemahan": "Laba-Laba",
-    "count_ayat": 69
-  },
-  {
-    "id": 30,
-    "surat_name": "Ar-Rum",
-    "surat_text": " الرّوم",
-    "surat_terjemahan": "Romawi",
-    "count_ayat": 60
-  },
-  {
-    "id": 31,
-    "surat_name": "Luqman",
-    "surat_text": " لقمٰن",
-    "surat_terjemahan": "Luqman",
-    "count_ayat": 34
-  },
-  {
-    "id": 32,
-    "surat_name": "As-Sajdah",
-    "surat_text": " السّجدة",
-    "surat_terjemahan": "Sajdah",
-    "count_ayat": 30
-  },
-  {
-    "id": 33,
-    "surat_name": "Al-Ahzab",
-    "surat_text": " الاحزاب",
-    "surat_terjemahan": "Golongan Yang Bersekutu",
-    "count_ayat": 73
-  },
-  {
-    "id": 34,
-    "surat_name": "Saba'",
-    "surat_text": " سبأ",
-    "surat_terjemahan": "Saba'",
-    "count_ayat": 54
-  },
-  {
-    "id": 35,
-    "surat_name": "Fatir",
-    "surat_text": " فاطر",
-    "surat_terjemahan": "Maha Pencipta",
-    "count_ayat": 45
-  },
-  {
-    "id": 36,
-    "surat_name": "Yasin",
-    "surat_text": " يٰسۤ",
-    "surat_terjemahan": "Yasin",
-    "count_ayat": 83
-  },
-  {
-    "id": 37,
-    "surat_name": "As-Saffat",
-    "surat_text": " الصّٰۤفّٰت",
-    "surat_terjemahan": "Barisan-Barisan",
-    "count_ayat": 182
-  },
-  {
-    "id": 38,
-    "surat_name": "Sad",
-    "surat_text": " ص",
-    "surat_terjemahan": "Sad",
-    "count_ayat": 88
-  },
-  {
-    "id": 39,
-    "surat_name": "Az-Zumar",
-    "surat_text": " الزمر",
-    "surat_terjemahan": "Rombongan",
-    "count_ayat": 75
-  },
-  {
-    "id": 40,
-    "surat_name": "Gafir",
-    "surat_text": " غافر",
-    "surat_terjemahan": "Maha Pengampun",
-    "count_ayat": 85
-  },
-  {
-    "id": 41,
-    "surat_name": "Fussilat",
-    "surat_text": " فصّلت",
-    "surat_terjemahan": "Yang Dijelaskan",
-    "count_ayat": 54
-  },
-  {
-    "id": 42,
-    "surat_name": "Asy-Syura",
-    "surat_text": " الشورى",
-    "surat_terjemahan": "Musyawarah",
-    "count_ayat": 53
-  },
-  {
-    "id": 43,
-    "surat_name": "Az-Zukhruf",
-    "surat_text": " الزخرف",
-    "surat_terjemahan": "Perhiasan",
-    "count_ayat": 89
-  },
-  {
-    "id": 44,
-    "surat_name": "Ad-Dukhan",
-    "surat_text": " الدخان",
-    "surat_terjemahan": "Kabut",
-    "count_ayat": 59
-  },
-  {
-    "id": 45,
-    "surat_name": "Al-Jasiyah",
-    "surat_text": " الجاثية",
-    "surat_terjemahan": "Berlutut",
-    "count_ayat": 37
-  },
-  {
-    "id": 46,
-    "surat_name": "Al-Ahqaf",
-    "surat_text": " الاحقاف",
-    "surat_terjemahan": "Bukit Pasir",
-    "count_ayat": 35
-  },
-  {
-    "id": 47,
-    "surat_name": "Muhammad",
-    "surat_text": " محمّد",
-    "surat_terjemahan": "Muhammad",
-    "count_ayat": 38
-  },
-  {
-    "id": 48,
-    "surat_name": "Al-Fath",
-    "surat_text": " الفتح",
-    "surat_terjemahan": "Kemenangan",
-    "count_ayat": 29
-  },
-  {
-    "id": 49,
-    "surat_name": "Al-Hujurat",
-    "surat_text": " الحجرٰت",
-    "surat_terjemahan": "Kamar-Kamar",
-    "count_ayat": 18
-  },
-  {
-    "id": 50,
-    "surat_name": "Qaf",
-    "surat_text": " ق",
-    "surat_terjemahan": "Qaf",
-    "count_ayat": 45
-  },
-  {
-    "id": 51,
-    "surat_name": "Az-Zariyat",
-    "surat_text": " الذّٰريٰت",
-    "surat_terjemahan": "Angin yang Menerbangkan",
-    "count_ayat": 60
-  },
-  {
-    "id": 52,
-    "surat_name": "At-Tur",
-    "surat_text": " الطور",
-    "surat_terjemahan": "Bukit Tursina",
-    "count_ayat": 49
-  },
-  {
-    "id": 53,
-    "surat_name": "An-Najm",
-    "surat_text": " النجم",
-    "surat_terjemahan": "Bintang",
-    "count_ayat": 62
-  },
-  {
-    "id": 54,
-    "surat_name": "Al-Qamar",
-    "surat_text": " القمر",
-    "surat_terjemahan": "Bulan",
-    "count_ayat": 55
-  },
-  {
-    "id": 55,
-    "surat_name": "Ar-Rahman",
-    "surat_text": " الرحمن",
-    "surat_terjemahan": "Maha Pengasih",
-    "count_ayat": 78
-  },
-  {
-    "id": 56,
-    "surat_name": "Al-Waqi'ah",
-    "surat_text": " الواقعة",
-    "surat_terjemahan": "Hari Kiamat",
-    "count_ayat": 96
-  },
-  {
-    "id": 57,
-    "surat_name": "Al-Hadid",
-    "surat_text": " الحديد",
-    "surat_terjemahan": "Besi",
-    "count_ayat": 29
-  },
-  {
-    "id": 58,
-    "surat_name": "Al-Mujadalah",
-    "surat_text": " المجادلة",
-    "surat_terjemahan": "Gugatan",
-    "count_ayat": 22
-  },
-  {
-    "id": 59,
-    "surat_name": "Al-Hasyr",
-    "surat_text": " الحشر",
-    "surat_terjemahan": "Pengusiran",
-    "count_ayat": 24
-  },
-  {
-    "id": 60,
-    "surat_name": "Al-Mumtahanah",
-    "surat_text": " الممتحنة",
-    "surat_terjemahan": "Wanita Yang Diuji",
-    "count_ayat": 13
-  },
-  {
-    "id": 61,
-    "surat_name": "As-Saff",
-    "surat_text": " الصّفّ",
-    "surat_terjemahan": "Barisan",
-    "count_ayat": 14
-  },
-  {
-    "id": 62,
-    "surat_name": "Al-Jumu'ah",
-    "surat_text": " الجمعة",
-    "surat_terjemahan": "Jumat",
-    "count_ayat": 11
-  },
-  {
-    "id": 63,
-    "surat_name": "Al-Munafiqun",
-    "surat_text": " المنٰفقون",
-    "surat_terjemahan": "Orang-Orang Munafik",
-    "count_ayat": 11
-  },
-  {
-    "id": 64,
-    "surat_name": "At-Tagabun",
-    "surat_text": " التغابن",
-    "surat_terjemahan": "Pengungkapan Kesalahan",
-    "count_ayat": 18
-  },
-  {
-    "id": 65,
-    "surat_name": "At-Talaq",
-    "surat_text": " الطلاق",
-    "surat_terjemahan": "Talak",
-    "count_ayat": 12
-  },
-  {
-    "id": 66,
-    "surat_name": "At-Tahrim",
-    "surat_text": " التحريم",
-    "surat_terjemahan": "Pengharaman",
-    "count_ayat": 12
-  },
-  {
-    "id": 67,
-    "surat_name": "Al-Mulk",
-    "surat_text": " الملك",
-    "surat_terjemahan": "Kerajaan",
-    "count_ayat": 30
-  },
-  {
-    "id": 68,
-    "surat_name": "Al-Qalam",
-    "surat_text": " القلم",
-    "surat_terjemahan": "Pena",
-    "count_ayat": 52
-  },
-  {
-    "id": 69,
-    "surat_name": "Al-Haqqah",
-    "surat_text": " الحاۤقّة",
-    "surat_terjemahan": "Hari Kiamat",
-    "count_ayat": 52
-  },
-  {
-    "id": 70,
-    "surat_name": "Al-Ma'arij",
-    "surat_text": " المعارج",
-    "surat_terjemahan": "Tempat Naik",
-    "count_ayat": 44
-  },
-  {
-    "id": 71,
-    "surat_name": "Nuh",
-    "surat_text": " نوح",
-    "surat_terjemahan": "Nuh",
-    "count_ayat": 28
-  },
-  {
-    "id": 72,
-    "surat_name": "Al-Jinn",
-    "surat_text": " الجن",
-    "surat_terjemahan": "Jin",
-    "count_ayat": 28
-  },
-  {
-    "id": 73,
-    "surat_name": "Al-Muzzammil",
-    "surat_text": " المزّمّل",
-    "surat_terjemahan": "Orang Yang Berselimut",
-    "count_ayat": 20
-  },
-  {
-    "id": 74,
-    "surat_name": "Al-Muddassir",
-    "surat_text": " المدّثّر",
-    "surat_terjemahan": "Orang Yang Berkemul",
-    "count_ayat": 56
-  },
-  {
-    "id": 75,
-    "surat_name": "Al-Qiyamah",
-    "surat_text": " القيٰمة",
-    "surat_terjemahan": "Hari Kiamat",
-    "count_ayat": 40
-  },
-  {
-    "id": 76,
-    "surat_name": "Al-Insan",
-    "surat_text": " الانسان",
-    "surat_terjemahan": "Manusia",
-    "count_ayat": 31
-  },
-  {
-    "id": 77,
-    "surat_name": "Al-Mursalat",
-    "surat_text": " المرسلٰت",
-    "surat_terjemahan": "Malaikat Yang Diutus",
-    "count_ayat": 50
-  },
-  {
-    "id": 78,
-    "surat_name": "An-Naba'",
-    "surat_text": " النبأ",
-    "surat_terjemahan": "Berita Besar",
-    "count_ayat": 40
-  },
-  {
-    "id": 79,
-    "surat_name": "An-Nazi'at",
-    "surat_text": " النّٰزعٰت",
-    "surat_terjemahan": "Malaikat Yang Mencabut",
-    "count_ayat": 46
-  },
-  {
-    "id": 80,
-    "surat_name": "'Abasa",
-    "surat_text": " عبس",
-    "surat_terjemahan": "Bermuka Masam",
-    "count_ayat": 42
-  },
-  {
-    "id": 81,
-    "surat_name": "At-Takwir",
-    "surat_text": " التكوير",
-    "surat_terjemahan": "Penggulungan",
-    "count_ayat": 29
-  },
-  {
-    "id": 82,
-    "surat_name": "Al-Infitar",
-    "surat_text": " الانفطار",
-    "surat_terjemahan": "Terbelah",
-    "count_ayat": 19
-  },
-  {
-    "id": 83,
-    "surat_name": "Al-Mutaffifin",
-    "surat_text": " المطفّفين",
-    "surat_terjemahan": "Orang-Orang Curang",
-    "count_ayat": 36
-  },
-  {
-    "id": 84,
-    "surat_name": "Al-Insyiqaq",
-    "surat_text": " الانشقاق",
-    "surat_terjemahan": "Terbelah",
-    "count_ayat": 25
-  },
-  {
-    "id": 85,
-    "surat_name": "Al-Buruj",
-    "surat_text": " البروج",
-    "surat_terjemahan": "Gugusan Bintang",
-    "count_ayat": 22
-  },
-  {
-    "id": 86,
-    "surat_name": "At-Tariq",
-    "surat_text": " الطارق",
-    "surat_terjemahan": "Yang Datang Di Malam Hari",
-    "count_ayat": 17
-  },
-  {
-    "id": 87,
-    "surat_name": "Al-A'la",
-    "surat_text": " الاعلى",
-    "surat_terjemahan": "Maha Tinggi",
-    "count_ayat": 19
-  },
-  {
-    "id": 88,
-    "surat_name": "Al-Gasyiyah",
-    "surat_text": " الغاشية",
-    "surat_terjemahan": "Hari Kiamat",
-    "count_ayat": 26
-  },
-  {
-    "id": 89,
-    "surat_name": "Al-Fajr",
-    "surat_text": " الفجر",
-    "surat_terjemahan": "Fajar",
-    "count_ayat": 30
-  },
-  {
-    "id": 90,
-    "surat_name": "Al-Balad",
-    "surat_text": " البلد",
-    "surat_terjemahan": "Negeri",
-    "count_ayat": 20
-  },
-  {
-    "id": 91,
-    "surat_name": "Asy-Syams",
-    "surat_text": " الشمس",
-    "surat_terjemahan": "Matahari",
-    "count_ayat": 15
-  },
-  {
-    "id": 92,
-    "surat_name": "Al-Lail",
-    "surat_text": " الّيل",
-    "surat_terjemahan": "Malam",
-    "count_ayat": 21
-  },
-  {
-    "id": 93,
-    "surat_name": "Ad-Duha",
-    "surat_text": " الضحى",
-    "surat_terjemahan": "Duha",
-    "count_ayat": 11
-  },
-  {
-    "id": 94,
-    "surat_name": "Asy-Syarh",
-    "surat_text": " الشرح",
-    "surat_terjemahan": "Lapang",
-    "count_ayat": 8
-  },
-  {
-    "id": 95,
-    "surat_name": "At-Tin",
-    "surat_text": " التين",
-    "surat_terjemahan": "Buah Tin",
-    "count_ayat": 8
-  },
-  {
-    "id": 96,
-    "surat_name": "Al-'Alaq",
-    "surat_text": " العلق",
-    "surat_terjemahan": "Segumpal Darah",
-    "count_ayat": 19
-  },
-  {
-    "id": 97,
-    "surat_name": "Al-Qadr",
-    "surat_text": " القدر",
-    "surat_terjemahan": "Kemuliaan",
-    "count_ayat": 5
-  },
-  {
-    "id": 98,
-    "surat_name": "Al-Bayyinah",
-    "surat_text": " البيّنة",
-    "surat_terjemahan": "Bukti Nyata",
-    "count_ayat": 8
-  },
-  {
-    "id": 99,
-    "surat_name": "Az-Zalzalah",
-    "surat_text": " الزلزلة",
-    "surat_terjemahan": "Guncangan",
-    "count_ayat": 8
-  },
-  {
-    "id": 100,
-    "surat_name": "Al-'Adiyat",
-    "surat_text": " العٰديٰت",
-    "surat_terjemahan": "Kuda Yang Berlari Kencang",
-    "count_ayat": 11
-  },
-  {
-    "id": 101,
-    "surat_name": "Al-Qari'ah",
-    "surat_text": " القارعة",
-    "surat_terjemahan": "Hari Kiamat",
-    "count_ayat": 11
-  },
-  {
-    "id": 102,
-    "surat_name": "At-Takasur",
-    "surat_text": " التكاثر",
-    "surat_terjemahan": "Bermegah-Megahan",
-    "count_ayat": 8
-  },
-  {
-    "id": 103,
-    "surat_name": "Al-'Asr",
-    "surat_text": " العصر",
-    "surat_terjemahan": "Asar",
-    "count_ayat": 3
-  },
-  {
-    "id": 104,
-    "surat_name": "Al-Humazah",
-    "surat_text": " الهمزة",
-    "surat_terjemahan": "Pengumpat",
-    "count_ayat": 9
-  },
-  {
-    "id": 105,
-    "surat_name": "Al-Fil",
-    "surat_text": " الفيل",
-    "surat_terjemahan": "Gajah",
-    "count_ayat": 5
-  },
-  {
-    "id": 106,
-    "surat_name": "Quraisy",
-    "surat_text": " قريش",
-    "surat_terjemahan": "Quraisy",
-    "count_ayat": 4
-  },
-  {
-    "id": 107,
-    "surat_name": "Al-Ma'un",
-    "surat_text": " الماعون",
-    "surat_terjemahan": "Barang Yang Berguna",
-    "count_ayat": 7
-  },
-  {
-    "id": 108,
-    "surat_name": "Al-Kausar",
-    "surat_text": " الكوثر",
-    "surat_terjemahan": "Pemberian Yang Banyak",
-    "count_ayat": 3
-  },
-  {
-    "id": 109,
-    "surat_name": "Al-Kafirun",
-    "surat_text": " الكٰفرون",
-    "surat_terjemahan": "Orang-Orang kafir",
-    "count_ayat": 6
-  },
-  {
-    "id": 110,
-    "surat_name": "An-Nasr",
-    "surat_text": " النصر",
-    "surat_terjemahan": "Pertolongan",
-    "count_ayat": 3
-  },
-  {
-    "id": 111,
-    "surat_name": "Al-Lahab",
-    "surat_text": " اللهب",
-    "surat_terjemahan": "Api Yang Bergejolak",
-    "count_ayat": 5
-  },
-  {
-    "id": 112,
-    "surat_name": "Al-Ikhlas",
-    "surat_text": " الاخلاص",
-    "surat_terjemahan": "Ikhlas",
-    "count_ayat": 4
-  },
-  {
-    "id": 113,
-    "surat_name": "Al-Falaq",
-    "surat_text": " الفلق",
-    "surat_terjemahan": "Subuh",
-    "count_ayat": 5
-  },
-  {
-    "id": 114,
-    "surat_name": "An-Nas",
-    "surat_text": " الناس",
-    "surat_terjemahan": "Manusia",
-    "count_ayat": 6
-  }
+	{
+		"id": 1,
+		"surat_name": "Al-Fatihah",
+		"surat_text": " الفاتحة",
+		"surat_terjemahan": "Pembukaan",
+		"count_ayat": 7
+	},
+	{
+		"id": 2,
+		"surat_name": "Al-Baqarah",
+		"surat_text": " البقرة",
+		"surat_terjemahan": "Sapi",
+		"count_ayat": 286
+	},
+	{
+		"id": 3,
+		"surat_name": "Ali 'Imran",
+		"surat_text": " اٰل عمران",
+		"surat_terjemahan": "Keluarga Imran",
+		"count_ayat": 200
+	},
+	{
+		"id": 4,
+		"surat_name": "An-Nisa'",
+		"surat_text": " النساۤء",
+		"surat_terjemahan": "Wanita",
+		"count_ayat": 176
+	},
+	{
+		"id": 5,
+		"surat_name": "Al-Ma'idah",
+		"surat_text": " الماۤئدة",
+		"surat_terjemahan": "Hidangan",
+		"count_ayat": 120
+	},
+	{
+		"id": 6,
+		"surat_name": "Al-An'am",
+		"surat_text": " الانعام",
+		"surat_terjemahan": "Binatang Ternak",
+		"count_ayat": 165
+	},
+	{
+		"id": 7,
+		"surat_name": "Al-A'raf",
+		"surat_text": " الاعراف",
+		"surat_terjemahan": "Tempat Tertinggi",
+		"count_ayat": 206
+	},
+	{
+		"id": 8,
+		"surat_name": "Al-Anfal",
+		"surat_text": " الانفال",
+		"surat_terjemahan": "Rampasan Perang",
+		"count_ayat": 75
+	},
+	{
+		"id": 9,
+		"surat_name": "At-Taubah",
+		"surat_text": " التوبة",
+		"surat_terjemahan": "Pengampunan",
+		"count_ayat": 129
+	},
+	{
+		"id": 10,
+		"surat_name": "Yunus",
+		"surat_text": " يونس",
+		"surat_terjemahan": "Yunus",
+		"count_ayat": 109
+	},
+	{
+		"id": 11,
+		"surat_name": "Hud",
+		"surat_text": " هود",
+		"surat_terjemahan": "Hud",
+		"count_ayat": 123
+	},
+	{
+		"id": 12,
+		"surat_name": "Yusuf",
+		"surat_text": " يوسف",
+		"surat_terjemahan": "Yusuf",
+		"count_ayat": 111
+	},
+	{
+		"id": 13,
+		"surat_name": "Ar-Ra'd",
+		"surat_text": " الرّعد",
+		"surat_terjemahan": "Guruh",
+		"count_ayat": 43
+	},
+	{
+		"id": 14,
+		"surat_name": "Ibrahim",
+		"surat_text": " ابرٰهيم",
+		"surat_terjemahan": "Ibrahim",
+		"count_ayat": 52
+	},
+	{
+		"id": 15,
+		"surat_name": "Al-Hijr",
+		"surat_text": " الحجر",
+		"surat_terjemahan": "Hijr",
+		"count_ayat": 99
+	},
+	{
+		"id": 16,
+		"surat_name": "An-Nahl",
+		"surat_text": " النحل",
+		"surat_terjemahan": "Lebah",
+		"count_ayat": 128
+	},
+	{
+		"id": 17,
+		"surat_name": "Al-Isra'",
+		"surat_text": " الاسراۤء",
+		"surat_terjemahan": "Memperjalankan Malam Hari",
+		"count_ayat": 111
+	},
+	{
+		"id": 18,
+		"surat_name": "Al-Kahf",
+		"surat_text": " الكهف",
+		"surat_terjemahan": "Goa",
+		"count_ayat": 110
+	},
+	{
+		"id": 19,
+		"surat_name": "Maryam",
+		"surat_text": " مريم",
+		"surat_terjemahan": "Maryam",
+		"count_ayat": 98
+	},
+	{
+		"id": 20,
+		"surat_name": "Taha",
+		"surat_text": " طٰهٰ",
+		"surat_terjemahan": "Taha",
+		"count_ayat": 135
+	},
+	{
+		"id": 21,
+		"surat_name": "Al-Anbiya'",
+		"surat_text": " الانبياۤء",
+		"surat_terjemahan": "Para Nabi",
+		"count_ayat": 112
+	},
+	{
+		"id": 22,
+		"surat_name": "Al-Hajj",
+		"surat_text": " الحج",
+		"surat_terjemahan": "Haji",
+		"count_ayat": 78
+	},
+	{
+		"id": 23,
+		"surat_name": "Al-Mu'minun",
+		"surat_text": " المؤمنون",
+		"surat_terjemahan": "Orang-Orang Mukmin",
+		"count_ayat": 118
+	},
+	{
+		"id": 24,
+		"surat_name": "An-Nur",
+		"surat_text": " النّور",
+		"surat_terjemahan": "Cahaya",
+		"count_ayat": 64
+	},
+	{
+		"id": 25,
+		"surat_name": "Al-Furqan",
+		"surat_text": " الفرقان",
+		"surat_terjemahan": "Pembeda",
+		"count_ayat": 77
+	},
+	{
+		"id": 26,
+		"surat_name": "Asy-Syu'ara'",
+		"surat_text": " الشعراۤء",
+		"surat_terjemahan": "Para Penyair",
+		"count_ayat": 227
+	},
+	{
+		"id": 27,
+		"surat_name": "An-Naml",
+		"surat_text": " النمل",
+		"surat_terjemahan": "Semut-semut",
+		"count_ayat": 93
+	},
+	{
+		"id": 28,
+		"surat_name": "Al-Qasas",
+		"surat_text": " القصص",
+		"surat_terjemahan": "Kisah-Kisah",
+		"count_ayat": 88
+	},
+	{
+		"id": 29,
+		"surat_name": "Al-'Ankabut",
+		"surat_text": " العنكبوت",
+		"surat_terjemahan": "Laba-Laba",
+		"count_ayat": 69
+	},
+	{
+		"id": 30,
+		"surat_name": "Ar-Rum",
+		"surat_text": " الرّوم",
+		"surat_terjemahan": "Romawi",
+		"count_ayat": 60
+	},
+	{
+		"id": 31,
+		"surat_name": "Luqman",
+		"surat_text": " لقمٰن",
+		"surat_terjemahan": "Luqman",
+		"count_ayat": 34
+	},
+	{
+		"id": 32,
+		"surat_name": "As-Sajdah",
+		"surat_text": " السّجدة",
+		"surat_terjemahan": "Sajdah",
+		"count_ayat": 30
+	},
+	{
+		"id": 33,
+		"surat_name": "Al-Ahzab",
+		"surat_text": " الاحزاب",
+		"surat_terjemahan": "Golongan Yang Bersekutu",
+		"count_ayat": 73
+	},
+	{
+		"id": 34,
+		"surat_name": "Saba'",
+		"surat_text": " سبأ",
+		"surat_terjemahan": "Saba'",
+		"count_ayat": 54
+	},
+	{
+		"id": 35,
+		"surat_name": "Fatir",
+		"surat_text": " فاطر",
+		"surat_terjemahan": "Maha Pencipta",
+		"count_ayat": 45
+	},
+	{
+		"id": 36,
+		"surat_name": "Yasin",
+		"surat_text": " يٰسۤ",
+		"surat_terjemahan": "Yasin",
+		"count_ayat": 83
+	},
+	{
+		"id": 37,
+		"surat_name": "As-Saffat",
+		"surat_text": " الصّٰۤفّٰت",
+		"surat_terjemahan": "Barisan-Barisan",
+		"count_ayat": 182
+	},
+	{
+		"id": 38,
+		"surat_name": "Sad",
+		"surat_text": " ص",
+		"surat_terjemahan": "Sad",
+		"count_ayat": 88
+	},
+	{
+		"id": 39,
+		"surat_name": "Az-Zumar",
+		"surat_text": " الزمر",
+		"surat_terjemahan": "Rombongan",
+		"count_ayat": 75
+	},
+	{
+		"id": 40,
+		"surat_name": "Gafir",
+		"surat_text": " غافر",
+		"surat_terjemahan": "Maha Pengampun",
+		"count_ayat": 85
+	},
+	{
+		"id": 41,
+		"surat_name": "Fussilat",
+		"surat_text": " فصّلت",
+		"surat_terjemahan": "Yang Dijelaskan",
+		"count_ayat": 54
+	},
+	{
+		"id": 42,
+		"surat_name": "Asy-Syura",
+		"surat_text": " الشورى",
+		"surat_terjemahan": "Musyawarah",
+		"count_ayat": 53
+	},
+	{
+		"id": 43,
+		"surat_name": "Az-Zukhruf",
+		"surat_text": " الزخرف",
+		"surat_terjemahan": "Perhiasan",
+		"count_ayat": 89
+	},
+	{
+		"id": 44,
+		"surat_name": "Ad-Dukhan",
+		"surat_text": " الدخان",
+		"surat_terjemahan": "Kabut",
+		"count_ayat": 59
+	},
+	{
+		"id": 45,
+		"surat_name": "Al-Jasiyah",
+		"surat_text": " الجاثية",
+		"surat_terjemahan": "Berlutut",
+		"count_ayat": 37
+	},
+	{
+		"id": 46,
+		"surat_name": "Al-Ahqaf",
+		"surat_text": " الاحقاف",
+		"surat_terjemahan": "Bukit Pasir",
+		"count_ayat": 35
+	},
+	{
+		"id": 47,
+		"surat_name": "Muhammad",
+		"surat_text": " محمّد",
+		"surat_terjemahan": "Muhammad",
+		"count_ayat": 38
+	},
+	{
+		"id": 48,
+		"surat_name": "Al-Fath",
+		"surat_text": " الفتح",
+		"surat_terjemahan": "Kemenangan",
+		"count_ayat": 29
+	},
+	{
+		"id": 49,
+		"surat_name": "Al-Hujurat",
+		"surat_text": " الحجرٰت",
+		"surat_terjemahan": "Kamar-Kamar",
+		"count_ayat": 18
+	},
+	{
+		"id": 50,
+		"surat_name": "Qaf",
+		"surat_text": " ق",
+		"surat_terjemahan": "Qaf",
+		"count_ayat": 45
+	},
+	{
+		"id": 51,
+		"surat_name": "Az-Zariyat",
+		"surat_text": " الذّٰريٰت",
+		"surat_terjemahan": "Angin yang Menerbangkan",
+		"count_ayat": 60
+	},
+	{
+		"id": 52,
+		"surat_name": "At-Tur",
+		"surat_text": " الطور",
+		"surat_terjemahan": "Bukit Tursina",
+		"count_ayat": 49
+	},
+	{
+		"id": 53,
+		"surat_name": "An-Najm",
+		"surat_text": " النجم",
+		"surat_terjemahan": "Bintang",
+		"count_ayat": 62
+	},
+	{
+		"id": 54,
+		"surat_name": "Al-Qamar",
+		"surat_text": " القمر",
+		"surat_terjemahan": "Bulan",
+		"count_ayat": 55
+	},
+	{
+		"id": 55,
+		"surat_name": "Ar-Rahman",
+		"surat_text": " الرحمن",
+		"surat_terjemahan": "Maha Pengasih",
+		"count_ayat": 78
+	},
+	{
+		"id": 56,
+		"surat_name": "Al-Waqi'ah",
+		"surat_text": " الواقعة",
+		"surat_terjemahan": "Hari Kiamat",
+		"count_ayat": 96
+	},
+	{
+		"id": 57,
+		"surat_name": "Al-Hadid",
+		"surat_text": " الحديد",
+		"surat_terjemahan": "Besi",
+		"count_ayat": 29
+	},
+	{
+		"id": 58,
+		"surat_name": "Al-Mujadalah",
+		"surat_text": " المجادلة",
+		"surat_terjemahan": "Gugatan",
+		"count_ayat": 22
+	},
+	{
+		"id": 59,
+		"surat_name": "Al-Hasyr",
+		"surat_text": " الحشر",
+		"surat_terjemahan": "Pengusiran",
+		"count_ayat": 24
+	},
+	{
+		"id": 60,
+		"surat_name": "Al-Mumtahanah",
+		"surat_text": " الممتحنة",
+		"surat_terjemahan": "Wanita Yang Diuji",
+		"count_ayat": 13
+	},
+	{
+		"id": 61,
+		"surat_name": "As-Saff",
+		"surat_text": " الصّفّ",
+		"surat_terjemahan": "Barisan",
+		"count_ayat": 14
+	},
+	{
+		"id": 62,
+		"surat_name": "Al-Jumu'ah",
+		"surat_text": " الجمعة",
+		"surat_terjemahan": "Jumat",
+		"count_ayat": 11
+	},
+	{
+		"id": 63,
+		"surat_name": "Al-Munafiqun",
+		"surat_text": " المنٰفقون",
+		"surat_terjemahan": "Orang-Orang Munafik",
+		"count_ayat": 11
+	},
+	{
+		"id": 64,
+		"surat_name": "At-Tagabun",
+		"surat_text": " التغابن",
+		"surat_terjemahan": "Pengungkapan Kesalahan",
+		"count_ayat": 18
+	},
+	{
+		"id": 65,
+		"surat_name": "At-Talaq",
+		"surat_text": " الطلاق",
+		"surat_terjemahan": "Talak",
+		"count_ayat": 12
+	},
+	{
+		"id": 66,
+		"surat_name": "At-Tahrim",
+		"surat_text": " التحريم",
+		"surat_terjemahan": "Pengharaman",
+		"count_ayat": 12
+	},
+	{
+		"id": 67,
+		"surat_name": "Al-Mulk",
+		"surat_text": " الملك",
+		"surat_terjemahan": "Kerajaan",
+		"count_ayat": 30
+	},
+	{
+		"id": 68,
+		"surat_name": "Al-Qalam",
+		"surat_text": " القلم",
+		"surat_terjemahan": "Pena",
+		"count_ayat": 52
+	},
+	{
+		"id": 69,
+		"surat_name": "Al-Haqqah",
+		"surat_text": " الحاۤقّة",
+		"surat_terjemahan": "Hari Kiamat",
+		"count_ayat": 52
+	},
+	{
+		"id": 70,
+		"surat_name": "Al-Ma'arij",
+		"surat_text": " المعارج",
+		"surat_terjemahan": "Tempat Naik",
+		"count_ayat": 44
+	},
+	{
+		"id": 71,
+		"surat_name": "Nuh",
+		"surat_text": " نوح",
+		"surat_terjemahan": "Nuh",
+		"count_ayat": 28
+	},
+	{
+		"id": 72,
+		"surat_name": "Al-Jinn",
+		"surat_text": " الجن",
+		"surat_terjemahan": "Jin",
+		"count_ayat": 28
+	},
+	{
+		"id": 73,
+		"surat_name": "Al-Muzzammil",
+		"surat_text": " المزّمّل",
+		"surat_terjemahan": "Orang Yang Berselimut",
+		"count_ayat": 20
+	},
+	{
+		"id": 74,
+		"surat_name": "Al-Muddassir",
+		"surat_text": " المدّثّر",
+		"surat_terjemahan": "Orang Yang Berkemul",
+		"count_ayat": 56
+	},
+	{
+		"id": 75,
+		"surat_name": "Al-Qiyamah",
+		"surat_text": " القيٰمة",
+		"surat_terjemahan": "Hari Kiamat",
+		"count_ayat": 40
+	},
+	{
+		"id": 76,
+		"surat_name": "Al-Insan",
+		"surat_text": " الانسان",
+		"surat_terjemahan": "Manusia",
+		"count_ayat": 31
+	},
+	{
+		"id": 77,
+		"surat_name": "Al-Mursalat",
+		"surat_text": " المرسلٰت",
+		"surat_terjemahan": "Malaikat Yang Diutus",
+		"count_ayat": 50
+	},
+	{
+		"id": 78,
+		"surat_name": "An-Naba'",
+		"surat_text": " النبأ",
+		"surat_terjemahan": "Berita Besar",
+		"count_ayat": 40
+	},
+	{
+		"id": 79,
+		"surat_name": "An-Nazi'at",
+		"surat_text": " النّٰزعٰت",
+		"surat_terjemahan": "Malaikat Yang Mencabut",
+		"count_ayat": 46
+	},
+	{
+		"id": 80,
+		"surat_name": "'Abasa",
+		"surat_text": " عبس",
+		"surat_terjemahan": "Bermuka Masam",
+		"count_ayat": 42
+	},
+	{
+		"id": 81,
+		"surat_name": "At-Takwir",
+		"surat_text": " التكوير",
+		"surat_terjemahan": "Penggulungan",
+		"count_ayat": 29
+	},
+	{
+		"id": 82,
+		"surat_name": "Al-Infitar",
+		"surat_text": " الانفطار",
+		"surat_terjemahan": "Terbelah",
+		"count_ayat": 19
+	},
+	{
+		"id": 83,
+		"surat_name": "Al-Mutaffifin",
+		"surat_text": " المطفّفين",
+		"surat_terjemahan": "Orang-Orang Curang",
+		"count_ayat": 36
+	},
+	{
+		"id": 84,
+		"surat_name": "Al-Insyiqaq",
+		"surat_text": " الانشقاق",
+		"surat_terjemahan": "Terbelah",
+		"count_ayat": 25
+	},
+	{
+		"id": 85,
+		"surat_name": "Al-Buruj",
+		"surat_text": " البروج",
+		"surat_terjemahan": "Gugusan Bintang",
+		"count_ayat": 22
+	},
+	{
+		"id": 86,
+		"surat_name": "At-Tariq",
+		"surat_text": " الطارق",
+		"surat_terjemahan": "Yang Datang Di Malam Hari",
+		"count_ayat": 17
+	},
+	{
+		"id": 87,
+		"surat_name": "Al-A'la",
+		"surat_text": " الاعلى",
+		"surat_terjemahan": "Maha Tinggi",
+		"count_ayat": 19
+	},
+	{
+		"id": 88,
+		"surat_name": "Al-Gasyiyah",
+		"surat_text": " الغاشية",
+		"surat_terjemahan": "Hari Kiamat",
+		"count_ayat": 26
+	},
+	{
+		"id": 89,
+		"surat_name": "Al-Fajr",
+		"surat_text": " الفجر",
+		"surat_terjemahan": "Fajar",
+		"count_ayat": 30
+	},
+	{
+		"id": 90,
+		"surat_name": "Al-Balad",
+		"surat_text": " البلد",
+		"surat_terjemahan": "Negeri",
+		"count_ayat": 20
+	},
+	{
+		"id": 91,
+		"surat_name": "Asy-Syams",
+		"surat_text": " الشمس",
+		"surat_terjemahan": "Matahari",
+		"count_ayat": 15
+	},
+	{
+		"id": 92,
+		"surat_name": "Al-Lail",
+		"surat_text": " الّيل",
+		"surat_terjemahan": "Malam",
+		"count_ayat": 21
+	},
+	{
+		"id": 93,
+		"surat_name": "Ad-Duha",
+		"surat_text": " الضحى",
+		"surat_terjemahan": "Duha",
+		"count_ayat": 11
+	},
+	{
+		"id": 94,
+		"surat_name": "Asy-Syarh",
+		"surat_text": " الشرح",
+		"surat_terjemahan": "Lapang",
+		"count_ayat": 8
+	},
+	{
+		"id": 95,
+		"surat_name": "At-Tin",
+		"surat_text": " التين",
+		"surat_terjemahan": "Buah Tin",
+		"count_ayat": 8
+	},
+	{
+		"id": 96,
+		"surat_name": "Al-'Alaq",
+		"surat_text": " العلق",
+		"surat_terjemahan": "Segumpal Darah",
+		"count_ayat": 19
+	},
+	{
+		"id": 97,
+		"surat_name": "Al-Qadr",
+		"surat_text": " القدر",
+		"surat_terjemahan": "Kemuliaan",
+		"count_ayat": 5
+	},
+	{
+		"id": 98,
+		"surat_name": "Al-Bayyinah",
+		"surat_text": " البيّنة",
+		"surat_terjemahan": "Bukti Nyata",
+		"count_ayat": 8
+	},
+	{
+		"id": 99,
+		"surat_name": "Az-Zalzalah",
+		"surat_text": " الزلزلة",
+		"surat_terjemahan": "Guncangan",
+		"count_ayat": 8
+	},
+	{
+		"id": 100,
+		"surat_name": "Al-'Adiyat",
+		"surat_text": " العٰديٰت",
+		"surat_terjemahan": "Kuda Yang Berlari Kencang",
+		"count_ayat": 11
+	},
+	{
+		"id": 101,
+		"surat_name": "Al-Qari'ah",
+		"surat_text": " القارعة",
+		"surat_terjemahan": "Hari Kiamat",
+		"count_ayat": 11
+	},
+	{
+		"id": 102,
+		"surat_name": "At-Takasur",
+		"surat_text": " التكاثر",
+		"surat_terjemahan": "Bermegah-Megahan",
+		"count_ayat": 8
+	},
+	{
+		"id": 103,
+		"surat_name": "Al-'Asr",
+		"surat_text": " العصر",
+		"surat_terjemahan": "Asar",
+		"count_ayat": 3
+	},
+	{
+		"id": 104,
+		"surat_name": "Al-Humazah",
+		"surat_text": " الهمزة",
+		"surat_terjemahan": "Pengumpat",
+		"count_ayat": 9
+	},
+	{
+		"id": 105,
+		"surat_name": "Al-Fil",
+		"surat_text": " الفيل",
+		"surat_terjemahan": "Gajah",
+		"count_ayat": 5
+	},
+	{
+		"id": 106,
+		"surat_name": "Quraisy",
+		"surat_text": " قريش",
+		"surat_terjemahan": "Quraisy",
+		"count_ayat": 4
+	},
+	{
+		"id": 107,
+		"surat_name": "Al-Ma'un",
+		"surat_text": " الماعون",
+		"surat_terjemahan": "Barang Yang Berguna",
+		"count_ayat": 7
+	},
+	{
+		"id": 108,
+		"surat_name": "Al-Kausar",
+		"surat_text": " الكوثر",
+		"surat_terjemahan": "Pemberian Yang Banyak",
+		"count_ayat": 3
+	},
+	{
+		"id": 109,
+		"surat_name": "Al-Kafirun",
+		"surat_text": " الكٰفرون",
+		"surat_terjemahan": "Orang-Orang kafir",
+		"count_ayat": 6
+	},
+	{
+		"id": 110,
+		"surat_name": "An-Nasr",
+		"surat_text": " النصر",
+		"surat_terjemahan": "Pertolongan",
+		"count_ayat": 3
+	},
+	{
+		"id": 111,
+		"surat_name": "Al-Lahab",
+		"surat_text": " اللهب",
+		"surat_terjemahan": "Api Yang Bergejolak",
+		"count_ayat": 5
+	},
+	{
+		"id": 112,
+		"surat_name": "Al-Ikhlas",
+		"surat_text": " الاخلاص",
+		"surat_terjemahan": "Ikhlas",
+		"count_ayat": 4
+	},
+	{
+		"id": 113,
+		"surat_name": "Al-Falaq",
+		"surat_text": " الفلق",
+		"surat_terjemahan": "Subuh",
+		"count_ayat": 5
+	},
+	{
+		"id": 114,
+		"surat_name": "An-Nas",
+		"surat_text": " الناس",
+		"surat_terjemahan": "Manusia",
+		"count_ayat": 6
+	}
 ]
