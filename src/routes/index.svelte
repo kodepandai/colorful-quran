@@ -1,13 +1,9 @@
 <script lang="ts">
 	import list from '$db/kemenag/list.json';
-	let str = [];
-	var maxnumber = list.length
-	console.log(str,"tes",list)
 </script>
 
 <h1 class="text-7xl text-center font-lato">Al Qur'an</h1>
 <div class="sm:w-1/2 w-full px-4 mx-auto">
-	
 	{#each list as surah}
 		<div class="p-2 ">
 			<div
