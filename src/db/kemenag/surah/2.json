@@ -42,8 +42,24 @@
 		"sura_id": 2,
 		"juz_id": 1,
 		"page_number": 2,
-
-		"translation_aya_text": "(yaitu) mereka yang beriman kepada yang gaib, melaksanakan salat, dan menginfakkan sebagian rezeki yang Kami berikan kepada mereka,"
+		"translation_aya_text": "(yaitu) mereka yang beriman kepada yang gaib, melaksanakan salat, dan menginfakkan sebagian rezeki yang Kami berikan kepada mereka,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 64,
+				"end": 69
+			},
+			{
+				"class": "qalqalah",
+				"start": 75,
+				"end": 77	
+			},
+			{
+				"class": "ikhfa",
+				"start": 86,
+				"end": 89	
+			}
+		]
 	},
 	{
 		"aya_id": 11,
