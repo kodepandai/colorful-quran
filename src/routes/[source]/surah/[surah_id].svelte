@@ -47,7 +47,6 @@
 		});
 		sliceAya.shift();
 		aya.tajweed = sliceAya;
-		console.log(aya);
 		return aya;
 	});
 </script>
