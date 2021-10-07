@@ -21,7 +21,19 @@
 		"sura_id": 2,
 		"juz_id": 1,
 		"page_number": 2,
-		"translation_aya_text": "Kitab (Al-Qur'an) ini tidak ada keraguan padanya; petunjuk bagi mereka yang bertakwa,"
+		"translation_aya_text": "Kitab (Al-Qur'an) ini tidak ada keraguan padanya; petunjuk bagi mereka yang bertakwa,",
+		"tajweed": [
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 41,
+				"end": 42
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 44,
+				"end": 46
+			}
+		]
 	},
 	{
 		"aya_id": 10,
