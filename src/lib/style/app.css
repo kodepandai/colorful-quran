@@ -9,10 +9,13 @@
 :root {
 	--font-arab: 'Kemenag LPMQ';
 	--color-madd-6: rgb(235, 81, 119);
+	--color-madd-9: rgb(81, 235, 127);
+	--color-madd-2: rgb(116, 143, 231);
 }
 
 .font-arab {
 	direction: rtl;
+	line-height: 180%;
 }
 .font-arab i {
 	font-style: normal;
@@ -20,4 +23,10 @@
 
 .madd-6 {
 	color: var(--color-madd-6);
+}
+.ijo {
+	color: var(--color-madd-9);
+}
+.biru {
+	color: var(--color-madd-2);
 }
