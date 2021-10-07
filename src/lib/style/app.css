@@ -9,10 +9,14 @@
 :root {
 	--font-arab: 'Kemenag LPMQ';
 	--color-madd-6: rgb(235, 81, 119);
+	--color-idgham-syafawi: rgb(116, 143, 231);
+	--color-ikhfa: rgb(81, 235, 127);
+	--color-iqlab: rgb(116, 143, 231);
 }
 
 .font-arab {
 	direction: rtl;
+	line-height: 180%;
 }
 .font-arab i {
 	font-style: normal;
@@ -20,4 +24,13 @@
 
 .madd-6 {
 	color: var(--color-madd-6);
+}
+.idgham-syafawi {
+	color: var(--color-idgham-syafawi);
+}
+.ikhfa {
+	color: var(--color-ikhfa);
+}
+.iqlab {
+	color: var(--color-iqlab);
 }

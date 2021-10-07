@@ -24,6 +24,7 @@
 		"sura_id": 2,
 		"juz_id": 1,
 		"page_number": 2,
+
 		"translation_aya_text": "(yaitu) mereka yang beriman kepada yang gaib, melaksanakan salat, dan menginfakkan sebagian rezeki yang Kami berikan kepada mereka,"
 	},
 	{
@@ -87,6 +88,28 @@
 		"sura_id": 2,
 		"juz_id": 1,
 		"page_number": 3,
+		"tajweed": [
+			{
+				"class": "idgham-syafawi",
+				"start": 15,
+				"end": 21
+			},
+			{
+				"class": "ikhfa",
+				"start": 23,
+				"end": 29
+			},
+			{
+				"class": "iqlab",
+				"start": 79,
+				"end": 84
+			},
+			{
+				"class": "iqlab",
+				"start": 86,
+				"end": 88
+			}
+		],
 		"translation_aya_text": "Dalam hati mereka ada penyakit, lalu Allah menambah penyakitnya itu; dan mereka mendapat azab yang pedih, karena mereka berdusta."
 	},
 	{
@@ -2571,6 +2594,18 @@
 		"sura_id": 2,
 		"juz_id": 3,
 		"page_number": 49,
+		"tajweed": [
+			{
+				"class": "ijo",
+				"start": "120",
+				"end": "127"
+			},
+			{
+				"class": "madd-6",
+				"start": "127",
+				"end": "132"
+			}
+		],
 		"translation_aya_text": "Allah tidak membebani seseorang melainkan sesuai dengan kesanggupannya. Dia mendapat (pahala) dari (kebajikan) yang dikerjakannya dan dia mendapat (siksa) dari (kejahatan) yang diperbuatnya. (Mereka berdoa), “Ya Tuhan kami, janganlah Engkau hukum kami jika kami lupa atau kami melakukan kesalahan. Ya Tuhan kami, janganlah Engkau bebani kami dengan beban yang berat sebagaimana Engkau bebankan kepada orang-orang sebelum kami. Ya Tuhan kami, janganlah Engkau pikulkan kepada kami apa yang tidak sanggup kami memikulnya. Maafkanlah kami, ampunilah kami, dan rahmatilah kami. Engkaulah pelindung kami, maka tolonglah kami menghadapi orang-orang kafir.”"
 	}
 ]
