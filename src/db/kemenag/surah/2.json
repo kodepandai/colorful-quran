@@ -109,7 +109,34 @@
 		"sura_id": 2,
 		"juz_id": 1,
 		"page_number": 2,
-		"translation_aya_text": "Merekalah yang mendapat petunjuk dari Tuhannya, dan mereka itulah orang-orang yang beruntung."
+		"translation_aya_text": "Merekalah yang mendapat petunjuk dari Tuhannya, dan mereka itulah orang-orang yang beruntung.",
+		"tajweed": [
+			{
+				"class": "madd-5",
+				"start": 3,
+				"end": 6
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 20,
+				"end": 22
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 24,
+				"end": 26
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 26,
+				"end": 32
+			},
+			{
+				"class": "madd-5",
+				"start": 48,
+				"end": 50
+			}
+		]
 	},
 	{
 		"aya_id": 13,
