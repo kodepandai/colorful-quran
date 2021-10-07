@@ -1,6 +1,5 @@
 <script lang="ts">
 	import list from '$db/kemenag/list.json';
-	import SurahId from './[source]/surah/[surah_id].svelte';
 </script>
 
 <h1 class="text-7xl text-center font-lato">Al Qur'an</h1>
@@ -10,9 +9,9 @@
 			<div
 				class=" p-3 w-full px-8 hover:bg-green-300 bg-gray-400 rounded-full  justify-between flex items-center"
 			>
-			<a class="text-base" href={`/kemenag/surah/${surah.id}`}>
-				{surah.id}.{` ${surah.surat_name}`}
-			</a>
+				<a class="text-base" href={`/kemenag/surah/${surah.id}`}>
+					{surah.id}.{` ${surah.surat_name}`}
+				</a>
 				<a class=" font-arab text-base" href={`/kemenag/surah/${surah.id}`}>
 					{surah.surat_text}
 				</a>
