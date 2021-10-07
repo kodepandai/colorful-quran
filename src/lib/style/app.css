@@ -8,7 +8,7 @@
 }
 :root {
 	--font-arab: 'Kemenag LPMQ';
-    --color-mad-6: rgb(21, 104, 58);
+    --color-madd-6: rgb(235, 81, 119);
 }
 
 .font-arab {
@@ -18,6 +18,6 @@
     font-style: normal;
 }
 
-.mad-6 {
-    color: var(--color-mad-6);
+.madd-6 {
+    color: var(--color-madd-6);
 }

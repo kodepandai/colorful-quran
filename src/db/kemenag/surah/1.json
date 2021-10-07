@@ -6,19 +6,7 @@
 		"sura_id": 1,
 		"juz_id": 1,
 		"page_number": 1,
-		"translation_aya_text": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang.",
-		"tajweed": [
-			{
-				"class": "mad-6",
-				"start": 2,
-				"end": 3
-			},
-			{
-				"class": "mad-6",
-				"start": 10,
-				"end": 18
-			}
-		]
+		"translation_aya_text": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
 	},
 	{
 		"aya_id": 2,
@@ -72,6 +60,13 @@
 		"sura_id": 1,
 		"juz_id": 1,
 		"page_number": 1,
+		"tajweed": [
+		{
+			"class": "madd-6",
+			"start": "84",
+			"end": "89"
+		}
+		],
 		"translation_aya_text": "(yaitu) jalan orang-orang yang telah Engkau beri nikmat kepadanya; bukan (jalan) mereka yang dimurkai, dan bukan (pula jalan) mereka yang sesat."
 	}
 ]
