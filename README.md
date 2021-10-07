@@ -1,4 +1,4 @@
-# Holy Quran with Colorfull Tajweed Anotation
+# Holy Quran with Colorful Tajweed Anotation
 
 This project is still on progress. The main goal is to make Static Quran website complete with tajweed anotation.
 
