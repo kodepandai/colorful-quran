@@ -1,29 +1,36 @@
 <script context="module" lang="ts">
 	import type { IAya, ITajweed } from '$contract/surah';
 	import type { Load } from '@sveltejs/kit';
-	let basmalah = "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ"
-	let basmalah01 = "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
-		
+	let basmalah = 'بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ';
+	let basmalah01 = 'Dengan nama Allah Yang Maha Pengasih, Maha Penyayang.';
 
 	const getSurah = async (source, surah_id) => {
 		return (await import(`../../../db/${source}/surah/${surah_id}.json`)).default as IAya[];
 	};
 
+	const getNameSurah = async () => {
+		return await (
+			await import(`../../../db/kemenag/list.json`)
+		).default;
+	};
+
 	export const load: Load = async ({ page }) => {
 		const surah = await getSurah(page.params.source, page.params.surah_id);
-		
+		const nameSurah = await getNameSurah();
+
 		return {
 			status: 200,
 			props: {
-				surah
+				surah,
+				nameSurah
 			}
 		};
-		
 	};
 </script>
 
 <script lang="ts">
 	export let surah: IAya[];
+	export let nameSurah;
 	surah.map((aya) => {
 		let sliceAya: ITajweed[] = [
 			{
@@ -56,28 +63,33 @@
 	});
 </script>
 
-<div class="h-full w-full bg-gray-200">
-	{#if surah[0].sura_id !== 1}
-		<div class="font-arab p-3 text-center shadow rounded-md bg-white text-xl">
-			<p>
-				{basmalah}
-			</p>
-			<p class="font-sans text-sm mt-2 border-t pt-2" style="direction: ltr;">{basmalah01}</p>
-		</div>	
-	{/if}
+<div class="sm:w-1/2 flex flex-col p-4 mx-auto">
+	<div class="text-center mb-2">
+		<span class="font-bold text-indigo-900 text-xl">Colorfull Quran</span>
+	</div>
+	<div
+		class="from-blue-500 to-indigo-700 bg-gradient-to-br rounded-xl px-8 py-5 mb-4 flex flex-col text-center"
+	>
+		<span class="text-lg text-white">{nameSurah[0].surat_name}</span>
+		<span class="text-md text-white mb-1">{nameSurah[0].surat_terjemahan}</span>
+		<hr />
+		<span class="text-sm text-white mt-2 mb-4">{nameSurah[0].count_ayat} ayat</span>
+		<span class="text-white text-3xl mb-2">{basmalah}</span>
+		<span class="text-white text-xs">{basmalah01}</span>
+	</div>
 
-	<div class="container mx-auto p-4">
-		{#each surah as aya}
-			<div class="font-arab p-3 shadow rounded-md mb-4 bg-white text-xl">
+	{#each surah as aya}
+		{#if aya.sura_id != 1 || aya.aya_number != 1}
+			<div class="font-arab py-2 mb-3 border-b text-xl">
 				{#each aya.tajweed as tajweed}
 					<i class={tajweed.class}>
 						{aya.aya_text.slice(tajweed.start, tajweed.end)}
 					</i>
 				{/each}
-				<p class="font-sans text-sm mt-2 border-t pt-2" style="direction: ltr;">
-					{aya.aya_number}. {aya.translation_aya_text}
+				<p class="font-sans text-sm mt-2 pt-2" style="direction: ltr;">
+					{aya.sura_id == 1 && aya.aya_number != 1 ? aya.aya_number - 1 : aya.aya_number}. {aya.translation_aya_text}
 				</p>
 			</div>
-		{/each}
-	</div>
+		{/if}
+	{/each}
 </div>
