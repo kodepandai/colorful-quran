@@ -1,7 +1,6 @@
 <script context="module" lang="ts">
 	import type { IAya, ITajweed } from '$contract/surah';
 	import type { Load } from '@sveltejs/kit';
-	import { start_hydrating } from 'svelte/internal';
 
 	const getSurah = async (source, surah_id) => {
 		return (await import(`../../../db/${source}/surah/${surah_id}.json`)).default as IAya[];
@@ -53,12 +52,19 @@
 	});
 </script>
 
-{#each surah as aya}
-	<div class="font-arab">
-		{#each aya.tajweed as tajweed}
-			<i class={tajweed.class}>
-				{aya.aya_text.slice(tajweed.start, tajweed.end)}
-			</i>
+<div class="h-full w-full bg-gray-200">
+	<div class="container mx-auto p-4">
+		{#each surah as aya}
+			<div class="font-arab p-3 shadow rounded-md mb-4 bg-white text-xl">
+				{#each aya.tajweed as tajweed}
+					<i class={tajweed.class}>
+						{aya.aya_text.slice(tajweed.start, tajweed.end)}
+					</i>
+				{/each}
+				<p class="font-sans text-sm mt-2 border-t pt-2" style="direction: ltr;">
+					{aya.aya_number}. {aya.translation_aya_text}
+				</p>
+			</div>
 		{/each}
 	</div>
-{/each}
+</div>
