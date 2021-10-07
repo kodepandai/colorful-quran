@@ -8,10 +8,15 @@
 }
 :root {
 	--font-arab: 'Kemenag LPMQ';
+	--color-madd-5: rgb(13, 139, 13);
 	--color-madd-6: rgb(235, 81, 119);
+	--color-ghunnah: rgb(243, 153, 70);
 	--color-idgham-syafawi: rgb(116, 143, 231);
+	--color-idgham-bighunnah:rgb(243, 153, 70);
+	--color-idgham-bilaghunnah: rgb(255, 0, 0);
 	--color-ikhfa: rgb(81, 235, 127);
 	--color-iqlab: rgb(116, 143, 231);
+	--color-qalqalah: rgb(11, 1, 141);
 }
 
 .font-arab {
@@ -22,15 +27,30 @@
 	font-style: normal;
 }
 
+.madd-5 {
+	color: var(--color-madd-5);
+}
 .madd-6 {
 	color: var(--color-madd-6);
 }
+.ghunnah {
+	color: var(--color-ghunnah);
+}
 .idgham-syafawi {
 	color: var(--color-idgham-syafawi);
+}
+.idgham-bighunnah {
+	color: var(--color-idgham-bighunnah);
+}
+.idgham-bilaghunnah {
+	color: var(--color-idgham-bilaghunnah);
 }
 .ikhfa {
 	color: var(--color-ikhfa);
 }
 .iqlab {
 	color: var(--color-iqlab);
+}
+.qalqalah {
+	color: var(--color-qalqalah);
 }

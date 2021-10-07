@@ -6,7 +6,13 @@
 		"sura_id": 2,
 		"juz_id": 1,
 		"page_number": 2,
-		"translation_aya_text": "Alif Lam Mim."
+		"translation_aya_text": "Alif Lam Mim.",
+		"tajweed": [
+			{
+				"class": "madd-6",
+				"start": 1,
+				"end": 5
+			}]
 	},
 	{
 		"aya_id": 9,
@@ -15,7 +21,19 @@
 		"sura_id": 2,
 		"juz_id": 1,
 		"page_number": 2,
-		"translation_aya_text": "Kitab (Al-Qur'an) ini tidak ada keraguan padanya; petunjuk bagi mereka yang bertakwa,"
+		"translation_aya_text": "Kitab (Al-Qur'an) ini tidak ada keraguan padanya; petunjuk bagi mereka yang bertakwa,",
+		"tajweed": [
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 41,
+				"end": 42
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 44,
+				"end": 46
+			}
+		]
 	},
 	{
 		"aya_id": 10,
@@ -24,8 +42,24 @@
 		"sura_id": 2,
 		"juz_id": 1,
 		"page_number": 2,
-
-		"translation_aya_text": "(yaitu) mereka yang beriman kepada yang gaib, melaksanakan salat, dan menginfakkan sebagian rezeki yang Kami berikan kepada mereka,"
+		"translation_aya_text": "(yaitu) mereka yang beriman kepada yang gaib, melaksanakan salat, dan menginfakkan sebagian rezeki yang Kami berikan kepada mereka,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 64,
+				"end": 69
+			},
+			{
+				"class": "qalqalah",
+				"start": 75,
+				"end": 77	
+			},
+			{
+				"class": "ikhfa",
+				"start": 86,
+				"end": 89	
+			}
+		]
 	},
 	{
 		"aya_id": 11,
@@ -34,7 +68,39 @@
 		"sura_id": 2,
 		"juz_id": 1,
 		"page_number": 2,
-		"translation_aya_text": "dan mereka yang beriman kepada (Al-Qur'an) yang diturunkan kepadamu (Muhammad) dan (kitab-kitab) yang telah diturunkan sebelum engkau, dan mereka yakin akan adanya akhirat."
+		"translation_aya_text": "dan mereka yang beriman kepada (Al-Qur'an) yang diturunkan kepadamu (Muhammad) dan (kitab-kitab) yang telah diturunkan sebelum engkau, dan mereka yakin akan adanya akhirat.",
+		"tajweed": [
+			{
+				"class": "madd-5",
+				"start": 30,
+				"end": 32
+			},
+			{
+				"class": "ikhfa",
+				"start": 34,
+				"end": 38
+			},
+			{
+				"class": "madd-5",
+				"start": 55,
+				"end": 57
+			},
+			{
+				"class": "ikhfa",
+				"start": 59,
+				"end": 64
+			},
+			{
+				"class": "ikhfa",
+				"start": 69,
+				"end": 74
+			},
+			{
+				"class": "qalqalah",
+				"start": 74,
+				"end": 76
+			}
+		]
 	},
 	{
 		"aya_id": 12,
@@ -43,7 +109,34 @@
 		"sura_id": 2,
 		"juz_id": 1,
 		"page_number": 2,
-		"translation_aya_text": "Merekalah yang mendapat petunjuk dari Tuhannya, dan mereka itulah orang-orang yang beruntung."
+		"translation_aya_text": "Merekalah yang mendapat petunjuk dari Tuhannya, dan mereka itulah orang-orang yang beruntung.",
+		"tajweed": [
+			{
+				"class": "madd-5",
+				"start": 3,
+				"end": 6
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 20,
+				"end": 22
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 24,
+				"end": 26
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 26,
+				"end": 32
+			},
+			{
+				"class": "madd-5",
+				"start": 48,
+				"end": 50
+			}
+		]
 	},
 	{
 		"aya_id": 13,
