@@ -1,38 +1,29 @@
-# create-svelte
+# Holy Quran with Colorfull Tajweed Anotation
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
+This project is still on progress. The main goal is to make Static Quran website complete with tajweed anotation.
 
-## Creating a project
+## Source
 
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm init svelte@next
-
-# create a new project in my-app
-npm init svelte@next my-app
-```
-
-> Note: the `@next` is temporary
+For now we use Quran data from [kemenag](https://quran.kemenag.go.id/). We will add other version later.
 
 ## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+### Package Manager
+
+We are using pnpm for node package manager, so you should install it first to run this project.
+`npm install -g pnpm`
+
+Once you've created a project and installed dependencies with `pnpm install` (or `pnpm i`), start a development server:
 
 ```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
+pnpm dev
 ```
 
 ## Building
 
-Before creating a production version of your app, install an [adapter](https://kit.svelte.dev/docs#adapters) for your target environment. Then:
+This project using `svelte-kit` and `@sveltejs/adapter-static` for easy deployment on cloudflare page. To build on your local macine, please run
 
 ```bash
-npm run build
+pnpm build
 ```
-
-> You can preview the built app with `npm run preview`, regardless of whether you installed an adapter. This should _not_ be used to serve your app in production.
+Then just serve the `/build` folder
