@@ -13,3 +13,11 @@ export interface IAya {
 	translation_aya_text: string;
 	tajweed?: ITajweed[];
 }
+
+export interface ISurah {
+	id: number;
+	surat_name: string;
+	surat_text: string;
+	surat_terjemahan: string;
+	count_ayat: number;
+}

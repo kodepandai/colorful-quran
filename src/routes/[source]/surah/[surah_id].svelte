@@ -1,5 +1,5 @@
 <script context="module" lang="ts">
-	import type { IAya, ITajweed } from '$contract/surah';
+	import type { IAya, ISurah, ITajweed } from '$contract/surah';
 	import type { Load } from '@sveltejs/kit';
 	let basmalah = 'بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ';
 	let basmalah01 = 'Dengan nama Allah Yang Maha Pengasih, Maha Penyayang.';
@@ -8,21 +8,20 @@
 		return (await import(`../../../db/${source}/surah/${surah_id}.json`)).default as IAya[];
 	};
 
-	const getNameSurah = async () => {
-		return await (
-			await import(`../../../db/kemenag/list.json`)
-		).default;
+	const getSurahDetail = async (surah_id) => {
+		const listSurah = (await import(`../../../db/kemenag/list.json`)).default;
+		return listSurah[surah_id - 1];
 	};
 
 	export const load: Load = async ({ page }) => {
 		const surah = await getSurah(page.params.source, page.params.surah_id);
-		const nameSurah = await getNameSurah();
+		const surahDetail = await getSurahDetail(page.params.surah_id);
 
 		return {
 			status: 200,
 			props: {
 				surah,
-				nameSurah
+				surahDetail
 			}
 		};
 	};
@@ -30,7 +29,7 @@
 
 <script lang="ts">
 	export let surah: IAya[];
-	export let nameSurah;
+	export let surahDetail: ISurah;
 	surah.map((aya) => {
 		let sliceAya: ITajweed[] = [
 			{
@@ -65,16 +64,16 @@
 
 <div class="sm:w-1/2 flex flex-col p-4 mx-auto">
 	<div class="text-center mb-2">
-		<span class="font-bold text-indigo-900 text-xl">Colorfull Quran</span>
+		<span class="font-bold text-indigo-900 text-xl">Colorful Quran</span>
 	</div>
 	<div
 		class="from-blue-500 to-indigo-700 bg-gradient-to-br rounded-xl px-8 py-5 mb-4 flex flex-col text-center"
 	>
-		<span class="text-lg text-white">{nameSurah[0].surat_name}</span>
-		<span class="text-md text-white mb-1">{nameSurah[0].surat_terjemahan}</span>
+		<span class="text-lg text-white">{surahDetail.surat_name}</span>
+		<span class="text-md text-white mb-1">{surahDetail.surat_terjemahan}</span>
 		<hr />
-		<span class="text-sm text-white mt-2 mb-4">{nameSurah[0].count_ayat} ayat</span>
-		<span class="text-white text-3xl mb-2">{basmalah}</span>
+		<span class="text-sm text-white mt-2 mb-4">{surahDetail.count_ayat} ayat</span>
+		<span class="text-white text-3xl mb-2 font-arab">{basmalah}</span>
 		<span class="text-white text-xs">{basmalah01}</span>
 	</div>
 

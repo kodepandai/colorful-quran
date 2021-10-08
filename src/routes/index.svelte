@@ -7,7 +7,7 @@
 <div class="sm:w-1/2 flex flex-col p-4 mx-auto">
 	<div class="flex flex-row py-2">
 		<div class="w-11/12 pl-4">
-			<span class="font-bold text-indigo-900 text-xl">Colorfull Quran</span>
+			<span class="font-bold text-indigo-900 text-xl">Colorful Quran</span>
 		</div>
 		<div class="px-2">
 			<IconSearch fill="#000" width={20} height={20} />
