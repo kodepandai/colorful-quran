@@ -113,9 +113,9 @@
 		"translation_aya_text": "Merekalah yang mendapat petunjuk dari Tuhannya, dan mereka itulah orang-orang yang beruntung.",
 		"tajweed": [
 			{
-				"class": "madd-4-5",
+				"class": "madd-6",
 				"start": 3,
-				"end": 6
+				"end": 8
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -133,9 +133,9 @@
 				"end": 32
 			},
 			{
-				"class": "madd-4-5",
+				"class": "madd-6",
 				"start": 48,
-				"end": 50
+				"end": 52
 			}
 		]
 	},

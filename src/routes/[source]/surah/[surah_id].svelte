@@ -83,7 +83,7 @@
 		{#if aya.sura_id != 1 || aya.aya_number != 1}
 			<div class="font-arab py-2 mb-3 border-b text-xl">
 				{#each aya.tajweed as tajweed}
-					<i class={tajweed.class}>
+					<i class={tajweed.class} title={tajweed.class}>
 						{aya.aya_text.slice(tajweed.start, tajweed.end)}
 					</i>
 				{/each}
