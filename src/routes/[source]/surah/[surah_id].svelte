@@ -74,8 +74,8 @@
 		<hr />
 		<span class="text-sm text-white mt-2 mb-4">{surahDetail.count_ayat} ayat</span>
 		{#if surahDetail.id != 9}
-		<span class="text-white text-3xl mb-2 font-arab">{basmalah}</span>
-		<span class="text-white text-xs">{surahDetail.id == 1 ? '1. ':''}{basmalah01}</span>
+			<span class="text-white text-3xl mb-2 font-arab">{basmalah}</span>
+			<span class="text-white text-xs">{surahDetail.id == 1 ? '1. ' : ''}{basmalah01}</span>
 		{/if}
 	</div>
 

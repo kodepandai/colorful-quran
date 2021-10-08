@@ -211,7 +211,7 @@
 					<td>
 						<label for="surah">Choose Tajweed</label>
 						<select name="surah" id="surah" bind:value={selectedClass}>
-							{#each ['madd-4-5', 'madd-2-4-6', 'madd-6', 'ghunnah', 'idgham-syafawi', 'ikhfa-syafawi', 'idgham-bighunnah', 'idgham-bilaghunnah', 'ikhfa', 'iqlab', 'qalqalah'] as tjwClass}
+							{#each ['madd-4-5', 'madd-2-4-6', 'madd-6', 'ghunnah', 'idgham-syafawi', 'ikhfa-syafawi', 'idgham-bighunnah', 'idgham-bilaghunnah', 'idgham-mutamatsilain', 'idgam-mutajanisain', 'ikhfa', 'iqlab', 'qalqalah'] as tjwClass}
 								<option value={tjwClass}>{tjwClass}</option>
 							{/each}
 						</select>
