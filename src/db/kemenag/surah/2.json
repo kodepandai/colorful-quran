@@ -430,24 +430,24 @@
 		"page_number": 4,
 		"tajweed": [
 			{
-				"class": "madd-6",
+				"class": "ghunnah",
 				"start": 2,
-				"end": 3
-			},
-			{
-				"class": "ikhfa",
-				"start": 4,
-				"end": 10
+				"end": 5
 			},
 			{
 				"class": "iqlab",
-				"start": 19,
-				"end": 67
+				"start": 5,
+				"end": 9
 			},
 			{
-				"class": "madd-6",
-				"start": 135,
-				"end": 139
+				"class": "iqlab",
+				"start": null,
+				"end": null
+			},
+			{
+				"class": "ikhfa",
+				"start": 19,
+				"end": 24
 			}
 		],
 		"translation_aya_text": "Mereka tuli, bisu dan buta, sehingga mereka tidak dapat kembali."
@@ -459,6 +459,43 @@
 		"sura_id": 2,
 		"juz_id": 1,
 		"page_number": 4,
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 12,
+				"end": 17
+			},
+			{
+				"class": "madd-4-5",
+				"start": 28,
+				"end": 30
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 46,
+				"end": 52
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 56,
+				"end": 60
+			},
+			{
+				"class": "madd-4-5",
+				"start": 99,
+				"end": 104
+			},
+			{
+				"class": "idgham-syafawi",
+				"start": 112,
+				"end": 118
+			},
+			{
+				"class": "iqlab",
+				"start": 168,
+				"end": 174
+			}
+		],
 		"translation_aya_text": "Atau seperti (orang yang ditimpa) hujan lebat dari langit, yang disertai kegelapan, petir dan kilat. Mereka menyumbat telinga dengan jari-jarinya, (menghindari) suara petir itu karena takut mati. Allah meliputi orang-orang yang kafir."
 	},
 	{
@@ -468,6 +505,43 @@
 		"sura_id": 2,
 		"juz_id": 1,
 		"page_number": 4,
+		"tajweed": [
+			{
+				"class": "madd-4-5",
+				"start": 48,
+				"end": 52
+			},
+			{
+				"class": "madd-6",
+				"start": 57,
+				"end": 61
+			},
+			{
+				"class": "idgham-syafawi",
+				"start": 66,
+				"end": 72
+			},
+			{
+				"class": "madd-4-5",
+				"start": 91,
+				"end": 96
+			},
+			{
+				"class": "madd-6",
+				"start": 133,
+				"end": 139
+			},
+			{
+				"class": "ghunnah",
+				"start": 190,
+				"end": 193
+			},
+			{
+				"class": "madd-2-4-6",
+				"start": 218,
+				"end": 223
+			}
+		],
 		"translation_aya_text": "Hampir saja kilat itu menyambar penglihatan mereka. Setiap kali (kilat itu) menyinari, mereka berjalan di bawah (sinar) itu, dan apabila gelap menerpa mereka, mereka berhenti. Sekiranya Allah menghendaki, niscaya Dia hilangkan pendengaran dan penglihatan mereka. Sungguh, Allah Mahakuasa atas segala sesuatu."
 	},
 	{
