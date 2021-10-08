@@ -12,7 +12,8 @@
 				"class": "madd-6",
 				"start": 1,
 				"end": 5
-			}]
+			}
+		]
 	},
 	{
 		"aya_id": 9,
@@ -52,12 +53,12 @@
 			{
 				"class": "qalqalah",
 				"start": 75,
-				"end": 77	
+				"end": 77
 			},
 			{
 				"class": "ikhfa",
 				"start": 86,
-				"end": 89	
+				"end": 89
 			}
 		]
 	},
