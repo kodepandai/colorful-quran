@@ -73,8 +73,10 @@
 		<span class="text-md text-white mb-1">{surahDetail.surat_terjemahan}</span>
 		<hr />
 		<span class="text-sm text-white mt-2 mb-4">{surahDetail.count_ayat} ayat</span>
+		{#if surahDetail.id != 9}
 		<span class="text-white text-3xl mb-2 font-arab">{basmalah}</span>
-		<span class="text-white text-xs">{basmalah01}</span>
+		<span class="text-white text-xs">{surahDetail.id == 1 ? '1. ':''}{basmalah01}</span>
+		{/if}
 	</div>
 
 	{#each surah as aya}
@@ -86,7 +88,7 @@
 					</i>
 				{/each}
 				<p class="font-sans text-sm mt-2 pt-2" style="direction: ltr;">
-					{aya.sura_id == 1 && aya.aya_number != 1 ? aya.aya_number - 1 : aya.aya_number}. {aya.translation_aya_text}
+					{aya.aya_number}. {aya.translation_aya_text}
 				</p>
 			</div>
 		{/if}
