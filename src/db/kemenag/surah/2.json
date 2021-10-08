@@ -119,6 +119,23 @@
 		"sura_id": 2,
 		"juz_id": 1,
 		"page_number": 3,
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 56,
+				"end": 59
+			},
+			{
+				"class": "ikhfa",
+				"start": 62,
+				"end": 64
+			},
+			{
+				"class": "idgham-syafawi",
+				"start": 65,
+				"end": 66
+			}
+		],
 		"translation_aya_text": "Dan apabila dikatakan kepada mereka, “Janganlah berbuat kerusakan di bumi!” Mereka menjawab, “Sesungguhnya kami justru orang-orang yang melakukan perbaikan.”"
 	},
 	{
@@ -128,6 +145,23 @@
 		"sura_id": 2,
 		"juz_id": 1,
 		"page_number": 3,
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 4,
+				"end": 8
+			},
+			{
+				"class": "idgham-syafawi",
+				"start": 9,
+				"end": 11
+			},
+			{
+				"class": "madd-6",
+				"start": 44,
+				"end": 48
+			}
+		],
 		"translation_aya_text": "Ingatlah, sesungguhnya merekalah yang berbuat kerusakan, tetapi mereka tidak menyadari."
 	},
 	{
@@ -137,6 +171,53 @@
 		"sura_id": 2,
 		"juz_id": 1,
 		"page_number": 3,
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 34,
+				"end": 40
+			},
+			{
+				"class": "idgham-syafawi",
+				"start": 48,
+				"end": 50
+			},
+			{
+				"class": "ikhfa",
+				"start": 58,
+				"end": 62
+			},
+			{
+				"class": "ikhfa",
+				"start": 64,
+				"end": 66
+			},
+			{
+				"class": "ikhfa",
+				"start": 80,
+				"end": 84
+			},
+			{
+				"class": "idgham-syafawi",
+				"start": 99,
+				"end": 102
+			},
+			{
+				"class": "ikhfa",
+				"start": 110,
+				"end": 114
+			},
+			{
+				"class": "idgham-syafawi",
+				"start": 137,
+				"end": 140
+			},
+			{
+				"class": "ikhfa",
+				"start": 148,
+				"end": 152
+			}
+		],
 		"translation_aya_text": "Dan apabila dikatakan kepada mereka, “Berimanlah kamu sebagaimana orang lain telah beriman!” Mereka menjawab, “Apakah kami akan beriman seperti orang-orang yang kurang akal itu beriman?” Ingatlah, sesungguhnya mereka itulah orang-orang yang kurang akal, tetapi mereka tidak tahu."
 	},
 	{
@@ -146,6 +227,43 @@
 		"sura_id": 2,
 		"juz_id": 1,
 		"page_number": 3,
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 39,
+				"end": 42
+			},
+			{
+				"class": "ikhfa",
+				"start": 45,
+				"end": 47
+			},
+			{
+				"class": "idgham-syafawi",
+				"start": 49,
+				"end": 52
+			},
+			{
+				"class": "ikhfa",
+				"start": 99,
+				"end": 104
+			},
+			{
+				"class": "ikhfa",
+				"start": 106,
+				"end": 107
+			},
+			{
+				"class": "idgham-syafawi",
+				"start": 108,
+				"end": 111
+			},
+			{
+				"class": "idgham-syafawi",
+				"start": 125,
+				"end": 128
+			}
+		],
 		"translation_aya_text": "Dan apabila mereka berjumpa dengan orang yang beriman, mereka berkata, “Kami telah beriman.” Tetapi apabila mereka kembali kepada setan-setan (para pemimpin) mereka, mereka berkata, “Sesungguhnya kami bersama kamu, kami hanya berolok-olok.”"
 	},
 	{
@@ -164,6 +282,18 @@
 		"sura_id": 2,
 		"juz_id": 1,
 		"page_number": 3,
+		"tajweed": [
+			{
+				"class": "iqlab",
+				"start": 3,
+				"end": 8
+			},
+			{
+				"class": "madd-6",
+				"start": 70,
+				"end": 74
+			}
+		],
 		"translation_aya_text": "Mereka itulah yang membeli kesesatan dengan petunjuk. Maka perdagangan mereka itu tidak beruntung dan mereka tidak mendapat petunjuk."
 	},
 	{
@@ -173,6 +303,28 @@
 		"sura_id": 2,
 		"juz_id": 1,
 		"page_number": 4,
+		"tajweed": [
+			{
+				"class": "madd-6",
+				"start": 53,
+				"end": 55
+			},
+			{
+				"class": "ikhfa",
+				"start": 56,
+				"end": 60
+			},
+			{
+				"class": "iqlab",
+				"start": 63,
+				"end": 67
+			},
+			{
+				"class": "madd-6",
+				"start": 135,
+				"end": 139
+			}
+		],
 		"translation_aya_text": "Perumpamaan mereka seperti orang-orang yang menyalakan api, setelah menerangi sekelilingnya, Allah melenyapkan cahaya (yang menyinari) mereka dan membiarkan mereka dalam kegelapan, tidak dapat melihat."
 	},
 	{
@@ -182,6 +334,28 @@
 		"sura_id": 2,
 		"juz_id": 1,
 		"page_number": 4,
+		"tajweed": [
+			{
+				"class": "madd-6",
+				"start": 2,
+				"end": 3
+			},
+			{
+				"class": "ikhfa",
+				"start": 4,
+				"end": 10
+			},
+			{
+				"class": "iqlab",
+				"start": 19,
+				"end": 67
+			},
+			{
+				"class": "madd-6",
+				"start": 135,
+				"end": 139
+			}
+		],
 		"translation_aya_text": "Mereka tuli, bisu dan buta, sehingga mereka tidak dapat kembali."
 	},
 	{
