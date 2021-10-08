@@ -26,4 +26,5 @@ This project using `svelte-kit` and `@sveltejs/adapter-static` for easy deployme
 ```bash
 pnpm build
 ```
+
 Then just serve the `/build` folder
