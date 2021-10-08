@@ -72,7 +72,7 @@
 		"translation_aya_text": "dan mereka yang beriman kepada (Al-Qur'an) yang diturunkan kepadamu (Muhammad) dan (kitab-kitab) yang telah diturunkan sebelum engkau, dan mereka yakin akan adanya akhirat.",
 		"tajweed": [
 			{
-				"class": "madd-5",
+				"class": "madd-4-5",
 				"start": 30,
 				"end": 32
 			},
@@ -82,7 +82,7 @@
 				"end": 38
 			},
 			{
-				"class": "madd-5",
+				"class": "madd-4-5",
 				"start": 55,
 				"end": 57
 			},
@@ -113,7 +113,7 @@
 		"translation_aya_text": "Merekalah yang mendapat petunjuk dari Tuhannya, dan mereka itulah orang-orang yang beruntung.",
 		"tajweed": [
 			{
-				"class": "madd-5",
+				"class": "madd-4-5",
 				"start": 3,
 				"end": 6
 			},
@@ -133,7 +133,7 @@
 				"end": 32
 			},
 			{
-				"class": "madd-5",
+				"class": "madd-4-5",
 				"start": 48,
 				"end": 50
 			}
