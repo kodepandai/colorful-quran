@@ -83,6 +83,21 @@
 		modalIsOpen = true;
 	};
 
+	const appendTajweed = (i) => {
+		const rule = tajweedList[i];
+		tajweedList.splice(i, 0, {
+			class: rule.class,
+			start: rule.end,
+			end: rule.end + 1
+		});
+		tajweedList = tajweedList;
+	};
+	const deleteTajweed = (i) => {
+		if (confirm('Are you sure?')) {
+			tajweedList = tajweedList.filter((x, id) => id != i);
+		}
+	};
+
 	$: if (tajweedList) {
 		let sliceAya: ITajweed[] = [
 			{
@@ -168,6 +183,8 @@
 			<div>
 				<span>{rule.class}</span> <span>{rule.start} - {rule.end}</span>
 				<span class="cursor-pointer text-blue-700" on:click={() => editTajweed(i)}>edit</span>
+				<span class="cursor-pointer text-green-700" on:click={() => appendTajweed(i)}>append</span>
+				<span class="cursor-pointer text-red-400" on:click={() => deleteTajweed(i)}>delete</span>
 			</div>
 		{/each}
 	</div>
@@ -194,7 +211,7 @@
 					<td>
 						<label for="surah">Choose Tajweed</label>
 						<select name="surah" id="surah" bind:value={selectedClass}>
-							{#each ['madd-4-5', 'madd-2-4-6', 'madd-6', 'ghunnah', 'idgham-syafawi', 'idgham-bighunnah', 'idgham-bilaghunnah', 'ikhfa', 'iqlab', 'qalqalah'] as tjwClass}
+							{#each ['madd-4-5', 'madd-2-4-6', 'madd-6', 'ghunnah', 'idgham-syafawi', 'ikhfa-syafawi', 'idgham-bighunnah', 'idgham-bilaghunnah', 'ikhfa', 'iqlab', 'qalqalah'] as tjwClass}
 								<option value={tjwClass}>{tjwClass}</option>
 							{/each}
 						</select>
