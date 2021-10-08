@@ -146,7 +146,29 @@
 		"sura_id": 2,
 		"juz_id": 1,
 		"page_number": 3,
-		"translation_aya_text": "Sesungguhnya orang-orang kafir, sama saja bagi mereka, engkau (Muhammad) beri peringatan atau tidak engkau beri peringatan, mereka tidak akan beriman."
+		"translation_aya_text": "Sesungguhnya orang-orang kafir, sama saja bagi mereka, engkau (Muhammad) beri peringatan atau tidak engkau beri peringatan, mereka tidak akan beriman.",
+		"tajweed": [
+			{
+			  "class": "ghunnah",
+			  "start": 2,
+			  "end": 6
+			},
+			{
+			  "class": "madd-6",
+			  "start": 31,
+			  "end": 34
+			},
+			{
+			  "class": "ikhfa",
+			  "start": 51,
+			  "end": 55
+			},
+			{
+			  "class": "ikhfa",
+			  "start": 76,
+			  "end": 80
+			}
+		  ]
 	},
 	{
 		"aya_id": 14,
@@ -155,7 +177,24 @@
 		"sura_id": 2,
 		"juz_id": 1,
 		"page_number": 3,
-		"translation_aya_text": "Allah telah mengunci hati dan pendengaran mereka, penglihatan mereka telah tertutup, dan mereka akan mendapat azab yang berat."
+		"translation_aya_text": "Allah telah mengunci hati dan pendengaran mereka, penglihatan mereka telah tertutup, dan mereka akan mendapat azab yang berat.",
+		"tajweed": [
+			{
+			  "class": "madd-4-5",
+			  "start": 61,
+			  "end": 65
+			},
+			{
+			  "class": "qalqalah",
+			  "start": 66,
+			  "end": 68
+			},
+			{
+			  "class": "idgham-bighunnah",
+			  "start": 85,
+			  "end": 90
+			}
+		  ]
 	},
 	{
 		"aya_id": 15,
@@ -164,7 +203,29 @@
 		"sura_id": 2,
 		"juz_id": 1,
 		"page_number": 3,
-		"translation_aya_text": "Dan di antara manusia ada yang berkata, “Kami beriman kepada Allah dan hari akhir,” padahal sesungguhnya mereka itu bukanlah orang-orang yang beriman."
+		"translation_aya_text": "Dan di antara manusia ada yang berkata, “Kami beriman kepada Allah dan hari akhir,” padahal sesungguhnya mereka itu bukanlah orang-orang yang beriman.",
+		"tajweed": [
+			{
+			  "class": "ghunnah",
+			  "start": 9,
+			  "end": 12
+			},
+			{
+			  "class": "idgham-bighunnah",
+			  "start": 18,
+			  "end": 23
+			},
+			{
+			  "class": "ghunnah",
+			  "start": 35,
+			  "end": 38
+			},
+			{
+			  "class": "ikhfa-syafawi",
+			  "start": 82,
+			  "end": 87
+			}
+		  ]
 	},
 	{
 		"aya_id": 16,
@@ -173,7 +234,19 @@
 		"sura_id": 2,
 		"juz_id": 1,
 		"page_number": 3,
-		"translation_aya_text": "Mereka menipu Allah dan orang-orang yang beriman, padahal mereka hanyalah menipu diri sendiri tanpa mereka sadari."
+		"translation_aya_text": "Mereka menipu Allah dan orang-orang yang beriman, padahal mereka hanyalah menipu diri sendiri tanpa mereka sadari.",
+		"tajweed": [
+			{
+			  "class": "madd-4-5",
+			  "start": 70,
+			  "end": 73
+			},
+			{
+			  "class": "ikhfa",
+			  "start": 75,
+			  "end": 78
+			}
+		  ]
 	},
 	{
 		"aya_id": 17,

@@ -13,6 +13,7 @@
 	--color-madd-6: rgb(235, 81, 119);
 	--color-ghunnah: rgb(255, 0, 179);
 	--color-idgham-syafawi: rgb(116, 143, 231);
+	--color-ikhfa-syafawi: rgb(116, 143, 231);
 	--color-idgham-bighunnah:rgb(255, 0, 179);
 	--color-idgham-bilaghunnah: rgb(255, 0, 0);
 	--color-idgham-mutamatsilain: rgb(255, 0, 0);
@@ -44,6 +45,9 @@
 }
 .idgham-syafawi {
 	color: var(--color-idgham-syafawi);
+}
+.ikhfa-syafawi {
+	color: var(--color-ikhfa-syafawi);
 }
 .idgham-bighunnah {
 	color: var(--color-idgham-bighunnah);

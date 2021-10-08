@@ -28,3 +28,6 @@ pnpm build
 ```
 
 Then just serve the `/build` folder
+
+## Contibuting
+Please read [contributing](./CONTRIBUTING.md) section
