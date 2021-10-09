@@ -714,7 +714,59 @@
 		"sura_id": 2,
 		"juz_id": 1,
 		"page_number": 6,
-		"translation_aya_text": "Dan Dia ajarkan kepada Adam nama-nama (benda) semuanya, kemudian Dia perlihatkan kepada para malaikat, seraya berfirman, “Sebutkan kepada-Ku nama semua (benda) ini, jika kamu yang benar!”"
+		"translation_aya_text": "Dan Dia ajarkan kepada Adam nama-nama (benda) semuanya, kemudian Dia perlihatkan kepada para malaikat, seraya berfirman, “Sebutkan kepada-Ku nama semua (benda) ini, jika kamu yang benar!”",
+		"tajweed": [
+			{
+				"class": "madd-4-5",
+				"start": 26,
+				"end": 28
+			},
+			{
+				"class": "ghunnah",
+				"start": 42,
+				"end": 45
+			},
+			{
+				"class": "madd-4-5",
+				"start": 68,
+				"end": 71
+			},
+			{
+				"class": "iqlab",
+				"start": 89,
+				"end": 93
+			},
+			{
+				"class": "madd-4-5",
+				"start": 112,
+				"end": 114
+			},
+			{
+				"class": "madd-4-5",
+				"start": 117,
+				"end": 120
+			},
+			{
+				"class": "madd-4-5",
+				"start": 123,
+				"end": 126
+			},
+			{
+				"class": "ikhfa",
+				"start": 131,
+				"end": 135
+			},
+			{
+				"class": "ikhfa",
+				"start": 140,
+				"end": 141
+			},
+			{
+				"class": "madd-2-4-6",
+				"start": 147,
+				"end": 151
+			}
+		]
 	},
 	{
 		"aya_id": 39,
@@ -723,7 +775,44 @@
 		"sura_id": 2,
 		"juz_id": 1,
 		"page_number": 6,
-		"translation_aya_text": "Mereka menjawab, “Mahasuci Engkau, tidak ada yang kami  ketahui selain apa yang telah Engkau ajarkan kepada kami. Sungguh, Engkaulah Yang Maha Mengetahui, Mahabijaksana.”"
+		"translation_aya_text": "Mereka menjawab, “Mahasuci Engkau, tidak ada yang kami  ketahui selain apa yang telah Engkau ajarkan kepada kami. Sungguh, Engkaulah Yang Maha Mengetahui, Mahabijaksana.”",
+		"tajweed": [
+			{
+				"class": "silent",
+				"start": 7,
+				"end": 8
+			},
+			{
+				"class": "qalqalah",
+				"start": 11,
+				"end": 13
+			},
+			{
+				"class": "madd-4-5",
+				"start": 34,
+				"end": 38
+			},
+			{
+				"class": "madd-4-5",
+				"start": 59,
+				"end": 62
+			},
+			{
+				"class": "ghunnah",
+				"start": 65,
+				"end": 68
+			},
+			{
+				"class": "ikhfa",
+				"start": 73,
+				"end": 76
+			},
+			{
+				"class": "madd-2-4-6",
+				"start": 97,
+				"end": 99
+			}
+		]
 	},
 	{
 		"aya_id": 40,
@@ -732,7 +821,64 @@
 		"sura_id": 2,
 		"juz_id": 1,
 		"page_number": 6,
-		"translation_aya_text": "Dia (Allah) berfirman, “Wahai Adam! Beritahukanlah kepada mereka nama-nama itu!” Setelah dia (Adam) menyebutkan nama-namanya, Dia berfirman, “Bukankah telah Aku katakan kepadamu, bahwa Aku mengetahui rahasia langit dan bumi, dan Aku mengetahui apa yang kamu nyatakan dan apa yang kamu sembunyikan?”"
+		"translation_aya_text": "Dia (Allah) berfirman, “Wahai Adam! Beritahukanlah kepada mereka nama-nama itu!” Setelah dia (Adam) menyebutkan nama-namanya, Dia berfirman, “Bukankah telah Aku katakan kepadamu, bahwa Aku mengetahui rahasia langit dan bumi, dan Aku mengetahui apa yang kamu nyatakan dan apa yang kamu sembunyikan?”",
+		"tajweed": [
+			{
+				"class": "madd-4-5",
+				"start": 6,
+				"end": 9
+			},
+			{
+				"class": "iqlab",
+				"start": 18,
+				"end": 22
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 27,
+				"end": 32
+			},
+			{
+				"class": "madd-4-5",
+				"start": 36,
+				"end": 40
+			},
+			{
+				"class": "ghunnah",
+				"start": 54,
+				"end": 57
+			},
+			{
+				"class": "madd-4-5",
+				"start": 57,
+				"end": 60
+			},
+			{
+				"class": "ghunnah",
+				"start": 123,
+				"end": 126
+			},
+			{
+				"class": "madd-4-5",
+				"start": 126,
+				"end": 130
+			},
+			{
+				"class": "qalqalah",
+				"start": 188,
+				"end": 190
+			},
+			{
+				"class": "ikhfa",
+				"start": 205,
+				"end": 209
+			},
+			{
+				"class": "madd-2-4-6",
+				"start": 218,
+				"end": 222
+			}
+		]
 	},
 	{
 		"aya_id": 41,
@@ -741,7 +887,49 @@
 		"sura_id": 2,
 		"juz_id": 1,
 		"page_number": 6,
-		"translation_aya_text": "Dan (ingatlah) ketika Kami berfirman kepada para malaikat, “Sujudlah kamu kepada Adam!” Maka mereka pun sujud kecuali Iblis. Ia menolak dan menyombongkan diri, dan ia termasuk golongan yang kafir."
+		"translation_aya_text": "Dan (ingatlah) ketika Kami berfirman kepada para malaikat, “Sujudlah kamu kepada Adam!” Maka mereka pun sujud kecuali Iblis. Ia menolak dan menyombongkan diri, dan ia termasuk golongan yang kafir.",
+		"tajweed": [
+			{
+				"class": "madd-4-5",
+				"start": 21,
+				"end": 24
+			},
+			{
+				"class": "silent",
+				"start": 41,
+				"end": 42
+			},
+			{
+				"class": "madd-4-5",
+				"start": 58,
+				"end": 62
+			},
+			{
+				"class": "madd-4-5",
+				"start": 70,
+				"end": 72
+			},
+			{
+				"class": "qalqalah",
+				"start": 75,
+				"end": 77
+			},
+			{
+				"class": "silent",
+				"start": 94,
+				"end": 95
+			},
+			{
+				"class": "silent",
+				"start": 119,
+				"end": 121
+			},
+			{
+				"class": "madd-2-4-6",
+				"start": 127,
+				"end": 131
+			}
+		]
 	},
 	{
 		"aya_id": 42,
@@ -750,7 +938,49 @@
 		"sura_id": 2,
 		"juz_id": 1,
 		"page_number": 6,
-		"translation_aya_text": "Dan Kami berfirman, “Wahai Adam! Tinggallah engkau dan istrimu di dalam surga, dan makanlah dengan nikmat (berbagai makanan) yang ada di sana sesukamu. (Tetapi) janganlah kamu dekati pohon ini, nanti kamu termasuk orang-orang yang zalim!”"
+		"translation_aya_text": "Dan Kami berfirman, “Wahai Adam! Tinggallah engkau dan istrimu di dalam surga, dan makanlah dengan nikmat (berbagai makanan) yang ada di sana sesukamu. (Tetapi) janganlah kamu dekati pohon ini, nanti kamu termasuk orang-orang yang zalim!”",
+		"tajweed": [
+			{
+				"class": "madd-4-5",
+				"start": 10,
+				"end": 13
+			},
+			{
+				"class": "hamzah-wasl",
+				"start": 20,
+				"end": 21
+			},
+			{
+				"class": "ikhfa",
+				"start": 30,
+				"end": 33
+			},
+			{
+				"class": "ghunnah",
+				"start": 51,
+				"end": 54
+			},
+			{
+				"class": "qalqalah",
+				"start": 107,
+				"end": 109
+			},
+			{
+				"class": "hamzah-wasl",
+				"start": 121,
+				"end": 123
+			},
+			{
+				"class": "hamzah-wasl",
+				"start": 150,
+				"end": 152
+			},
+			{
+				"class": "madd-2-4-6",
+				"start": 160,
+				"end": 162
+			}
+		]
 	},
 	{
 		"aya_id": 43,
@@ -759,7 +989,39 @@
 		"sura_id": 2,
 		"juz_id": 1,
 		"page_number": 6,
-		"translation_aya_text": "Lalu setan memperdayakan keduanya dari surga sehingga keduanya dikeluarkan dari (segala kenikmatan) ketika keduanya di sana (surga). Dan Kami berfirman, “Turunlah kamu! Sebagian kamu menjadi musuh bagi yang lain. Dan bagi kamu ada tempat tinggal dan kesenangan di bumi sampai waktu yang ditentukan.”"
+		"translation_aya_text": "Lalu setan memperdayakan keduanya dari surga sehingga keduanya dikeluarkan dari (segala kenikmatan) ketika keduanya di sana (surga). Dan Kami berfirman, “Turunlah kamu! Sebagian kamu menjadi musuh bagi yang lain. Dan bagi kamu ada tempat tinggal dan kesenangan di bumi sampai waktu yang ditentukan.”",
+		"tajweed": [
+			{
+				"class": "hamzah-wasl",
+				"start": 15,
+				"end": 16
+			},
+			{
+				"class": "ghunnah",
+				"start": 51,
+				"end": 56
+			},
+			{
+				"class": "hamzah-wasl",
+				"start": 83,
+				"end": 85
+			},
+			{
+				"class": "silent",
+				"start": 92,
+				"end": 94
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 119,
+				"end": 126
+			},
+			{
+				"class": "madd-2-4-6",
+				"start": 179,
+				"end": 181
+			}
+		]
 	},
 	{
 		"aya_id": 44,
@@ -768,7 +1030,39 @@
 		"sura_id": 2,
 		"juz_id": 1,
 		"page_number": 6,
-		"translation_aya_text": "Kemudian Adam menerima beberapa kalimat dari Tuhannya, lalu Dia pun menerima tobatnya. Sungguh, Allah Maha Penerima tobat, Maha Penyayang."
+		"translation_aya_text": "Kemudian Adam menerima beberapa kalimat dari Tuhannya, lalu Dia pun menerima tobatnya. Sungguh, Allah Maha Penerima tobat, Maha Penyayang.",
+		"tajweed": [
+			{
+				"class": "madd-4-5",
+				"start": 6,
+				"end": 12
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 21,
+				"end": 27
+			},
+			{
+				"class": "ikhfa",
+				"start": 39,
+				"end": 43
+			},
+			{
+				"class": "ghunnah",
+				"start": 63,
+				"end": 66
+			},
+			{
+				"class": "hamzah-wasl",
+				"start": 74,
+				"end": 75
+			},
+			{
+				"class": "madd-2-4-6",
+				"start": 93,
+				"end": 95
+			}
+		]
 	},
 	{
 		"aya_id": 45,
@@ -777,7 +1071,59 @@
 		"sura_id": 2,
 		"juz_id": 1,
 		"page_number": 7,
-		"translation_aya_text": "Kami berfirman, “Turunlah kamu semua dari surga! Kemudian jika benar-benar datang petunjuk-Ku kepadamu, maka barangsiapa mengikuti petunjuk-Ku, tidak ada rasa takut pada mereka dan mereka tidak bersedih hati.”"
+		"translation_aya_text": "Kami berfirman, “Turunlah kamu semua dari surga! Kemudian jika benar-benar datang petunjuk-Ku kepadamu, maka barangsiapa mengikuti petunjuk-Ku, tidak ada rasa takut pada mereka dan mereka tidak bersedih hati.”",
+		"tajweed": [
+			{
+				"class": "hamzah-wasl",
+				"start": 7,
+				"end": 9
+			},
+			{
+				"class": "silent",
+				"start": 16,
+				"end": 18
+			},
+			{
+				"class": "ikhfa",
+				"start": 33,
+				"end": 40
+			},
+			{
+				"class": "ghunnah",
+				"start": 43,
+				"end": 46
+			},
+			{
+				"class": "ghunnah",
+				"start": 56,
+				"end": 59
+			},
+			{
+				"class": "idgham-syafawi",
+				"start": 61,
+				"end": 67
+			},
+			{
+				"class": "ghunnah",
+				"start": 67,
+				"end": 70
+			},
+			{
+				"class": "ikhfa",
+				"start": 75,
+				"end": 80
+			},
+			{
+				"class": "ikhfa",
+				"start": 83,
+				"end": 87
+			},
+			{
+				"class": "madd-2-4-6",
+				"start": 144,
+				"end": 146
+			}
+		]
 	},
 	{
 		"aya_id": 46,
@@ -786,7 +1132,44 @@
 		"sura_id": 2,
 		"juz_id": 1,
 		"page_number": 7,
-		"translation_aya_text": "Adapun orang-orang yang kafir dan mendustakan ayat-ayat Kami, mereka itu penghuni neraka. Mereka kekal di dalamnya."
+		"translation_aya_text": "Adapun orang-orang yang kafir dan mendustakan ayat-ayat Kami, mereka itu penghuni neraka. Mereka kekal di dalamnya.",
+		"tajweed": [
+			{
+				"class": "hamzah-wasl",
+				"start": 2,
+				"end": 3
+			},
+			{
+				"class": "silent",
+				"start": 20,
+				"end": 22
+			},
+			{
+				"class": "silent",
+				"start": 34,
+				"end": 36
+			},
+			{
+				"class": "madd-4-5",
+				"start": 46,
+				"end": 49
+			},
+			{
+				"class": "madd-4-5",
+				"start": 52,
+				"end": 55
+			},
+			{
+				"class": "ghunnah",
+				"start": 72,
+				"end": 75
+			},
+			{
+				"class": "madd-2-4-6",
+				"start": 100,
+				"end": 102
+			}
+		]
 	},
 	{
 		"aya_id": 47,
@@ -795,7 +1178,54 @@
 		"sura_id": 2,
 		"juz_id": 1,
 		"page_number": 7,
-		"translation_aya_text": "Wahai Bani Israil! Ingatlah nikmat-Ku yang telah Aku berikan kepadamu. Dan penuhilah janjimu kepada-Ku, niscaya Aku penuhi janji-Ku kepadamu, dan takutlah kepada-Ku saja."
+		"translation_aya_text": "Wahai Bani Israil! Ingatlah nikmat-Ku yang telah Aku berikan kepadamu. Dan penuhilah janjimu kepada-Ku, niscaya Aku penuhi janji-Ku kepadamu, dan takutlah kepada-Ku saja.",
+		"tajweed": [
+			{
+				"class": "madd-4-5",
+				"start": 6,
+				"end": 10
+			},
+			{
+				"class": "madd-4-5",
+				"start": 16,
+				"end": 18
+			},
+			{
+				"class": "hamzah-wasl",
+				"start": 24,
+				"end": 26
+			},
+			{
+				"class": "silent",
+				"start": 34,
+				"end": 35
+			},
+			{
+				"class": "hamzah-wasl",
+				"start": 47,
+				"end": 48
+			},
+			{
+				"class": "silent",
+				"start": 89,
+				"end": 90
+			},
+			{
+				"class": "madd-4-5",
+				"start": 99,
+				"end": 102
+			},
+			{
+				"class": "hamzah-wasl",
+				"start": 137,
+				"end": 138
+			},
+			{
+				"class": "madd-2-4-6",
+				"start": 144,
+				"end": 146
+			}
+		]
 	},
 	{
 		"aya_id": 48,
