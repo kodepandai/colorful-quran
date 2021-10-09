@@ -8,6 +8,7 @@
 }
 :root {
 	--font-arab: 'Kemenag LPMQ';
+	--color-silent: rgba(204, 204, 204, 0.863);
 	--color-madd-4-5: rgb(38, 139, 13);
 	--color-madd-2-4-6: rgb(0, 247, 255);
 	--color-madd-6: rgb(235, 81, 119);
@@ -30,7 +31,10 @@
 .font-arab i {
 	font-style: normal;
 }
-
+.hamzah-wasl,
+.silent {
+	color: var(--color-silent);
+}
 .madd-4-5 {
 	color: var(--color-madd-4-5);
 }
