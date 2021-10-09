@@ -16,7 +16,7 @@
 </script>
 
 <div class="sm:w-1/2 flex flex-col p-4 mx-auto">
-	<div class="flex justify-center py-2">
+	<div class="text-center mb-2">
 		<span class="font-bold text-indigo-900 text-xl">Colorful Quran</span>
 	</div>
 	<div
@@ -34,7 +34,7 @@
 			<img src="icon.png" alt="" class="lg:h-24" />
 		</div>
 	</div>
-	<div class="bg-gray-200 rounded-xl flex flex-row py-2 px-4">
+	<div class="bg-gray-200 rounded-xl flex flex-row py-2 px-4 mb-4">
 		<input
 			bind:value={querySearch}
 			type="text"
@@ -46,10 +46,10 @@
 		</div>
 	</div>
 	{#each dataFiltered as surah}
-		<a class="flex flex-row p-4 mb-2 justify-between border-b" href={`/kemenag/surah/${surah.id}`}>
+		<a class="flex flex-row py-3 mb-2 justify-between border-b" href={`/kemenag/surah/${surah.id}`}>
 			<div class="flex">
-				<div class="block pt-1">
-					<span class="inline-block align-middle">{surah.id}.</span>
+				<div class="flex p-1 w-10 justify-center rounded-lg bg-blue-700">
+					<span class="inline-block align-middle text-white">{surah.id}</span>
 				</div>
 				<div class="flex flex-col line ml-3">
 					<span class="text-sm">{` ${surah.surat_name}`}</span>
