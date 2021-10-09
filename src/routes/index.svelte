@@ -34,7 +34,7 @@
 			<img src="icon.png" alt="" class="lg:h-24" />
 		</div>
 	</div>
-	<div class="bg-gray-200 rounded-xl flex flex-row py-2 px-4 mb-4">
+	<div class="bg-gray-200 rounded-xl flex flex-row py-2 pl-4 pr-1 mb-4">
 		<input
 			bind:value={querySearch}
 			type="text"
