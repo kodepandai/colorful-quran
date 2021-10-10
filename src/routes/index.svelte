@@ -9,7 +9,7 @@
 	$: {
 		dataFiltered = dataView.filter((data) => {
 			if (querySearch != null) {
-				return data.surat_name.toLocaleLowerCase().includes(querySearch);
+				return data.surat_name.toLocaleLowerCase().includes(querySearch.toLocaleLowerCase());
 			}
 		});
 	}
@@ -45,6 +45,10 @@
 			<IconSearch fill="#000" width={20} height={20} />
 		</div>
 	</div>
+
+	{#if dataFiltered.length <= 0}
+		<span class="text-center text-gray-500 ">Surah tidak ditemukan</span>
+	{/if}
 	{#each dataFiltered as surah}
 		<a class="flex flex-row py-3 mb-2 justify-between border-b" href={`/kemenag/surah/${surah.id}`}>
 			<div class="flex">
