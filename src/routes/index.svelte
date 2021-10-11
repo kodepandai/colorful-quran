@@ -3,14 +3,11 @@
 	import IconSearch from '../icon/search.svelte';
 	import IconBookOpen from '../icon/book-open.svelte';
 
-	let dataView = list;
 	let querySearch = '';
 	let dataFiltered = [];
 	$: {
-		dataFiltered = dataView.filter((data) => {
-			if (querySearch != null) {
-				return data.surat_name.toLocaleLowerCase().includes(querySearch.toLocaleLowerCase());
-			}
+		dataFiltered = list.filter((data) => {
+			return data.surat_name.toLocaleLowerCase().includes(querySearch.toLocaleLowerCase());
 		});
 	}
 </script>
