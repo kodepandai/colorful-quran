@@ -1143,69 +1143,7 @@
 		"sura_id": 2,
 		"juz_id": 1,
 		"page_number": 6,
-		"translation_aya_text": "Dan (ingatlah) ketika Tuhanmu berfirman kepada para malaikat, “Aku hendak menjadikan khalifah di bumi.” Mereka berkata, “Apakah Engkau hendak menjadikan orang yang merusak dan menumpahkan darah di sana, sedangkan kami bertasbih memuji-Mu dan menyucikan nama-Mu?” Dia berfirman, “Sungguh, Aku mengetahui apa yang tidak kamu ketahui.”",
-		"tajweed": [
-			{
-			  "class": "madd-4-5",
-			  "start": 27,
-			  "end": 30
-			},
-			{
-			  "class": "ikhfa",
-			  "start": 51,
-			  "end": 56
-			},
-			{
-			  "class": "hamzah-wasl",
-			  "start": 57,
-			  "end": 59
-			},
-			{
-			  "class": "ikhfa",
-			  "start": 76,
-			  "end": 83
-			},
-			{
-			  "class": "madd-4-5",
-			  "start": 86,
-			  "end": 89
-			},
-			{
-			  "class": "silent",
-			  "start": 89,
-			  "end": 90
-			},
-			{
-			  "class": "qalqalah",
-			  "start": 95,
-			  "end": 97
-			},
-			{
-			  "class": "idgham-bighunnah",
-			  "start": 112,
-			  "end": 118
-			},
-			{
-			  "class": "hamzah-wasl",
-			  "start": 144,
-			  "end": 145
-			},
-			{
-			  "class": "madd-4-5",
-			  "start": 151,
-			  "end": 153
-			},
-			{
-			  "class": "madd-4-5",
-			  "start": 217,
-			  "end": 220
-			},
-			{
-			  "class": "madd-2-4-6",
-			  "start": 246,
-			  "end": 248
-			}
-		]
+		"translation_aya_text": "Dan (ingatlah) ketika Tuhanmu berfirman kepada para malaikat, “Aku hendak menjadikan khalifah di bumi.” Mereka berkata, “Apakah Engkau hendak menjadikan orang yang merusak dan menumpahkan darah di sana, sedangkan kami bertasbih memuji-Mu dan menyucikan nama-Mu?” Dia berfirman, “Sungguh, Aku mengetahui apa yang tidak kamu ketahui.”"
 	},
 	{
 		"aya_id": 38,
