@@ -1,5 +1,5 @@
 <script lang="ts">
-	import type { IAya, ITajweed } from '$contract/surah';
+	import type { IAya, ITajweed, Rule } from '$contract/surah';
 
 	import list from '$db/kemenag/list.json';
 
@@ -15,7 +15,7 @@
 		'idgham-bighunnah',
 		'idgham-bilaghunnah',
 		'idgham-mutamatsilain',
-		'idgam-mutajanisain',
+		'idgham-mutajanisain',
 		'ikhfa',
 		'iqlab',
 		'qalqalah'
@@ -25,7 +25,7 @@
 	let listAya = [];
 	let surahDetail: IAya[] = [];
 	let selectedAya = '',
-		selectedClass = '';
+		selectedClass: Rule = '';
 	let tracking = false;
 	let start, end, startSlice, endSlice;
 	let modalIsOpen = false;
