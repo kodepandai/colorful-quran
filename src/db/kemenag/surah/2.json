@@ -385,7 +385,7 @@
 				"end": 140
 			},
 			{
-				"class": "idgham-bilagunnah",
+				"class": "idgham-bilaghunnah",
 				"start": 148,
 				"end": 152
 			}
@@ -653,11 +653,6 @@
 		"translation_aya_text": "(Dialah) yang menjadikan bumi sebagai hamparan bagimu dan langit sebagai atap, dan Dialah yang menurunkan air (hujan) dari langit, lalu Dia hasilkan dengan (hujan) itu buah-buahan sebagai rezeki untukmu. Karena itu janganlah kamu mengadakan tandingan-tandingan bagi Allah, padahal kamu mengetahui.",
 		"tajweed": [
 			{
-			  "class": "ghunnah",
-			  "start": 27,
-			  "end": 33
-			},
-			{
 			  "class": "idgham-bighunnah",
 			  "start": 39,
 			  "end": 45
@@ -698,7 +693,7 @@
 			  "end": 107
 			},
 			{
-			  "class": "idgham-bighunnah",
+			  "class": "idgham-bilaghunnah",
 			  "start": 142,
 			  "end": 149
 			},
@@ -769,7 +764,7 @@
 			  "end": 107
 			},
 			{
-			  "class": "madd-6",
+			  "class": "madd-4-5",
 			  "start": 117,
 			  "end": 123
 			},
@@ -866,7 +861,7 @@
 			  "end": 147
 			},
 			{
-			  "class": "idgham-bighunnah",
+			  "class": "idgham-bilaghunnah",
 			  "start": 151,
 			  "end": 157
 			},
@@ -917,7 +912,7 @@
 		"translation_aya_text": "Sesungguhnya Allah tidak segan membuat perumpamaan seekor nyamuk atau yang lebih kecil dari itu. Adapun orang-orang yang beriman, mereka tahu bahwa itu kebenaran dari Tuhan. Tetapi mereka yang kafir berkata, “Apa maksud Allah dengan perumpamaan ini?” Dengan (perumpamaan) itu banyak orang yang dibiarkan-Nya sesat, dan dengan itu banyak (pula) orang yang diberi-Nya petunjuk. Tetapi tidak ada yang Dia sesatkan dengan (perumpamaan) itu selain orang-orang fasik,",
 		"tajweed": [
 			{
-			  "class": "idgham-bighunnah",
+			  "class": "ghunnah",
 			  "start": 4,
 			  "end": 7
 			},
