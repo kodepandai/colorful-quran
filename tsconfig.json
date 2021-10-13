@@ -26,7 +26,8 @@
 			"$lib/*": ["src/lib/*"],
 			"$db/*": ["src/db/*"],
 			"$contract/*": ["src/contract/*"],
-			"$component/*": ["src/component/*"]
+			"$component/*": ["src/component/*"],
+			"$support/*": ["src/support/*"]
 		}
 	},
 	"include": ["src/**/*.d.ts", "src/**/*.js", "src/**/*.ts", "src/**/*.svelte"]

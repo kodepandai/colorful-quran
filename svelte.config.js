@@ -17,7 +17,8 @@ const config = {
 				alias: {
 					$db: resolve('./src/db'),
 					$contract: resolve('./src/contract'),
-					$component: resolve('./src/component')
+					$component: resolve('./src/component'),
+					$support: resolve('./src/support'),
 				}
 			}
 		}
