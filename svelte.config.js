@@ -18,7 +18,7 @@ const config = {
 					$db: resolve('./src/db'),
 					$contract: resolve('./src/contract'),
 					$component: resolve('./src/component'),
-					$support: resolve('./src/support'),
+					$support: resolve('./src/support')
 				}
 			}
 		}
