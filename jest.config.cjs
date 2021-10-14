@@ -1,9 +1,11 @@
+// import { pathsToModuleNameMapper } from 'ts-jest/utils'
+// import { compilerOptions } from './tsconfig.json'
 /*
  * For a detailed explanation regarding each configuration property and type check, visit:
  * https://jestjs.io/docs/configuration
  */
 
-export default {
+module.exports = {
 	// All imported modules in your tests should be mocked automatically
 	// automock: false,
 
@@ -31,7 +33,7 @@ export default {
 	// ],
 
 	// Indicates which provider should be used to instrument code for coverage
-	coverageProvider: 'v8'
+	coverageProvider: 'v8',
 
 	// A list of reporter names that Jest uses when writing coverage reports
 	// coverageReporters: [
@@ -60,8 +62,11 @@ export default {
 	// globalTeardown: undefined,
 
 	// A set of global variables that need to be available in all test environments
-	// globals: {},
-
+	// globals: {
+	// 	'ts-jest': {
+	// 		useESM: true,
+	// 	},
+	// },
 	// The maximum amount of workers used to run your tests. Can be specified as % or a number. E.g. maxWorkers: 10% will use 10% of your CPU amount + 1 as the maximum worker number. maxWorkers: 2 will use a maximum of 2 workers.
 	// maxWorkers: "50%",
 
@@ -81,9 +86,10 @@ export default {
 	// ],
 
 	// A map from regular expressions to module names or to arrays of module names that allow to stub out resources with a single module
-	// moduleNameMapper: {},
-
-	// An array of regexp pattern strings, matched against all module paths before considered 'visible' to the module loader
+	moduleNameMapper: {
+		"^\\$db(.*)$": "<rootDir>/src/db/$1",
+		"^\\$support(.*)$": "<rootDir>/src/support/$1",
+	  },	// An array of regexp pattern strings, matched against all module paths before considered 'visible' to the module loader
 	// modulePathIgnorePatterns: [],
 
 	// Activates notifications for test results
@@ -93,7 +99,7 @@ export default {
 	// notifyMode: "failure-change",
 
 	// A preset that is used as a base for Jest's configuration
-	// preset: undefined,
+	preset: 'ts-jest',
 
 	// Run tests from one or more projects
 	// projects: undefined,
@@ -114,12 +120,8 @@ export default {
 	// restoreMocks: false,
 
 	// The root directory that Jest should scan for tests and modules within
-	// rootDir: undefined,
-
-	// A list of paths to directories that Jest should use to search for files in
-	// roots: [
-	//   "<rootDir>"
-	// ],
+	// rootDir: ".",
+	// roots: ["./src"],
 
 	// Allows you to use a custom runner instead of Jest's default test runner
 	// runner: "jest-runner",

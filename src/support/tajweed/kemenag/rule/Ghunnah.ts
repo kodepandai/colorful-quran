@@ -1,12 +1,12 @@
 import type { RuleFinder } from '$contract/rule';
 import type { ITajweed } from '$contract/surah';
+import IsHuruf, { AlifMaksura, Meem, Noon } from '$support/tajweed/kemenag/check/IsHuruf';
 import {
 	FindAttributeIndex,
 	IsBlank,
 	IsTanwin,
 	Shaddah
 } from '$support/tajweed/kemenag/check/Attribute';
-import IsHuruf, { AlifMaksura, Meem, Noon } from '$support/tajweed/kemenag/check/IsHuruf';
 
 const Ghunnah: RuleFinder = (ayaSplited) => {
 	return new Promise((resolve) => {
