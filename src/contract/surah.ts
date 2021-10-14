@@ -1,5 +1,25 @@
+export type Rule =
+	| 'ghunnah'
+	| 'ikhfa'
+	| 'madd-wajib'
+	| 'madd-jaiz'
+	| 'hamzah-wasl'
+	| 'silent'
+	| 'madd-4-5'
+	| 'madd-2-4-6'
+	| 'madd-6'
+	| 'ghunnah'
+	| 'idgham-syafawi'
+	| 'ikhfa-syafawi'
+	| 'idgham-bighunnah'
+	| 'idgham-bilaghunnah'
+	| 'idgham-mutamatsilain'
+	| 'idgham-mutajanisain'
+	| 'iqlab'
+	| 'qalqalah'
+	| '';
 export interface ITajweed {
-	class: string;
+	class: Rule;
 	start: number;
 	end: number;
 }
