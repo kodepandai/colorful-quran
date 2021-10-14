@@ -6,6 +6,7 @@
 	import Ghunnah from '$support/tajweed/kemenag/rule/Ghunnah';
 	import IdghamBighunnah from '$support/tajweed/kemenag/rule/IdghamBighunnah';
 	import IdghamBilaghunnah from '$support/tajweed/kemenag/rule/IdghamBilaghunnah';
+	import Ikhfa from '$support/tajweed/kemenag/rule/Ikhfa';
 	import Qalqalah from '$support/tajweed/kemenag/rule/Qalqalah';
 
 	let surahJson: IAya[] = [];
@@ -20,7 +21,8 @@
 					Ghunnah,
 					IdghamBighunnah,
 					IdghamBilaghunnah,
-					Qalqalah
+					Qalqalah,
+					Ikhfa
 				]);
 				surahJson[i].tajweed = tajweed;
 			})

@@ -1,8 +1,6 @@
 import type { RuleFinder } from '$contract/rule';
 import type { ITajweed } from '$contract/surah';
 import {
-	Alif,
-	AlifMaksura,
 	FindCharIndex,
 	IsChar,
 	Maddah,
@@ -24,7 +22,7 @@ const Ghunnah: RuleFinder = (ayaSplited) => {
 			);
 
 			if (IsChar(txt, [Noon, Meem]) && ShaddahIndex >= 0 && !IsChar(ayaSplited[i + 2], Maddah)) {
-				const prev = GetPrev(ayaSplited, i, [AlifMaksura, Alif]);
+				const prev = GetPrev(ayaSplited, i);
 				if (
 					!(
 						IsChar(ayaSplited[prev], Tanwin) ||

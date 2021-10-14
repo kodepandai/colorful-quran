@@ -22,7 +22,7 @@ const IdghamBighunnah: RuleFinder = (ayaSplited) => {
 				(IsChar(txt, Noon) && IsChar(ayaSplited[i + 1], Sukun)) ||
 				IsChar(ayaSplited[i + 1], Tanwin)
 			) {
-				let next = GetNext(ayaSplited, i + 1, [AlifMaksura]);
+				let next = GetNext(ayaSplited, i + 1);
 				if (IsChar(ayaSplited[next], [Ya, Noon, Meem, Wau])) {
 					let appendRule: ITajweed[] = [
 						{
@@ -36,7 +36,7 @@ const IdghamBighunnah: RuleFinder = (ayaSplited) => {
 						Alif
 					]);
 					if (splitIndex >= 0) {
-						next = i + FindCharIndex(ayaSplited.slice(i, next).join(''), AlifMaksura) + 1;
+						next = i + splitIndex + 1;
 						appendRule = [
 							{
 								class: 'idgham-bighunnah',

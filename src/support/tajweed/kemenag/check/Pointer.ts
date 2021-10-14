@@ -1,9 +1,9 @@
-import { Blank, IsChar } from '$support/tajweed/kemenag/check/Char';
+import { Alif, AlifMaksura, Blank, IsChar } from '$support/tajweed/kemenag/check/Char';
 
 const MovePointer =
 	(move = 1) =>
 	(ayaSplited: string[], i: number, skippable: string[] = []) => {
-		const _skippable = [Blank, ...skippable];
+		const _skippable = [Blank, AlifMaksura, Alif, ...skippable];
 		let cursor = i + move;
 		let end = false;
 		while (!end) {
