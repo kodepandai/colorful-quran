@@ -5,6 +5,11 @@ export const Wau = 'و';
 export const Noon = 'ن';
 export const Ya = 'ي';
 export const Lam = 'ل';
+export const Qaf = 'ق';
+export const Tha = 'ط';
+export const Ba = 'ب';
+export const Dal = 'د';
+export const Jeem = 'ج';
 
 export const Shaddah = 'ّ';
 export const Sukun = 'ْ';

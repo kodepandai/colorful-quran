@@ -22,4 +22,14 @@ describe('Ghunnah finder kemenag version', () => {
 		const result = await GenerateRule(surah2[4].aya_text, [Ghunnah]);
 		expect(result.length).toEqual(0);
 	});
+
+	it('can distinguish idgham bighunnah and ghunnah on surah 2 verse 23', async () => {
+		const result = await GenerateRule(surah2[22].aya_text, [Ghunnah]);
+		expect(result.length).toEqual(1);
+		expect(result[0]).toEqual({
+			class: 'ghunnah',
+			start: 31,
+			end: 34
+		});
+	});
 });

@@ -6,6 +6,7 @@
 	import Ghunnah from '$support/tajweed/kemenag/rule/Ghunnah';
 	import IdghamBighunnah from '$support/tajweed/kemenag/rule/IdghamBighunnah';
 	import IdghamBilaghunnah from '$support/tajweed/kemenag/rule/IdghamBilaghunnah';
+	import Qalqalah from '$support/tajweed/kemenag/rule/Qalqalah';
 
 	let surahJson: IAya[] = [];
 	const updateAyaList = async (e) => {
@@ -18,7 +19,8 @@
 				const tajweed = await GenerateRule(aya.aya_text, [
 					Ghunnah,
 					IdghamBighunnah,
-					IdghamBilaghunnah
+					IdghamBilaghunnah,
+					Qalqalah
 				]);
 				surahJson[i].tajweed = tajweed;
 			})

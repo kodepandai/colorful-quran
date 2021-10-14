@@ -3,12 +3,12 @@ import IdghamBilaghunnah from '$support/tajweed/kemenag/rule/IdghamBilaghunnah';
 import GenerateRule from '$support/tajweed/GenerateRule';
 
 describe('IdghamBilaghunnah finder kemenag version', () => {
-	it('cannot find idgham bighunnah on surah 2 verse 4', async () => {
+	it('cannot find idgham bilaghunnah on surah 2 verse 4', async () => {
 		const result = await GenerateRule(surah2[3].aya_text, [IdghamBilaghunnah]);
 		expect(result.length).toEqual(0);
 	});
 
-	it('can find ghunnah on surah 2 verse 2', async () => {
+	it('can find igham bilaghunnah on surah 2 verse 2', async () => {
 		const result = await GenerateRule(surah2[1].aya_text, [IdghamBilaghunnah]);
 		expect(result.length).toEqual(2);
 		expect(result[0]).toEqual({
