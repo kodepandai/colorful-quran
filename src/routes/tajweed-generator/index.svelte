@@ -40,7 +40,7 @@
 		2
 	);
 	const updateAyaList = async (e) => {
-		surahDetail = (await import(`../db/kemenag/surah/${e.target.value}.json`)).default;
+		surahDetail = (await import(`../../db/kemenag/surah/${e.target.value}.json`)).default;
 		listAya = surahDetail.map((s) => s.aya_number);
 		selectedAya = surahDetail[0].aya_text;
 		tajweedList = surahDetail[0].tajweed ?? [];
