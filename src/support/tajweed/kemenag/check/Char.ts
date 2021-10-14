@@ -4,6 +4,7 @@ export const Meem = 'م';
 export const Wau = 'و';
 export const Noon = 'ن';
 export const Ya = 'ي';
+export const Lam = 'ل';
 
 export const Shaddah = 'ّ';
 export const Sukun = 'ْ';
