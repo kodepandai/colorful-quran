@@ -1,31 +1,43 @@
 import type { RuleFinder } from '$contract/rule';
 import type { ITajweed } from '$contract/surah';
-import IsHuruf, { AlifMaksura, Meem, Noon } from '$support/tajweed/kemenag/check/IsHuruf';
 import {
-	FindAttributeIndex,
-	IsBlank,
-	IsTanwin,
-	Shaddah
-} from '$support/tajweed/kemenag/check/Attribute';
+	Alif,
+	AlifMaksura,
+	FindCharIndex,
+	IsChar,
+	Maddah,
+	Meem,
+	Noon,
+	Shaddah,
+	Sukun,
+	Tanwin
+} from '$support/tajweed/kemenag/check/Char';
+import { GetPrev } from '$support/tajweed/kemenag/check/Pointer';
 
 const Ghunnah: RuleFinder = (ayaSplited) => {
 	return new Promise((resolve) => {
 		let match: ITajweed[] = [];
 		ayaSplited.forEach((txt, i) => {
-			const ShaddahIndex = FindAttributeIndex(
+			const ShaddahIndex = FindCharIndex(
 				ayaSplited[i] + ayaSplited[i + 1] + ayaSplited[i + 2],
 				Shaddah
 			);
-			if (IsHuruf(txt, [Noon, Meem]) && ShaddahIndex >= 0) {
-				let prev = i - 1;
-				if (IsBlank(ayaSplited[prev])) prev--;
-				if (IsHuruf(ayaSplited[prev], AlifMaksura)) prev--;
-				if (!IsTanwin(ayaSplited[prev])) {
+
+			if (IsChar(txt, [Noon, Meem]) && ShaddahIndex >= 0 && !IsChar(ayaSplited[i + 2], Maddah)) {
+				const prev = GetPrev(ayaSplited, i, [AlifMaksura, Alif]);
+				if (
+					!(
+						IsChar(ayaSplited[prev], Tanwin) ||
+						(IsChar(ayaSplited[prev], Sukun) && IsChar(ayaSplited[prev - 1], [Noon, Meem]))
+					)
+				) {
+					let start = i;
+					if (IsChar(ayaSplited[i - 2], Meem) && IsChar(txt, Meem)) start -= 2; //fix for LPMQ font
 					match = [
 						...match,
 						{
 							class: 'ghunnah',
-							start: i,
+							start,
 							end: i + ShaddahIndex + 2
 						}
 					];

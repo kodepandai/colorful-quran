@@ -1,39 +1,14 @@
 <script lang="ts">
-	import type { IAya, ITajweed, Rule } from '$contract/surah';
+	import type { IAya, ITajweed } from '$contract/surah';
 
 	import list from '$db/kemenag/list.json';
 	import GenerateRule from '$support/tajweed/GenerateRule';
 	import Ghunnah from '$support/tajweed/kemenag/rule/Ghunnah';
 	import IdghamBighunnah from '$support/tajweed/kemenag/rule/IdghamBighunnah';
 
-	let mode: 'insert' | 'edit' = 'insert';
-	let editedRule: number;
-	let listAya = [];
-	let surahDetail: IAya[] = [];
-	let selectedAya = '',
-		selectedClass: Rule = '';
-	let tracking = false;
-	let start, end, startSlice, endSlice;
-	let tajweedList: ITajweed[] = [],
-		tajweedListPreview: ITajweed[] = [];
-
 	let surahJson: IAya[] = [];
 	const updateAyaList = async (e) => {
 		surahJson = (await import(`../../db/kemenag/surah/${e.target.value}.json`)).default;
-	};
-
-	const renderAya = (e) => {
-		selectedAya = surahDetail[e.target.value - 1].aya_text;
-		tajweedList = surahDetail[e.target.value - 1].tajweed ?? [];
-	};
-	const track = (i) => {
-		if (tracking) {
-			if (!start) {
-				start = i;
-			} else {
-				end = i;
-			}
-		}
 	};
 
 	const generateTajeed = () => {
@@ -43,31 +18,6 @@
 				surahJson[i].tajweed = tajweed;
 			})
 		);
-	};
-
-	const addTajweed = () => {
-		if (!selectedClass) {
-			return alert('please choose class');
-		}
-		if (mode == 'insert') {
-			tajweedList = [
-				...tajweedList,
-				{
-					class: selectedClass,
-					start: startSlice,
-					end: endSlice
-				}
-			];
-		} else {
-			tajweedList = tajweedList.map((rule, i) => {
-				if (editedRule == i) {
-					rule.class = selectedClass;
-					rule.start = startSlice;
-					rule.end = endSlice;
-				}
-				return rule;
-			});
-		}
 	};
 
 	$: if (surahJson) {
