@@ -1,57 +1,13 @@
 import type { RuleFinder } from '$contract/rule';
 import type { ITajweed } from '$contract/surah';
-import {
-	Alif,
-	AlifMaksura,
-	FindCharIndex,
-	IsChar,
-	Lam,
-	Noon,
-	Sukun,
-	Tanwin,
-} from '$support/tajweed/kemenag/check/Char';
-import { GetNext } from '../check/Pointer';
+import {Lam, Ra} from '$support/tajweed/kemenag/check/Char';
+import NoonOrTanwinBasedRule from '../helper/NoonOrTanwinBasedRule';
 
 const IdghamBilaghunnah: RuleFinder = (ayaSplited) => {
 	return new Promise((resolve) => {
 		let match: ITajweed[] = [];
 		ayaSplited.forEach((txt, i) => {
-			if (
-				(IsChar(txt, Noon) && IsChar(ayaSplited[i + 1], Sukun)) ||
-				IsChar(ayaSplited[i + 1], Tanwin)
-			) {
-				let next = GetNext(ayaSplited, i + 1);
-				if (IsChar(ayaSplited[next], Lam)) {
-					let appendRule: ITajweed[] = [
-						{
-							class: 'idgham-bilaghunnah',
-							start: i,
-							end: next + 2
-						}
-					];
-					const splitIndex = FindCharIndex(ayaSplited.slice(i, next).join(''), [
-						AlifMaksura,
-						Alif
-					]);
-					if (splitIndex >= 0) {
-						next = i + splitIndex + 1;
-						appendRule = [
-							{
-								class: 'idgham-bilaghunnah',
-								start: i,
-								end: i + 2
-							},
-							{
-								class: 'idgham-bilaghunnah',
-								start: next,
-								end: next + 2
-							}
-						];
-					}
-
-					match = [...match, ...appendRule];
-				}
-			}
+			match = NoonOrTanwinBasedRule('idgham-bilaghunnah', ayaSplited, i, [Lam, Ra], match)
 		});
 		resolve(match);
 	});

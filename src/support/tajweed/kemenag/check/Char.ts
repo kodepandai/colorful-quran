@@ -27,6 +27,7 @@ export const Noon = 'ن';
 export const Wau = 'و';
 export const Ha = 'ه';
 export const Hamzah = 'ء';
+export const HamzahSmall = "ٔ";
 export const Ya = 'ي';
 
 export const Shaddah = 'ّ';
