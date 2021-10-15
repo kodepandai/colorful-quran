@@ -8,7 +8,7 @@ describe('IdghamBighunnah finder kemenag version', () => {
 		expect(result.length).toEqual(0);
 	});
 
-	it('can find ghunnah on surah 2 verse 5', async () => {
+	it('can find idgham bighunnah on surah 2 verse 5', async () => {
 		const result = await GenerateRule(surah2[4].aya_text, [IdghamBighunnah]);
 		expect(result.length).toEqual(2);
 		expect(result[0]).toEqual({
@@ -22,4 +22,29 @@ describe('IdghamBighunnah finder kemenag version', () => {
 			end: 25
 		});
 	});
+
+	it('can find idgham bighunnah with hamzah as base on surah 2 verse 216', async()=>{
+		const result = await GenerateRule(surah2[215].aya_text, [IdghamBighunnah]);
+		expect(result.length).toEqual(4);
+		expect(result[0]).toEqual({
+			class: 'idgham-bighunnah',
+			start: 83,
+			end: 86
+		});
+		expect(result[1]).toEqual({
+			class: 'idgham-bighunnah',
+			start: 87,
+			end: 89
+		});
+		expect(result[2]).toEqual({
+			class: 'idgham-bighunnah',
+			start: 142,
+			end: 145
+		});
+		expect(result[3]).toEqual({
+			class: 'idgham-bighunnah',
+			start: 146,
+			end: 148
+		});
+	})
 });
