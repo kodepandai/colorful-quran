@@ -1,6 +1,6 @@
 import surah2 from '$db/kemenag/surah/2.json';
-import IdghamBighunnah from '$support/tajweed/kemenag/rule/IdghamBighunnah';
-import GenerateRule from '$support/tajweed/GenerateRule';
+import IdghamBighunnah from '$tajweed/kemenag/rule/IdghamBighunnah';
+import GenerateRule from '$tajweed/GenerateRule';
 
 describe('IdghamBighunnah finder kemenag version', () => {
 	it('cannot find idgham bighunnah on surah 2 verse 3', async () => {
@@ -23,7 +23,7 @@ describe('IdghamBighunnah finder kemenag version', () => {
 		});
 	});
 
-	it('can find idgham bighunnah with hamzah as base on surah 2 verse 216', async()=>{
+	it('can find idgham bighunnah with hamzah as base on surah 2 verse 216', async () => {
 		const result = await GenerateRule(surah2[215].aya_text, [IdghamBighunnah]);
 		expect(result.length).toEqual(4);
 		expect(result[0]).toEqual({
@@ -46,5 +46,5 @@ describe('IdghamBighunnah finder kemenag version', () => {
 			start: 146,
 			end: 148
 		});
-	})
+	});
 });

@@ -2,14 +2,15 @@
 	import type { IAya, ITajweed } from '$contract/surah';
 
 	import list from '$db/kemenag/list.json';
-	import GenerateRule from '$support/tajweed/GenerateRule';
-	import Ghunnah from '$support/tajweed/kemenag/rule/Ghunnah';
-	import IdghamBighunnah from '$support/tajweed/kemenag/rule/IdghamBighunnah';
-	import IdghamBilaghunnah from '$support/tajweed/kemenag/rule/IdghamBilaghunnah';
-	import Ikhfa from '$support/tajweed/kemenag/rule/Ikhfa';
-	import Iqlab from '$support/tajweed/kemenag/rule/Iqlab';
-	import Maddjaiz from '$support/tajweed/kemenag/rule/MaddJaiz';
-	import Qalqalah from '$support/tajweed/kemenag/rule/Qalqalah';
+	import GenerateRule from '$tajweed/GenerateRule';
+	import Ghunnah from '$tajweed/kemenag/rule/Ghunnah';
+	import IdghamBighunnah from '$tajweed/kemenag/rule/IdghamBighunnah';
+	import IdghamBilaghunnah from '$tajweed/kemenag/rule/IdghamBilaghunnah';
+	import Ikhfa from '$tajweed/kemenag/rule/Ikhfa';
+	import Iqlab from '$tajweed/kemenag/rule/Iqlab';
+	import MaddJaiz from '$tajweed/kemenag/rule/MaddJaiz';
+	import MaddWajib from '$tajweed/kemenag/rule/MaddWajib';
+	import Qalqalah from '$tajweed/kemenag/rule/Qalqalah';
 
 	let surahJson: IAya[] = [];
 	const updateAyaList = async (e) => {
@@ -26,7 +27,8 @@
 					Qalqalah,
 					Ikhfa,
 					Iqlab,
-					Maddjaiz
+					MaddJaiz,
+					MaddWajib
 				]);
 				surahJson[i].tajweed = tajweed;
 			})

@@ -9,8 +9,8 @@ import {
 	Shaddah,
 	Sukun,
 	Tanwin
-} from '$support/tajweed/kemenag/check/Char';
-import { GetPrev } from '$support/tajweed/kemenag/check/Pointer';
+} from '$tajweed/kemenag/check/Char';
+import { GetPrev } from '$tajweed/kemenag/check/Pointer';
 
 const Ghunnah: RuleFinder = (ayaSplited) => {
 	return new Promise((resolve) => {

@@ -1,6 +1,6 @@
 import surah2 from '$db/kemenag/surah/2.json';
-import Ikhfa from '$support/tajweed/kemenag/rule/Ikhfa';
-import GenerateRule from '$support/tajweed/GenerateRule';
+import Ikhfa from '$tajweed/kemenag/rule/Ikhfa';
+import GenerateRule from '$tajweed/GenerateRule';
 
 describe('Ikhfa finder kemenag version', () => {
 	it('cannot find ikhfa on surah 2 verse 2', async () => {

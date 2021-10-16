@@ -1,6 +1,6 @@
 import surah2 from '$db/kemenag/surah/2.json';
-import MaddJaiz from '$support/tajweed/kemenag/rule/MaddJaiz';
-import GenerateRule from '$support/tajweed/GenerateRule';
+import MaddJaiz from '$tajweed/kemenag/rule/MaddJaiz';
+import GenerateRule from '$tajweed/GenerateRule';
 
 describe('MaddJaiz finder kemenag version', () => {
 	it('cannot find madd-jaiz on surah 2 verse 2', async () => {

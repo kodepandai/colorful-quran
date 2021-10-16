@@ -1,6 +1,6 @@
 import surah2 from '$db/kemenag/surah/2.json';
-import Ghunnah from '$support/tajweed/kemenag/rule/Ghunnah';
-import GenerateRule from '$support/tajweed/GenerateRule';
+import Ghunnah from '$tajweed/kemenag/rule/Ghunnah';
+import GenerateRule from '$tajweed/GenerateRule';
 
 describe('Ghunnah finder kemenag version', () => {
 	it('cannot find ghunnah on surah 2 verse 2', async () => {

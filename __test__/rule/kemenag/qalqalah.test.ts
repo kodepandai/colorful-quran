@@ -1,6 +1,6 @@
 import surah2 from '$db/kemenag/surah/2.json';
-import GenerateRule from "$support/tajweed/GenerateRule";
-import Qalqalah from '$support/tajweed/kemenag/rule/Qalqalah';
+import GenerateRule from '$tajweed/GenerateRule';
+import Qalqalah from '$tajweed/kemenag/rule/Qalqalah';
 
 describe('IdghamBilaghunnah finder kemenag version', () => {
 	it('cannot find qalqalah on surah 2 verse 2', async () => {

@@ -1,6 +1,6 @@
 import surah2 from '$db/kemenag/surah/2.json';
-import IdghamBilaghunnah from '$support/tajweed/kemenag/rule/IdghamBilaghunnah';
-import GenerateRule from '$support/tajweed/GenerateRule';
+import IdghamBilaghunnah from '$tajweed/kemenag/rule/IdghamBilaghunnah';
+import GenerateRule from '$tajweed/GenerateRule';
 
 describe('IdghamBilaghunnah finder kemenag version', () => {
 	it('cannot find idgham bilaghunnah on surah 2 verse 4', async () => {

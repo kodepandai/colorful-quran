@@ -1,4 +1,4 @@
-import { Alif, AlifMaksura, Blank, IsChar } from '$support/tajweed/kemenag/check/Char';
+import { AlifMaksura, Blank, IsChar } from '$tajweed/kemenag/check/Char';
 
 const MovePointer =
 	(move = 1) =>

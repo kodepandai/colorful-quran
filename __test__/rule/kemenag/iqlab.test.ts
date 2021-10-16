@@ -1,6 +1,6 @@
 import surah2 from '$db/kemenag/surah/2.json';
-import Iqlab from '$support/tajweed/kemenag/rule/Iqlab';
-import GenerateRule from '$support/tajweed/GenerateRule';
+import Iqlab from '$tajweed/kemenag/rule/Iqlab';
+import GenerateRule from '$tajweed/GenerateRule';
 
 describe('Iqlab finder kemenag version', () => {
 	it('cannot find iqlab on surah 2 verse 2', async () => {
