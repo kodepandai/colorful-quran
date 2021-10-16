@@ -1,15 +1,24 @@
 <script lang="ts">
 	import list from '$db/kemenag/list.json';
-	import IconSearch from '../icon/search.svelte';
-	import IconBookOpen from '../icon/book-open.svelte';
+	import Icon from '@iconify/svelte';
+	import { onMount } from 'svelte';
 
 	let querySearch = '';
 	let dataFiltered = [];
+	let getLastSurah = '';
+	let getLastAyat = '';
 	$: {
 		dataFiltered = list.filter((data) => {
 			return data.surat_name.toLocaleLowerCase().includes(querySearch.toLocaleLowerCase());
 		});
 	}
+
+	onMount(() => {
+		getLastSurah = list.find(
+			(data) => data.id.toString() == localStorage.getItem('last_read_surah')
+		)?.surat_name;
+		getLastAyat = localStorage.getItem('last_read_ayat');
+	});
 </script>
 
 <div class="sm:w-1/2 flex flex-col p-4 mx-auto">
@@ -22,10 +31,17 @@
 		<div class="lg:w-9/12 w-8/12 flex flex-col pb-6">
 			<span class="text-white text-sm mb-2">Assalamualaikum</span>
 			<div class="flex flex-row mb-2">
-				<IconBookOpen fill="#fff" width={15} height={15} />
+				<Icon icon="ant-design:read-outlined" color="#fff" width="20" height="20" />
 				<span class="text-white text-xs ml-1">surah terakhir dibaca</span>
 			</div>
-			<span class="text-white text-xs">tidak ada surat yang disimpan</span>
+			<div class="flex">
+				{#if getLastSurah == ''}
+					<span class="text-white text-xs">tidak ada surat yang disimpan</span>
+				{:else}
+					<span class="text-white text-xs">Surah: {getLastSurah}</span>
+					<span class="text-white text-xs"> &nbsp; ayat {getLastAyat}</span>
+				{/if}
+			</div>
 		</div>
 		<div class="lg:w-3/12 w-4/12 justify-center flex">
 			<img src="icon.png" alt="" class="lg:h-24" />
@@ -39,7 +55,7 @@
 			class="bg-transparent focus:outline-none w-11/12"
 		/>
 		<div class="px-2 align-middle flex" style="padding-top: 0.2rem;">
-			<IconSearch fill="#000" width={20} height={20} />
+			<Icon icon="et:search" width="20" height="20" />
 		</div>
 	</div>
 

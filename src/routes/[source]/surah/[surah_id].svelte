@@ -1,9 +1,9 @@
 <script context="module" lang="ts">
 	import type { IAya, ISurah, ITajweed } from '$contract/surah';
 	import type { Load } from '@sveltejs/kit';
+	import { onMount } from 'svelte';
 	let basmalah = 'بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ';
 	let basmalah01 = 'Dengan nama Allah Yang Maha Pengasih, Maha Penyayang.';
-
 	const getSurah = async (source, surah_id) => {
 		return (await import(`../../../db/${source}/surah/${surah_id}.json`)).default as IAya[];
 	};
@@ -28,6 +28,9 @@
 </script>
 
 <script lang="ts">
+	import Icon from '@iconify/svelte';
+	let getLastSurah = '';
+	let getLastAyat = '';
 	export let surah: IAya[];
 	export let surahDetail: ISurah;
 	surah.map((aya) => {
@@ -60,6 +63,18 @@
 		aya.tajweed = sliceAya;
 		return aya;
 	});
+
+	onMount(async () => {
+		getLastSurah = await localStorage.getItem('last_read_surah');
+		getLastAyat = await localStorage.getItem('last_read_ayat');
+	});
+	const saveLastReading = async (surah: any, ayat: any) => {
+		getLastSurah = surah;
+		getLastAyat = ayat;
+		await localStorage.setItem('last_read_surah', surah);
+		await localStorage.setItem('last_read_ayat', ayat);
+		alert('Data berhasil disimpan');
+	};
 </script>
 
 <div class="sm:w-1/2 flex flex-col p-4 mx-auto">
@@ -81,6 +96,15 @@
 
 	{#each surah as aya}
 		{#if aya.sura_id != 1 || aya.aya_number != 1}
+			<div class="flex">
+				<div on:click={() => saveLastReading(aya.sura_id, aya.aya_number)}>
+					{#if getLastSurah == String(aya.sura_id) && getLastAyat == String(aya.aya_number)}
+						<Icon icon="emojione-monotone:open-book" color="#5C7AEA" width="20" height="20" />
+					{:else}
+						<Icon icon="emojione-monotone:open-book" color="#B2B1B9" width="20" height="20" />
+					{/if}
+				</div>
+			</div>
 			<div class="font-arab py-2 mb-3 border-b text-xl">
 				{#each aya.tajweed as tajweed}
 					<i class={tajweed.class} title={tajweed.class}>
