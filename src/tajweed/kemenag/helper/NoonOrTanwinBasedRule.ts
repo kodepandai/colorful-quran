@@ -10,6 +10,7 @@ import {
 	Tanwin,
 	WaqafAula,
 	WaqafJaiz,
+	WaqafLazim,
 	Washal
 } from '../check/Char';
 import { GetNext } from '$tajweed/kemenag/check/Pointer';
@@ -27,7 +28,7 @@ const NoonOrTanwinBasedRule = (
 	) {
 		let start = i;
 		if (IsChar(ayaSplited[i], HamzahWau)) start--;
-		let next = GetNext(ayaSplited, i + 1, [Alif, Washal, WaqafJaiz, WaqafAula]);
+		let next = GetNext(ayaSplited, i + 1, [Alif, Washal, WaqafJaiz, WaqafAula, WaqafLazim]);
 		if (IsChar(ayaSplited[next], ruleHuruf)) {
 			let appendRule: ITajweed[] = [
 				{
