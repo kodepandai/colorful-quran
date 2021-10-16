@@ -41,7 +41,9 @@ export const MaddahShort = 'ٓ';
 export const Washal = 'ۙ';
 export const WaqafAula = 'ۗ';
 export const WaqafJaiz = 'ۚ';
-export const WaqafLazim = 'ۢ';
+export const WaqafLazim = "ۘ";
+export const WaqafLove = "ە";
+export const MeemIqlab = 'ۢ';
 export const Blank = ' ';
 export const FindCharIndex = (kalimah: string, match: string | string[]): number => {
 	return kalimah.split('').findIndex((x) => x == match || match.includes(x));

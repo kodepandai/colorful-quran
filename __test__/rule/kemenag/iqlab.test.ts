@@ -10,11 +10,16 @@ describe('Iqlab finder kemenag version', () => {
 
 	it('can find iqlab on surah 2 verse 154', async () => {
 		const result = await GenerateRule(surah2[153].aya_text, [Iqlab]);
-		expect(result.length).toEqual(1);
+		expect(result.length).toEqual(2);
 		expect(result[0]).toEqual({
 			class: 'iqlab',
 			start: 64,
-			end: 71
+			end: 66
+		});
+		expect(result[1]).toEqual({
+			class: 'iqlab',
+			start: 68,
+			end: 70
 		});
 	});
 });
