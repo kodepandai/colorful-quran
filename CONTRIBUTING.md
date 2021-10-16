@@ -40,7 +40,11 @@ Just run this project on local
 
 `pnpm run dev`
 
-then visit http://localhost:3000/tajweed-generator
+then visit ~~http://localhost:3000/tajweed-generator~~
+
+**Tajweed Generator v2** is available now, https://localhost:3000/tajweed-generator/v2
+
+What's new? The generator automatic generate tajweed for whole surah. If you want to contribute, you can create new Tajweed Rule finder, see src/support/tajweed folder
 
 follow the instruction in that page. Select surah and aya, select text, then select class. After finish mapping tajweed rule, just copy and paste the json to json file on `src/db/....x.json`
 
