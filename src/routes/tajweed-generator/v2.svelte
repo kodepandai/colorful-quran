@@ -83,28 +83,34 @@
 		<button on:click={generateTajeed}> GENERATE TAJWEED</button>
 	</center>
 
-	<div>Tajweed Preview</div>
-	{#each surahJson as aya}
-		{#if aya.sura_id != 1 || aya.aya_number != 1}
-			<div class="font-arab py-2 mb-3 border-b text-xl">
-				{#each aya.tajweed as tajweed}
-					<i class={tajweed.class} title={tajweed.class}>
-						{aya.aya_text.slice(tajweed.start, tajweed.end)}
-					</i>
-				{/each}
-				<p class="font-sans text-sm mt-2 pt-2" style="direction: ltr;">
-					{aya.aya_number}. {aya.translation_aya_text}
-				</p>
+	<div class="flex flex-row mt-4 flex-wrap">
+		<div class="w-full md:w-1/2 pr-4">
+			<div>Tajweed Preview</div>
+			{#each surahJson as aya}
+				{#if aya.sura_id != 1 || aya.aya_number != 1}
+					<div class="font-arab py-2 mb-3 border-b text-xl">
+						{#each aya.tajweed as tajweed}
+							<i class={tajweed.class} title={tajweed.class}>
+								{aya.aya_text.slice(tajweed.start, tajweed.end)}
+							</i>
+						{/each}
+						<p class="font-sans text-sm mt-2 pt-2" style="direction: ltr;">
+							{aya.aya_number}. {aya.translation_aya_text}
+						</p>
+					</div>
+				{/if}
+			{/each}
+		</div>
+		<div class="w-full md:w-1/2">
+			<div>
+				<label for="">JSON</label>
+				<pre
+					style="font-size: xx-small;"
+					class="shadow-inner p-2 bg-gray-200 font-mono w-full h-auto overflow-x-scroll">
+				 {JSON.stringify(surahJson, null, 2)}
+				</pre>
 			</div>
-		{/if}
-	{/each}
-
-	<div>
-		<label for="">JSON</label>
-		<pre
-			class="shadow-inner p-2 bg-gray-200 text-xs font-mono w-full h-auto">
-		 {JSON.stringify(surahJson, null, 2)}
-		</pre>
+		</div>
 	</div>
 </div>
 
