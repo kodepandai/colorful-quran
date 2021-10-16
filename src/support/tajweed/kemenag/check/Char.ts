@@ -36,6 +36,7 @@ export const FatahTanwin = 'ً';
 export const DhumahTanwin = 'ٌ';
 export const KasrahTanwin = 'ٍ';
 export const Maddah = 'ۤ';
+export const MaddahShort = "ٓ";
 export const Washal = 'ۙ';
 export const WaqafAula = 'ۗ';
 export const WaqafJaiz = 'ۚ';

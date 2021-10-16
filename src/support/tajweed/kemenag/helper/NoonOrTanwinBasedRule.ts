@@ -9,7 +9,7 @@ const NoonOrTanwinBasedRule = (ruleName: Rule, ayaSplited: string[], i: number, 
     ) {
         let start = i
         if(IsChar(ayaSplited[i], HamzahSmall)) start--
-        let next = GetNext(ayaSplited, i + 1, [Washal, WaqafJaiz, WaqafAula]);
+        let next = GetNext(ayaSplited, i + 1, [Alif, Washal, WaqafJaiz, WaqafAula]);
         if (IsChar(ayaSplited[next], ruleHuruf)) {
             let appendRule: ITajweed[] = [
                 {

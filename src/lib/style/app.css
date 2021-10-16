@@ -44,6 +44,9 @@
 .madd-6 {
 	color: var(--color-madd-6);
 }
+.madd-wajib, .madd-jaiz {
+	color: var(--color-madd-4-5);
+}
 .ghunnah {
 	color: var(--color-ghunnah);
 }
