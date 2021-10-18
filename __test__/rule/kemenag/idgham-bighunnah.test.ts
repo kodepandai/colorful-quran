@@ -47,4 +47,25 @@ describe('IdghamBighunnah finder kemenag version', () => {
 			end: 148
 		});
 	});
+
+	it('can find idgham bighunnah with base huruf has shaddah on surah 2 verse 36', async () => {
+		const result = await GenerateRule(surah2[35].aya_text, [IdghamBighunnah]);
+		expect(result.length).toEqual(3);
+		expect(result[0]).toEqual({
+			class: 'idgham-bighunnah',
+			start: 119,
+			end: 122
+		});
+		expect(result[1]).toEqual({
+			class: 'idgham-bighunnah',
+			start: 124,
+			end: 126
+		});
+		expect(result[2]).toEqual({
+			class: 'idgham-bighunnah',
+			start: 156,
+			end: 162
+		});
+	});
 });
+
