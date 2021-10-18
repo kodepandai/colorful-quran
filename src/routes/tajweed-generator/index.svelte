@@ -10,7 +10,7 @@
 		'madd-2-4-6',
 		'madd-6',
 		'ghunnah',
-		'idgham-syafawi',
+		'idgham-mimi',
 		'ikhfa-syafawi',
 		'idgham-bighunnah',
 		'idgham-bilaghunnah',

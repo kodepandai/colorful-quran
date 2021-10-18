@@ -6,6 +6,7 @@
 	import Ghunnah from '$tajweed/kemenag/rule/Ghunnah';
 	import IdghamBighunnah from '$tajweed/kemenag/rule/IdghamBighunnah';
 	import IdghamBilaghunnah from '$tajweed/kemenag/rule/IdghamBilaghunnah';
+	import IdghamMimi from '$tajweed/kemenag/rule/IdghamMimi';
 	import Ikhfa from '$tajweed/kemenag/rule/Ikhfa';
 	import Iqlab from '$tajweed/kemenag/rule/Iqlab';
 	import MaddJaiz from '$tajweed/kemenag/rule/MaddJaiz';
@@ -24,6 +25,7 @@
 					Ghunnah,
 					IdghamBighunnah,
 					IdghamBilaghunnah,
+					IdghamMimi,
 					Qalqalah,
 					Ikhfa,
 					Iqlab,

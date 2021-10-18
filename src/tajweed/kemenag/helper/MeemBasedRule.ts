@@ -3,24 +3,20 @@ import {
 	Alif,
 	AlifMaksura,
 	FindCharIndex,
-	HamzahWau,
 	IsChar,
-	Noon,
 	Sukun,
-	Tanwin,
 	WaqafAula,
 	WaqafJaiz,
 	MeemIqlab,
 	Washal,
     WaqafLazim,
     WaqafLove,
-	Shaddah,
 	Meem,
 } from '../check/Char';
 import { GetNext } from '$tajweed/kemenag/check/Pointer';
 
 const IgnoredChar = [AlifMaksura, Alif, WaqafLove, Washal, WaqafJaiz, WaqafAula, WaqafLazim, MeemIqlab]
-const NoonOrTanwinBasedRule = (
+const MeemBasedRule = (
 	ruleName: Rule,
 	ayaSplited: string[],
 	i: number,
@@ -28,18 +24,14 @@ const NoonOrTanwinBasedRule = (
 	match: ITajweed[]
 ): ITajweed[] => {
 	if (
-		(IsChar(ayaSplited[i], Noon) && IsChar(ayaSplited[i + 1], Sukun)) ||
-		IsChar(ayaSplited[i + 1], Tanwin)
+		(IsChar(ayaSplited[i], Meem) && IsChar(ayaSplited[i + 1], Sukun))
 	) {
-		let start = i;
-		if(IsChar(ayaSplited[i], Shaddah) && !(IsChar(ayaSplited[i-1], [Noon, Meem]))) start --
-		if (IsChar(ayaSplited[i], HamzahWau)) start--;
 		const next = GetNext(ayaSplited, i + 1, IgnoredChar);
 		if (IsChar(ayaSplited[next], ruleHuruf)) {
 			let appendRule: ITajweed[] = [
 				{
 					class: ruleName,
-					start,
+					start:i,
 					end: next + 2
 				}
 			];
@@ -48,7 +40,7 @@ const NoonOrTanwinBasedRule = (
 				appendRule = [
 					{
 						class: ruleName,
-						start,
+						start:i,
 						end: i + 2
 					},
 					{
@@ -65,4 +57,4 @@ const NoonOrTanwinBasedRule = (
 	return match;
 };
 
-export default NoonOrTanwinBasedRule;
+export default MeemBasedRule;
