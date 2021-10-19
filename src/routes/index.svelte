@@ -35,7 +35,7 @@
 				<span class="text-white text-xs ml-1">surah terakhir dibaca</span>
 			</div>
 			<div class="flex">
-				{#if getLastSurah == ''}
+				{#if !getLastSurah}
 					<span class="text-white text-xs">tidak ada surat yang disimpan</span>
 				{:else}
 					<span class="text-white text-xs">Surah: {getLastSurah}</span>
