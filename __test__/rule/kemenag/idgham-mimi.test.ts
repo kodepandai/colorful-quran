@@ -18,7 +18,7 @@ describe('IdghamMimi finder kemenag version', () => {
 		});
 	});
 
-    it('can find idgham mimi with split index on surah 2 verse 214', async () => {
+	it('can find idgham mimi with split index on surah 2 verse 214', async () => {
 		const result = await GenerateRule(surah2[213].aya_text, [IdghamMimi]);
 		expect(result.length).toEqual(3);
 		expect(result[0]).toEqual({
@@ -26,12 +26,12 @@ describe('IdghamMimi finder kemenag version', () => {
 			start: 60,
 			end: 65
 		});
-        expect(result[1]).toEqual({
+		expect(result[1]).toEqual({
 			class: 'idgham-mimi',
 			start: 103,
 			end: 105
 		});
-        expect(result[2]).toEqual({
+		expect(result[2]).toEqual({
 			class: 'idgham-mimi',
 			start: 107,
 			end: 109

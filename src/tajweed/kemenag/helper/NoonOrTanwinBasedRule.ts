@@ -12,14 +12,23 @@ import {
 	WaqafJaiz,
 	MeemIqlab,
 	Washal,
-    WaqafLazim,
-    WaqafLove,
+	WaqafLazim,
+	WaqafLove,
 	Shaddah,
-	Meem,
+	Meem
 } from '../check/Char';
 import { GetNext } from '$tajweed/kemenag/check/Pointer';
 
-const IgnoredChar = [AlifMaksura, Alif, WaqafLove, Washal, WaqafJaiz, WaqafAula, WaqafLazim, MeemIqlab]
+const IgnoredChar = [
+	AlifMaksura,
+	Alif,
+	WaqafLove,
+	Washal,
+	WaqafJaiz,
+	WaqafAula,
+	WaqafLazim,
+	MeemIqlab
+];
 const NoonOrTanwinBasedRule = (
 	ruleName: Rule,
 	ayaSplited: string[],
@@ -32,7 +41,7 @@ const NoonOrTanwinBasedRule = (
 		IsChar(ayaSplited[i + 1], Tanwin)
 	) {
 		let start = i;
-		if(IsChar(ayaSplited[i], Shaddah) && !(IsChar(ayaSplited[i-1], [Noon, Meem]))) start --
+		if (IsChar(ayaSplited[i], Shaddah) && !IsChar(ayaSplited[i - 1], [Noon, Meem])) start--;
 		if (IsChar(ayaSplited[i], HamzahWau)) start--;
 		const next = GetNext(ayaSplited, i + 1, IgnoredChar);
 		if (IsChar(ayaSplited[next], ruleHuruf)) {
@@ -53,7 +62,7 @@ const NoonOrTanwinBasedRule = (
 					},
 					{
 						class: ruleName,
-						start: next-1,
+						start: next - 1,
 						end: next + 1
 					}
 				];

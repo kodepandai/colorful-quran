@@ -7,13 +7,7 @@ const IdghamMimi: RuleFinder = (ayaSplited) => {
 	return new Promise((resolve) => {
 		let match: ITajweed[] = [];
 		ayaSplited.forEach((txt, i) => {
-			match = MeemBasedRule(
-				'idgham-mimi',
-				ayaSplited,
-				i,
-				[Meem],
-				match
-			);
+			match = MeemBasedRule('idgham-mimi', ayaSplited, i, [Meem], match);
 		});
 		resolve(match);
 	});

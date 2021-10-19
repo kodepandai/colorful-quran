@@ -9,13 +9,22 @@ import {
 	WaqafJaiz,
 	MeemIqlab,
 	Washal,
-    WaqafLazim,
-    WaqafLove,
-	Meem,
+	WaqafLazim,
+	WaqafLove,
+	Meem
 } from '../check/Char';
 import { GetNext } from '$tajweed/kemenag/check/Pointer';
 
-const IgnoredChar = [AlifMaksura, Alif, WaqafLove, Washal, WaqafJaiz, WaqafAula, WaqafLazim, MeemIqlab]
+const IgnoredChar = [
+	AlifMaksura,
+	Alif,
+	WaqafLove,
+	Washal,
+	WaqafJaiz,
+	WaqafAula,
+	WaqafLazim,
+	MeemIqlab
+];
 const MeemBasedRule = (
 	ruleName: Rule,
 	ayaSplited: string[],
@@ -23,15 +32,13 @@ const MeemBasedRule = (
 	ruleHuruf: string[],
 	match: ITajweed[]
 ): ITajweed[] => {
-	if (
-		(IsChar(ayaSplited[i], Meem) && IsChar(ayaSplited[i + 1], Sukun))
-	) {
+	if (IsChar(ayaSplited[i], Meem) && IsChar(ayaSplited[i + 1], Sukun)) {
 		const next = GetNext(ayaSplited, i + 1, IgnoredChar);
 		if (IsChar(ayaSplited[next], ruleHuruf)) {
 			let appendRule: ITajweed[] = [
 				{
 					class: ruleName,
-					start:i,
+					start: i,
 					end: next + 2
 				}
 			];
@@ -40,12 +47,12 @@ const MeemBasedRule = (
 				appendRule = [
 					{
 						class: ruleName,
-						start:i,
+						start: i,
 						end: i + 2
 					},
 					{
 						class: ruleName,
-						start: next-1,
+						start: next - 1,
 						end: next + 1
 					}
 				];
