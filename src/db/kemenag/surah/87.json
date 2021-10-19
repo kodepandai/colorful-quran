@@ -6,7 +6,8 @@
 		"sura_id": 87,
 		"juz_id": 30,
 		"page_number": 591,
-		"translation_aya_text": "Sucikanlah nama Tuhanmu Yang Mahatinggi,"
+		"translation_aya_text": "Sucikanlah nama Tuhanmu Yang Mahatinggi,",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5950,
@@ -15,7 +16,8 @@
 		"sura_id": 87,
 		"juz_id": 30,
 		"page_number": 591,
-		"translation_aya_text": "Yang menciptakan, lalu menyempurnakan (ciptaan-Nya)."
+		"translation_aya_text": "Yang menciptakan, lalu menyempurnakan (ciptaan-Nya).",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5951,
@@ -24,7 +26,8 @@
 		"sura_id": 87,
 		"juz_id": 30,
 		"page_number": 591,
-		"translation_aya_text": "Yang menentukan kadar (masing-masing) dan memberi petunjuk,"
+		"translation_aya_text": "Yang menentukan kadar (masing-masing) dan memberi petunjuk,",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5952,
@@ -33,7 +36,14 @@
 		"sura_id": 87,
 		"juz_id": 30,
 		"page_number": 591,
-		"translation_aya_text": "dan Yang menumbuhkan rerumputan,"
+		"translation_aya_text": "dan Yang menumbuhkan rerumputan,",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 8,
+				"end": 12
+			}
+		]
 	},
 	{
 		"aya_id": 5953,
@@ -42,7 +52,14 @@
 		"sura_id": 87,
 		"juz_id": 30,
 		"page_number": 591,
-		"translation_aya_text": "lalu dijadikan-Nya (rumput-rumput) itu kering kehitam-hitaman."
+		"translation_aya_text": "lalu dijadikan-Nya (rumput-rumput) itu kering kehitam-hitaman.",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 14,
+				"end": 17
+			}
+		]
 	},
 	{
 		"aya_id": 5954,
@@ -51,7 +68,19 @@
 		"sura_id": 87,
 		"juz_id": 30,
 		"page_number": 591,
-		"translation_aya_text": "Kami akan membacakan (Al-Qur'an) kepadamu (Muhammad) sehingga engkau tidak akan lupa,"
+		"translation_aya_text": "Kami akan membacakan (Al-Qur'an) kepadamu (Muhammad) sehingga engkau tidak akan lupa,",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 4,
+				"end": 5
+			},
+			{
+				"class": "ikhfa",
+				"start": 21,
+				"end": 25
+			}
+		]
 	},
 	{
 		"aya_id": 5955,
@@ -60,7 +89,19 @@
 		"sura_id": 87,
 		"juz_id": 30,
 		"page_number": 591,
-		"translation_aya_text": "kecuali jika Allah menghendaki. Sungguh, Dia mengetahui yang terang dan yang tersembunyi."
+		"translation_aya_text": "kecuali jika Allah menghendaki. Sungguh, Dia mengetahui yang terang dan yang tersembunyi.",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 12,
+				"end": 15
+			},
+			{
+				"class": "ghunnah",
+				"start": 29,
+				"end": 32
+			}
+		]
 	},
 	{
 		"aya_id": 5956,
@@ -69,7 +110,8 @@
 		"sura_id": 87,
 		"juz_id": 30,
 		"page_number": 591,
-		"translation_aya_text": "Dan Kami akan memudahkan bagimu ke jalan kemudahan (mencapai kebahagiaan dunia dan akhirat),"
+		"translation_aya_text": "Dan Kami akan memudahkan bagimu ke jalan kemudahan (mencapai kebahagiaan dunia dan akhirat),",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5957,
@@ -78,7 +120,14 @@
 		"sura_id": 87,
 		"juz_id": 30,
 		"page_number": 591,
-		"translation_aya_text": "oleh sebab itu berikanlah peringatan, karena peringatan itu bermanfaat,"
+		"translation_aya_text": "oleh sebab itu berikanlah peringatan, karena peringatan itu bermanfaat,",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 12,
+				"end": 17
+			}
+		]
 	},
 	{
 		"aya_id": 5958,
@@ -87,7 +136,14 @@
 		"sura_id": 87,
 		"juz_id": 30,
 		"page_number": 591,
-		"translation_aya_text": "orang yang takut (kepada Allah) akan mendapat pelajaran,"
+		"translation_aya_text": "orang yang takut (kepada Allah) akan mendapat pelajaran,",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 15,
+				"end": 20
+			}
+		]
 	},
 	{
 		"aya_id": 5959,
@@ -96,7 +152,14 @@
 		"sura_id": 87,
 		"juz_id": 30,
 		"page_number": 591,
-		"translation_aya_text": "dan orang-orang yang celaka (kafir) akan menjauhinya,"
+		"translation_aya_text": "dan orang-orang yang celaka (kafir) akan menjauhinya,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 8,
+				"end": 11
+			}
+		]
 	},
 	{
 		"aya_id": 5960,
@@ -105,7 +168,19 @@
 		"sura_id": 87,
 		"juz_id": 30,
 		"page_number": 591,
-		"translation_aya_text": "(yaitu) orang yang akan memasuki api yang besar (neraka),"
+		"translation_aya_text": "(yaitu) orang yang akan memasuki api yang besar (neraka),",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 19,
+				"end": 22
+			},
+			{
+				"class": "qalqalah",
+				"start": 31,
+				"end": 32
+			}
+		]
 	},
 	{
 		"aya_id": 5961,
@@ -114,7 +189,14 @@
 		"sura_id": 87,
 		"juz_id": 30,
 		"page_number": 591,
-		"translation_aya_text": "selanjutnya dia di sana tidak mati dan tidak (pula) hidup."
+		"translation_aya_text": "selanjutnya dia di sana tidak mati dan tidak (pula) hidup.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			}
+		]
 	},
 	{
 		"aya_id": 5962,
@@ -123,7 +205,19 @@
 		"sura_id": 87,
 		"juz_id": 30,
 		"page_number": 591,
-		"translation_aya_text": "Sungguh beruntung orang yang menyucikan diri (dengan beriman),"
+		"translation_aya_text": "Sungguh beruntung orang yang menyucikan diri (dengan beriman),",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 2,
+				"end": 3
+			},
+			{
+				"class": "ikhfa",
+				"start": 16,
+				"end": 21
+			}
+		]
 	},
 	{
 		"aya_id": 5963,
@@ -132,7 +226,8 @@
 		"sura_id": 87,
 		"juz_id": 30,
 		"page_number": 591,
-		"translation_aya_text": "dan mengingat nama Tuhannya, lalu dia salat."
+		"translation_aya_text": "dan mengingat nama Tuhannya, lalu dia salat.",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5964,
@@ -141,7 +236,14 @@
 		"sura_id": 87,
 		"juz_id": 30,
 		"page_number": 592,
-		"translation_aya_text": "Sedangkan kamu (orang-orang kafir) memilih kehidupan dunia,"
+		"translation_aya_text": "Sedangkan kamu (orang-orang kafir) memilih kehidupan dunia,",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 34,
+				"end": 38
+			}
+		]
 	},
 	{
 		"aya_id": 5965,
@@ -150,7 +252,19 @@
 		"sura_id": 87,
 		"juz_id": 30,
 		"page_number": 592,
-		"translation_aya_text": "padahal kehidupan akhirat itu lebih baik dan lebih kekal."
+		"translation_aya_text": "padahal kehidupan akhirat itu lebih baik dan lebih kekal.",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 18,
+				"end": 23
+			},
+			{
+				"class": "qalqalah",
+				"start": 26,
+				"end": 27
+			}
+		]
 	},
 	{
 		"aya_id": 5966,
@@ -159,7 +273,14 @@
 		"sura_id": 87,
 		"juz_id": 30,
 		"page_number": 592,
-		"translation_aya_text": "Sesungguhnya ini terdapat dalam kitab-kitab yang dahulu,"
+		"translation_aya_text": "Sesungguhnya ini terdapat dalam kitab-kitab yang dahulu,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			}
+		]
 	},
 	{
 		"aya_id": 5967,
@@ -168,6 +289,13 @@
 		"sura_id": 87,
 		"juz_id": 30,
 		"page_number": 592,
-		"translation_aya_text": "(yaitu) kitab-kitab Ibrahim dan Musa. "
+		"translation_aya_text": "(yaitu) kitab-kitab Ibrahim dan Musa. ",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 9,
+				"end": 10
+			}
+		]
 	}
 ]

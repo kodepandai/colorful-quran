@@ -6,7 +6,8 @@
 		"sura_id": 99,
 		"juz_id": 30,
 		"page_number": 599,
-		"translation_aya_text": "Apabila bumi diguncangkan dengan guncangan yang dahsyat,"
+		"translation_aya_text": "Apabila bumi diguncangkan dengan guncangan yang dahsyat,",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6140,
@@ -15,7 +16,8 @@
 		"sura_id": 99,
 		"juz_id": 30,
 		"page_number": 599,
-		"translation_aya_text": "dan bumi telah mengeluarkan beban-beban berat (yang dikandung)nya,"
+		"translation_aya_text": "dan bumi telah mengeluarkan beban-beban berat (yang dikandung)nya,",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6141,
@@ -24,7 +26,14 @@
 		"sura_id": 99,
 		"juz_id": 30,
 		"page_number": 599,
-		"translation_aya_text": "Dan manusia bertanya, “Apa yang terjadi pada bumi ini?”"
+		"translation_aya_text": "Dan manusia bertanya, “Apa yang terjadi pada bumi ini?”",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 13,
+				"end": 17
+			}
+		]
 	},
 	{
 		"aya_id": 6142,
@@ -33,7 +42,14 @@
 		"sura_id": 99,
 		"juz_id": 30,
 		"page_number": 599,
-		"translation_aya_text": "Pada hari itu bumi menyampaikan beritanya,"
+		"translation_aya_text": "Pada hari itu bumi menyampaikan beritanya,",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 9,
+				"end": 14
+			}
+		]
 	},
 	{
 		"aya_id": 6143,
@@ -42,7 +58,14 @@
 		"sura_id": 99,
 		"juz_id": 30,
 		"page_number": 599,
-		"translation_aya_text": "karena sesungguhnya Tuhanmu telah memerintahkan (yang sedemikian itu) padanya."
+		"translation_aya_text": "karena sesungguhnya Tuhanmu telah memerintahkan (yang sedemikian itu) padanya.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 4,
+				"end": 7
+			}
+		]
 	},
 	{
 		"aya_id": 6144,
@@ -51,7 +74,29 @@
 		"sura_id": 99,
 		"juz_id": 30,
 		"page_number": 599,
-		"translation_aya_text": "Pada hari itu manusia keluar dari kuburnya dalam keadaan berkelompok-kelompok, untuk diperlihatkan kepada mereka (balasan) semua perbuatannya."
+		"translation_aya_text": "Pada hari itu manusia keluar dari kuburnya dalam keadaan berkelompok-kelompok, untuk diperlihatkan kepada mereka (balasan) semua perbuatannya.",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 9,
+				"end": 14
+			},
+			{
+				"class": "ghunnah",
+				"start": 24,
+				"end": 27
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 38,
+				"end": 40
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 44,
+				"end": 46
+			}
+		]
 	},
 	{
 		"aya_id": 6145,
@@ -60,7 +105,24 @@
 		"sura_id": 99,
 		"juz_id": 30,
 		"page_number": 599,
-		"translation_aya_text": "Maka barangsiapa mengerjakan kebaikan seberat zarrah, niscaya dia akan melihat (balasan)nya,"
+		"translation_aya_text": "Maka barangsiapa mengerjakan kebaikan seberat zarrah, niscaya dia akan melihat (balasan)nya,",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 4,
+				"end": 9
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 39,
+				"end": 41
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 42,
+				"end": 44
+			}
+		]
 	},
 	{
 		"aya_id": 6146,
@@ -69,6 +131,28 @@
 		"sura_id": 99,
 		"juz_id": 30,
 		"page_number": 599,
-		"translation_aya_text": "dan barangsiapa mengerjakan kejahatan seberat zarrah, niscaya dia akan melihat (balasan)nya."
+		"translation_aya_text": "dan barangsiapa mengerjakan kejahatan seberat zarrah, niscaya dia akan melihat (balasan)nya.",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 4,
+				"end": 9
+			},
+			{
+				"class": "ikhfa",
+				"start": 32,
+				"end": 37
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 37,
+				"end": 40
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 41,
+				"end": 43
+			}
+		]
 	}
 ]

@@ -6,7 +6,14 @@
 		"sura_id": 94,
 		"juz_id": 30,
 		"page_number": 596,
-		"translation_aya_text": "Bukankah Kami telah melapangkan dadamu (Muhammad)?"
+		"translation_aya_text": "Bukankah Kami telah melapangkan dadamu (Muhammad)?",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 23,
+				"end": 24
+			}
+		]
 	},
 	{
 		"aya_id": 6092,
@@ -15,7 +22,14 @@
 		"sura_id": 94,
 		"juz_id": 30,
 		"page_number": 596,
-		"translation_aya_text": "dan Kami pun telah menurunkan bebanmu darimu,"
+		"translation_aya_text": "dan Kami pun telah menurunkan bebanmu darimu,",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 14,
+				"end": 18
+			}
+		]
 	},
 	{
 		"aya_id": 6093,
@@ -24,7 +38,19 @@
 		"sura_id": 94,
 		"juz_id": 30,
 		"page_number": 596,
-		"translation_aya_text": "yang memberatkan punggungmu, "
+		"translation_aya_text": "yang memberatkan punggungmu, ",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 6,
+				"end": 10
+			},
+			{
+				"class": "ikhfa",
+				"start": 12,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 6094,
@@ -33,7 +59,8 @@
 		"sura_id": 94,
 		"juz_id": 30,
 		"page_number": 596,
-		"translation_aya_text": "dan Kami tinggikan sebutan (nama)mu bagimu."
+		"translation_aya_text": "dan Kami tinggikan sebutan (nama)mu bagimu.",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6095,
@@ -42,7 +69,14 @@
 		"sura_id": 94,
 		"juz_id": 30,
 		"page_number": 596,
-		"translation_aya_text": "Maka sesungguhnya beserta kesulitan ada kemudahan,"
+		"translation_aya_text": "Maka sesungguhnya beserta kesulitan ada kemudahan,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 4,
+				"end": 7
+			}
+		]
 	},
 	{
 		"aya_id": 6096,
@@ -51,7 +85,14 @@
 		"sura_id": 94,
 		"juz_id": 30,
 		"page_number": 596,
-		"translation_aya_text": "sesungguhnya beserta kesulitan itu ada kemudahan."
+		"translation_aya_text": "sesungguhnya beserta kesulitan itu ada kemudahan.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			}
+		]
 	},
 	{
 		"aya_id": 6097,
@@ -60,7 +101,19 @@
 		"sura_id": 94,
 		"juz_id": 30,
 		"page_number": 596,
-		"translation_aya_text": "Maka apabila engkau telah selesai (dari sesuatu urusan), tetaplah bekerja keras (untuk urusan yang lain),"
+		"translation_aya_text": "Maka apabila engkau telah selesai (dari sesuatu urusan), tetaplah bekerja keras (untuk urusan yang lain),",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 20,
+				"end": 24
+			},
+			{
+				"class": "qalqalah",
+				"start": 24,
+				"end": 25
+			}
+		]
 	},
 	{
 		"aya_id": 6098,
@@ -69,6 +122,13 @@
 		"sura_id": 94,
 		"juz_id": 30,
 		"page_number": 596,
-		"translation_aya_text": "dan hanya kepada Tuhanmulah engkau berharap."
+		"translation_aya_text": "dan hanya kepada Tuhanmulah engkau berharap.",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 23,
+				"end": 24
+			}
+		]
 	}
 ]

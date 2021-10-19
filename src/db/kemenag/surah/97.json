@@ -6,7 +6,29 @@
 		"sura_id": 97,
 		"juz_id": 30,
 		"page_number": 598,
-		"translation_aya_text": "Sesungguhnya Kami telah menurunkannya (Al-Qur'an) pada malam qadar."
+		"translation_aya_text": "Sesungguhnya Kami telah menurunkannya (Al-Qur'an) pada malam qadar.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 4,
+				"end": 8
+			},
+			{
+				"class": "ikhfa",
+				"start": 10,
+				"end": 14
+			},
+			{
+				"class": "qalqalah",
+				"start": 40,
+				"end": 41
+			}
+		]
 	},
 	{
 		"aya_id": 6127,
@@ -15,7 +37,24 @@
 		"sura_id": 97,
 		"juz_id": 30,
 		"page_number": 598,
-		"translation_aya_text": "Dan tahukah kamu apakah malam kemuliaan itu?"
+		"translation_aya_text": "Dan tahukah kamu apakah malam kemuliaan itu?",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 3,
+				"end": 7
+			},
+			{
+				"class": "qalqalah",
+				"start": 9,
+				"end": 10
+			},
+			{
+				"class": "qalqalah",
+				"start": 35,
+				"end": 36
+			}
+		]
 	},
 	{
 		"aya_id": 6128,
@@ -24,7 +63,19 @@
 		"sura_id": 97,
 		"juz_id": 30,
 		"page_number": 598,
-		"translation_aya_text": "Malam kemuliaan itu lebih baik daripada seribu bulan."
+		"translation_aya_text": "Malam kemuliaan itu lebih baik daripada seribu bulan.",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 14,
+				"end": 15
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 26,
+				"end": 31
+			}
+		]
 	},
 	{
 		"aya_id": 6129,
@@ -33,7 +84,29 @@
 		"sura_id": 97,
 		"juz_id": 30,
 		"page_number": 598,
-		"translation_aya_text": "Pada malam itu turun para malaikat dan Ruh (Jibril) dengan izin Tuhannya untuk mengatur semua urusan."
+		"translation_aya_text": "Pada malam itu turun para malaikat dan Ruh (Jibril) dengan izin Tuhannya untuk mengatur semua urusan.",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 15,
+				"end": 19
+			},
+			{
+				"class": "idgham-mimi",
+				"start": 62,
+				"end": 64
+			},
+			{
+				"class": "idgham-mimi",
+				"start": 65,
+				"end": 67
+			},
+			{
+				"class": "ikhfa",
+				"start": 68,
+				"end": 73
+			}
+		]
 	},
 	{
 		"aya_id": 6130,
@@ -42,6 +115,18 @@
 		"sura_id": 97,
 		"juz_id": 30,
 		"page_number": 598,
-		"translation_aya_text": "Sejahteralah (malam itu) sampai terbit fajar."
+		"translation_aya_text": "Sejahteralah (malam itu) sampai terbit fajar.",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 22,
+				"end": 23
+			},
+			{
+				"class": "qalqalah",
+				"start": 34,
+				"end": 35
+			}
+		]
 	}
 ]

@@ -6,7 +6,19 @@
 		"sura_id": 90,
 		"juz_id": 30,
 		"page_number": 594,
-		"translation_aya_text": "Aku bersumpah dengan negeri ini (Mekah),"
+		"translation_aya_text": "Aku bersumpah dengan negeri ini (Mekah),",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 1,
+				"end": 5
+			},
+			{
+				"class": "qalqalah",
+				"start": 7,
+				"end": 8
+			}
+		]
 	},
 	{
 		"aya_id": 6025,
@@ -15,7 +27,24 @@
 		"sura_id": 90,
 		"juz_id": 30,
 		"page_number": 594,
-		"translation_aya_text": "dan engkau (Muhammad), bertempat di negeri (Mekah) ini,"
+		"translation_aya_text": "dan engkau (Muhammad), bertempat di negeri (Mekah) ini,",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 4,
+				"end": 8
+			},
+			{
+				"class": "iqlab",
+				"start": 11,
+				"end": 14
+			},
+			{
+				"class": "iqlab",
+				"start": 15,
+				"end": 17
+			}
+		]
 	},
 	{
 		"aya_id": 6026,
@@ -24,7 +53,14 @@
 		"sura_id": 90,
 		"juz_id": 30,
 		"page_number": 594,
-		"translation_aya_text": "dan demi (pertalian) bapak dan anaknya."
+		"translation_aya_text": "dan demi (pertalian) bapak dan anaknya.",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 7,
+				"end": 12
+			}
+		]
 	},
 	{
 		"aya_id": 6027,
@@ -33,7 +69,24 @@
 		"sura_id": 90,
 		"juz_id": 30,
 		"page_number": 594,
-		"translation_aya_text": "Sungguh, Kami telah menciptakan manusia berada dalam susah payah."
+		"translation_aya_text": "Sungguh, Kami telah menciptakan manusia berada dalam susah payah.",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 4,
+				"end": 5
+			},
+			{
+				"class": "qalqalah",
+				"start": 11,
+				"end": 12
+			},
+			{
+				"class": "ikhfa",
+				"start": 22,
+				"end": 26
+			}
+		]
 	},
 	{
 		"aya_id": 6028,
@@ -42,7 +95,24 @@
 		"sura_id": 90,
 		"juz_id": 30,
 		"page_number": 594,
-		"translation_aya_text": "Apakah dia (manusia) itu mengira bahwa tidak ada sesuatu pun yang berkuasa atasnya?"
+		"translation_aya_text": "Apakah dia (manusia) itu mengira bahwa tidak ada sesuatu pun yang berkuasa atasnya?",
+		"tajweed": [
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 13,
+				"end": 18
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 19,
+				"end": 24
+			},
+			{
+				"class": "qalqalah",
+				"start": 25,
+				"end": 26
+			}
+		]
 	},
 	{
 		"aya_id": 6029,
@@ -51,7 +121,19 @@
 		"sura_id": 90,
 		"juz_id": 30,
 		"page_number": 594,
-		"translation_aya_text": "Dia mengatakan, “Aku telah menghabiskan harta yang banyak.” "
+		"translation_aya_text": "Dia mengatakan, “Aku telah menghabiskan harta yang banyak.” ",
+		"tajweed": [
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 23,
+				"end": 25
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 26,
+				"end": 28
+			}
+		]
 	},
 	{
 		"aya_id": 6030,
@@ -60,7 +142,19 @@
 		"sura_id": 90,
 		"juz_id": 30,
 		"page_number": 594,
-		"translation_aya_text": "Apakah dia mengira bahwa tidak ada sesuatu pun yang melihatnya?"
+		"translation_aya_text": "Apakah dia mengira bahwa tidak ada sesuatu pun yang melihatnya?",
+		"tajweed": [
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 13,
+				"end": 18
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 26,
+				"end": 30
+			}
+		]
 	},
 	{
 		"aya_id": 6031,
@@ -69,7 +163,14 @@
 		"sura_id": 90,
 		"juz_id": 30,
 		"page_number": 594,
-		"translation_aya_text": "Bukankah Kami telah menjadikan untuknya sepasang mata,"
+		"translation_aya_text": "Bukankah Kami telah menjadikan untuknya sepasang mata,",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 9,
+				"end": 10
+			}
+		]
 	},
 	{
 		"aya_id": 6032,
@@ -78,7 +179,19 @@
 		"sura_id": 90,
 		"juz_id": 30,
 		"page_number": 594,
-		"translation_aya_text": "dan lidah dan sepasang bibir?"
+		"translation_aya_text": "dan lidah dan sepasang bibir?",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 7,
+				"end": 9
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 10,
+				"end": 12
+			}
+		]
 	},
 	{
 		"aya_id": 6033,
@@ -87,7 +200,19 @@
 		"sura_id": 90,
 		"juz_id": 30,
 		"page_number": 594,
-		"translation_aya_text": "Dan Kami telah menunjukkan kepadanya dua jalan (kebajikan dan kejahatan),"
+		"translation_aya_text": "Dan Kami telah menunjukkan kepadanya dua jalan (kebajikan dan kejahatan),",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 15,
+				"end": 18
+			},
+			{
+				"class": "qalqalah",
+				"start": 18,
+				"end": 19
+			}
+		]
 	},
 	{
 		"aya_id": 6034,
@@ -96,7 +221,14 @@
 		"sura_id": 90,
 		"juz_id": 30,
 		"page_number": 594,
-		"translation_aya_text": "tetapi dia tidak menempuh jalan yang mendaki dan sukar?"
+		"translation_aya_text": "tetapi dia tidak menempuh jalan yang mendaki dan sukar?",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 7,
+				"end": 8
+			}
+		]
 	},
 	{
 		"aya_id": 6035,
@@ -105,7 +237,19 @@
 		"sura_id": 90,
 		"juz_id": 30,
 		"page_number": 594,
-		"translation_aya_text": "Dan tahukah kamu apakah jalan yang mendaki dan sukar itu?"
+		"translation_aya_text": "Dan tahukah kamu apakah jalan yang mendaki dan sukar itu?",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 3,
+				"end": 7
+			},
+			{
+				"class": "qalqalah",
+				"start": 9,
+				"end": 10
+			}
+		]
 	},
 	{
 		"aya_id": 6036,
@@ -114,7 +258,8 @@
 		"sura_id": 90,
 		"juz_id": 30,
 		"page_number": 594,
-		"translation_aya_text": "(yaitu) melepaskan perbudakan (hamba sahaya),"
+		"translation_aya_text": "(yaitu) melepaskan perbudakan (hamba sahaya),",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6037,
@@ -123,7 +268,24 @@
 		"sura_id": 90,
 		"juz_id": 30,
 		"page_number": 594,
-		"translation_aya_text": "atau memberi makan pada hari terjadi kelaparan,"
+		"translation_aya_text": "atau memberi makan pada hari terjadi kelaparan,",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 7,
+				"end": 8
+			},
+			{
+				"class": "ikhfa",
+				"start": 12,
+				"end": 17
+			},
+			{
+				"class": "ikhfa",
+				"start": 24,
+				"end": 29
+			}
+		]
 	},
 	{
 		"aya_id": 6038,
@@ -132,7 +294,24 @@
 		"sura_id": 90,
 		"juz_id": 30,
 		"page_number": 594,
-		"translation_aya_text": "(kepada) anak yatim yang ada hubungan kerabat,"
+		"translation_aya_text": "(kepada) anak yatim yang ada hubungan kerabat,",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 7,
+				"end": 9
+			},
+			{
+				"class": "ikhfa",
+				"start": 10,
+				"end": 12
+			},
+			{
+				"class": "qalqalah",
+				"start": 17,
+				"end": 18
+			}
+		]
 	},
 	{
 		"aya_id": 6039,
@@ -141,7 +320,19 @@
 		"sura_id": 90,
 		"juz_id": 30,
 		"page_number": 594,
-		"translation_aya_text": "atau orang miskin yang sangat fakir."
+		"translation_aya_text": "atau orang miskin yang sangat fakir.",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 13,
+				"end": 15
+			},
+			{
+				"class": "ikhfa",
+				"start": 16,
+				"end": 18
+			}
+		]
 	},
 	{
 		"aya_id": 6040,
@@ -150,7 +341,19 @@
 		"sura_id": 90,
 		"juz_id": 30,
 		"page_number": 594,
-		"translation_aya_text": "Kemudian dia termasuk orang-orang yang beriman dan saling berpesan untuk bersabar dan saling berpesan untuk berkasih sayang."
+		"translation_aya_text": "Kemudian dia termasuk orang-orang yang beriman dan saling berpesan untuk bersabar dan saling berpesan untuk berkasih sayang.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "qalqalah",
+				"start": 58,
+				"end": 59
+			}
+		]
 	},
 	{
 		"aya_id": 6041,
@@ -159,7 +362,14 @@
 		"sura_id": 90,
 		"juz_id": 30,
 		"page_number": 594,
-		"translation_aya_text": "Mereka (orang-orang yang beriman dan saling berpesan itu) adalah golongan kanan."
+		"translation_aya_text": "Mereka (orang-orang yang beriman dan saling berpesan itu) adalah golongan kanan.",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 3,
+				"end": 7
+			}
+		]
 	},
 	{
 		"aya_id": 6042,
@@ -168,7 +378,8 @@
 		"sura_id": 90,
 		"juz_id": 30,
 		"page_number": 594,
-		"translation_aya_text": "Dan orang-orang yang kafir kepada ayat-ayat Kami, mereka itu adalah golongan kiri."
+		"translation_aya_text": "Dan orang-orang yang kafir kepada ayat-ayat Kami, mereka itu adalah golongan kiri.",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6043,
@@ -177,6 +388,13 @@
 		"sura_id": 90,
 		"juz_id": 30,
 		"page_number": 594,
-		"translation_aya_text": "Mereka berada dalam neraka yang ditutup rapat."
+		"translation_aya_text": "Mereka berada dalam neraka yang ditutup rapat.",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 14,
+				"end": 19
+			}
+		]
 	}
 ]

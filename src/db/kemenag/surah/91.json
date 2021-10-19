@@ -6,7 +6,8 @@
 		"sura_id": 91,
 		"juz_id": 30,
 		"page_number": 595,
-		"translation_aya_text": "Demi matahari dan sinarnya pada pagi hari,"
+		"translation_aya_text": "Demi matahari dan sinarnya pada pagi hari,",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6045,
@@ -15,7 +16,8 @@
 		"sura_id": 91,
 		"juz_id": 30,
 		"page_number": 595,
-		"translation_aya_text": "demi bulan apabila mengiringinya,"
+		"translation_aya_text": "demi bulan apabila mengiringinya,",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6046,
@@ -24,7 +26,14 @@
 		"sura_id": 91,
 		"juz_id": 30,
 		"page_number": 595,
-		"translation_aya_text": "demi siang apabila menampakkannya,"
+		"translation_aya_text": "demi siang apabila menampakkannya,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 4,
+				"end": 7
+			}
+		]
 	},
 	{
 		"aya_id": 6047,
@@ -33,7 +42,8 @@
 		"sura_id": 91,
 		"juz_id": 30,
 		"page_number": 595,
-		"translation_aya_text": "demi malam apabila menutupinya (gelap gulita),"
+		"translation_aya_text": "demi malam apabila menutupinya (gelap gulita),",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6048,
@@ -42,7 +52,14 @@
 		"sura_id": 91,
 		"juz_id": 30,
 		"page_number": 595,
-		"translation_aya_text": "demi langit serta pembinaannya (yang menakjubkan),"
+		"translation_aya_text": "demi langit serta pembinaannya (yang menakjubkan),",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 8,
+				"end": 11
+			}
+		]
 	},
 	{
 		"aya_id": 6049,
@@ -51,7 +68,8 @@
 		"sura_id": 91,
 		"juz_id": 30,
 		"page_number": 595,
-		"translation_aya_text": "demi bumi serta penghamparannya,"
+		"translation_aya_text": "demi bumi serta penghamparannya,",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6050,
@@ -60,7 +78,14 @@
 		"sura_id": 91,
 		"juz_id": 30,
 		"page_number": 595,
-		"translation_aya_text": "demi jiwa serta penyempurnaan (ciptaan)nya,"
+		"translation_aya_text": "demi jiwa serta penyempurnaan (ciptaan)nya,",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 6,
+				"end": 11
+			}
+		]
 	},
 	{
 		"aya_id": 6051,
@@ -69,7 +94,14 @@
 		"sura_id": 91,
 		"juz_id": 30,
 		"page_number": 595,
-		"translation_aya_text": "maka Dia mengilhamkan kepadanya (jalan) kejahatan dan ketakwaannya,"
+		"translation_aya_text": "maka Dia mengilhamkan kepadanya (jalan) kejahatan dan ketakwaannya,",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 30,
+				"end": 31
+			}
+		]
 	},
 	{
 		"aya_id": 6052,
@@ -78,7 +110,19 @@
 		"sura_id": 91,
 		"juz_id": 30,
 		"page_number": 595,
-		"translation_aya_text": "sungguh beruntung orang yang menyucikannya (jiwa itu),"
+		"translation_aya_text": "sungguh beruntung orang yang menyucikannya (jiwa itu),",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 2,
+				"end": 3
+			},
+			{
+				"class": "ikhfa",
+				"start": 16,
+				"end": 21
+			}
+		]
 	},
 	{
 		"aya_id": 6053,
@@ -87,7 +131,19 @@
 		"sura_id": 91,
 		"juz_id": 30,
 		"page_number": 595,
-		"translation_aya_text": "dan sungguh rugi orang yang mengotorinya."
+		"translation_aya_text": "dan sungguh rugi orang yang mengotorinya.",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 4,
+				"end": 5
+			},
+			{
+				"class": "ikhfa",
+				"start": 15,
+				"end": 20
+			}
+		]
 	},
 	{
 		"aya_id": 6054,
@@ -96,7 +152,8 @@
 		"sura_id": 91,
 		"juz_id": 30,
 		"page_number": 595,
-		"translation_aya_text": "(Kaum) samud telah mendustakan (rasulnya) karena mereka melampaui batas (zalim),"
+		"translation_aya_text": "(Kaum) samud telah mendustakan (rasulnya) karena mereka melampaui batas (zalim),",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6055,
@@ -105,7 +162,19 @@
 		"sura_id": 91,
 		"juz_id": 30,
 		"page_number": 595,
-		"translation_aya_text": "ketika bangkit orang yang paling celaka di antara mereka,"
+		"translation_aya_text": "ketika bangkit orang yang paling celaka di antara mereka,",
+		"tajweed": [
+			{
+				"class": "iqlab",
+				"start": 6,
+				"end": 8
+			},
+			{
+				"class": "iqlab",
+				"start": 8,
+				"end": 10
+			}
+		]
 	},
 	{
 		"aya_id": 6056,
@@ -114,7 +183,14 @@
 		"sura_id": 91,
 		"juz_id": 30,
 		"page_number": 595,
-		"translation_aya_text": "lalu Rasul Allah (Saleh) berkata kepada mereka, “(Biarkanlah) unta betina dari Allah ini dengan minumannya.”"
+		"translation_aya_text": "lalu Rasul Allah (Saleh) berkata kepada mereka, “(Biarkanlah) unta betina dari Allah ini dengan minumannya.”",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 52,
+				"end": 53
+			}
+		]
 	},
 	{
 		"aya_id": 6057,
@@ -123,7 +199,19 @@
 		"sura_id": 91,
 		"juz_id": 30,
 		"page_number": 595,
-		"translation_aya_text": "Namun mereka mendustakannya dan menyembelihnya, karena itu Tuhan membinasakan mereka karena dosanya, lalu diratakan-Nya (dengan tanah),"
+		"translation_aya_text": "Namun mereka mendustakannya dan menyembelihnya, karena itu Tuhan membinasakan mereka karena dosanya, lalu diratakan-Nya (dengan tanah),",
+		"tajweed": [
+			{
+				"class": "iqlab",
+				"start": 65,
+				"end": 67
+			},
+			{
+				"class": "iqlab",
+				"start": 67,
+				"end": 69
+			}
+		]
 	},
 	{
 		"aya_id": 6058,
@@ -132,6 +220,13 @@
 		"sura_id": 91,
 		"juz_id": 30,
 		"page_number": 595,
-		"translation_aya_text": "dan Dia tidak takut terhadap akibatnya."
+		"translation_aya_text": "dan Dia tidak takut terhadap akibatnya.",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 16,
+				"end": 17
+			}
+		]
 	}
 ]

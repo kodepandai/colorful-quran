@@ -6,7 +6,14 @@
 		"sura_id": 109,
 		"juz_id": 30,
 		"page_number": 603,
-		"translation_aya_text": "Katakanlah (Muhammad), “Wahai orang-orang kafir!"
+		"translation_aya_text": "Katakanlah (Muhammad), “Wahai orang-orang kafir!",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 5,
+				"end": 8
+			}
+		]
 	},
 	{
 		"aya_id": 6209,
@@ -15,7 +22,14 @@
 		"sura_id": 109,
 		"juz_id": 30,
 		"page_number": 603,
-		"translation_aya_text": "aku tidak akan menyembah apa yang kamu sembah,"
+		"translation_aya_text": "aku tidak akan menyembah apa yang kamu sembah,",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 1,
+				"end": 5
+			}
+		]
 	},
 	{
 		"aya_id": 6210,
@@ -24,7 +38,24 @@
 		"sura_id": 109,
 		"juz_id": 30,
 		"page_number": 603,
-		"translation_aya_text": "dan kamu bukan penyembah apa yang aku sembah,"
+		"translation_aya_text": "dan kamu bukan penyembah apa yang aku sembah,",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 3,
+				"end": 7
+			},
+			{
+				"class": "ikhfa",
+				"start": 9,
+				"end": 13
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 28,
+				"end": 32
+			}
+		]
 	},
 	{
 		"aya_id": 6211,
@@ -33,7 +64,24 @@
 		"sura_id": 109,
 		"juz_id": 30,
 		"page_number": 603,
-		"translation_aya_text": "dan aku tidak pernah menjadi penyembah apa yang kamu sembah,"
+		"translation_aya_text": "dan aku tidak pernah menjadi penyembah apa yang kamu sembah,",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 3,
+				"end": 7
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 19,
+				"end": 24
+			},
+			{
+				"class": "qalqalah",
+				"start": 31,
+				"end": 32
+			}
+		]
 	},
 	{
 		"aya_id": 6212,
@@ -42,7 +90,24 @@
 		"sura_id": 109,
 		"juz_id": 30,
 		"page_number": 603,
-		"translation_aya_text": "dan kamu tidak pernah (pula) menjadi penyembah apa yang aku sembah."
+		"translation_aya_text": "dan kamu tidak pernah (pula) menjadi penyembah apa yang aku sembah.",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 3,
+				"end": 7
+			},
+			{
+				"class": "ikhfa",
+				"start": 9,
+				"end": 13
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 28,
+				"end": 32
+			}
+		]
 	},
 	{
 		"aya_id": 6213,
@@ -51,6 +116,7 @@
 		"sura_id": 109,
 		"juz_id": 30,
 		"page_number": 603,
-		"translation_aya_text": "Untukmu agamamu, dan untukku agamaku.”"
+		"translation_aya_text": "Untukmu agamamu, dan untukku agamaku.”",
+		"tajweed": []
 	}
 ]

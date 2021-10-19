@@ -6,7 +6,8 @@
 		"sura_id": 101,
 		"juz_id": 30,
 		"page_number": 600,
-		"translation_aya_text": "Hari Kiamat,"
+		"translation_aya_text": "Hari Kiamat,",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6159,
@@ -15,7 +16,8 @@
 		"sura_id": 101,
 		"juz_id": 30,
 		"page_number": 600,
-		"translation_aya_text": "Apakah hari Kiamat itu?"
+		"translation_aya_text": "Apakah hari Kiamat itu?",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6160,
@@ -24,7 +26,19 @@
 		"sura_id": 101,
 		"juz_id": 30,
 		"page_number": 600,
-		"translation_aya_text": "Dan tahukah kamu apakah hari Kiamat itu?"
+		"translation_aya_text": "Dan tahukah kamu apakah hari Kiamat itu?",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 3,
+				"end": 7
+			},
+			{
+				"class": "qalqalah",
+				"start": 9,
+				"end": 10
+			}
+		]
 	},
 	{
 		"aya_id": 6161,
@@ -33,7 +47,19 @@
 		"sura_id": 101,
 		"juz_id": 30,
 		"page_number": 600,
-		"translation_aya_text": "Pada hari itu manusia seperti laron yang beterbangan,"
+		"translation_aya_text": "Pada hari itu manusia seperti laron yang beterbangan,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 18,
+				"end": 21
+			},
+			{
+				"class": "qalqalah",
+				"start": 43,
+				"end": 44
+			}
+		]
 	},
 	{
 		"aya_id": 6162,
@@ -42,7 +68,14 @@
 		"sura_id": 101,
 		"juz_id": 30,
 		"page_number": 600,
-		"translation_aya_text": "dan gunung-gunung seperti bulu yang dihambur-hamburkan."
+		"translation_aya_text": "dan gunung-gunung seperti bulu yang dihambur-hamburkan.",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 39,
+				"end": 43
+			}
+		]
 	},
 	{
 		"aya_id": 6163,
@@ -51,7 +84,19 @@
 		"sura_id": 101,
 		"juz_id": 30,
 		"page_number": 600,
-		"translation_aya_text": "Maka adapun orang yang berat timbangan (kebaikan)nya,"
+		"translation_aya_text": "Maka adapun orang yang berat timbangan (kebaikan)nya,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 4,
+				"end": 7
+			},
+			{
+				"class": "ikhfa",
+				"start": 11,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 6164,
@@ -60,7 +105,14 @@
 		"sura_id": 101,
 		"juz_id": 30,
 		"page_number": 600,
-		"translation_aya_text": "maka dia berada dalam kehidupan yang memuaskan (senang)."
+		"translation_aya_text": "maka dia berada dalam kehidupan yang memuaskan (senang).",
+		"tajweed": [
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 18,
+				"end": 23
+			}
+		]
 	},
 	{
 		"aya_id": 6165,
@@ -69,7 +121,14 @@
 		"sura_id": 101,
 		"juz_id": 30,
 		"page_number": 600,
-		"translation_aya_text": "Dan adapun orang yang ringan timbangan (kebaikan)nya,"
+		"translation_aya_text": "Dan adapun orang yang ringan timbangan (kebaikan)nya,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 4,
+				"end": 7
+			}
+		]
 	},
 	{
 		"aya_id": 6166,
@@ -78,7 +137,14 @@
 		"sura_id": 101,
 		"juz_id": 30,
 		"page_number": 600,
-		"translation_aya_text": "maka tempat kembalinya adalah neraka Hawiyah."
+		"translation_aya_text": "maka tempat kembalinya adalah neraka Hawiyah.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 4,
+				"end": 7
+			}
+		]
 	},
 	{
 		"aya_id": 6167,
@@ -87,7 +153,19 @@
 		"sura_id": 101,
 		"juz_id": 30,
 		"page_number": 600,
-		"translation_aya_text": "Dan tahukah kamu apakah neraka Hawiyah itu?"
+		"translation_aya_text": "Dan tahukah kamu apakah neraka Hawiyah itu?",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 3,
+				"end": 7
+			},
+			{
+				"class": "qalqalah",
+				"start": 9,
+				"end": 10
+			}
+		]
 	},
 	{
 		"aya_id": 6168,
@@ -96,6 +174,7 @@
 		"sura_id": 101,
 		"juz_id": 30,
 		"page_number": 600,
-		"translation_aya_text": "(Yaitu) api yang sangat panas."
+		"translation_aya_text": "(Yaitu) api yang sangat panas.",
+		"tajweed": []
 	}
 ]

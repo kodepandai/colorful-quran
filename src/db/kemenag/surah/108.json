@@ -6,7 +6,19 @@
 		"sura_id": 108,
 		"juz_id": 30,
 		"page_number": 602,
-		"translation_aya_text": "Sungguh, Kami telah memberimu (Muhammad) nikmat yang banyak."
+		"translation_aya_text": "Sungguh, Kami telah memberimu (Muhammad) nikmat yang banyak.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 4,
+				"end": 8
+			}
+		]
 	},
 	{
 		"aya_id": 6206,
@@ -15,7 +27,8 @@
 		"sura_id": 108,
 		"juz_id": 30,
 		"page_number": 602,
-		"translation_aya_text": "Maka laksanakanlah salat karena Tuhanmu, dan berkurbanlah (sebagai ibadah dan mendekatkan diri kepada Allah)."
+		"translation_aya_text": "Maka laksanakanlah salat karena Tuhanmu, dan berkurbanlah (sebagai ibadah dan mendekatkan diri kepada Allah).",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6207,
@@ -24,6 +37,18 @@
 		"sura_id": 108,
 		"juz_id": 30,
 		"page_number": 602,
-		"translation_aya_text": "Sungguh, orang-orang yang membencimu dialah yang terputus (dari rahmat Allah)."
+		"translation_aya_text": "Sungguh, orang-orang yang membencimu dialah yang terputus (dari rahmat Allah).",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "qalqalah",
+				"start": 26,
+				"end": 27
+			}
+		]
 	}
 ]

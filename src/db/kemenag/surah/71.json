@@ -6,7 +6,44 @@
 		"sura_id": 71,
 		"juz_id": 29,
 		"page_number": 570,
-		"translation_aya_text": "Sesungguhnya Kami telah mengutus Nuh kepada kaumnya (dengan perintah), “Berilah kaummu peringatan sebelum datang kepadanya azab yang pedih.” "
+		"translation_aya_text": "Sesungguhnya Kami telah mengutus Nuh kepada kaumnya (dengan perintah), “Berilah kaummu peringatan sebelum datang kepadanya azab yang pedih.” ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 4,
+				"end": 8
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 40,
+				"end": 44
+			},
+			{
+				"class": "ikhfa",
+				"start": 51,
+				"end": 55
+			},
+			{
+				"class": "ikhfa",
+				"start": 69,
+				"end": 74
+			},
+			{
+				"class": "qalqalah",
+				"start": 74,
+				"end": 75
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 81,
+				"end": 86
+			}
+		]
 	},
 	{
 		"aya_id": 5421,
@@ -15,7 +52,19 @@
 		"sura_id": 71,
 		"juz_id": 29,
 		"page_number": 570,
-		"translation_aya_text": "Dia (Nuh) berkata, “Wahai kaumku! Sesungguhnya aku ini seorang pemberi peringatan yang menjelaskan kepada kamu, "
+		"translation_aya_text": "Dia (Nuh) berkata, “Wahai kaumku! Sesungguhnya aku ini seorang pemberi peringatan yang menjelaskan kepada kamu, ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 17,
+				"end": 20
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 36,
+				"end": 41
+			}
+		]
 	},
 	{
 		"aya_id": 5422,
@@ -24,7 +73,8 @@
 		"sura_id": 71,
 		"juz_id": 29,
 		"page_number": 570,
-		"translation_aya_text": "(yaitu) sembahlah Allah, bertakwalah kepada-Nya dan taatlah kepadaku, "
+		"translation_aya_text": "(yaitu) sembahlah Allah, bertakwalah kepada-Nya dan taatlah kepadaku, ",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5423,
@@ -33,7 +83,49 @@
 		"sura_id": 71,
 		"juz_id": 29,
 		"page_number": 570,
-		"translation_aya_text": "niscaya Dia mengampuni sebagian dosa-dosamu dan menangguhkan kamu (memanjangkan umurmu) sampai pada batas waktu yang ditentukan. Sungguh, ketetapan Allah itu apabila telah datang tidak dapat ditunda, seandainya kamu mengetahui.” "
+		"translation_aya_text": "niscaya Dia mengampuni sebagian dosa-dosamu dan menangguhkan kamu (memanjangkan umurmu) sampai pada batas waktu yang ditentukan. Sungguh, ketetapan Allah itu apabila telah datang tidak dapat ditunda, seandainya kamu mengetahui.” ",
+		"tajweed": [
+			{
+				"class": "idgham-mimi",
+				"start": 13,
+				"end": 18
+			},
+			{
+				"class": "ikhfa",
+				"start": 19,
+				"end": 24
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 53,
+				"end": 58
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 62,
+				"end": 67
+			},
+			{
+				"class": "ghunnah",
+				"start": 70,
+				"end": 73
+			},
+			{
+				"class": "ghunnah",
+				"start": 78,
+				"end": 81
+			},
+			{
+				"class": "madd-wajib",
+				"start": 104,
+				"end": 107
+			},
+			{
+				"class": "ikhfa",
+				"start": 132,
+				"end": 136
+			}
+		]
 	},
 	{
 		"aya_id": 5424,
@@ -42,7 +134,24 @@
 		"sura_id": 71,
 		"juz_id": 29,
 		"page_number": 570,
-		"translation_aya_text": "Dia (Nuh) berkata, “Ya Tuhanku, sesungguhnya aku telah menyeru kaumku siang dan malam,"
+		"translation_aya_text": "Dia (Nuh) berkata, “Ya Tuhanku, sesungguhnya aku telah menyeru kaumku siang dan malam,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 14,
+				"end": 17
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 42,
+				"end": 44
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 45,
+				"end": 47
+			}
+		]
 	},
 	{
 		"aya_id": 5425,
@@ -51,7 +160,24 @@
 		"sura_id": 71,
 		"juz_id": 29,
 		"page_number": 570,
-		"translation_aya_text": "tetapi seruanku itu tidak menambah (iman) mereka, justru mereka lari (dari kebenaran)."
+		"translation_aya_text": "tetapi seruanku itu tidak menambah (iman) mereka, justru mereka lari (dari kebenaran).",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 11,
+				"end": 12
+			},
+			{
+				"class": "madd-wajib",
+				"start": 21,
+				"end": 24
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 26,
+				"end": 30
+			}
+		]
 	},
 	{
 		"aya_id": 5426,
@@ -60,7 +186,24 @@
 		"sura_id": 71,
 		"juz_id": 29,
 		"page_number": 570,
-		"translation_aya_text": "Dan sesungguhnya aku setiap kali menyeru mereka (untuk beriman) agar Engkau mengampuni mereka, mereka memasukkan anak jarinya ke telinganya dan menutupkan bajunya (ke wajahnya) dan mereka tetap (mengingkari) dan sangat menyombongkan diri."
+		"translation_aya_text": "Dan sesungguhnya aku setiap kali menyeru mereka (untuk beriman) agar Engkau mengampuni mereka, mereka memasukkan anak jarinya ke telinganya dan menutupkan bajunya (ke wajahnya) dan mereka tetap (mengingkari) dan sangat menyombongkan diri.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 4,
+				"end": 7
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 56,
+				"end": 59
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 77,
+				"end": 81
+			}
+		]
 	},
 	{
 		"aya_id": 5427,
@@ -69,7 +212,19 @@
 		"sura_id": 71,
 		"juz_id": 29,
 		"page_number": 570,
-		"translation_aya_text": "Lalu sesungguhnya aku menyeru mereka dengan cara terang-terangan."
+		"translation_aya_text": "Lalu sesungguhnya aku menyeru mereka dengan cara terang-terangan.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "ghunnah",
+				"start": 8,
+				"end": 11
+			}
+		]
 	},
 	{
 		"aya_id": 5428,
@@ -78,7 +233,29 @@
 		"sura_id": 71,
 		"juz_id": 29,
 		"page_number": 570,
-		"translation_aya_text": "Kemudian aku menyeru mereka secara terbuka dan dengan diam-diam,"
+		"translation_aya_text": "Kemudian aku menyeru mereka secara terbuka dan dengan diam-diam,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "ghunnah",
+				"start": 8,
+				"end": 11
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 11,
+				"end": 15
+			},
+			{
+				"class": "ikhfa",
+				"start": 21,
+				"end": 25
+			}
+		]
 	},
 	{
 		"aya_id": 5429,
@@ -87,7 +264,14 @@
 		"sura_id": 71,
 		"juz_id": 29,
 		"page_number": 570,
-		"translation_aya_text": "maka aku berkata (kepada mereka), “Mohonlah ampunan kepada Tuhanmu, Sungguh, Dia Maha Pengampun, "
+		"translation_aya_text": "maka aku berkata (kepada mereka), “Mohonlah ampunan kepada Tuhanmu, Sungguh, Dia Maha Pengampun, ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 36,
+				"end": 39
+			}
+		]
 	},
 	{
 		"aya_id": 5430,
@@ -96,7 +280,24 @@
 		"sura_id": 71,
 		"juz_id": 29,
 		"page_number": 571,
-		"translation_aya_text": "niscaya Dia akan menurunkan hujan yang lebat dari langit kepadamu, "
+		"translation_aya_text": "niscaya Dia akan menurunkan hujan yang lebat dari langit kepadamu, ",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 16,
+				"end": 19
+			},
+			{
+				"class": "idgham-mimi",
+				"start": 30,
+				"end": 35
+			},
+			{
+				"class": "qalqalah",
+				"start": 36,
+				"end": 37
+			}
+		]
 	},
 	{
 		"aya_id": 5431,
@@ -105,7 +306,39 @@
 		"sura_id": 71,
 		"juz_id": 29,
 		"page_number": 571,
-		"translation_aya_text": "dan Dia memperbanyak harta dan anak-anakmu, dan mengadakan kebun-kebun untukmu dan mengadakan sungai-sungai untukmu.” "
+		"translation_aya_text": "dan Dia memperbanyak harta dan anak-anakmu, dan mengadakan kebun-kebun untukmu dan mengadakan sungai-sungai untukmu.” ",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 9,
+				"end": 10
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 25,
+				"end": 30
+			},
+			{
+				"class": "qalqalah",
+				"start": 44,
+				"end": 45
+			},
+			{
+				"class": "ghunnah",
+				"start": 61,
+				"end": 64
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 64,
+				"end": 69
+			},
+			{
+				"class": "qalqalah",
+				"start": 72,
+				"end": 73
+			}
+		]
 	},
 	{
 		"aya_id": 5432,
@@ -114,7 +347,8 @@
 		"sura_id": 71,
 		"juz_id": 29,
 		"page_number": 571,
-		"translation_aya_text": "Mengapa kamu tidak takut akan kebesaran Allah? "
+		"translation_aya_text": "Mengapa kamu tidak takut akan kebesaran Allah? ",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5433,
@@ -123,7 +357,19 @@
 		"sura_id": 71,
 		"juz_id": 29,
 		"page_number": 571,
-		"translation_aya_text": "Dan sungguh, Dia telah menciptakan kamu dalam beberapa tingkatan (kejadian). "
+		"translation_aya_text": "Dan sungguh, Dia telah menciptakan kamu dalam beberapa tingkatan (kejadian). ",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 4,
+				"end": 5
+			},
+			{
+				"class": "qalqalah",
+				"start": 20,
+				"end": 21
+			}
+		]
 	},
 	{
 		"aya_id": 5434,
@@ -132,7 +378,19 @@
 		"sura_id": 71,
 		"juz_id": 29,
 		"page_number": 571,
-		"translation_aya_text": "Tidakkah kamu memperhatikan bagai-mana Allah telah menciptakan tujuh langit berlapis-lapis?"
+		"translation_aya_text": "Tidakkah kamu memperhatikan bagai-mana Allah telah menciptakan tujuh langit berlapis-lapis?",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 39,
+				"end": 40
+			},
+			{
+				"class": "ikhfa",
+				"start": 50,
+				"end": 55
+			}
+		]
 	},
 	{
 		"aya_id": 5435,
@@ -141,7 +399,24 @@
 		"sura_id": 71,
 		"juz_id": 29,
 		"page_number": 571,
-		"translation_aya_text": "Dan di sana Dia menciptakan bulan yang bercahaya dan menjadikan matahari sebagai pelita (yang cemerlang)?"
+		"translation_aya_text": "Dan di sana Dia menciptakan bulan yang bercahaya dan menjadikan matahari sebagai pelita (yang cemerlang)?",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 26,
+				"end": 29
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 34,
+				"end": 36
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 37,
+				"end": 39
+			}
+		]
 	},
 	{
 		"aya_id": 5436,
@@ -150,7 +425,24 @@
 		"sura_id": 71,
 		"juz_id": 29,
 		"page_number": 571,
-		"translation_aya_text": "Dan Allah menumbuhkan kamu dari tanah, tumbuh (berangsur-angsur), "
+		"translation_aya_text": "Dan Allah menumbuhkan kamu dari tanah, tumbuh (berangsur-angsur), ",
+		"tajweed": [
+			{
+				"class": "iqlab",
+				"start": 12,
+				"end": 14
+			},
+			{
+				"class": "iqlab",
+				"start": 14,
+				"end": 16
+			},
+			{
+				"class": "idgham-mimi",
+				"start": 21,
+				"end": 26
+			}
+		]
 	},
 	{
 		"aya_id": 5437,
@@ -159,7 +451,14 @@
 		"sura_id": 71,
 		"juz_id": 29,
 		"page_number": 571,
-		"translation_aya_text": "kemudian Dia akan mengembalikan kamu ke dalamnya (tanah) dan mengeluarkan kamu (pada hari Kiamat) dengan pasti. "
+		"translation_aya_text": "kemudian Dia akan mengembalikan kamu ke dalamnya (tanah) dan mengeluarkan kamu (pada hari Kiamat) dengan pasti. ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			}
+		]
 	},
 	{
 		"aya_id": 5438,
@@ -168,7 +467,8 @@
 		"sura_id": 71,
 		"juz_id": 29,
 		"page_number": 571,
-		"translation_aya_text": "Dan Allah menjadikan bumi untukmu sebagai hamparan, "
+		"translation_aya_text": "Dan Allah menjadikan bumi untukmu sebagai hamparan, ",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5439,
@@ -177,7 +477,19 @@
 		"sura_id": 71,
 		"juz_id": 29,
 		"page_number": 571,
-		"translation_aya_text": "agar kamu dapat pergi kian kemari di jalan-jalan yang luas. "
+		"translation_aya_text": "agar kamu dapat pergi kian kemari di jalan-jalan yang luas. ",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 27,
+				"end": 29
+			},
+			{
+				"class": "ikhfa",
+				"start": 30,
+				"end": 32
+			}
+		]
 	},
 	{
 		"aya_id": 5440,
@@ -186,7 +498,34 @@
 		"sura_id": 71,
 		"juz_id": 29,
 		"page_number": 571,
-		"translation_aya_text": "Nuh berkata, “Ya Tuhanku, sesungguhnya mereka durhaka kepadaku, dan mereka mengikuti orang-orang yang harta dan anak-anaknya hanya menambah kerugian baginya, "
+		"translation_aya_text": "Nuh berkata, “Ya Tuhanku, sesungguhnya mereka durhaka kepadaku, dan mereka mengikuti orang-orang yang harta dan anak-anaknya hanya menambah kerugian baginya, ",
+		"tajweed": [
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 10,
+				"end": 15
+			},
+			{
+				"class": "ghunnah",
+				"start": 22,
+				"end": 25
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 57,
+				"end": 62
+			},
+			{
+				"class": "qalqalah",
+				"start": 70,
+				"end": 71
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 91,
+				"end": 95
+			}
+		]
 	},
 	{
 		"aya_id": 5441,
@@ -195,7 +534,19 @@
 		"sura_id": 71,
 		"juz_id": 29,
 		"page_number": 571,
-		"translation_aya_text": "dan mereka melakukan tipu daya yang sangat besar.” "
+		"translation_aya_text": "dan mereka melakukan tipu daya yang sangat besar.” ",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 16,
+				"end": 18
+			},
+			{
+				"class": "ikhfa",
+				"start": 19,
+				"end": 21
+			}
+		]
 	},
 	{
 		"aya_id": 5442,
@@ -204,7 +555,39 @@
 		"sura_id": 71,
 		"juz_id": 29,
 		"page_number": 571,
-		"translation_aya_text": "Dan mereka berkata, “Jangan sekali-kali kamu meninggalkan (penyembahan) tuhan-tuhan kamu dan jangan pula sekali-kali kamu meninggalkan (penyembahan) Wadd, dan jangan pula Suwa‘, Yagus, Ya‘uq dan Nasr.” "
+		"translation_aya_text": "Dan mereka berkata, “Jangan sekali-kali kamu meninggalkan (penyembahan) tuhan-tuhan kamu dan jangan pula sekali-kali kamu meninggalkan (penyembahan) Wadd, dan jangan pula Suwa‘, Yagus, Ya‘uq dan Nasr.” ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 21,
+				"end": 24
+			},
+			{
+				"class": "ghunnah",
+				"start": 50,
+				"end": 53
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 56,
+				"end": 59
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 60,
+				"end": 62
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 73,
+				"end": 75
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 79,
+				"end": 81
+			}
+		]
 	},
 	{
 		"aya_id": 5443,
@@ -213,7 +596,24 @@
 		"sura_id": 71,
 		"juz_id": 29,
 		"page_number": 571,
-		"translation_aya_text": "Dan sungguh, mereka telah menyesatkan banyak orang; dan janganlah Engkau tambahkan bagi orang-orang yang zalim itu selain kesesatan. "
+		"translation_aya_text": "Dan sungguh, mereka telah menyesatkan banyak orang; dan janganlah Engkau tambahkan bagi orang-orang yang zalim itu selain kesesatan. ",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 4,
+				"end": 5
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 24,
+				"end": 26
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 30,
+				"end": 32
+			}
+		]
 	},
 	{
 		"aya_id": 5444,
@@ -222,7 +622,44 @@
 		"sura_id": 71,
 		"juz_id": 29,
 		"page_number": 571,
-		"translation_aya_text": "Disebabkan kesalahan-kesalahan mereka, mereka ditenggelamkan lalu dimasukkan ke neraka, maka mereka tidak mendapat penolong selain Allah."
+		"translation_aya_text": "Disebabkan kesalahan-kesalahan mereka, mereka ditenggelamkan lalu dimasukkan ke neraka, maka mereka tidak mendapat penolong selain Allah.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 0,
+				"end": 5
+			},
+			{
+				"class": "qalqalah",
+				"start": 40,
+				"end": 41
+			},
+			{
+				"class": "ikhfa",
+				"start": 53,
+				"end": 55
+			},
+			{
+				"class": "ikhfa",
+				"start": 59,
+				"end": 61
+			},
+			{
+				"class": "idgham-mimi",
+				"start": 81,
+				"end": 86
+			},
+			{
+				"class": "ikhfa",
+				"start": 87,
+				"end": 92
+			},
+			{
+				"class": "ikhfa",
+				"start": 107,
+				"end": 111
+			}
+		]
 	},
 	{
 		"aya_id": 5445,
@@ -231,7 +668,14 @@
 		"sura_id": 71,
 		"juz_id": 29,
 		"page_number": 571,
-		"translation_aya_text": "Dan Nuh berkata, “Ya Tuhanku, janganlah Engkau biarkan seorang pun di antara orang-orang kafir itu tinggal di atas bumi."
+		"translation_aya_text": "Dan Nuh berkata, “Ya Tuhanku, janganlah Engkau biarkan seorang pun di antara orang-orang kafir itu tinggal di atas bumi.",
+		"tajweed": [
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 12,
+				"end": 17
+			}
+		]
 	},
 	{
 		"aya_id": 5446,
@@ -240,7 +684,34 @@
 		"sura_id": 71,
 		"juz_id": 29,
 		"page_number": 571,
-		"translation_aya_text": "Sesungguhnya jika Engkau biarkan mereka tinggal, niscaya mereka akan menyesatkan hamba-hamba-Mu, dan mereka hanya akan melahirkan anak-anak yang jahat dan tidak tahu bersyukur. "
+		"translation_aya_text": "Sesungguhnya jika Engkau biarkan mereka tinggal, niscaya mereka akan menyesatkan hamba-hamba-Mu, dan mereka hanya akan melahirkan anak-anak yang jahat dan tidak tahu bersyukur. ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "ikhfa",
+				"start": 10,
+				"end": 15
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 57,
+				"end": 60
+			},
+			{
+				"class": "ikhfa",
+				"start": 74,
+				"end": 76
+			},
+			{
+				"class": "ikhfa",
+				"start": 77,
+				"end": 79
+			}
+		]
 	},
 	{
 		"aya_id": 5447,
@@ -249,6 +720,23 @@
 		"sura_id": 71,
 		"juz_id": 29,
 		"page_number": 571,
-		"translation_aya_text": "Ya Tuhanku, ampunilah aku, ibu bapakku, dan siapa pun yang memasuki rumahku dengan beriman dan semua orang yang beriman laki-laki dan perempuan. Dan janganlah Engkau tambahkan bagi orang-orang yang zalim itu selain kehancuran.”"
+		"translation_aya_text": "Ya Tuhanku, ampunilah aku, ibu bapakku, dan siapa pun yang memasuki rumahku dengan beriman dan semua orang yang beriman laki-laki dan perempuan. Dan janganlah Engkau tambahkan bagi orang-orang yang zalim itu selain kehancuran.”",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 40,
+				"end": 45
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 65,
+				"end": 67
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 68,
+				"end": 70
+			}
+		]
 	}
 ]

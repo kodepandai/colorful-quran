@@ -6,7 +6,14 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 587,
-		"translation_aya_text": "Celakalah bagi orang-orang yang curang (dalam menakar dan menimbang)! "
+		"translation_aya_text": "Celakalah bagi orang-orang yang curang (dalam menakar dan menimbang)! ",
+		"tajweed": [
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 4,
+				"end": 9
+			}
+		]
 	},
 	{
 		"aya_id": 5850,
@@ -15,7 +22,14 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 587,
-		"translation_aya_text": "(Yaitu) orang-orang yang apabila menerima takaran dari orang lain mereka minta dicukupkan, "
+		"translation_aya_text": "(Yaitu) orang-orang yang apabila menerima takaran dari orang lain mereka minta dicukupkan, ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 37,
+				"end": 40
+			}
+		]
 	},
 	{
 		"aya_id": 5851,
@@ -24,7 +38,8 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 587,
-		"translation_aya_text": "dan apabila mereka menakar atau menimbang (untuk orang lain), mereka mengurangi. "
+		"translation_aya_text": "dan apabila mereka menakar atau menimbang (untuk orang lain), mereka mengurangi. ",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5852,
@@ -33,7 +48,34 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 587,
-		"translation_aya_text": "Tidakkah mereka itu mengira, bahwa sesungguhnya mereka akan dibangkitkan, "
+		"translation_aya_text": "Tidakkah mereka itu mengira, bahwa sesungguhnya mereka akan dibangkitkan, ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 10,
+				"end": 13
+			},
+			{
+				"class": "madd-wajib",
+				"start": 17,
+				"end": 21
+			},
+			{
+				"class": "ghunnah",
+				"start": 28,
+				"end": 31
+			},
+			{
+				"class": "idgham-mimi",
+				"start": 33,
+				"end": 38
+			},
+			{
+				"class": "qalqalah",
+				"start": 39,
+				"end": 40
+			}
+		]
 	},
 	{
 		"aya_id": 5853,
@@ -42,7 +84,8 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 587,
-		"translation_aya_text": "pada suatu hari yang besar, "
+		"translation_aya_text": "pada suatu hari yang besar, ",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5854,
@@ -51,7 +94,14 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 587,
-		"translation_aya_text": "(yaitu) pada hari (ketika) semua orang bangkit menghadap Tuhan seluruh alam."
+		"translation_aya_text": "(yaitu) pada hari (ketika) semua orang bangkit menghadap Tuhan seluruh alam.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 19,
+				"end": 22
+			}
+		]
 	},
 	{
 		"aya_id": 5855,
@@ -60,7 +110,19 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 588,
-		"translation_aya_text": "Sekali-kali jangan begitu! Sesungguhnya catatan orang yang durhaka benar-benar tersimpan dalam Sijjin. "
+		"translation_aya_text": "Sekali-kali jangan begitu! Sesungguhnya catatan orang yang durhaka benar-benar tersimpan dalam Sijjin. ",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 4,
+				"end": 8
+			},
+			{
+				"class": "ghunnah",
+				"start": 10,
+				"end": 13
+			}
+		]
 	},
 	{
 		"aya_id": 5856,
@@ -69,7 +131,19 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 588,
-		"translation_aya_text": "Dan tahukah engkau apakah Sijjin itu? "
+		"translation_aya_text": "Dan tahukah engkau apakah Sijjin itu? ",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 3,
+				"end": 7
+			},
+			{
+				"class": "qalqalah",
+				"start": 9,
+				"end": 10
+			}
+		]
 	},
 	{
 		"aya_id": 5857,
@@ -78,7 +152,14 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 588,
-		"translation_aya_text": "(Yaitu) Kitab yang berisi catatan (amal)."
+		"translation_aya_text": "(Yaitu) Kitab yang berisi catatan (amal).",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 4,
+				"end": 9
+			}
+		]
 	},
 	{
 		"aya_id": 5858,
@@ -87,7 +168,19 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 588,
-		"translation_aya_text": "Celakalah pada hari itu, bagi orang-orang yang mendustakan! "
+		"translation_aya_text": "Celakalah pada hari itu, bagi orang-orang yang mendustakan! ",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 4,
+				"end": 9
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 17,
+				"end": 22
+			}
+		]
 	},
 	{
 		"aya_id": 5859,
@@ -96,7 +189,8 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 588,
-		"translation_aya_text": "(yaitu) orang-orang yang mendustakannya (hari pembalasan)."
+		"translation_aya_text": "(yaitu) orang-orang yang mendustakannya (hari pembalasan).",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5860,
@@ -105,7 +199,14 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 588,
-		"translation_aya_text": "Dan tidak ada yang mendustakannya (hari pembalasan) kecuali setiap orang yang melampaui batas dan berdosa,"
+		"translation_aya_text": "Dan tidak ada yang mendustakannya (hari pembalasan) kecuali setiap orang yang melampaui batas dan berdosa,",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 18,
+				"end": 22
+			}
+		]
 	},
 	{
 		"aya_id": 5861,
@@ -114,7 +215,8 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 588,
-		"translation_aya_text": "yang apabila dibacakan kepadanya ayat-ayat Kami, dia berkata, “Itu adalah dongeng orang-orang dahulu.” "
+		"translation_aya_text": "yang apabila dibacakan kepadanya ayat-ayat Kami, dia berkata, “Itu adalah dongeng orang-orang dahulu.” ",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5862,
@@ -123,7 +225,14 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 588,
-		"translation_aya_text": "Sekali-kali tidak! Bahkan apa yang mereka kerjakan itu telah menutupi hati mereka. "
+		"translation_aya_text": "Sekali-kali tidak! Bahkan apa yang mereka kerjakan itu telah menutupi hati mereka. ",
+		"tajweed": [
+			{
+				"class": "idgham-mimi",
+				"start": 35,
+				"end": 40
+			}
+		]
 	},
 	{
 		"aya_id": 5863,
@@ -132,7 +241,29 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 588,
-		"translation_aya_text": "Sekali-kali tidak! Sesungguhnya mereka pada hari itu benar-benar terhalang dari (melihat) Tuhannya. "
+		"translation_aya_text": "Sekali-kali tidak! Sesungguhnya mereka pada hari itu benar-benar terhalang dari (melihat) Tuhannya. ",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 4,
+				"end": 8
+			},
+			{
+				"class": "ghunnah",
+				"start": 10,
+				"end": 13
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 20,
+				"end": 25
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 43,
+				"end": 48
+			}
+		]
 	},
 	{
 		"aya_id": 5864,
@@ -141,7 +272,19 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 588,
-		"translation_aya_text": "Kemudian, sesungguhnya mereka benar-benar masuk neraka. "
+		"translation_aya_text": "Kemudian, sesungguhnya mereka benar-benar masuk neraka. ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "ghunnah",
+				"start": 8,
+				"end": 11
+			}
+		]
 	},
 	{
 		"aya_id": 5865,
@@ -150,7 +293,19 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 588,
-		"translation_aya_text": "Kemudian, dikatakan (kepada mereka), “Inilah (azab) yang dahulu kamu dustakan.”"
+		"translation_aya_text": "Kemudian, dikatakan (kepada mereka), “Inilah (azab) yang dahulu kamu dustakan.”",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "ikhfa",
+				"start": 31,
+				"end": 35
+			}
+		]
 	},
 	{
 		"aya_id": 5866,
@@ -159,7 +314,24 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 588,
-		"translation_aya_text": "Sekali-kali tidak! Sesungguhnya catatan orang-orang yang berbakti benar-benar tersimpan dalam ’Illiyyin. "
+		"translation_aya_text": "Sekali-kali tidak! Sesungguhnya catatan orang-orang yang berbakti benar-benar tersimpan dalam ’Illiyyin. ",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 4,
+				"end": 8
+			},
+			{
+				"class": "ghunnah",
+				"start": 10,
+				"end": 13
+			},
+			{
+				"class": "qalqalah",
+				"start": 26,
+				"end": 27
+			}
+		]
 	},
 	{
 		"aya_id": 5867,
@@ -168,7 +340,19 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 588,
-		"translation_aya_text": "Dan tahukah engkau apakah ’Illiyyin itu?"
+		"translation_aya_text": "Dan tahukah engkau apakah ’Illiyyin itu?",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 3,
+				"end": 7
+			},
+			{
+				"class": "qalqalah",
+				"start": 9,
+				"end": 10
+			}
+		]
 	},
 	{
 		"aya_id": 5868,
@@ -177,7 +361,14 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 588,
-		"translation_aya_text": "(Yaitu) Kitab yang berisi catatan (amal),"
+		"translation_aya_text": "(Yaitu) Kitab yang berisi catatan (amal),",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 4,
+				"end": 9
+			}
+		]
 	},
 	{
 		"aya_id": 5869,
@@ -186,7 +377,8 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 588,
-		"translation_aya_text": "yang disaksikan oleh (malaikat-malaikat) yang didekatkan (kepada Allah). "
+		"translation_aya_text": "yang disaksikan oleh (malaikat-malaikat) yang didekatkan (kepada Allah). ",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5870,
@@ -195,7 +387,19 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 588,
-		"translation_aya_text": "Sesungguhnya orang-orang yang berbakti benar-benar berada dalam (surga yang penuh) kenikmatan,"
+		"translation_aya_text": "Sesungguhnya orang-orang yang berbakti benar-benar berada dalam (surga yang penuh) kenikmatan,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "qalqalah",
+				"start": 11,
+				"end": 12
+			}
+		]
 	},
 	{
 		"aya_id": 5871,
@@ -204,7 +408,19 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 588,
-		"translation_aya_text": "mereka (duduk) di atas dipan-dipan melepas pandangan. "
+		"translation_aya_text": "mereka (duduk) di atas dipan-dipan melepas pandangan. ",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 12,
+				"end": 16
+			},
+			{
+				"class": "ikhfa",
+				"start": 23,
+				"end": 27
+			}
+		]
 	},
 	{
 		"aya_id": 5872,
@@ -213,7 +429,14 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 588,
-		"translation_aya_text": "Kamu dapat mengetahui dari wajah mereka kesenangan hidup yang penuh kenikmatan."
+		"translation_aya_text": "Kamu dapat mengetahui dari wajah mereka kesenangan hidup yang penuh kenikmatan.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 38,
+				"end": 41
+			}
+		]
 	},
 	{
 		"aya_id": 5873,
@@ -222,7 +445,19 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 588,
-		"translation_aya_text": "Mereka diberi minum dari khamar murni (tidak memabukkan) yang (tempatnya) masih dilak (disegel), "
+		"translation_aya_text": "Mereka diberi minum dari khamar murni (tidak memabukkan) yang (tempatnya) masih dilak (disegel), ",
+		"tajweed": [
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 13,
+				"end": 18
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 23,
+				"end": 28
+			}
+		]
 	},
 	{
 		"aya_id": 5874,
@@ -231,7 +466,19 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 588,
-		"translation_aya_text": "laknya dari kasturi. Dan untuk yang demikian itu hendaknya orang berlomba-lomba. "
+		"translation_aya_text": "laknya dari kasturi. Dan untuk yang demikian itu hendaknya orang berlomba-lomba. ",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 13,
+				"end": 15
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 16,
+				"end": 18
+			}
+		]
 	},
 	{
 		"aya_id": 5875,
@@ -240,7 +487,14 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 588,
-		"translation_aya_text": "Dan campurannya dari tasnim, "
+		"translation_aya_text": "Dan campurannya dari tasnim, ",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 14,
+				"end": 19
+			}
+		]
 	},
 	{
 		"aya_id": 5876,
@@ -249,7 +503,19 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 588,
-		"translation_aya_text": "(yaitu) mata air yang diminum oleh mereka yang dekat (kepada Allah). "
+		"translation_aya_text": "(yaitu) mata air yang diminum oleh mereka yang dekat (kepada Allah). ",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 4,
+				"end": 6
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 7,
+				"end": 9
+			}
+		]
 	},
 	{
 		"aya_id": 5877,
@@ -258,7 +524,19 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 588,
-		"translation_aya_text": "Sesungguhnya orang-orang yang berdosa adalah mereka yang dahulu menertawakan orang-orang yang beriman."
+		"translation_aya_text": "Sesungguhnya orang-orang yang berdosa adalah mereka yang dahulu menertawakan orang-orang yang beriman.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "qalqalah",
+				"start": 19,
+				"end": 20
+			}
+		]
 	},
 	{
 		"aya_id": 5878,
@@ -267,7 +545,8 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 588,
-		"translation_aya_text": "Dan apabila mereka (orang-orang yang beriman) melintas di hadapan mereka, mereka saling mengedip-ngedipkan matanya,"
+		"translation_aya_text": "Dan apabila mereka (orang-orang yang beriman) melintas di hadapan mereka, mereka saling mengedip-ngedipkan matanya,",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5879,
@@ -276,7 +555,29 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 588,
-		"translation_aya_text": "dan apabila kembali kepada kaumnya, mereka kembali dengan gembira ria. "
+		"translation_aya_text": "dan apabila kembali kepada kaumnya, mereka kembali dengan gembira ria. ",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 9,
+				"end": 13
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 17,
+				"end": 20
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 24,
+				"end": 29
+			},
+			{
+				"class": "ikhfa",
+				"start": 41,
+				"end": 45
+			}
+		]
 	},
 	{
 		"aya_id": 5880,
@@ -285,7 +586,24 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 588,
-		"translation_aya_text": "Dan apabila mereka melihat (orang-orang mukmin), mereka mengatakan, “Sesungguhnya mereka benar-benar orang-orang sesat,”"
+		"translation_aya_text": "Dan apabila mereka melihat (orang-orang mukmin), mereka mengatakan, “Sesungguhnya mereka benar-benar orang-orang sesat,”",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 24,
+				"end": 27
+			},
+			{
+				"class": "ghunnah",
+				"start": 31,
+				"end": 34
+			},
+			{
+				"class": "madd-wajib",
+				"start": 41,
+				"end": 44
+			}
+		]
 	},
 	{
 		"aya_id": 5881,
@@ -294,7 +612,14 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 588,
-		"translation_aya_text": "padahal (orang-orang yang berdosa itu), mereka tidak diutus sebagai penjaga (orang-orang mukmin). "
+		"translation_aya_text": "padahal (orang-orang yang berdosa itu), mereka tidak diutus sebagai penjaga (orang-orang mukmin). ",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 3,
+				"end": 7
+			}
+		]
 	},
 	{
 		"aya_id": 5882,
@@ -303,7 +628,8 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 588,
-		"translation_aya_text": "Maka pada hari ini, orang-orang yang beriman yang menertawakan orang-orang kafir, "
+		"translation_aya_text": "Maka pada hari ini, orang-orang yang beriman yang menertawakan orang-orang kafir, ",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5883,
@@ -312,7 +638,19 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 589,
-		"translation_aya_text": "mereka (duduk) di atas dipan-dipan melepas pandangan."
+		"translation_aya_text": "mereka (duduk) di atas dipan-dipan melepas pandangan.",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 12,
+				"end": 16
+			},
+			{
+				"class": "ikhfa",
+				"start": 23,
+				"end": 27
+			}
+		]
 	},
 	{
 		"aya_id": 5884,
@@ -321,6 +659,7 @@
 		"sura_id": 83,
 		"juz_id": 30,
 		"page_number": 589,
-		"translation_aya_text": "Apakah orang-orang kafir itu diberi balasan (hukuman) terhadap apa yang telah mereka perbuat? "
+		"translation_aya_text": "Apakah orang-orang kafir itu diberi balasan (hukuman) terhadap apa yang telah mereka perbuat? ",
+		"tajweed": []
 	}
 ]

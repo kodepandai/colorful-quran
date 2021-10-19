@@ -6,7 +6,8 @@
 		"sura_id": 62,
 		"juz_id": 28,
 		"page_number": 553,
-		"translation_aya_text": "Apa yang ada di langit dan apa yang ada di bumi senantiasa bertasbih kepada Allah. Maharaja, Yang Mahasuci, Yang Mahaperkasa, Mahabijaksana."
+		"translation_aya_text": "Apa yang ada di langit dan apa yang ada di bumi senantiasa bertasbih kepada Allah. Maharaja, Yang Mahasuci, Yang Mahaperkasa, Mahabijaksana.",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5179,
@@ -15,7 +16,44 @@
 		"sura_id": 62,
 		"juz_id": 28,
 		"page_number": 553,
-		"translation_aya_text": "Dialah yang mengutus seorang Rasul kepada kaum yang buta huruf dari kalangan mereka sendiri, yang membacakan kepada mereka ayat-ayat-Nya, menyucikan (jiwa) mereka dan mengajarkan kepada mereka Kitab dan Hikmah (Sunnah), meskipun sebelumnya, mereka benar-benar dalam kesesatan yang nyata."
+		"translation_aya_text": "Dialah yang mengutus seorang Rasul kepada kaum yang buta huruf dari kalangan mereka sendiri, yang membacakan kepada mereka ayat-ayat-Nya, menyucikan (jiwa) mereka dan mengajarkan kepada mereka Kitab dan Hikmah (Sunnah), meskipun sebelumnya, mereka benar-benar dalam kesesatan yang nyata.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 30,
+				"end": 33
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 45,
+				"end": 47
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 48,
+				"end": 50
+			},
+			{
+				"class": "ikhfa",
+				"start": 149,
+				"end": 154
+			},
+			{
+				"class": "ikhfa",
+				"start": 163,
+				"end": 168
+			},
+			{
+				"class": "qalqalah",
+				"start": 168,
+				"end": 169
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 184,
+				"end": 189
+			}
+		]
 	},
 	{
 		"aya_id": 5180,
@@ -24,7 +62,14 @@
 		"sura_id": 62,
 		"juz_id": 28,
 		"page_number": 553,
-		"translation_aya_text": "Dan (juga) kepada kaum yang lain dari mereka yang belum berhubungan dengan mereka. Dan Dialah Yang Mahaperkasa, Mahabijaksana. "
+		"translation_aya_text": "Dan (juga) kepada kaum yang lain dari mereka yang belum berhubungan dengan mereka. Dan Dialah Yang Mahaperkasa, Mahabijaksana. ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 25,
+				"end": 28
+			}
+		]
 	},
 	{
 		"aya_id": 5181,
@@ -33,7 +78,19 @@
 		"sura_id": 62,
 		"juz_id": 28,
 		"page_number": 553,
-		"translation_aya_text": "Demikianlah karunia Allah, yang diberikan kepada siapa yang Dia kehendaki; dan Allah memiliki karunia yang besar. "
+		"translation_aya_text": "Demikianlah karunia Allah, yang diberikan kepada siapa yang Dia kehendaki; dan Allah memiliki karunia yang besar. ",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 35,
+				"end": 40
+			},
+			{
+				"class": "madd-wajib",
+				"start": 42,
+				"end": 45
+			}
+		]
 	},
 	{
 		"aya_id": 5182,
@@ -42,7 +99,29 @@
 		"sura_id": 62,
 		"juz_id": 28,
 		"page_number": 553,
-		"translation_aya_text": "Perumpamaan orang-orang yang diberi tugas membawa Taurat, kemudian mereka tidak membawanya (tidak mengamalkannya) adalah seperti keledai yang membawa kitab-kitab yang tebal. Sangat buruk perumpamaan kaum yang mendustakan ayat-ayat Allah. Dan Allah tidak memberi petunjuk kepada orang-orang yang zalim. "
+		"translation_aya_text": "Perumpamaan orang-orang yang diberi tugas membawa Taurat, kemudian mereka tidak membawanya (tidak mengamalkannya) adalah seperti keledai yang membawa kitab-kitab yang tebal. Sangat buruk perumpamaan kaum yang mendustakan ayat-ayat Allah. Dan Allah tidak memberi petunjuk kepada orang-orang yang zalim. ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 20,
+				"end": 23
+			},
+			{
+				"class": "ghunnah",
+				"start": 43,
+				"end": 46
+			},
+			{
+				"class": "iqlab",
+				"start": 102,
+				"end": 104
+			},
+			{
+				"class": "iqlab",
+				"start": 106,
+				"end": 108
+			}
+		]
 	},
 	{
 		"aya_id": 5183,
@@ -51,7 +130,59 @@
 		"sura_id": 62,
 		"juz_id": 28,
 		"page_number": 553,
-		"translation_aya_text": "Katakanlah (Muhammad), “Wahai orang-orang Yahudi! Jika kamu mengira bahwa kamulah kekasih Allah, bukan orang-orang yang lain, maka harapkanlah kematianmu, jika kamu orang yang benar.” "
+		"translation_aya_text": "Katakanlah (Muhammad), “Wahai orang-orang Yahudi! Jika kamu mengira bahwa kamulah kekasih Allah, bukan orang-orang yang lain, maka harapkanlah kematianmu, jika kamu orang yang benar.” ",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 5,
+				"end": 8
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 33,
+				"end": 36
+			},
+			{
+				"class": "ikhfa",
+				"start": 40,
+				"end": 45
+			},
+			{
+				"class": "ghunnah",
+				"start": 56,
+				"end": 59
+			},
+			{
+				"class": "madd-wajib",
+				"start": 71,
+				"end": 74
+			},
+			{
+				"class": "ikhfa",
+				"start": 87,
+				"end": 92
+			},
+			{
+				"class": "ghunnah",
+				"start": 99,
+				"end": 102
+			},
+			{
+				"class": "ghunnah",
+				"start": 112,
+				"end": 115
+			},
+			{
+				"class": "ikhfa",
+				"start": 131,
+				"end": 136
+			},
+			{
+				"class": "ikhfa",
+				"start": 136,
+				"end": 140
+			}
+		]
 	},
 	{
 		"aya_id": 5184,
@@ -60,7 +191,39 @@
 		"sura_id": 62,
 		"juz_id": 28,
 		"page_number": 553,
-		"translation_aya_text": "Dan mereka tidak akan mengharapkan kematian itu selamanya disebabkan kejahatan yang telah mereka perbuat dengan tangan mereka sendiri. Dan Allah Maha Mengetahui orang-orang yang zalim. "
+		"translation_aya_text": "Dan mereka tidak akan mengharapkan kematian itu selamanya disebabkan kejahatan yang telah mereka perbuat dengan tangan mereka sendiri. Dan Allah Maha Mengetahui orang-orang yang zalim. ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 12,
+				"end": 15
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 19,
+				"end": 23
+			},
+			{
+				"class": "iqlab",
+				"start": 27,
+				"end": 29
+			},
+			{
+				"class": "iqlab",
+				"start": 31,
+				"end": 33
+			},
+			{
+				"class": "iqlab",
+				"start": 78,
+				"end": 80
+			},
+			{
+				"class": "iqlab",
+				"start": 81,
+				"end": 83
+			}
+		]
 	},
 	{
 		"aya_id": 5185,
@@ -69,7 +232,29 @@
 		"sura_id": 62,
 		"juz_id": 28,
 		"page_number": 553,
-		"translation_aya_text": "Katakanlah, “Sesungguhnya kematian yang kamu lari dari padanya, ia pasti menemui kamu, kemudian kamu akan dikembalikan kepada (Allah), yang mengetahui yang gaib dan yang nyata, lalu Dia beritakan kepadamu apa yang telah kamu kerjakan.” "
+		"translation_aya_text": "Katakanlah, “Sesungguhnya kematian yang kamu lari dari padanya, ia pasti menemui kamu, kemudian kamu akan dikembalikan kepada (Allah), yang mengetahui yang gaib dan yang nyata, lalu Dia beritakan kepadamu apa yang telah kamu kerjakan.” ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 7,
+				"end": 10
+			},
+			{
+				"class": "ghunnah",
+				"start": 53,
+				"end": 56
+			},
+			{
+				"class": "ghunnah",
+				"start": 74,
+				"end": 77
+			},
+			{
+				"class": "ikhfa",
+				"start": 153,
+				"end": 157
+			}
+		]
 	},
 	{
 		"aya_id": 5186,
@@ -78,7 +263,39 @@
 		"sura_id": 62,
 		"juz_id": 28,
 		"page_number": 554,
-		"translation_aya_text": "Wahai orang-orang yang beriman! Apabila telah diseru untuk melaksanakan salat pada hari Jum‘at, maka segeralah kamu mengingat Allah dan tinggalkanlah jual beli. Yang demikian itu lebih baik bagimu jika kamu mengetahui."
+		"translation_aya_text": "Wahai orang-orang yang beriman! Apabila telah diseru untuk melaksanakan salat pada hari Jum‘at, maka segeralah kamu mengingat Allah dan tinggalkanlah jual beli. Yang demikian itu lebih baik bagimu jika kamu mengetahui.",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 0,
+				"end": 3
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 29,
+				"end": 32
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 63,
+				"end": 68
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 151,
+				"end": 156
+			},
+			{
+				"class": "ikhfa",
+				"start": 164,
+				"end": 169
+			},
+			{
+				"class": "ikhfa",
+				"start": 169,
+				"end": 173
+			}
+		]
 	},
 	{
 		"aya_id": 5187,
@@ -87,7 +304,34 @@
 		"sura_id": 62,
 		"juz_id": 28,
 		"page_number": 554,
-		"translation_aya_text": "Apabila salat telah dilaksanakan, maka bertebaranlah kamu di bumi; carilah karunia Allah dan ingatlah Allah banyak-banyak agar kamu beruntung. "
+		"translation_aya_text": "Apabila salat telah dilaksanakan, maka bertebaranlah kamu di bumi; carilah karunia Allah dan ingatlah Allah banyak-banyak agar kamu beruntung. ",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 31,
+				"end": 35
+			},
+			{
+				"class": "qalqalah",
+				"start": 60,
+				"end": 61
+			},
+			{
+				"class": "ikhfa",
+				"start": 72,
+				"end": 77
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 116,
+				"end": 118
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 119,
+				"end": 121
+			}
+		]
 	},
 	{
 		"aya_id": 5188,
@@ -96,6 +340,43 @@
 		"sura_id": 62,
 		"juz_id": 28,
 		"page_number": 554,
-		"translation_aya_text": "Dan apabila mereka melihat perdagangan atau permainan, mereka segera menuju kepadanya dan mereka tinggalkan engkau (Muhammad) sedang berdiri (berkhotbah). Katakanlah, “Apa yang ada di sisi Allah lebih baik daripada permainan dan perdagangan,” dan Allah pemberi rezeki yang terbaik."
+		"translation_aya_text": "Dan apabila mereka melihat perdagangan atau permainan, mereka segera menuju kepadanya dan mereka tinggalkan engkau (Muhammad) sedang berdiri (berkhotbah). Katakanlah, “Apa yang ada di sisi Allah lebih baik daripada permainan dan perdagangan,” dan Allah pemberi rezeki yang terbaik.",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 41,
+				"end": 45
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 48,
+				"end": 51
+			},
+			{
+				"class": "madd-wajib",
+				"start": 77,
+				"end": 81
+			},
+			{
+				"class": "ikhfa",
+				"start": 83,
+				"end": 85
+			},
+			{
+				"class": "ikhfa",
+				"start": 87,
+				"end": 89
+			},
+			{
+				"class": "ikhfa",
+				"start": 99,
+				"end": 103
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 116,
+				"end": 121
+			}
+		]
 	}
 ]

@@ -6,7 +6,34 @@
 		"sura_id": 72,
 		"juz_id": 29,
 		"page_number": 572,
-		"translation_aya_text": "Katakanlah (Muhammad), “Telah diwahyukan kepadaku bahwa sekumpulan jin telah mendengarkan (bacaan),” lalu mereka berkata, “Kami telah mendengarkan bacaan yang menakjubkan (Al-Qur'an),"
+		"translation_aya_text": "Katakanlah (Muhammad), “Telah diwahyukan kepadaku bahwa sekumpulan jin telah mendengarkan (bacaan),” lalu mereka berkata, “Kami telah mendengarkan bacaan yang menakjubkan (Al-Qur'an),",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 24,
+				"end": 27
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 44,
+				"end": 49
+			},
+			{
+				"class": "ghunnah",
+				"start": 58,
+				"end": 61
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 69,
+				"end": 72
+			},
+			{
+				"class": "ghunnah",
+				"start": 76,
+				"end": 79
+			}
+		]
 	},
 	{
 		"aya_id": 5449,
@@ -15,7 +42,29 @@
 		"sura_id": 72,
 		"juz_id": 29,
 		"page_number": 572,
-		"translation_aya_text": "(yang) memberi petunjuk kepada jalan yang benar, lalu kami beriman kepadanya. Dan kami sekali-kali tidak akan mempersekutukan sesuatu pun dengan Tuhan kami, "
+		"translation_aya_text": "(yang) memberi petunjuk kepada jalan yang benar, lalu kami beriman kepadanya. Dan kami sekali-kali tidak akan mempersekutukan sesuatu pun dengan Tuhan kami, ",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 7,
+				"end": 11
+			},
+			{
+				"class": "ghunnah",
+				"start": 33,
+				"end": 36
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 48,
+				"end": 53
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 69,
+				"end": 73
+			}
+		]
 	},
 	{
 		"aya_id": 5450,
@@ -24,7 +73,19 @@
 		"sura_id": 72,
 		"juz_id": 29,
 		"page_number": 572,
-		"translation_aya_text": "dan sesungguhnya Mahatinggi keagungan Tuhan kami, Dia tidak beristri dan tidak beranak.”"
+		"translation_aya_text": "dan sesungguhnya Mahatinggi keagungan Tuhan kami, Dia tidak beristri dan tidak beranak.”",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 5,
+				"end": 8
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 54,
+				"end": 59
+			}
+		]
 	},
 	{
 		"aya_id": 5451,
@@ -33,7 +94,14 @@
 		"sura_id": 72,
 		"juz_id": 29,
 		"page_number": 572,
-		"translation_aya_text": "Dan sesungguhnya orang yang bodoh di antara kami dahulu selalu mengucapkan (perkataan) yang melampaui batas terhadap Allah,"
+		"translation_aya_text": "Dan sesungguhnya orang yang bodoh di antara kami dahulu selalu mengucapkan (perkataan) yang melampaui batas terhadap Allah,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 5,
+				"end": 8
+			}
+		]
 	},
 	{
 		"aya_id": 5452,
@@ -42,7 +110,44 @@
 		"sura_id": 72,
 		"juz_id": 29,
 		"page_number": 572,
-		"translation_aya_text": "dan sesungguhnya kami mengira, bahwa manusia dan jin itu tidak akan mengatakan perkataan yang dusta terhadap Allah, "
+		"translation_aya_text": "dan sesungguhnya kami mengira, bahwa manusia dan jin itu tidak akan mengatakan perkataan yang dusta terhadap Allah, ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 5,
+				"end": 8
+			},
+			{
+				"class": "ghunnah",
+				"start": 14,
+				"end": 17
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 16,
+				"end": 20
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 22,
+				"end": 27
+			},
+			{
+				"class": "ikhfa",
+				"start": 28,
+				"end": 33
+			},
+			{
+				"class": "ikhfa",
+				"start": 45,
+				"end": 49
+			},
+			{
+				"class": "ghunnah",
+				"start": 57,
+				"end": 60
+			}
+		]
 	},
 	{
 		"aya_id": 5453,
@@ -51,7 +156,34 @@
 		"sura_id": 72,
 		"juz_id": 29,
 		"page_number": 572,
-		"translation_aya_text": "dan sesungguhnya ada beberapa orang laki-laki dari kalangan manusia yang meminta perlindungan kepada beberapa laki-laki dari jin, tetapi mereka (jin) menjadikan mereka (manusia) bertambah sesat. "
+		"translation_aya_text": "dan sesungguhnya ada beberapa orang laki-laki dari kalangan manusia yang meminta perlindungan kepada beberapa laki-laki dari jin, tetapi mereka (jin) menjadikan mereka (manusia) bertambah sesat. ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 5,
+				"end": 8
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 22,
+				"end": 27
+			},
+			{
+				"class": "ikhfa",
+				"start": 36,
+				"end": 40
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 61,
+				"end": 66
+			},
+			{
+				"class": "ghunnah",
+				"start": 75,
+				"end": 78
+			}
+		]
 	},
 	{
 		"aya_id": 5454,
@@ -60,7 +192,39 @@
 		"sura_id": 72,
 		"juz_id": 29,
 		"page_number": 572,
-		"translation_aya_text": "Dan sesungguhnya mereka (jin) mengira seperti kamu (orang musyrik Mekah) yang juga mengira bahwa Allah tidak akan membangkitkan kembali siapa pun (pada hari Kiamat). "
+		"translation_aya_text": "Dan sesungguhnya mereka (jin) mengira seperti kamu (orang musyrik Mekah) yang juga mengira bahwa Allah tidak akan membangkitkan kembali siapa pun (pada hari Kiamat). ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 5,
+				"end": 8
+			},
+			{
+				"class": "ghunnah",
+				"start": 15,
+				"end": 18
+			},
+			{
+				"class": "ikhfa",
+				"start": 32,
+				"end": 36
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 41,
+				"end": 46
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 47,
+				"end": 52
+			},
+			{
+				"class": "qalqalah",
+				"start": 53,
+				"end": 54
+			}
+		]
 	},
 	{
 		"aya_id": 5455,
@@ -69,7 +233,44 @@
 		"sura_id": 72,
 		"juz_id": 29,
 		"page_number": 572,
-		"translation_aya_text": "Dan sesungguhnya kami (jin) telah mencoba mengetahui (rahasia) langit, maka kami mendapatinya penuh dengan penjagaan yang kuat dan panah-panah api, "
+		"translation_aya_text": "Dan sesungguhnya kami (jin) telah mencoba mengetahui (rahasia) langit, maka kami mendapatinya penuh dengan penjagaan yang kuat dan panah-panah api, ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 5,
+				"end": 8
+			},
+			{
+				"class": "madd-wajib",
+				"start": 26,
+				"end": 29
+			},
+			{
+				"class": "qalqalah",
+				"start": 38,
+				"end": 39
+			},
+			{
+				"class": "ikhfa",
+				"start": 59,
+				"end": 61
+			},
+			{
+				"class": "ikhfa",
+				"start": 62,
+				"end": 64
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 69,
+				"end": 71
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 72,
+				"end": 74
+			}
+		]
 	},
 	{
 		"aya_id": 5456,
@@ -78,7 +279,44 @@
 		"sura_id": 72,
 		"juz_id": 29,
 		"page_number": 572,
-		"translation_aya_text": "dan sesungguhnya kami (jin) dahulu dapat menduduki beberapa tempat di langit itu untuk mencuri dengar (berita-beritanya). Tetapi sekarang siapa (mencoba) mencuri dengar (seperti itu) pasti akan menjumpai panah-panah api yang mengintai (untuk membakarnya)."
+		"translation_aya_text": "dan sesungguhnya kami (jin) dahulu dapat menduduki beberapa tempat di langit itu untuk mencuri dengar (berita-beritanya). Tetapi sekarang siapa (mencoba) mencuri dengar (seperti itu) pasti akan menjumpai panah-panah api yang mengintai (untuk membakarnya).",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 5,
+				"end": 8
+			},
+			{
+				"class": "ghunnah",
+				"start": 12,
+				"end": 15
+			},
+			{
+				"class": "qalqalah",
+				"start": 19,
+				"end": 20
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 60,
+				"end": 65
+			},
+			{
+				"class": "qalqalah",
+				"start": 87,
+				"end": 88
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 100,
+				"end": 102
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 103,
+				"end": 105
+			}
+		]
 	},
 	{
 		"aya_id": 5457,
@@ -87,7 +325,29 @@
 		"sura_id": 72,
 		"juz_id": 29,
 		"page_number": 572,
-		"translation_aya_text": "Dan sesungguhnya kami (jin) tidak mengetahui (adanya penjagaan itu) apakah keburukan yang dikehendaki orang yang di bumi ataukah Tuhan mereka menghendaki kebaikan baginya. "
+		"translation_aya_text": "Dan sesungguhnya kami (jin) tidak mengetahui (adanya penjagaan itu) apakah keburukan yang dikehendaki orang yang di bumi ataukah Tuhan mereka menghendaki kebaikan baginya. ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 5,
+				"end": 8
+			},
+			{
+				"class": "qalqalah",
+				"start": 16,
+				"end": 17
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 20,
+				"end": 24
+			},
+			{
+				"class": "ikhfa",
+				"start": 45,
+				"end": 50
+			}
+		]
 	},
 	{
 		"aya_id": 5458,
@@ -96,7 +356,34 @@
 		"sura_id": 72,
 		"juz_id": 29,
 		"page_number": 572,
-		"translation_aya_text": "Dan sesungguhnya di antara kami (jin) ada yang saleh dan ada (pula) kebalikannya. Kami menempuh jalan yang berbeda-beda. "
+		"translation_aya_text": "Dan sesungguhnya di antara kami (jin) ada yang saleh dan ada (pula) kebalikannya. Kami menempuh jalan yang berbeda-beda. ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 5,
+				"end": 8
+			},
+			{
+				"class": "ghunnah",
+				"start": 12,
+				"end": 15
+			},
+			{
+				"class": "ghunnah",
+				"start": 35,
+				"end": 38
+			},
+			{
+				"class": "ghunnah",
+				"start": 58,
+				"end": 61
+			},
+			{
+				"class": "madd-wajib",
+				"start": 66,
+				"end": 70
+			}
+		]
 	},
 	{
 		"aya_id": 5459,
@@ -105,7 +392,39 @@
 		"sura_id": 72,
 		"juz_id": 29,
 		"page_number": 572,
-		"translation_aya_text": "Dan sesungguhnya kami (jin) telah menduga, bahwa kami tidak akan mampu melepaskan diri (dari kekuasaan) Allah di bumi dan tidak (pula) dapat lari melepaskan diri (dari)-Nya. "
+		"translation_aya_text": "Dan sesungguhnya kami (jin) telah menduga, bahwa kami tidak akan mampu melepaskan diri (dari kekuasaan) Allah di bumi dan tidak (pula) dapat lari melepaskan diri (dari)-Nya. ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 5,
+				"end": 8
+			},
+			{
+				"class": "ghunnah",
+				"start": 14,
+				"end": 17
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 16,
+				"end": 20
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 22,
+				"end": 27
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 28,
+				"end": 33
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 67,
+				"end": 72
+			}
+		]
 	},
 	{
 		"aya_id": 5460,
@@ -114,7 +433,54 @@
 		"sura_id": 72,
 		"juz_id": 29,
 		"page_number": 572,
-		"translation_aya_text": "Dan sesungguhnya ketika kami (jin) mendengar petunjuk (Al-Qur'an), kami beriman kepadanya. Maka barangsiapa beriman kepada Tuhan, maka tidak perlu ia takut rugi atau berdosa. "
+		"translation_aya_text": "Dan sesungguhnya ketika kami (jin) mendengar petunjuk (Al-Qur'an), kami beriman kepadanya. Maka barangsiapa beriman kepada Tuhan, maka tidak perlu ia takut rugi atau berdosa. ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 5,
+				"end": 8
+			},
+			{
+				"class": "ghunnah",
+				"start": 12,
+				"end": 15
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 33,
+				"end": 37
+			},
+			{
+				"class": "ghunnah",
+				"start": 41,
+				"end": 44
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 56,
+				"end": 61
+			},
+			{
+				"class": "iqlab",
+				"start": 66,
+				"end": 68
+			},
+			{
+				"class": "iqlab",
+				"start": 69,
+				"end": 71
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 98,
+				"end": 100
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 101,
+				"end": 103
+			}
+		]
 	},
 	{
 		"aya_id": 5461,
@@ -123,7 +489,29 @@
 		"sura_id": 72,
 		"juz_id": 29,
 		"page_number": 573,
-		"translation_aya_text": "Dan di antara kami ada yang Islam dan ada yang menyimpang dari kebenaran. Siapa yang Islam, maka mereka itu telah memilih jalan yang lurus. "
+		"translation_aya_text": "Dan di antara kami ada yang Islam dan ada yang menyimpang dari kebenaran. Siapa yang Islam, maka mereka itu telah memilih jalan yang lurus. ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 5,
+				"end": 8
+			},
+			{
+				"class": "ghunnah",
+				"start": 12,
+				"end": 15
+			},
+			{
+				"class": "ghunnah",
+				"start": 37,
+				"end": 40
+			},
+			{
+				"class": "madd-wajib",
+				"start": 79,
+				"end": 83
+			}
+		]
 	},
 	{
 		"aya_id": 5462,
@@ -132,7 +520,19 @@
 		"sura_id": 72,
 		"juz_id": 29,
 		"page_number": 573,
-		"translation_aya_text": "Dan adapun yang menyimpang dari kebenaran, maka mereka menjadi bahan bakar bagi neraka Jahanam.” "
+		"translation_aya_text": "Dan adapun yang menyimpang dari kebenaran, maka mereka menjadi bahan bakar bagi neraka Jahanam.” ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 4,
+				"end": 7
+			},
+			{
+				"class": "ghunnah",
+				"start": 41,
+				"end": 44
+			}
+		]
 	},
 	{
 		"aya_id": 5463,
@@ -141,7 +541,24 @@
 		"sura_id": 72,
 		"juz_id": 29,
 		"page_number": 573,
-		"translation_aya_text": "Dan sekiranya mereka tetap berjalan lurus di atas jalan itu (agama Islam), niscaya Kami akan mencurahkan kepada mereka air yang cukup."
+		"translation_aya_text": "Dan sekiranya mereka tetap berjalan lurus di atas jalan itu (agama Islam), niscaya Kami akan mencurahkan kepada mereka air yang cukup.",
+		"tajweed": [
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 5,
+				"end": 10
+			},
+			{
+				"class": "idgham-mimi",
+				"start": 62,
+				"end": 67
+			},
+			{
+				"class": "madd-wajib",
+				"start": 67,
+				"end": 70
+			}
+		]
 	},
 	{
 		"aya_id": 5464,
@@ -150,7 +567,29 @@
 		"sura_id": 72,
 		"juz_id": 29,
 		"page_number": 573,
-		"translation_aya_text": "Dengan (cara) itu Kami hendak menguji mereka. Dan barangsiapa berpaling dari peringatan Tuhannya, niscaya akan dimasukkan-Nya ke dalam azab yang sangat berat. "
+		"translation_aya_text": "Dengan (cara) itu Kami hendak menguji mereka. Dan barangsiapa berpaling dari peringatan Tuhannya, niscaya akan dimasukkan-Nya ke dalam azab yang sangat berat. ",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 28,
+				"end": 33
+			},
+			{
+				"class": "ikhfa",
+				"start": 43,
+				"end": 48
+			},
+			{
+				"class": "ikhfa",
+				"start": 77,
+				"end": 79
+			},
+			{
+				"class": "ikhfa",
+				"start": 80,
+				"end": 82
+			}
+		]
 	},
 	{
 		"aya_id": 5465,
@@ -159,7 +598,19 @@
 		"sura_id": 72,
 		"juz_id": 29,
 		"page_number": 573,
-		"translation_aya_text": "Dan sesungguhnya masjid-masjid itu adalah untuk Allah. Maka janganlah kamu menyembah apa pun di dalamnya selain Allah. "
+		"translation_aya_text": "Dan sesungguhnya masjid-masjid itu adalah untuk Allah. Maka janganlah kamu menyembah apa pun di dalamnya selain Allah. ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 5,
+				"end": 8
+			},
+			{
+				"class": "qalqalah",
+				"start": 37,
+				"end": 38
+			}
+		]
 	},
 	{
 		"aya_id": 5466,
@@ -168,7 +619,29 @@
 		"sura_id": 72,
 		"juz_id": 29,
 		"page_number": 573,
-		"translation_aya_text": "Dan sesungguhnya ketika hamba Allah (Muhammad) berdiri menyembah-Nya (melaksanakan salat), mereka (jin-jin) itu berdesakan mengerumuninya."
+		"translation_aya_text": "Dan sesungguhnya ketika hamba Allah (Muhammad) berdiri menyembah-Nya (melaksanakan salat), mereka (jin-jin) itu berdesakan mengerumuninya.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 5,
+				"end": 8
+			},
+			{
+				"class": "ghunnah",
+				"start": 13,
+				"end": 16
+			},
+			{
+				"class": "qalqalah",
+				"start": 26,
+				"end": 27
+			},
+			{
+				"class": "qalqalah",
+				"start": 41,
+				"end": 42
+			}
+		]
 	},
 	{
 		"aya_id": 5467,
@@ -177,7 +650,34 @@
 		"sura_id": 72,
 		"juz_id": 29,
 		"page_number": 573,
-		"translation_aya_text": "Katakanlah (Muhammad), “Sesungguhnya aku hanya menyembah Tuhanku dan aku tidak mempersekutukan sesuatu pun dengan-Nya.” "
+		"translation_aya_text": "Katakanlah (Muhammad), “Sesungguhnya aku hanya menyembah Tuhanku dan aku tidak mempersekutukan sesuatu pun dengan-Nya.” ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 7,
+				"end": 10
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 11,
+				"end": 15
+			},
+			{
+				"class": "qalqalah",
+				"start": 17,
+				"end": 18
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 36,
+				"end": 40
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 51,
+				"end": 55
+			}
+		]
 	},
 	{
 		"aya_id": 5468,
@@ -186,7 +686,29 @@
 		"sura_id": 72,
 		"juz_id": 29,
 		"page_number": 573,
-		"translation_aya_text": "Katakanlah (Muhammad), “Aku tidak kuasa menolak mudarat maupun mendatangkan kebaikan kepadamu.” "
+		"translation_aya_text": "Katakanlah (Muhammad), “Aku tidak kuasa menolak mudarat maupun mendatangkan kebaikan kepadamu.” ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 7,
+				"end": 10
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 14,
+				"end": 18
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 36,
+				"end": 39
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 40,
+				"end": 42
+			}
+		]
 	},
 	{
 		"aya_id": 5469,
@@ -195,7 +717,34 @@
 		"sura_id": 72,
 		"juz_id": 29,
 		"page_number": 573,
-		"translation_aya_text": "Katakanlah (Muhammad), “Sesungguhnya tidak ada sesuatu pun yang dapat melindungiku dari (azab) Allah dan aku tidak akan memperoleh tempat berlindung selain dari-Nya. "
+		"translation_aya_text": "Katakanlah (Muhammad), “Sesungguhnya tidak ada sesuatu pun yang dapat melindungiku dari (azab) Allah dan aku tidak akan memperoleh tempat berlindung selain dari-Nya. ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 7,
+				"end": 10
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 15,
+				"end": 20
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 49,
+				"end": 51
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 54,
+				"end": 56
+			},
+			{
+				"class": "ikhfa",
+				"start": 72,
+				"end": 77
+			}
+		]
 	},
 	{
 		"aya_id": 5470,
@@ -204,7 +753,39 @@
 		"sura_id": 72,
 		"juz_id": 29,
 		"page_number": 573,
-		"translation_aya_text": "(Aku hanya) menyampaikan (peringatan) dari Allah dan risalah-Nya. Dan barangsiapa mendurhakai Allah dan Rasul-Nya maka sesungguhnya dia akan mendapat (azab) neraka Jahanam, mereka kekal di dalamnya selama-lamanya.” "
+		"translation_aya_text": "(Aku hanya) menyampaikan (peringatan) dari Allah dan risalah-Nya. Dan barangsiapa mendurhakai Allah dan Rasul-Nya maka sesungguhnya dia akan mendapat (azab) neraka Jahanam, mereka kekal di dalamnya selama-lamanya.” ",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 11,
+				"end": 13
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 14,
+				"end": 16
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 47,
+				"end": 52
+			},
+			{
+				"class": "ghunnah",
+				"start": 83,
+				"end": 86
+			},
+			{
+				"class": "ghunnah",
+				"start": 102,
+				"end": 105
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 124,
+				"end": 128
+			}
+		]
 	},
 	{
 		"aya_id": 5471,
@@ -213,7 +794,24 @@
 		"sura_id": 72,
 		"juz_id": 29,
 		"page_number": 573,
-		"translation_aya_text": "Sehingga apabila mereka melihat (azab) yang diancamkan kepadanya, maka mereka akan mengetahui siapakah yang lebih lemah penolongnya dan lebih sedikit jumlahnya. "
+		"translation_aya_text": "Sehingga apabila mereka melihat (azab) yang diancamkan kepadanya, maka mereka akan mengetahui siapakah yang lebih lemah penolongnya dan lebih sedikit jumlahnya. ",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 4,
+				"end": 8
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 75,
+				"end": 77
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 78,
+				"end": 80
+			}
+		]
 	},
 	{
 		"aya_id": 5472,
@@ -222,7 +820,34 @@
 		"sura_id": 72,
 		"juz_id": 29,
 		"page_number": 573,
-		"translation_aya_text": "Katakanlah (Muhammad), “Aku tidak mengetahui, apakah azab yang diancamkan kepadamu itu sudah dekat ataukah Tuhanku menetapkan waktunya masih lama.” "
+		"translation_aya_text": "Katakanlah (Muhammad), “Aku tidak mengetahui, apakah azab yang diancamkan kepadamu itu sudah dekat ataukah Tuhanku menetapkan waktunya masih lama.” ",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 12,
+				"end": 13
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 16,
+				"end": 20
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 28,
+				"end": 33
+			},
+			{
+				"class": "qalqalah",
+				"start": 56,
+				"end": 57
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 73,
+				"end": 77
+			}
+		]
 	},
 	{
 		"aya_id": 5473,
@@ -231,7 +856,14 @@
 		"sura_id": 72,
 		"juz_id": 29,
 		"page_number": 573,
-		"translation_aya_text": "Dia Mengetahui yang gaib, tetapi Dia tidak memperlihatkan kepada siapa pun tentang yang gaib itu. "
+		"translation_aya_text": "Dia Mengetahui yang gaib, tetapi Dia tidak memperlihatkan kepada siapa pun tentang yang gaib itu. ",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 44,
+				"end": 48
+			}
+		]
 	},
 	{
 		"aya_id": 5474,
@@ -240,7 +872,34 @@
 		"sura_id": 72,
 		"juz_id": 29,
 		"page_number": 573,
-		"translation_aya_text": "Kecuali kepada rasul yang diridai-Nya, maka sesungguhnya Dia mengadakan penjaga-penjaga (malaikat) di depan dan di belakangnya. "
+		"translation_aya_text": "Kecuali kepada rasul yang diridai-Nya, maka sesungguhnya Dia mengadakan penjaga-penjaga (malaikat) di depan dan di belakangnya. ",
+		"tajweed": [
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 23,
+				"end": 28
+			},
+			{
+				"class": "ikhfa",
+				"start": 33,
+				"end": 38
+			},
+			{
+				"class": "ghunnah",
+				"start": 40,
+				"end": 43
+			},
+			{
+				"class": "iqlab",
+				"start": 57,
+				"end": 59
+			},
+			{
+				"class": "iqlab",
+				"start": 60,
+				"end": 62
+			}
+		]
 	},
 	{
 		"aya_id": 5475,
@@ -249,6 +908,23 @@
 		"sura_id": 72,
 		"juz_id": 29,
 		"page_number": 573,
-		"translation_aya_text": "Agar Dia mengetahui bahwa rasul-rasul itu sungguh telah menyampaikan risalah Tuhannya, sedang (ilmu-Nya) meliputi apa yang ada pada mereka, dan Dia menghitung segala sesuatu satu persatu. "
+		"translation_aya_text": "Agar Dia mengetahui bahwa rasul-rasul itu sungguh telah menyampaikan risalah Tuhannya, sedang (ilmu-Nya) meliputi apa yang ada pada mereka, dan Dia menghitung segala sesuatu satu persatu. ",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 14,
+				"end": 19
+			},
+			{
+				"class": "qalqalah",
+				"start": 19,
+				"end": 20
+			},
+			{
+				"class": "qalqalah",
+				"start": 24,
+				"end": 25
+			}
+		]
 	}
 ]

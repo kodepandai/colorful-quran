@@ -6,7 +6,8 @@
 		"sura_id": 92,
 		"juz_id": 30,
 		"page_number": 595,
-		"translation_aya_text": "Demi malam apabila menutupi (cahaya siang),"
+		"translation_aya_text": "Demi malam apabila menutupi (cahaya siang),",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6060,
@@ -15,7 +16,14 @@
 		"sura_id": 92,
 		"juz_id": 30,
 		"page_number": 595,
-		"translation_aya_text": "demi siang apabila terang benderang,"
+		"translation_aya_text": "demi siang apabila terang benderang,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 4,
+				"end": 7
+			}
+		]
 	},
 	{
 		"aya_id": 6061,
@@ -24,7 +32,14 @@
 		"sura_id": 92,
 		"juz_id": 30,
 		"page_number": 595,
-		"translation_aya_text": "demi penciptaan laki-laki dan perempuan,"
+		"translation_aya_text": "demi penciptaan laki-laki dan perempuan,",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 30,
+				"end": 34
+			}
+		]
 	},
 	{
 		"aya_id": 6062,
@@ -33,7 +48,14 @@
 		"sura_id": 92,
 		"juz_id": 30,
 		"page_number": 595,
-		"translation_aya_text": "sungguh, usahamu memang beraneka macam."
+		"translation_aya_text": "sungguh, usahamu memang beraneka macam.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			}
+		]
 	},
 	{
 		"aya_id": 6063,
@@ -42,7 +64,14 @@
 		"sura_id": 92,
 		"juz_id": 30,
 		"page_number": 595,
-		"translation_aya_text": "Maka barangsiapa memberikan (hartanya di jalan Allah) dan bertakwa,"
+		"translation_aya_text": "Maka barangsiapa memberikan (hartanya di jalan Allah) dan bertakwa,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 4,
+				"end": 7
+			}
+		]
 	},
 	{
 		"aya_id": 6064,
@@ -51,7 +80,8 @@
 		"sura_id": 92,
 		"juz_id": 30,
 		"page_number": 595,
-		"translation_aya_text": "dan membenarkan (adanya pahala) yang terbaik (surga),"
+		"translation_aya_text": "dan membenarkan (adanya pahala) yang terbaik (surga),",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6065,
@@ -60,7 +90,8 @@
 		"sura_id": 92,
 		"juz_id": 30,
 		"page_number": 595,
-		"translation_aya_text": "maka akan Kami mudahkan baginya jalan menuju kemudahan (kebahagiaan),"
+		"translation_aya_text": "maka akan Kami mudahkan baginya jalan menuju kemudahan (kebahagiaan),",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6066,
@@ -69,7 +100,24 @@
 		"sura_id": 92,
 		"juz_id": 30,
 		"page_number": 595,
-		"translation_aya_text": "dan adapun orang yang kikir dan merasa dirinya cukup (tidak perlu pertolongan Allah),"
+		"translation_aya_text": "dan adapun orang yang kikir dan merasa dirinya cukup (tidak perlu pertolongan Allah),",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 4,
+				"end": 7
+			},
+			{
+				"class": "iqlab",
+				"start": 11,
+				"end": 13
+			},
+			{
+				"class": "iqlab",
+				"start": 14,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 6067,
@@ -78,7 +126,8 @@
 		"sura_id": 92,
 		"juz_id": 30,
 		"page_number": 595,
-		"translation_aya_text": "serta mendustakan (pahala) yang terbaik,"
+		"translation_aya_text": "serta mendustakan (pahala) yang terbaik,",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6068,
@@ -87,7 +136,8 @@
 		"sura_id": 92,
 		"juz_id": 30,
 		"page_number": 595,
-		"translation_aya_text": "maka akan Kami mudahkan baginya jalan menuju kesukaran (kesengsaraan),"
+		"translation_aya_text": "maka akan Kami mudahkan baginya jalan menuju kesukaran (kesengsaraan),",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6069,
@@ -96,7 +146,14 @@
 		"sura_id": 92,
 		"juz_id": 30,
 		"page_number": 595,
-		"translation_aya_text": "dan hartanya tidak bermanfaat baginya apabila dia telah binasa."
+		"translation_aya_text": "dan hartanya tidak bermanfaat baginya apabila dia telah binasa.",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 27,
+				"end": 31
+			}
+		]
 	},
 	{
 		"aya_id": 6070,
@@ -105,7 +162,14 @@
 		"sura_id": 92,
 		"juz_id": 30,
 		"page_number": 595,
-		"translation_aya_text": "Sesungguhnya Kamilah yang memberi petunjuk,"
+		"translation_aya_text": "Sesungguhnya Kamilah yang memberi petunjuk,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			}
+		]
 	},
 	{
 		"aya_id": 6071,
@@ -114,7 +178,14 @@
 		"sura_id": 92,
 		"juz_id": 30,
 		"page_number": 595,
-		"translation_aya_text": "dan sesungguhnya milik Kamilah akhirat dan dunia itu."
+		"translation_aya_text": "dan sesungguhnya milik Kamilah akhirat dan dunia itu.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 4,
+				"end": 7
+			}
+		]
 	},
 	{
 		"aya_id": 6072,
@@ -123,7 +194,24 @@
 		"sura_id": 92,
 		"juz_id": 30,
 		"page_number": 595,
-		"translation_aya_text": "Maka Aku memperingatkan kamu dengan neraka yang menyala-nyala,"
+		"translation_aya_text": "Maka Aku memperingatkan kamu dengan neraka yang menyala-nyala,",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 4,
+				"end": 8
+			},
+			{
+				"class": "ikhfa",
+				"start": 20,
+				"end": 22
+			},
+			{
+				"class": "ikhfa",
+				"start": 23,
+				"end": 25
+			}
+		]
 	},
 	{
 		"aya_id": 6073,
@@ -132,7 +220,14 @@
 		"sura_id": 92,
 		"juz_id": 30,
 		"page_number": 596,
-		"translation_aya_text": "yang hanya dimasuki oleh orang yang paling celaka,"
+		"translation_aya_text": "yang hanya dimasuki oleh orang yang paling celaka,",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 12,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 6074,
@@ -141,7 +236,8 @@
 		"sura_id": 92,
 		"juz_id": 30,
 		"page_number": 596,
-		"translation_aya_text": "yang mendustakan (kebenaran) dan berpaling (dari iman)."
+		"translation_aya_text": "yang mendustakan (kebenaran) dan berpaling (dari iman).",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6075,
@@ -150,7 +246,14 @@
 		"sura_id": 92,
 		"juz_id": 30,
 		"page_number": 596,
-		"translation_aya_text": "Dan akan dijauhkan darinya (neraka) orang yang paling bertakwa, "
+		"translation_aya_text": "Dan akan dijauhkan darinya (neraka) orang yang paling bertakwa, ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 8,
+				"end": 11
+			}
+		]
 	},
 	{
 		"aya_id": 6076,
@@ -159,7 +262,8 @@
 		"sura_id": 92,
 		"juz_id": 30,
 		"page_number": 596,
-		"translation_aya_text": "yang menginfakkan hartanya (di jalan Allah) untuk membersihkan (dirinya),"
+		"translation_aya_text": "yang menginfakkan hartanya (di jalan Allah) untuk membersihkan (dirinya),",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6077,
@@ -168,7 +272,29 @@
 		"sura_id": 92,
 		"juz_id": 30,
 		"page_number": 596,
-		"translation_aya_text": "dan tidak ada seorang pun memberikan suatu nikmat padanya yang harus dibalasnya,"
+		"translation_aya_text": "dan tidak ada seorang pun memberikan suatu nikmat padanya yang harus dibalasnya,",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 17,
+				"end": 21
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 26,
+				"end": 31
+			},
+			{
+				"class": "ikhfa",
+				"start": 36,
+				"end": 41
+			},
+			{
+				"class": "qalqalah",
+				"start": 41,
+				"end": 42
+			}
+		]
 	},
 	{
 		"aya_id": 6078,
@@ -177,7 +303,24 @@
 		"sura_id": 92,
 		"juz_id": 30,
 		"page_number": 596,
-		"translation_aya_text": "tetapi (dia memberikan itu semata-mata) karena mencari keridaan Tuhannya Yang Mahatinggi."
+		"translation_aya_text": "tetapi (dia memberikan itu semata-mata) karena mencari keridaan Tuhannya Yang Mahatinggi.",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 8,
+				"end": 9
+			},
+			{
+				"class": "madd-wajib",
+				"start": 13,
+				"end": 16
+			},
+			{
+				"class": "qalqalah",
+				"start": 21,
+				"end": 22
+			}
+		]
 	},
 	{
 		"aya_id": 6079,
@@ -186,6 +329,7 @@
 		"sura_id": 92,
 		"juz_id": 30,
 		"page_number": 596,
-		"translation_aya_text": "Dan niscaya kelak dia akan mendapat kesenangan (yang sempurna)."
+		"translation_aya_text": "Dan niscaya kelak dia akan mendapat kesenangan (yang sempurna).",
+		"tajweed": []
 	}
 ]

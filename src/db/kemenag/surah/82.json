@@ -6,7 +6,19 @@
 		"sura_id": 82,
 		"juz_id": 30,
 		"page_number": 587,
-		"translation_aya_text": "Apabila langit terbelah, "
+		"translation_aya_text": "Apabila langit terbelah, ",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 12,
+				"end": 15
+			},
+			{
+				"class": "ikhfa",
+				"start": 19,
+				"end": 23
+			}
+		]
 	},
 	{
 		"aya_id": 5831,
@@ -15,7 +27,14 @@
 		"sura_id": 82,
 		"juz_id": 30,
 		"page_number": 587,
-		"translation_aya_text": "dan apabila bintang-bintang jatuh berserakan, "
+		"translation_aya_text": "dan apabila bintang-bintang jatuh berserakan, ",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 22,
+				"end": 26
+			}
+		]
 	},
 	{
 		"aya_id": 5832,
@@ -24,7 +43,8 @@
 		"sura_id": 82,
 		"juz_id": 30,
 		"page_number": 587,
-		"translation_aya_text": "dan apabila lautan dijadikan meluap, "
+		"translation_aya_text": "dan apabila lautan dijadikan meluap, ",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5833,
@@ -33,7 +53,8 @@
 		"sura_id": 82,
 		"juz_id": 30,
 		"page_number": 587,
-		"translation_aya_text": "dan apabila kuburan-kuburan dibongkar,"
+		"translation_aya_text": "dan apabila kuburan-kuburan dibongkar,",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5834,
@@ -42,7 +63,14 @@
 		"sura_id": 82,
 		"juz_id": 30,
 		"page_number": 587,
-		"translation_aya_text": "(maka) setiap jiwa akan mengetahui apa yang telah dikerjakan dan yang dilalaikan(nya)."
+		"translation_aya_text": "(maka) setiap jiwa akan mengetahui apa yang telah dikerjakan dan yang dilalaikan(nya).",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 13,
+				"end": 18
+			}
+		]
 	},
 	{
 		"aya_id": 5835,
@@ -51,7 +79,19 @@
 		"sura_id": 82,
 		"juz_id": 30,
 		"page_number": 587,
-		"translation_aya_text": "Wahai manusia! Apakah yang telah memperdayakan kamu (berbuat durhaka) terhadap Tuhanmu Yang Mahamulia, "
+		"translation_aya_text": "Wahai manusia! Apakah yang telah memperdayakan kamu (berbuat durhaka) terhadap Tuhanmu Yang Mahamulia, ",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 0,
+				"end": 3
+			},
+			{
+				"class": "ikhfa",
+				"start": 17,
+				"end": 21
+			}
+		]
 	},
 	{
 		"aya_id": 5836,
@@ -60,7 +100,8 @@
 		"sura_id": 82,
 		"juz_id": 30,
 		"page_number": 587,
-		"translation_aya_text": "yang telah menciptakanmu lalu menyempurnakan kejadianmu dan menjadikan (susunan tubuh)mu seimbang, "
+		"translation_aya_text": "yang telah menciptakanmu lalu menyempurnakan kejadianmu dan menjadikan (susunan tubuh)mu seimbang, ",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5837,
@@ -69,7 +110,24 @@
 		"sura_id": 82,
 		"juz_id": 30,
 		"page_number": 587,
-		"translation_aya_text": "dalam bentuk apa saja yang dikehendaki, Dia menyusun tubuhmu. "
+		"translation_aya_text": "dalam bentuk apa saja yang dikehendaki, Dia menyusun tubuhmu. ",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 2,
+				"end": 6
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 18,
+				"end": 23
+			},
+			{
+				"class": "madd-wajib",
+				"start": 27,
+				"end": 30
+			}
+		]
 	},
 	{
 		"aya_id": 5838,
@@ -78,7 +136,8 @@
 		"sura_id": 82,
 		"juz_id": 30,
 		"page_number": 587,
-		"translation_aya_text": "Sekali-kali jangan begitu! Bahkan kamu mendustakan hari pembalasan."
+		"translation_aya_text": "Sekali-kali jangan begitu! Bahkan kamu mendustakan hari pembalasan.",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5839,
@@ -87,7 +146,14 @@
 		"sura_id": 82,
 		"juz_id": 30,
 		"page_number": 587,
-		"translation_aya_text": "Dan sesungguhnya bagi kamu ada (malaikat-malaikat) yang mengawasi (pekerjaanmu), "
+		"translation_aya_text": "Dan sesungguhnya bagi kamu ada (malaikat-malaikat) yang mengawasi (pekerjaanmu), ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 4,
+				"end": 7
+			}
+		]
 	},
 	{
 		"aya_id": 5840,
@@ -96,7 +162,19 @@
 		"sura_id": 82,
 		"juz_id": 30,
 		"page_number": 587,
-		"translation_aya_text": "yang mulia (di sisi Allah) dan yang mencatat (amal perbuatanmu), "
+		"translation_aya_text": "yang mulia (di sisi Allah) dan yang mencatat (amal perbuatanmu), ",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 5,
+				"end": 7
+			},
+			{
+				"class": "ikhfa",
+				"start": 8,
+				"end": 10
+			}
+		]
 	},
 	{
 		"aya_id": 5841,
@@ -105,7 +183,8 @@
 		"sura_id": 82,
 		"juz_id": 30,
 		"page_number": 587,
-		"translation_aya_text": "mereka mengetahui apa yang kamu kerjakan. "
+		"translation_aya_text": "mereka mengetahui apa yang kamu kerjakan. ",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5842,
@@ -114,7 +193,19 @@
 		"sura_id": 82,
 		"juz_id": 30,
 		"page_number": 587,
-		"translation_aya_text": "Sesungguhnya orang-orang yang berbakti benar-benar berada dalam (surga yang penuh) kenikmatan, "
+		"translation_aya_text": "Sesungguhnya orang-orang yang berbakti benar-benar berada dalam (surga yang penuh) kenikmatan, ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "qalqalah",
+				"start": 11,
+				"end": 12
+			}
+		]
 	},
 	{
 		"aya_id": 5843,
@@ -123,7 +214,14 @@
 		"sura_id": 82,
 		"juz_id": 30,
 		"page_number": 587,
-		"translation_aya_text": "dan sesungguhnya orang-orang yang durhaka benar-benar berada dalam neraka. "
+		"translation_aya_text": "dan sesungguhnya orang-orang yang durhaka benar-benar berada dalam neraka. ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 5,
+				"end": 8
+			}
+		]
 	},
 	{
 		"aya_id": 5844,
@@ -132,7 +230,8 @@
 		"sura_id": 82,
 		"juz_id": 30,
 		"page_number": 587,
-		"translation_aya_text": "Mereka masuk ke dalamnya pada hari pembalasan."
+		"translation_aya_text": "Mereka masuk ke dalamnya pada hari pembalasan.",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5845,
@@ -141,7 +240,14 @@
 		"sura_id": 82,
 		"juz_id": 30,
 		"page_number": 587,
-		"translation_aya_text": "Dan mereka tidak mungkin keluar dari neraka itu. "
+		"translation_aya_text": "Dan mereka tidak mungkin keluar dari neraka itu. ",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 22,
+				"end": 26
+			}
+		]
 	},
 	{
 		"aya_id": 5846,
@@ -150,7 +256,19 @@
 		"sura_id": 82,
 		"juz_id": 30,
 		"page_number": 587,
-		"translation_aya_text": "Dan tahukah kamu apakah hari pembalasan itu? "
+		"translation_aya_text": "Dan tahukah kamu apakah hari pembalasan itu? ",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 3,
+				"end": 7
+			},
+			{
+				"class": "qalqalah",
+				"start": 9,
+				"end": 10
+			}
+		]
 	},
 	{
 		"aya_id": 5847,
@@ -159,7 +277,24 @@
 		"sura_id": 82,
 		"juz_id": 30,
 		"page_number": 587,
-		"translation_aya_text": "Sekali lagi, tahukah kamu apakah hari pembalasan itu? "
+		"translation_aya_text": "Sekali lagi, tahukah kamu apakah hari pembalasan itu? ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 7,
+				"end": 11
+			},
+			{
+				"class": "qalqalah",
+				"start": 13,
+				"end": 14
+			}
+		]
 	},
 	{
 		"aya_id": 5848,
@@ -168,6 +303,33 @@
 		"sura_id": 82,
 		"juz_id": 30,
 		"page_number": 587,
-		"translation_aya_text": "(Yaitu) pada hari (ketika) seseorang sama sekali tidak berdaya (menolong) orang lain. Dan segala urusan pada hari itu dalam kekuasaan Allah. "
+		"translation_aya_text": "(Yaitu) pada hari (ketika) seseorang sama sekali tidak berdaya (menolong) orang lain. Dan segala urusan pada hari itu dalam kekuasaan Allah. ",
+		"tajweed": [
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 24,
+				"end": 29
+			},
+			{
+				"class": "ikhfa",
+				"start": 34,
+				"end": 39
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 41,
+				"end": 44
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 46,
+				"end": 48
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 68,
+				"end": 73
+			}
+		]
 	}
 ]

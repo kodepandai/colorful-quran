@@ -6,7 +6,14 @@
 		"sura_id": 98,
 		"juz_id": 30,
 		"page_number": 598,
-		"translation_aya_text": "Orang-orang yang kafir dari golongan Ahli Kitab dan orang-orang musyrik tidak akan meninggalkan (agama mereka) sampai datang kepada mereka bukti yang nyata,"
+		"translation_aya_text": "Orang-orang yang kafir dari golongan Ahli Kitab dan orang-orang musyrik tidak akan meninggalkan (agama mereka) sampai datang kepada mereka bukti yang nyata,",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 75,
+				"end": 79
+			}
+		]
 	},
 	{
 		"aya_id": 6132,
@@ -15,7 +22,24 @@
 		"sura_id": 98,
 		"juz_id": 30,
 		"page_number": 598,
-		"translation_aya_text": "(yaitu) seorang Rasul dari Allah (Muhammad) yang membacakan lembaran-lembaran yang suci (Al-Qur'an),"
+		"translation_aya_text": "(yaitu) seorang Rasul dari Allah (Muhammad) yang membacakan lembaran-lembaran yang suci (Al-Qur'an),",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 6,
+				"end": 11
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 37,
+				"end": 39
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 40,
+				"end": 42
+			}
+		]
 	},
 	{
 		"aya_id": 6133,
@@ -24,7 +48,14 @@
 		"sura_id": 98,
 		"juz_id": 30,
 		"page_number": 598,
-		"translation_aya_text": "di dalamnya terdapat (isi) kitab-kitab yang lurus (benar)."
+		"translation_aya_text": "di dalamnya terdapat (isi) kitab-kitab yang lurus (benar).",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 12,
+				"end": 17
+			}
+		]
 	},
 	{
 		"aya_id": 6134,
@@ -33,7 +64,24 @@
 		"sura_id": 98,
 		"juz_id": 30,
 		"page_number": 598,
-		"translation_aya_text": "Dan tidaklah terpecah-belah orang-orang Ahli Kitab melainkan setelah datang kepada mereka bukti yang nyata."
+		"translation_aya_text": "Dan tidaklah terpecah-belah orang-orang Ahli Kitab melainkan setelah datang kepada mereka bukti yang nyata.",
+		"tajweed": [
+			{
+				"class": "iqlab",
+				"start": 55,
+				"end": 57
+			},
+			{
+				"class": "iqlab",
+				"start": 58,
+				"end": 60
+			},
+			{
+				"class": "madd-wajib",
+				"start": 71,
+				"end": 74
+			}
+		]
 	},
 	{
 		"aya_id": 6135,
@@ -42,7 +90,24 @@
 		"sura_id": 98,
 		"juz_id": 30,
 		"page_number": 598,
-		"translation_aya_text": "Padahal mereka hanya diperintah menyembah Allah dengan ikhlas menaati-Nya semata-mata karena (menjalankan) agama, dan juga agar melaksanakan salat dan menunaikan zakat; dan yang demikian itulah agama yang lurus (benar)."
+		"translation_aya_text": "Padahal mereka hanya diperintah menyembah Allah dengan ikhlas menaati-Nya semata-mata karena (menjalankan) agama, dan juga agar melaksanakan salat dan menunaikan zakat; dan yang demikian itulah agama yang lurus (benar).",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 3,
+				"end": 7
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 13,
+				"end": 16
+			},
+			{
+				"class": "madd-wajib",
+				"start": 82,
+				"end": 85
+			}
+		]
 	},
 	{
 		"aya_id": 6136,
@@ -51,7 +116,24 @@
 		"sura_id": 98,
 		"juz_id": 30,
 		"page_number": 598,
-		"translation_aya_text": "Sungguh, orang-orang yang kafir dari golongan Ahli Kitab dan orang-orang musyrik (akan masuk) ke neraka Jahanam; mereka kekal di dalamnya selama-lamanya. Mereka itu adalah sejahat-jahat makhluk."
+		"translation_aya_text": "Sungguh, orang-orang yang kafir dari golongan Ahli Kitab dan orang-orang musyrik (akan masuk) ke neraka Jahanam; mereka kekal di dalamnya selama-lamanya. Mereka itu adalah sejahat-jahat makhluk.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "ghunnah",
+				"start": 82,
+				"end": 85
+			},
+			{
+				"class": "madd-wajib",
+				"start": 111,
+				"end": 115
+			}
+		]
 	},
 	{
 		"aya_id": 6137,
@@ -60,7 +142,19 @@
 		"sura_id": 98,
 		"juz_id": 30,
 		"page_number": 598,
-		"translation_aya_text": "Sungguh, orang-orang yang beriman dan mengerjakan kebajikan, mereka itu adalah sebaik-baik makhluk."
+		"translation_aya_text": "Sungguh, orang-orang yang beriman dan mengerjakan kebajikan, mereka itu adalah sebaik-baik makhluk.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "madd-wajib",
+				"start": 53,
+				"end": 57
+			}
+		]
 	},
 	{
 		"aya_id": 6138,
@@ -69,6 +163,53 @@
 		"sura_id": 98,
 		"juz_id": 30,
 		"page_number": 599,
-		"translation_aya_text": "Balasan mereka di sisi Tuhan mereka ialah surga ’Adn yang mengalir di bawahnya sungai-sungai; mereka kekal di dalamnya selama-lamanya. Allah rida terhadap mereka dan mereka pun rida kepada-Nya. Yang demikian itu adalah (balasan) bagi orang yang takut kepada Tuhannya. "
+		"translation_aya_text": "Balasan mereka di sisi Tuhan mereka ialah surga ’Adn yang mengalir di bawahnya sungai-sungai; mereka kekal di dalamnya selama-lamanya. Allah rida terhadap mereka dan mereka pun rida kepada-Nya. Yang demikian itu adalah (balasan) bagi orang yang takut kepada Tuhannya. ",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 15,
+				"end": 19
+			},
+			{
+				"class": "ghunnah",
+				"start": 32,
+				"end": 35
+			},
+			{
+				"class": "qalqalah",
+				"start": 40,
+				"end": 41
+			},
+			{
+				"class": "ikhfa",
+				"start": 42,
+				"end": 47
+			},
+			{
+				"class": "qalqalah",
+				"start": 47,
+				"end": 48
+			},
+			{
+				"class": "ikhfa",
+				"start": 56,
+				"end": 61
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 97,
+				"end": 101
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 105,
+				"end": 107
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 109,
+				"end": 111
+			}
+		]
 	}
 ]

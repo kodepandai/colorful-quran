@@ -6,7 +6,8 @@
 		"sura_id": 106,
 		"juz_id": 30,
 		"page_number": 602,
-		"translation_aya_text": "Karena kebiasaan orang-orang Quraisy,"
+		"translation_aya_text": "Karena kebiasaan orang-orang Quraisy,",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6195,
@@ -15,7 +16,14 @@
 		"sura_id": 106,
 		"juz_id": 30,
 		"page_number": 602,
-		"translation_aya_text": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas."
+		"translation_aya_text": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas.",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 26,
+				"end": 29
+			}
+		]
 	},
 	{
 		"aya_id": 6196,
@@ -24,7 +32,8 @@
 		"sura_id": 106,
 		"juz_id": 30,
 		"page_number": 602,
-		"translation_aya_text": "Maka hendaklah mereka menyembah Tuhan (pemilik) rumah ini (Ka‘bah),"
+		"translation_aya_text": "Maka hendaklah mereka menyembah Tuhan (pemilik) rumah ini (Ka‘bah),",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6197,
@@ -33,6 +42,43 @@
 		"sura_id": 106,
 		"juz_id": 30,
 		"page_number": 602,
-		"translation_aya_text": "yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari rasa ketakutan."
+		"translation_aya_text": "yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari rasa ketakutan.",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 6,
+				"end": 10
+			},
+			{
+				"class": "qalqalah",
+				"start": 12,
+				"end": 13
+			},
+			{
+				"class": "idgham-mimi",
+				"start": 20,
+				"end": 25
+			},
+			{
+				"class": "ikhfa",
+				"start": 26,
+				"end": 31
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 33,
+				"end": 35
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 38,
+				"end": 40
+			},
+			{
+				"class": "idgham-mimi",
+				"start": 50,
+				"end": 55
+			}
+		]
 	}
 ]

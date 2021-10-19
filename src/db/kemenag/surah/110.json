@@ -6,7 +6,14 @@
 		"sura_id": 110,
 		"juz_id": 30,
 		"page_number": 603,
-		"translation_aya_text": "Apabila telah datang pertolongan Allah dan kemenangan,"
+		"translation_aya_text": "Apabila telah datang pertolongan Allah dan kemenangan,",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 7,
+				"end": 10
+			}
+		]
 	},
 	{
 		"aya_id": 6215,
@@ -15,7 +22,19 @@
 		"sura_id": 110,
 		"juz_id": 30,
 		"page_number": 603,
-		"translation_aya_text": "dan engkau melihat manusia berbondong-bondong masuk agama Allah,"
+		"translation_aya_text": "dan engkau melihat manusia berbondong-bondong masuk agama Allah,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 13,
+				"end": 16
+			},
+			{
+				"class": "qalqalah",
+				"start": 22,
+				"end": 23
+			}
+		]
 	},
 	{
 		"aya_id": 6216,
@@ -24,6 +43,13 @@
 		"sura_id": 110,
 		"juz_id": 30,
 		"page_number": 603,
-		"translation_aya_text": "maka bertasbihlah dalam dengan Tuhanmu dan mohonlah ampunan kepada-Nya. Sungguh, Dia Maha Penerima tobat."
+		"translation_aya_text": "maka bertasbihlah dalam dengan Tuhanmu dan mohonlah ampunan kepada-Nya. Sungguh, Dia Maha Penerima tobat.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 46,
+				"end": 49
+			}
+		]
 	}
 ]

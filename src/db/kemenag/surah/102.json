@@ -6,7 +6,8 @@
 		"sura_id": 102,
 		"juz_id": 30,
 		"page_number": 600,
-		"translation_aya_text": "Bermegah-megahan telah melalaikan kamu,"
+		"translation_aya_text": "Bermegah-megahan telah melalaikan kamu,",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6170,
@@ -15,7 +16,8 @@
 		"sura_id": 102,
 		"juz_id": 30,
 		"page_number": 600,
-		"translation_aya_text": "sampai kamu masuk ke dalam kubur."
+		"translation_aya_text": "sampai kamu masuk ke dalam kubur.",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6171,
@@ -24,7 +26,8 @@
 		"sura_id": 102,
 		"juz_id": 30,
 		"page_number": 600,
-		"translation_aya_text": "Sekali-kali tidak! Kelak kamu akan mengetahui (akibat perbuatanmu itu),"
+		"translation_aya_text": "Sekali-kali tidak! Kelak kamu akan mengetahui (akibat perbuatanmu itu),",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6172,
@@ -33,7 +36,14 @@
 		"sura_id": 102,
 		"juz_id": 30,
 		"page_number": 600,
-		"translation_aya_text": "kemudian sekali-kali tidak! Kelak kamu akan mengetahui."
+		"translation_aya_text": "kemudian sekali-kali tidak! Kelak kamu akan mengetahui.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			}
+		]
 	},
 	{
 		"aya_id": 6173,
@@ -42,7 +52,8 @@
 		"sura_id": 102,
 		"juz_id": 30,
 		"page_number": 600,
-		"translation_aya_text": "Sekali-kali tidak! Sekiranya kamu mengetahui dengan pasti,"
+		"translation_aya_text": "Sekali-kali tidak! Sekiranya kamu mengetahui dengan pasti,",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6174,
@@ -51,7 +62,14 @@
 		"sura_id": 102,
 		"juz_id": 30,
 		"page_number": 600,
-		"translation_aya_text": "niscaya kamu benar-benar akan melihat neraka Jahim,"
+		"translation_aya_text": "niscaya kamu benar-benar akan melihat neraka Jahim,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 8,
+				"end": 11
+			}
+		]
 	},
 	{
 		"aya_id": 6175,
@@ -60,7 +78,19 @@
 		"sura_id": 102,
 		"juz_id": 30,
 		"page_number": 600,
-		"translation_aya_text": "kemudian kamu benar-benar akan melihatnya dengan mata kepala sendiri,"
+		"translation_aya_text": "kemudian kamu benar-benar akan melihatnya dengan mata kepala sendiri,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "ghunnah",
+				"start": 14,
+				"end": 17
+			}
+		]
 	},
 	{
 		"aya_id": 6176,
@@ -69,6 +99,23 @@
 		"sura_id": 102,
 		"juz_id": 30,
 		"page_number": 600,
-		"translation_aya_text": "kemudian kamu benar-benar akan ditanya pada hari itu tentang kenikmatan (yang megah di dunia itu)."
+		"translation_aya_text": "kemudian kamu benar-benar akan ditanya pada hari itu tentang kenikmatan (yang megah di dunia itu).",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "ghunnah",
+				"start": 17,
+				"end": 20
+			},
+			{
+				"class": "ghunnah",
+				"start": 40,
+				"end": 43
+			}
+		]
 	}
 ]

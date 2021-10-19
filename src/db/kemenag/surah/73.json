@@ -6,7 +6,19 @@
 		"sura_id": 73,
 		"juz_id": 29,
 		"page_number": 574,
-		"translation_aya_text": "Wahai orang yang berselimut (Muhammad)!"
+		"translation_aya_text": "Wahai orang yang berselimut (Muhammad)!",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 0,
+				"end": 3
+			},
+			{
+				"class": "ghunnah",
+				"start": 20,
+				"end": 23
+			}
+		]
 	},
 	{
 		"aya_id": 5477,
@@ -15,7 +27,8 @@
 		"sura_id": 73,
 		"juz_id": 29,
 		"page_number": 574,
-		"translation_aya_text": "Bangunlah (untuk salat) pada malam hari, kecuali sebagian kecil,"
+		"translation_aya_text": "Bangunlah (untuk salat) pada malam hari, kecuali sebagian kecil,",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5478,
@@ -24,7 +37,24 @@
 		"sura_id": 73,
 		"juz_id": 29,
 		"page_number": 574,
-		"translation_aya_text": "(yaitu) separuhnya atau kurang sedikit dari itu,"
+		"translation_aya_text": "(yaitu) separuhnya atau kurang sedikit dari itu,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 0,
+				"end": 4
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 7,
+				"end": 11
+			},
+			{
+				"class": "ikhfa",
+				"start": 17,
+				"end": 21
+			}
+		]
 	},
 	{
 		"aya_id": 5479,
@@ -33,7 +63,14 @@
 		"sura_id": 73,
 		"juz_id": 29,
 		"page_number": 574,
-		"translation_aya_text": "atau lebih dari (seperdua) itu, dan bacalah Al-Qur'an itu dengan perlahan-lahan."
+		"translation_aya_text": "atau lebih dari (seperdua) itu, dan bacalah Al-Qur'an itu dengan perlahan-lahan.",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 7,
+				"end": 8
+			}
+		]
 	},
 	{
 		"aya_id": 5480,
@@ -42,7 +79,24 @@
 		"sura_id": 73,
 		"juz_id": 29,
 		"page_number": 574,
-		"translation_aya_text": "Sesungguhnya Kami akan menurunkan perkataan yang berat kepadamu."
+		"translation_aya_text": "Sesungguhnya Kami akan menurunkan perkataan yang berat kepadamu.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "ikhfa",
+				"start": 31,
+				"end": 33
+			},
+			{
+				"class": "ikhfa",
+				"start": 34,
+				"end": 36
+			}
+		]
 	},
 	{
 		"aya_id": 5481,
@@ -51,7 +105,34 @@
 		"sura_id": 73,
 		"juz_id": 29,
 		"page_number": 574,
-		"translation_aya_text": "Sungguh, bangun malam itu lebih kuat (mengisi jiwa); dan (bacaan pada waktu itu) lebih berkesan. "
+		"translation_aya_text": "Sungguh, bangun malam itu lebih kuat (mengisi jiwa); dan (bacaan pada waktu itu) lebih berkesan. ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "qalqalah",
+				"start": 40,
+				"end": 41
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 42,
+				"end": 45
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 46,
+				"end": 48
+			},
+			{
+				"class": "qalqalah",
+				"start": 52,
+				"end": 53
+			}
+		]
 	},
 	{
 		"aya_id": 5482,
@@ -60,7 +141,34 @@
 		"sura_id": 73,
 		"juz_id": 29,
 		"page_number": 574,
-		"translation_aya_text": "Sesungguhnya pada siang hari engkau sangat sibuk dengan urusan-urusan yang panjang."
+		"translation_aya_text": "Sesungguhnya pada siang hari engkau sangat sibuk dengan urusan-urusan yang panjang.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "ghunnah",
+				"start": 17,
+				"end": 20
+			},
+			{
+				"class": "qalqalah",
+				"start": 28,
+				"end": 29
+			},
+			{
+				"class": "ikhfa",
+				"start": 30,
+				"end": 32
+			},
+			{
+				"class": "ikhfa",
+				"start": 33,
+				"end": 35
+			}
+		]
 	},
 	{
 		"aya_id": 5483,
@@ -69,7 +177,14 @@
 		"sura_id": 73,
 		"juz_id": 29,
 		"page_number": 574,
-		"translation_aya_text": "Dan sebutlah nama Tuhanmu, dan beribadahlah kepada-Nya dengan sepenuh hati."
+		"translation_aya_text": "Dan sebutlah nama Tuhanmu, dan beribadahlah kepada-Nya dengan sepenuh hati.",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 47,
+				"end": 48
+			}
+		]
 	},
 	{
 		"aya_id": 5484,
@@ -78,7 +193,14 @@
 		"sura_id": 73,
 		"juz_id": 29,
 		"page_number": 574,
-		"translation_aya_text": "(Dialah) Tuhan timur dan barat, tidak ada tuhan selain Dia, maka jadikanlah Dia sebagai pelindung."
+		"translation_aya_text": "(Dialah) Tuhan timur dan barat, tidak ada tuhan selain Dia, maka jadikanlah Dia sebagai pelindung.",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 33,
+				"end": 37
+			}
+		]
 	},
 	{
 		"aya_id": 5485,
@@ -87,7 +209,24 @@
 		"sura_id": 73,
 		"juz_id": 29,
 		"page_number": 574,
-		"translation_aya_text": "Dan bersabarlah (Muhammad) terhadap apa yang mereka katakan dan tinggalkanlah mereka dengan cara yang baik."
+		"translation_aya_text": "Dan bersabarlah (Muhammad) terhadap apa yang mereka katakan dan tinggalkanlah mereka dengan cara yang baik.",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 49,
+				"end": 50
+			},
+			{
+				"class": "ikhfa",
+				"start": 51,
+				"end": 53
+			},
+			{
+				"class": "ikhfa",
+				"start": 54,
+				"end": 56
+			}
+		]
 	},
 	{
 		"aya_id": 5486,
@@ -96,7 +235,14 @@
 		"sura_id": 73,
 		"juz_id": 29,
 		"page_number": 574,
-		"translation_aya_text": "Dan biarkanlah Aku (yang bertindak) terhadap orang-orang yang mendustakan, yang memiliki segala kenikmatan hidup, dan berilah mereka penangguhan sebentar."
+		"translation_aya_text": "Dan biarkanlah Aku (yang bertindak) terhadap orang-orang yang mendustakan, yang memiliki segala kenikmatan hidup, dan berilah mereka penangguhan sebentar.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 39,
+				"end": 42
+			}
+		]
 	},
 	{
 		"aya_id": 5487,
@@ -105,7 +251,34 @@
 		"sura_id": 73,
 		"juz_id": 29,
 		"page_number": 574,
-		"translation_aya_text": "Sungguh, di sisi Kami ada belenggu-belenggu (yang berat) dan neraka yang menyala-nyala,"
+		"translation_aya_text": "Sungguh, di sisi Kami ada belenggu-belenggu (yang berat) dan neraka yang menyala-nyala,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 13,
+				"end": 17
+			},
+			{
+				"class": "ikhfa",
+				"start": 19,
+				"end": 23
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 24,
+				"end": 26
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 27,
+				"end": 29
+			}
+		]
 	},
 	{
 		"aya_id": 5488,
@@ -114,7 +287,24 @@
 		"sura_id": 73,
 		"juz_id": 29,
 		"page_number": 574,
-		"translation_aya_text": "dan (ada) makanan yang menyumbat di kerongkongan dan azab yang pedih."
+		"translation_aya_text": "dan (ada) makanan yang menyumbat di kerongkongan dan azab yang pedih.",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 8,
+				"end": 10
+			},
+			{
+				"class": "ikhfa",
+				"start": 11,
+				"end": 13
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 21,
+				"end": 26
+			}
+		]
 	},
 	{
 		"aya_id": 5489,
@@ -123,7 +313,19 @@
 		"sura_id": 73,
 		"juz_id": 29,
 		"page_number": 574,
-		"translation_aya_text": "(Ingatlah) pada hari (ketika) bumi dan gunung-gunung berguncang keras, dan menjadilah gunung-gunung itu seperti onggokan pasir yang dicurahkan."
+		"translation_aya_text": "(Ingatlah) pada hari (ketika) bumi dan gunung-gunung berguncang keras, dan menjadilah gunung-gunung itu seperti onggokan pasir yang dicurahkan.",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 66,
+				"end": 68
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 69,
+				"end": 71
+			}
+		]
 	},
 	{
 		"aya_id": 5490,
@@ -132,7 +334,44 @@
 		"sura_id": 73,
 		"juz_id": 29,
 		"page_number": 574,
-		"translation_aya_text": "Sesungguhnya Kami telah mengutus seorang Rasul (Muhammad) kepada kamu, yang menjadi saksi terhadapmu, sebagaimana Kami telah mengutus seorang Rasul kepada Fir‘aun."
+		"translation_aya_text": "Sesungguhnya Kami telah mengutus seorang Rasul (Muhammad) kepada kamu, yang menjadi saksi terhadapmu, sebagaimana Kami telah mengutus seorang Rasul kepada Fir‘aun.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 4,
+				"end": 8
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 17,
+				"end": 21
+			},
+			{
+				"class": "ikhfa",
+				"start": 38,
+				"end": 40
+			},
+			{
+				"class": "ikhfa",
+				"start": 44,
+				"end": 46
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 68,
+				"end": 72
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 81,
+				"end": 85
+			}
+		]
 	},
 	{
 		"aya_id": 5491,
@@ -141,7 +380,19 @@
 		"sura_id": 73,
 		"juz_id": 29,
 		"page_number": 574,
-		"translation_aya_text": "Namun Fir‘aun mendurhakai Rasul itu, maka Kami siksa dia dengan siksaan yang berat."
+		"translation_aya_text": "Namun Fir‘aun mendurhakai Rasul itu, maka Kami siksa dia dengan siksaan yang berat.",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 48,
+				"end": 50
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 51,
+				"end": 53
+			}
+		]
 	},
 	{
 		"aya_id": 5492,
@@ -150,7 +401,29 @@
 		"sura_id": 73,
 		"juz_id": 29,
 		"page_number": 574,
-		"translation_aya_text": "Lalu bagaimanakah kamu akan dapat menjaga dirimu jika kamu tetap kafir kepada hari yang menjadikan anak-anak beruban."
+		"translation_aya_text": "Lalu bagaimanakah kamu akan dapat menjaga dirimu jika kamu tetap kafir kepada hari yang menjadikan anak-anak beruban.",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 23,
+				"end": 28
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 41,
+				"end": 43
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 44,
+				"end": 46
+			},
+			{
+				"class": "qalqalah",
+				"start": 48,
+				"end": 49
+			}
+		]
 	},
 	{
 		"aya_id": 5493,
@@ -159,7 +432,29 @@
 		"sura_id": 73,
 		"juz_id": 29,
 		"page_number": 574,
-		"translation_aya_text": "Langit terbelah pada hari itu. Janji Allah pasti terlaksana."
+		"translation_aya_text": "Langit terbelah pada hari itu. Janji Allah pasti terlaksana.",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 8,
+				"end": 11
+			},
+			{
+				"class": "ikhfa",
+				"start": 16,
+				"end": 20
+			},
+			{
+				"class": "iqlab",
+				"start": 22,
+				"end": 24
+			},
+			{
+				"class": "iqlab",
+				"start": 25,
+				"end": 27
+			}
+		]
 	},
 	{
 		"aya_id": 5494,
@@ -168,7 +463,34 @@
 		"sura_id": 73,
 		"juz_id": 29,
 		"page_number": 574,
-		"translation_aya_text": "Sungguh, ini adalah peringatan. Barangsiapa menghendaki, niscaya dia mengambil jalan (yang lurus) kepada Tuhannya."
+		"translation_aya_text": "Sungguh, ini adalah peringatan. Barangsiapa menghendaki, niscaya dia mengambil jalan (yang lurus) kepada Tuhannya.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "ikhfa",
+				"start": 21,
+				"end": 23
+			},
+			{
+				"class": "ikhfa",
+				"start": 25,
+				"end": 27
+			},
+			{
+				"class": "ikhfa",
+				"start": 30,
+				"end": 35
+			},
+			{
+				"class": "madd-wajib",
+				"start": 34,
+				"end": 37
+			}
+		]
 	},
 	{
 		"aya_id": 5495,
@@ -177,6 +499,158 @@
 		"sura_id": 73,
 		"juz_id": 29,
 		"page_number": 575,
-		"translation_aya_text": "Sesungguhnya Tuhanmu mengetahui bahwa engkau (Muhammad) berdiri (salat) kurang dari dua pertiga malam, atau seperdua malam atau sepertiganya dan (demikian pula) segolongan dari orang-orang yang bersamamu. Allah menetapkan ukuran malam dan siang. Allah mengetahui bahwa kamu tidak dapat menentukan batas-batas waktu itu, maka Dia memberi keringanan kepadamu, karena itu bacalah apa yang mudah (bagimu) dari Al-Qur'an; Dia mengetahui bahwa akan ada di antara kamu orang-orang yang sakit, dan yang lain berjalan di bumi mencari sebagian karunia Allah; dan yang lain berperang di jalan Allah, maka bacalah apa yang mudah (bagimu) dari Al-Qur'an dan laksanakanlah salat, tunaikanlah zakat dan berikanlah pinjaman kepada Allah pinjaman yang baik. Kebaikan apa saja yang kamu perbuat untuk dirimu niscaya kamu memperoleh (balasan)nya di sisi Allah sebagai balasan yang paling baik dan yang paling besar pahalanya. Dan mohonlah ampunan kepada Allah; sungguh, Allah Maha Pengampun, Maha Penyayang."
+		"translation_aya_text": "Sesungguhnya Tuhanmu mengetahui bahwa engkau (Muhammad) berdiri (salat) kurang dari dua pertiga malam, atau seperdua malam atau sepertiganya dan (demikian pula) segolongan dari orang-orang yang bersamamu. Allah menetapkan ukuran malam dan siang. Allah mengetahui bahwa kamu tidak dapat menentukan batas-batas waktu itu, maka Dia memberi keringanan kepadamu, karena itu bacalah apa yang mudah (bagimu) dari Al-Qur'an; Dia mengetahui bahwa akan ada di antara kamu orang-orang yang sakit, dan yang lain berjalan di bumi mencari sebagian karunia Allah; dan yang lain berperang di jalan Allah, maka bacalah apa yang mudah (bagimu) dari Al-Qur'an dan laksanakanlah salat, tunaikanlah zakat dan berikanlah pinjaman kepada Allah pinjaman yang baik. Kebaikan apa saja yang kamu perbuat untuk dirimu niscaya kamu memperoleh (balasan)nya di sisi Allah sebagai balasan yang paling baik dan yang paling besar pahalanya. Dan mohonlah ampunan kepada Allah; sungguh, Allah Maha Pengampun, Maha Penyayang.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 4,
+				"end": 7
+			},
+			{
+				"class": "ghunnah",
+				"start": 27,
+				"end": 30
+			},
+			{
+				"class": "qalqalah",
+				"start": 44,
+				"end": 45
+			},
+			{
+				"class": "ikhfa",
+				"start": 52,
+				"end": 57
+			},
+			{
+				"class": "madd-wajib",
+				"start": 98,
+				"end": 102
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 106,
+				"end": 111
+			},
+			{
+				"class": "ghunnah",
+				"start": 167,
+				"end": 170
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 186,
+				"end": 191
+			},
+			{
+				"class": "ikhfa",
+				"start": 192,
+				"end": 197
+			},
+			{
+				"class": "qalqalah",
+				"start": 228,
+				"end": 229
+			},
+			{
+				"class": "ikhfa",
+				"start": 279,
+				"end": 284
+			},
+			{
+				"class": "ikhfa",
+				"start": 295,
+				"end": 299
+			},
+			{
+				"class": "idgham-mimi",
+				"start": 299,
+				"end": 304
+			},
+			{
+				"class": "qalqalah",
+				"start": 354,
+				"end": 355
+			},
+			{
+				"class": "ikhfa",
+				"start": 367,
+				"end": 372
+			},
+			{
+				"class": "qalqalah",
+				"start": 439,
+				"end": 440
+			},
+			{
+				"class": "qalqalah",
+				"start": 519,
+				"end": 520
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 548,
+				"end": 550
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 552,
+				"end": 554
+			},
+			{
+				"class": "ikhfa",
+				"start": 576,
+				"end": 580
+			},
+			{
+				"class": "idgham-mimi",
+				"start": 584,
+				"end": 589
+			},
+			{
+				"class": "ikhfa",
+				"start": 597,
+				"end": 602
+			},
+			{
+				"class": "ikhfa",
+				"start": 613,
+				"end": 617
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 636,
+				"end": 638
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 639,
+				"end": 641
+			},
+			{
+				"class": "qalqalah",
+				"start": 654,
+				"end": 655
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 656,
+				"end": 658
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 660,
+				"end": 662
+			},
+			{
+				"class": "ghunnah",
+				"start": 688,
+				"end": 691
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 706,
+				"end": 711
+			}
+		]
 	}
 ]

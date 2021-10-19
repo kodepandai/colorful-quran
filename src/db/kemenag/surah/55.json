@@ -6,7 +6,8 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 531,
-		"translation_aya_text": "(Allah) Yang Maha Pengasih,"
+		"translation_aya_text": "(Allah) Yang Maha Pengasih,",
+		"tajweed": []
 	},
 	{
 		"aya_id": 4903,
@@ -15,7 +16,8 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 531,
-		"translation_aya_text": "Yang telah mengajarkan Al-Qur'an."
+		"translation_aya_text": "Yang telah mengajarkan Al-Qur'an.",
+		"tajweed": []
 	},
 	{
 		"aya_id": 4904,
@@ -24,7 +26,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 531,
-		"translation_aya_text": "Dia menciptakan manusia, "
+		"translation_aya_text": "Dia menciptakan manusia, ",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 12,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 4905,
@@ -33,7 +42,8 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 531,
-		"translation_aya_text": "mengajarnya pandai berbicara."
+		"translation_aya_text": "mengajarnya pandai berbicara.",
+		"tajweed": []
 	},
 	{
 		"aya_id": 4906,
@@ -42,7 +52,8 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 531,
-		"translation_aya_text": "Matahari dan bulan beredar menurut perhitungan,"
+		"translation_aya_text": "Matahari dan bulan beredar menurut perhitungan,",
+		"tajweed": []
 	},
 	{
 		"aya_id": 4907,
@@ -51,7 +62,19 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 531,
-		"translation_aya_text": "dan tetumbuhan dan pepohonan, keduanya tunduk (kepada-Nya). "
+		"translation_aya_text": "dan tetumbuhan dan pepohonan, keduanya tunduk (kepada-Nya). ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 5,
+				"end": 8
+			},
+			{
+				"class": "qalqalah",
+				"start": 8,
+				"end": 9
+			}
+		]
 	},
 	{
 		"aya_id": 4908,
@@ -60,7 +83,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 531,
-		"translation_aya_text": "Dan langit telah ditinggikan-Nya dan Dia ciptakan keseimbangan,"
+		"translation_aya_text": "Dan langit telah ditinggikan-Nya dan Dia ciptakan keseimbangan,",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 8,
+				"end": 11
+			}
+		]
 	},
 	{
 		"aya_id": 4909,
@@ -69,7 +99,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 531,
-		"translation_aya_text": "agar kamu jangan merusak keseimbangan itu, "
+		"translation_aya_text": "agar kamu jangan merusak keseimbangan itu, ",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 9,
+				"end": 10
+			}
+		]
 	},
 	{
 		"aya_id": 4910,
@@ -78,7 +115,8 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 531,
-		"translation_aya_text": "dan tegakkanlah keseimbangan itu dengan adil dan janganlah kamu mengurangi keseimbangan itu. "
+		"translation_aya_text": "dan tegakkanlah keseimbangan itu dengan adil dan janganlah kamu mengurangi keseimbangan itu. ",
+		"tajweed": []
 	},
 	{
 		"aya_id": 4911,
@@ -87,7 +125,8 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 531,
-		"translation_aya_text": "Dan bumi telah dibentangkan-Nya untuk makhluk(-Nya), "
+		"translation_aya_text": "Dan bumi telah dibentangkan-Nya untuk makhluk(-Nya), ",
+		"tajweed": []
 	},
 	{
 		"aya_id": 4912,
@@ -96,7 +135,19 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 531,
-		"translation_aya_text": "di dalamnya ada buah-buahan dan pohon kurma yang mempunyai kelopak mayang, "
+		"translation_aya_text": "di dalamnya ada buah-buahan dan pohon kurma yang mempunyai kelopak mayang, ",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 15,
+				"end": 20
+			},
+			{
+				"class": "ghunnah",
+				"start": 23,
+				"end": 26
+			}
+		]
 	},
 	{
 		"aya_id": 4913,
@@ -105,7 +156,8 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 531,
-		"translation_aya_text": "dan biji-bijian yang berkulit dan bunga-bunga yang harum baunya. "
+		"translation_aya_text": "dan biji-bijian yang berkulit dan bunga-bunga yang harum baunya. ",
+		"tajweed": []
 	},
 	{
 		"aya_id": 4914,
@@ -114,7 +166,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 531,
-		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan? "
+		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan? ",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 13,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 4915,
@@ -123,7 +182,24 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 531,
-		"translation_aya_text": "Dia menciptakan manusia dari tanah kering seperti tembikar,"
+		"translation_aya_text": "Dia menciptakan manusia dari tanah kering seperti tembikar,",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 12,
+				"end": 16
+			},
+			{
+				"class": "ikhfa",
+				"start": 22,
+				"end": 27
+			},
+			{
+				"class": "ikhfa",
+				"start": 32,
+				"end": 37
+			}
+		]
 	},
 	{
 		"aya_id": 4916,
@@ -132,7 +208,29 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 531,
-		"translation_aya_text": "dan Dia menciptakan jin dari nyala api tanpa asap."
+		"translation_aya_text": "dan Dia menciptakan jin dari nyala api tanpa asap.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 16,
+				"end": 19
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 22,
+				"end": 27
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 31,
+				"end": 36
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 37,
+				"end": 42
+			}
+		]
 	},
 	{
 		"aya_id": 4917,
@@ -141,7 +239,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 531,
-		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 13,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 4918,
@@ -150,7 +255,8 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 532,
-		"translation_aya_text": "Tuhan (yang memelihara) dua timur dan Tuhan (yang memelihara) dua barat."
+		"translation_aya_text": "Tuhan (yang memelihara) dua timur dan Tuhan (yang memelihara) dua barat.",
+		"tajweed": []
 	},
 	{
 		"aya_id": 4919,
@@ -159,7 +265,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 532,
-		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 13,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 4920,
@@ -168,7 +281,8 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 532,
-		"translation_aya_text": "Dia membiarkan dua laut mengalir yang (kemudian) keduanya bertemu, "
+		"translation_aya_text": "Dia membiarkan dua laut mengalir yang (kemudian) keduanya bertemu, ",
+		"tajweed": []
 	},
 	{
 		"aya_id": 4921,
@@ -177,7 +291,19 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 532,
-		"translation_aya_text": "di antara keduanya ada batas yang tidak dilampaui oleh masing-masing."
+		"translation_aya_text": "di antara keduanya ada batas yang tidak dilampaui oleh masing-masing.",
+		"tajweed": [
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 18,
+				"end": 23
+			},
+			{
+				"class": "qalqalah",
+				"start": 28,
+				"end": 29
+			}
+		]
 	},
 	{
 		"aya_id": 4922,
@@ -186,7 +312,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 532,
-		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 13,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 4923,
@@ -195,7 +328,8 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 532,
-		"translation_aya_text": "Dari keduanya keluar mutiara dan marjan."
+		"translation_aya_text": "Dari keduanya keluar mutiara dan marjan.",
+		"tajweed": []
 	},
 	{
 		"aya_id": 4924,
@@ -204,7 +338,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 532,
-		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan? "
+		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan? ",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 13,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 4925,
@@ -213,7 +354,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 532,
-		"translation_aya_text": "Milik-Nyalah kapal-kapal yang berlayar di lautan bagaikan gunung-gunung."
+		"translation_aya_text": "Milik-Nyalah kapal-kapal yang berlayar di lautan bagaikan gunung-gunung.",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 23,
+				"end": 27
+			}
+		]
 	},
 	{
 		"aya_id": 4926,
@@ -222,7 +370,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 532,
-		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan? "
+		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan? ",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 13,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 4927,
@@ -231,7 +386,8 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 532,
-		"translation_aya_text": "Semua yang ada di bumi itu akan binasa, "
+		"translation_aya_text": "Semua yang ada di bumi itu akan binasa, ",
+		"tajweed": []
 	},
 	{
 		"aya_id": 4928,
@@ -240,7 +396,19 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 532,
-		"translation_aya_text": "tetapi wajah Tuhanmu yang memiliki kebesaran dan kemuliaan tetap kekal. "
+		"translation_aya_text": "tetapi wajah Tuhanmu yang memiliki kebesaran dan kemuliaan tetap kekal. ",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 5,
+				"end": 6
+			},
+			{
+				"class": "qalqalah",
+				"start": 13,
+				"end": 14
+			}
+		]
 	},
 	{
 		"aya_id": 4929,
@@ -249,7 +417,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 532,
-		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 13,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 4930,
@@ -258,7 +433,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 532,
-		"translation_aya_text": "Apa yang di langit dan di bumi selalu meminta kepada-Nya. Setiap waktu Dia dalam kesibukan. "
+		"translation_aya_text": "Apa yang di langit dan di bumi selalu meminta kepada-Nya. Setiap waktu Dia dalam kesibukan. ",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 14,
+				"end": 19
+			}
+		]
 	},
 	{
 		"aya_id": 4931,
@@ -267,7 +449,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 532,
-		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 13,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 4932,
@@ -276,7 +465,8 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 532,
-		"translation_aya_text": "Kami akan memberi perhatian sepenuhnya kepadamu wahai (golongan) manusia dan jin! "
+		"translation_aya_text": "Kami akan memberi perhatian sepenuhnya kepadamu wahai (golongan) manusia dan jin! ",
+		"tajweed": []
 	},
 	{
 		"aya_id": 4933,
@@ -285,7 +475,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 532,
-		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 13,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 4934,
@@ -294,7 +491,44 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 532,
-		"translation_aya_text": "Wahai golongan jin dan manusia! Jika kamu sanggup menembus (melintasi) penjuru langit dan bumi, maka tembuslah. Kamu tidak akan mampu menembusnya kecuali dengan kekuatan (dari Allah). "
+		"translation_aya_text": "Wahai golongan jin dan manusia! Jika kamu sanggup menembus (melintasi) penjuru langit dan bumi, maka tembuslah. Kamu tidak akan mampu menembusnya kecuali dengan kekuatan (dari Allah). ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 16,
+				"end": 19
+			},
+			{
+				"class": "ikhfa",
+				"start": 27,
+				"end": 31
+			},
+			{
+				"class": "ikhfa",
+				"start": 53,
+				"end": 58
+			},
+			{
+				"class": "ikhfa",
+				"start": 58,
+				"end": 62
+			},
+			{
+				"class": "qalqalah",
+				"start": 75,
+				"end": 76
+			},
+			{
+				"class": "ikhfa",
+				"start": 110,
+				"end": 114
+			},
+			{
+				"class": "ikhfa",
+				"start": 128,
+				"end": 132
+			}
+		]
 	},
 	{
 		"aya_id": 4935,
@@ -303,7 +537,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 532,
-		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 13,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 4936,
@@ -312,7 +553,39 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 532,
-		"translation_aya_text": "Kepada kamu (jin dan manusia), akan dikirim nyala api dan cairan tembaga (panas) sehingga kamu tidak dapat menyelamatkan diri (darinya)."
+		"translation_aya_text": "Kepada kamu (jin dan manusia), akan dikirim nyala api dan cairan tembaga (panas) sehingga kamu tidak dapat menyelamatkan diri (darinya).",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 26,
+				"end": 31
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 32,
+				"end": 37
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 39,
+				"end": 41
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 42,
+				"end": 44
+			},
+			{
+				"class": "ikhfa",
+				"start": 51,
+				"end": 56
+			},
+			{
+				"class": "ikhfa",
+				"start": 62,
+				"end": 66
+			}
+		]
 	},
 	{
 		"aya_id": 4937,
@@ -321,7 +594,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 532,
-		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 13,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 4938,
@@ -330,7 +610,24 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 532,
-		"translation_aya_text": "Maka apabila langit telah terbelah dan menjadi merah mawar seperti (kilauan) minyak. "
+		"translation_aya_text": "Maka apabila langit telah terbelah dan menjadi merah mawar seperti (kilauan) minyak. ",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 9,
+				"end": 13
+			},
+			{
+				"class": "madd-wajib",
+				"start": 25,
+				"end": 28
+			},
+			{
+				"class": "ikhfa",
+				"start": 47,
+				"end": 52
+			}
+		]
 	},
 	{
 		"aya_id": 4939,
@@ -339,7 +636,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 532,
-		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 13,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 4940,
@@ -348,7 +652,49 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 532,
-		"translation_aya_text": "Maka pada hari itu manusia dan jin tidak ditanya tentang dosanya. "
+		"translation_aya_text": "Maka pada hari itu manusia dan jin tidak ditanya tentang dosanya. ",
+		"tajweed": [
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 10,
+				"end": 15
+			},
+			{
+				"class": "ikhfa",
+				"start": 30,
+				"end": 35
+			},
+			{
+				"class": "iqlab",
+				"start": 35,
+				"end": 37
+			},
+			{
+				"class": "iqlab",
+				"start": 37,
+				"end": 39
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 40,
+				"end": 44
+			},
+			{
+				"class": "ikhfa",
+				"start": 46,
+				"end": 50
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 48,
+				"end": 53
+			},
+			{
+				"class": "ghunnah",
+				"start": 62,
+				"end": 65
+			}
+		]
 	},
 	{
 		"aya_id": 4941,
@@ -357,7 +703,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 532,
-		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 13,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 4942,
@@ -366,7 +719,24 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 533,
-		"translation_aya_text": "Orang-orang yang berdosa itu diketahui dengan tanda-tandanya, lalu direnggut ubun-ubun dan kakinya."
+		"translation_aya_text": "Orang-orang yang berdosa itu diketahui dengan tanda-tandanya, lalu direnggut ubun-ubun dan kakinya.",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 14,
+				"end": 15
+			},
+			{
+				"class": "ghunnah",
+				"start": 53,
+				"end": 56
+			},
+			{
+				"class": "qalqalah",
+				"start": 71,
+				"end": 72
+			}
+		]
 	},
 	{
 		"aya_id": 4943,
@@ -375,7 +745,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 533,
-		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 13,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 4944,
@@ -384,7 +761,19 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 533,
-		"translation_aya_text": "Inilah neraka Jahanam yang didustakan oleh orang-orang yang berdosa."
+		"translation_aya_text": "Inilah neraka Jahanam yang didustakan oleh orang-orang yang berdosa.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 11,
+				"end": 14
+			},
+			{
+				"class": "qalqalah",
+				"start": 47,
+				"end": 48
+			}
+		]
 	},
 	{
 		"aya_id": 4945,
@@ -393,7 +782,8 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 533,
-		"translation_aya_text": "Mereka berkeliling di sana dan di antara air yang mendidih. "
+		"translation_aya_text": "Mereka berkeliling di sana dan di antara air yang mendidih. ",
+		"tajweed": []
 	},
 	{
 		"aya_id": 4946,
@@ -402,7 +792,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 533,
-		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 13,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 4947,
@@ -411,7 +808,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 533,
-		"translation_aya_text": "Dan bagi siapa yang takut akan saat menghadap Tuhannya ada dua surga."
+		"translation_aya_text": "Dan bagi siapa yang takut akan saat menghadap Tuhannya ada dua surga.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 33,
+				"end": 36
+			}
+		]
 	},
 	{
 		"aya_id": 4948,
@@ -420,7 +824,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 533,
-		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 13,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 4949,
@@ -429,7 +840,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 533,
-		"translation_aya_text": "kedua surga itu mempunyai aneka pepohonan dan buah-buahan."
+		"translation_aya_text": "kedua surga itu mempunyai aneka pepohonan dan buah-buahan.",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 6,
+				"end": 10
+			}
+		]
 	},
 	{
 		"aya_id": 4950,
@@ -438,7 +856,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 533,
-		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 13,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 4951,
@@ -447,7 +872,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 533,
-		"translation_aya_text": "Di dalam kedua surga itu ada dua buah mata air yang memancar."
+		"translation_aya_text": "Di dalam kedua surga itu ada dua buah mata air yang memancar.",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 21,
+				"end": 22
+			}
+		]
 	},
 	{
 		"aya_id": 4952,
@@ -456,7 +888,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 533,
-		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 13,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 4953,
@@ -465,7 +904,19 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 533,
-		"translation_aya_text": "Di dalam kedua surga itu terdapat aneka buah-buahan yang berpasang-pasangan. "
+		"translation_aya_text": "Di dalam kedua surga itu terdapat aneka buah-buahan yang berpasang-pasangan. ",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 12,
+				"end": 17
+			},
+			{
+				"class": "ikhfa",
+				"start": 28,
+				"end": 33
+			}
+		]
 	},
 	{
 		"aya_id": 4954,
@@ -474,7 +925,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 533,
-		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 13,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 4955,
@@ -483,7 +941,44 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 533,
-		"translation_aya_text": "Mereka bersandar di atas permadani yang bagian dalamnya dari sutera tebal. Dan buah-buahan di kedua surga itu dapat (dipetik) dari dekat. "
+		"translation_aya_text": "Mereka bersandar di atas permadani yang bagian dalamnya dari sutera tebal. Dan buah-buahan di kedua surga itu dapat (dipetik) dari dekat. ",
+		"tajweed": [
+			{
+				"class": "iqlab",
+				"start": 25,
+				"end": 27
+			},
+			{
+				"class": "iqlab",
+				"start": 28,
+				"end": 30
+			},
+			{
+				"class": "madd-wajib",
+				"start": 32,
+				"end": 36
+			},
+			{
+				"class": "qalqalah",
+				"start": 55,
+				"end": 56
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 59,
+				"end": 61
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 62,
+				"end": 64
+			},
+			{
+				"class": "ghunnah",
+				"start": 76,
+				"end": 79
+			}
+		]
 	},
 	{
 		"aya_id": 4956,
@@ -492,7 +987,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 533,
-		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 13,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 4957,
@@ -501,7 +1003,44 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 533,
-		"translation_aya_text": "Di dalam surga itu ada bidadari-bidadari yang membatasi pandangan, yang tidak pernah disentuh oleh manusia maupun jin sebelumnya. "
+		"translation_aya_text": "Di dalam surga itu ada bidadari-bidadari yang membatasi pandangan, yang tidak pernah disentuh oleh manusia maupun jin sebelumnya. ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 6,
+				"end": 9
+			},
+			{
+				"class": "qalqalah",
+				"start": 37,
+				"end": 38
+			},
+			{
+				"class": "ghunnah",
+				"start": 45,
+				"end": 48
+			},
+			{
+				"class": "ikhfa",
+				"start": 51,
+				"end": 55
+			},
+			{
+				"class": "ikhfa",
+				"start": 53,
+				"end": 58
+			},
+			{
+				"class": "qalqalah",
+				"start": 58,
+				"end": 59
+			},
+			{
+				"class": "ghunnah",
+				"start": 77,
+				"end": 80
+			}
+		]
 	},
 	{
 		"aya_id": 4958,
@@ -510,7 +1049,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 533,
-		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 13,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 4959,
@@ -519,7 +1065,19 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 533,
-		"translation_aya_text": "Seakan-akan mereka itu permata yakut dan marjan. "
+		"translation_aya_text": "Seakan-akan mereka itu permata yakut dan marjan. ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 4,
+				"end": 7
+			},
+			{
+				"class": "ghunnah",
+				"start": 9,
+				"end": 12
+			}
+		]
 	},
 	{
 		"aya_id": 4960,
@@ -528,7 +1086,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 533,
-		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 13,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 4961,
@@ -537,7 +1102,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 533,
-		"translation_aya_text": "Tidak ada balasan untuk kebaikan selain kebaikan (pula)."
+		"translation_aya_text": "Tidak ada balasan untuk kebaikan selain kebaikan (pula).",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 8,
+				"end": 11
+			}
+		]
 	},
 	{
 		"aya_id": 4962,
@@ -546,7 +1118,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 533,
-		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 13,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 4963,
@@ -555,7 +1134,19 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 533,
-		"translation_aya_text": "Dan selain dari dua surga itu ada dua surga lagi."
+		"translation_aya_text": "Dan selain dari dua surga itu ada dua surga lagi.",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 4,
+				"end": 9
+			},
+			{
+				"class": "ghunnah",
+				"start": 21,
+				"end": 24
+			}
+		]
 	},
 	{
 		"aya_id": 4964,
@@ -564,7 +1155,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 533,
-		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan,"
+		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan,",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 13,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 4965,
@@ -573,7 +1171,19 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 533,
-		"translation_aya_text": "kedua surga itu (kelihatan) hijau tua warnanya."
+		"translation_aya_text": "kedua surga itu (kelihatan) hijau tua warnanya.",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 2,
+				"end": 3
+			},
+			{
+				"class": "ghunnah",
+				"start": 8,
+				"end": 11
+			}
+		]
 	},
 	{
 		"aya_id": 4966,
@@ -582,7 +1192,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 533,
-		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 13,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 4967,
@@ -591,7 +1208,8 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 533,
-		"translation_aya_text": "Di dalam keduanya (surga itu) ada dua buah mata air yang memancar."
+		"translation_aya_text": "Di dalam keduanya (surga itu) ada dua buah mata air yang memancar.",
+		"tajweed": []
 	},
 	{
 		"aya_id": 4968,
@@ -600,7 +1218,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 533,
-		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 13,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 4969,
@@ -609,7 +1234,24 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 534,
-		"translation_aya_text": "Di dalam kedua surga itu ada buah-buahan, kurma dan delima."
+		"translation_aya_text": "Di dalam kedua surga itu ada buah-buahan, kurma dan delima.",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 17,
+				"end": 22
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 27,
+				"end": 32
+			},
+			{
+				"class": "ghunnah",
+				"start": 35,
+				"end": 38
+			}
+		]
 	},
 	{
 		"aya_id": 4970,
@@ -618,7 +1260,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 534,
-		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 13,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 4971,
@@ -627,7 +1276,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 534,
-		"translation_aya_text": "Di dalam surga-surga itu ada bidadari-bidadari yang baik-baik dan jelita."
+		"translation_aya_text": "Di dalam surga-surga itu ada bidadari-bidadari yang baik-baik dan jelita.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 6,
+				"end": 9
+			}
+		]
 	},
 	{
 		"aya_id": 4972,
@@ -636,7 +1292,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 534,
-		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 13,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 4973,
@@ -645,7 +1308,24 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 534,
-		"translation_aya_text": "Bidadari-bidadari yang dipelihara di dalam kemah-kemah."
+		"translation_aya_text": "Bidadari-bidadari yang dipelihara di dalam kemah-kemah.",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 4,
+				"end": 9
+			},
+			{
+				"class": "qalqalah",
+				"start": 10,
+				"end": 11
+			},
+			{
+				"class": "ikhfa",
+				"start": 18,
+				"end": 23
+			}
+		]
 	},
 	{
 		"aya_id": 4974,
@@ -654,7 +1334,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 534,
-		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 13,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 4975,
@@ -663,7 +1350,39 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 534,
-		"translation_aya_text": "Mereka tidak pernah disentuh oleh manusia maupun oleh jin sebelumnya."
+		"translation_aya_text": "Mereka tidak pernah disentuh oleh manusia maupun oleh jin sebelumnya.",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 7,
+				"end": 8
+			},
+			{
+				"class": "ghunnah",
+				"start": 15,
+				"end": 18
+			},
+			{
+				"class": "ikhfa",
+				"start": 21,
+				"end": 25
+			},
+			{
+				"class": "ikhfa",
+				"start": 23,
+				"end": 28
+			},
+			{
+				"class": "qalqalah",
+				"start": 28,
+				"end": 29
+			},
+			{
+				"class": "ghunnah",
+				"start": 47,
+				"end": 50
+			}
+		]
 	},
 	{
 		"aya_id": 4976,
@@ -672,7 +1391,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 534,
-		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 13,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 4977,
@@ -681,7 +1407,19 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 534,
-		"translation_aya_text": "Mereka bersandar pada bantal-bantal yang hijau dan permadani-permadani yang indah."
+		"translation_aya_text": "Mereka bersandar pada bantal-bantal yang hijau dan permadani-permadani yang indah.",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 34,
+				"end": 39
+			},
+			{
+				"class": "qalqalah",
+				"start": 42,
+				"end": 43
+			}
+		]
 	},
 	{
 		"aya_id": 4978,
@@ -690,7 +1428,14 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 534,
-		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+		"translation_aya_text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 13,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 4979,
@@ -699,6 +1444,7 @@
 		"sura_id": 55,
 		"juz_id": 27,
 		"page_number": 534,
-		"translation_aya_text": "Mahasuci nama Tuhanmu Pemilik Keagungan dan Kemuliaan."
+		"translation_aya_text": "Mahasuci nama Tuhanmu Pemilik Keagungan dan Kemuliaan.",
+		"tajweed": []
 	}
 ]

@@ -6,7 +6,8 @@
 		"sura_id": 103,
 		"juz_id": 30,
 		"page_number": 601,
-		"translation_aya_text": "Demi masa,"
+		"translation_aya_text": "Demi masa,",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6178,
@@ -15,7 +16,19 @@
 		"sura_id": 103,
 		"juz_id": 30,
 		"page_number": 601,
-		"translation_aya_text": "sungguh, manusia berada dalam kerugian,"
+		"translation_aya_text": "sungguh, manusia berada dalam kerugian,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "ikhfa",
+				"start": 11,
+				"end": 15
+			}
+		]
 	},
 	{
 		"aya_id": 6179,
@@ -24,6 +37,13 @@
 		"sura_id": 103,
 		"juz_id": 30,
 		"page_number": 601,
-		"translation_aya_text": "kecuali orang-orang yang beriman dan mengerjakan kebajikan serta saling menasihati untuk kebenaran dan saling menasihati untuk kesabaran."
+		"translation_aya_text": "kecuali orang-orang yang beriman dan mengerjakan kebajikan serta saling menasihati untuk kebenaran dan saling menasihati untuk kesabaran.",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 98,
+				"end": 99
+			}
+		]
 	}
 ]

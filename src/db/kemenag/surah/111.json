@@ -6,7 +6,19 @@
 		"sura_id": 111,
 		"juz_id": 30,
 		"page_number": 603,
-		"translation_aya_text": "Binasalah kedua tangan Abu Lahab dan benar-benar binasa dia!"
+		"translation_aya_text": "Binasalah kedua tangan Abu Lahab dan benar-benar binasa dia!",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 11,
+				"end": 15
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 26,
+				"end": 31
+			}
+		]
 	},
 	{
 		"aya_id": 6218,
@@ -15,7 +27,14 @@
 		"sura_id": 111,
 		"juz_id": 30,
 		"page_number": 603,
-		"translation_aya_text": "Tidaklah berguna baginya hartanya dan apa yang dia usahakan."
+		"translation_aya_text": "Tidaklah berguna baginya hartanya dan apa yang dia usahakan.",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 1,
+				"end": 5
+			}
+		]
 	},
 	{
 		"aya_id": 6219,
@@ -24,7 +43,19 @@
 		"sura_id": 111,
 		"juz_id": 30,
 		"page_number": 603,
-		"translation_aya_text": "Kelak dia akan masuk ke dalam api yang bergejolak (neraka)."
+		"translation_aya_text": "Kelak dia akan masuk ke dalam api yang bergejolak (neraka).",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 13,
+				"end": 15
+			},
+			{
+				"class": "ikhfa",
+				"start": 16,
+				"end": 18
+			}
+		]
 	},
 	{
 		"aya_id": 6220,
@@ -33,7 +64,14 @@
 		"sura_id": 111,
 		"juz_id": 30,
 		"page_number": 603,
-		"translation_aya_text": "Dan (begitu pula) istrinya, pembawa kayu bakar (penyebar fitnah). "
+		"translation_aya_text": "Dan (begitu pula) istrinya, pembawa kayu bakar (penyebar fitnah). ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 18,
+				"end": 21
+			}
+		]
 	},
 	{
 		"aya_id": 6221,
@@ -42,6 +80,23 @@
 		"sura_id": 111,
 		"juz_id": 30,
 		"page_number": 603,
-		"translation_aya_text": "Di lehernya ada tali dari sabut yang dipintal."
+		"translation_aya_text": "Di lehernya ada tali dari sabut yang dipintal.",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 17,
+				"end": 18
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 19,
+				"end": 24
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 25,
+				"end": 30
+			}
+		]
 	}
 ]

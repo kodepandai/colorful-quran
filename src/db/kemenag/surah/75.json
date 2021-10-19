@@ -6,7 +6,19 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 577,
-		"translation_aya_text": "Aku bersumpah dengan hari Kiamat,"
+		"translation_aya_text": "Aku bersumpah dengan hari Kiamat,",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 1,
+				"end": 5
+			},
+			{
+				"class": "qalqalah",
+				"start": 7,
+				"end": 8
+			}
+		]
 	},
 	{
 		"aya_id": 5553,
@@ -15,7 +27,24 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 577,
-		"translation_aya_text": "dan aku bersumpah demi jiwa yang selalu menyesali (dirinya sendiri)."
+		"translation_aya_text": "dan aku bersumpah demi jiwa yang selalu menyesali (dirinya sendiri).",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 3,
+				"end": 7
+			},
+			{
+				"class": "qalqalah",
+				"start": 9,
+				"end": 10
+			},
+			{
+				"class": "ghunnah",
+				"start": 20,
+				"end": 23
+			}
+		]
 	},
 	{
 		"aya_id": 5554,
@@ -24,7 +53,24 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 577,
-		"translation_aya_text": "Apakah manusia mengira bahwa Kami tidak akan mengumpulkan (kembali) tulang-belulangnya?"
+		"translation_aya_text": "Apakah manusia mengira bahwa Kami tidak akan mengumpulkan (kembali) tulang-belulangnya?",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 16,
+				"end": 20
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 29,
+				"end": 34
+			},
+			{
+				"class": "qalqalah",
+				"start": 35,
+				"end": 36
+			}
+		]
 	},
 	{
 		"aya_id": 5555,
@@ -33,7 +79,19 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 577,
-		"translation_aya_text": "(Bahkan) Kami mampu menyusun (kembali) jari-jemarinya dengan sempurna. "
+		"translation_aya_text": "(Bahkan) Kami mampu menyusun (kembali) jari-jemarinya dengan sempurna. ",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 20,
+				"end": 25
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 27,
+				"end": 32
+			}
+		]
 	},
 	{
 		"aya_id": 5556,
@@ -42,7 +100,14 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 577,
-		"translation_aya_text": "Tetapi manusia hendak membuat maksiat terus-menerus. "
+		"translation_aya_text": "Tetapi manusia hendak membuat maksiat terus-menerus. ",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 19,
+				"end": 23
+			}
+		]
 	},
 	{
 		"aya_id": 5557,
@@ -51,7 +116,8 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 577,
-		"translation_aya_text": "Dia bertanya, “Kapankah hari Kiamat itu?”"
+		"translation_aya_text": "Dia bertanya, “Kapankah hari Kiamat itu?”",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5558,
@@ -60,7 +126,8 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 577,
-		"translation_aya_text": "Maka apabila mata terbelalak (ketakutan), "
+		"translation_aya_text": "Maka apabila mata terbelalak (ketakutan), ",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5559,
@@ -69,7 +136,8 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 577,
-		"translation_aya_text": "dan bulan pun telah hilang cahayanya,"
+		"translation_aya_text": "dan bulan pun telah hilang cahayanya,",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5560,
@@ -78,7 +146,8 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 577,
-		"translation_aya_text": "lalu matahari dan bulan dikumpulkan, "
+		"translation_aya_text": "lalu matahari dan bulan dikumpulkan, ",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5561,
@@ -87,7 +156,14 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 577,
-		"translation_aya_text": "pada hari itu manusia berkata, “Ke mana tempat lari?”"
+		"translation_aya_text": "pada hari itu manusia berkata, “Ke mana tempat lari?”",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 14,
+				"end": 18
+			}
+		]
 	},
 	{
 		"aya_id": 5562,
@@ -96,7 +172,8 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 577,
-		"translation_aya_text": "Tidak! Tidak ada tempat berlindung!"
+		"translation_aya_text": "Tidak! Tidak ada tempat berlindung!",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5563,
@@ -105,7 +182,8 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 577,
-		"translation_aya_text": "Hanya kepada Tuhanmu tempat kembali pada hari itu."
+		"translation_aya_text": "Hanya kepada Tuhanmu tempat kembali pada hari itu.",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5564,
@@ -114,7 +192,24 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 577,
-		"translation_aya_text": "Pada hari itu diberitakan kepada manusia apa yang telah dikerjakannya dan apa yang dilalaikannya."
+		"translation_aya_text": "Pada hari itu diberitakan kepada manusia apa yang telah dikerjakannya dan apa yang dilalaikannya.",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 16,
+				"end": 20
+			},
+			{
+				"class": "iqlab",
+				"start": 33,
+				"end": 35
+			},
+			{
+				"class": "iqlab",
+				"start": 36,
+				"end": 38
+			}
+		]
 	},
 	{
 		"aya_id": 5565,
@@ -123,7 +218,14 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 577,
-		"translation_aya_text": "Bahkan manusia menjadi saksi atas dirinya sendiri,"
+		"translation_aya_text": "Bahkan manusia menjadi saksi atas dirinya sendiri,",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 10,
+				"end": 14
+			}
+		]
 	},
 	{
 		"aya_id": 5566,
@@ -132,7 +234,8 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 577,
-		"translation_aya_text": "dan meskipun dia mengemukakan alasan-alasannya."
+		"translation_aya_text": "dan meskipun dia mengemukakan alasan-alasannya.",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5567,
@@ -141,7 +244,8 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 577,
-		"translation_aya_text": "Jangan engkau (Muhammad) gerakkan lidahmu (untuk membaca Al-Qur'an) karena hendak cepat-cepat (menguasai)nya."
+		"translation_aya_text": "Jangan engkau (Muhammad) gerakkan lidahmu (untuk membaca Al-Qur'an) karena hendak cepat-cepat (menguasai)nya.",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5568,
@@ -150,7 +254,14 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 577,
-		"translation_aya_text": "Sesungguhnya Kami yang akan mengumpulkannya (di dadamu) dan membacakannya. "
+		"translation_aya_text": "Sesungguhnya Kami yang akan mengumpulkannya (di dadamu) dan membacakannya. ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			}
+		]
 	},
 	{
 		"aya_id": 5569,
@@ -159,7 +270,8 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 577,
-		"translation_aya_text": "Apabila Kami telah selesai membacakannya maka ikutilah bacaannya itu. "
+		"translation_aya_text": "Apabila Kami telah selesai membacakannya maka ikutilah bacaannya itu. ",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5570,
@@ -168,7 +280,19 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 577,
-		"translation_aya_text": "Kemudian sesungguhnya Kami yang akan menjelaskannya. "
+		"translation_aya_text": "Kemudian sesungguhnya Kami yang akan menjelaskannya. ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "ghunnah",
+				"start": 8,
+				"end": 11
+			}
+		]
 	},
 	{
 		"aya_id": 5571,
@@ -177,7 +301,8 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 578,
-		"translation_aya_text": "Tidak! Bahkan kamu mencintai kehidupan dunia, "
+		"translation_aya_text": "Tidak! Bahkan kamu mencintai kehidupan dunia, ",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5572,
@@ -186,7 +311,8 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 578,
-		"translation_aya_text": "dan mengabaikan (kehidupan) akhirat. "
+		"translation_aya_text": "dan mengabaikan (kehidupan) akhirat. ",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5573,
@@ -195,7 +321,19 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 578,
-		"translation_aya_text": "Wajah-wajah (orang mukmin) pada hari itu berseri-seri,"
+		"translation_aya_text": "Wajah-wajah (orang mukmin) pada hari itu berseri-seri,",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 6,
+				"end": 11
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 19,
+				"end": 24
+			}
+		]
 	},
 	{
 		"aya_id": 5574,
@@ -204,7 +342,8 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 578,
-		"translation_aya_text": "memandang Tuhannya. "
+		"translation_aya_text": "memandang Tuhannya. ",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5575,
@@ -213,7 +352,24 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 578,
-		"translation_aya_text": "Dan wajah-wajah (orang kafir) pada hari itu muram, "
+		"translation_aya_text": "Dan wajah-wajah (orang kafir) pada hari itu muram, ",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 8,
+				"end": 13
+			},
+			{
+				"class": "iqlab",
+				"start": 21,
+				"end": 23
+			},
+			{
+				"class": "iqlab",
+				"start": 24,
+				"end": 26
+			}
+		]
 	},
 	{
 		"aya_id": 5576,
@@ -222,7 +378,19 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 578,
-		"translation_aya_text": "mereka yakin bahwa akan ditimpakan kepadanya malapetaka yang sangat dahsyat."
+		"translation_aya_text": "mereka yakin bahwa akan ditimpakan kepadanya malapetaka yang sangat dahsyat.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 4,
+				"end": 7
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 10,
+				"end": 15
+			}
+		]
 	},
 	{
 		"aya_id": 5577,
@@ -231,7 +399,14 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 578,
-		"translation_aya_text": "Tidak! Apabila (nyawa) telah sampai ke kerongkongan,"
+		"translation_aya_text": "Tidak! Apabila (nyawa) telah sampai ke kerongkongan,",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 4,
+				"end": 8
+			}
+		]
 	},
 	{
 		"aya_id": 5578,
@@ -240,7 +415,8 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 578,
-		"translation_aya_text": "dan dikatakan (kepadanya), “Siapa yang dapat menyembuhkan?”"
+		"translation_aya_text": "dan dikatakan (kepadanya), “Siapa yang dapat menyembuhkan?”",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5579,
@@ -249,7 +425,19 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 578,
-		"translation_aya_text": "Dan dia yakin bahwa itulah waktu perpisahan (dengan dunia), "
+		"translation_aya_text": "Dan dia yakin bahwa itulah waktu perpisahan (dengan dunia), ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 5,
+				"end": 8
+			},
+			{
+				"class": "ghunnah",
+				"start": 11,
+				"end": 14
+			}
+		]
 	},
 	{
 		"aya_id": 5580,
@@ -258,7 +446,8 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 578,
-		"translation_aya_text": "dan bertaut betis (kiri) dengan betis (kanan),"
+		"translation_aya_text": "dan bertaut betis (kiri) dengan betis (kanan),",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5581,
@@ -267,7 +456,8 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 578,
-		"translation_aya_text": "kepada Tuhanmulah pada hari itu kamu dihalau. "
+		"translation_aya_text": "kepada Tuhanmulah pada hari itu kamu dihalau. ",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5582,
@@ -276,7 +466,8 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 578,
-		"translation_aya_text": "Karena dia (dahulu) tidak mau membenarkan (Al-Qur'an dan Rasul) dan tidak mau melaksanakan salat, "
+		"translation_aya_text": "Karena dia (dahulu) tidak mau membenarkan (Al-Qur'an dan Rasul) dan tidak mau melaksanakan salat, ",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5583,
@@ -285,7 +476,14 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 578,
-		"translation_aya_text": "tetapi justru dia mendustakan (Rasul) dan berpaling (dari kebenaran), "
+		"translation_aya_text": "tetapi justru dia mendustakan (Rasul) dan berpaling (dari kebenaran), ",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 6,
+				"end": 11
+			}
+		]
 	},
 	{
 		"aya_id": 5584,
@@ -294,7 +492,19 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 578,
-		"translation_aya_text": "kemudian dia pergi kepada keluarganya dengan sombong."
+		"translation_aya_text": "kemudian dia pergi kepada keluarganya dengan sombong.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 15,
+				"end": 20
+			}
+		]
 	},
 	{
 		"aya_id": 5585,
@@ -303,7 +513,8 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 578,
-		"translation_aya_text": "Celakalah kamu! Maka celakalah! "
+		"translation_aya_text": "Celakalah kamu! Maka celakalah! ",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5586,
@@ -312,7 +523,14 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 578,
-		"translation_aya_text": "Sekali lagi, celakalah kamu (manusia)! Maka celakalah! "
+		"translation_aya_text": "Sekali lagi, celakalah kamu (manusia)! Maka celakalah! ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			}
+		]
 	},
 	{
 		"aya_id": 5587,
@@ -321,7 +539,19 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 578,
-		"translation_aya_text": "Apakah manusia mengira, dia akan dibiarkan begitu saja (tanpa pertanggungjawaban)?"
+		"translation_aya_text": "Apakah manusia mengira, dia akan dibiarkan begitu saja (tanpa pertanggungjawaban)?",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 16,
+				"end": 20
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 26,
+				"end": 31
+			}
+		]
 	},
 	{
 		"aya_id": 5588,
@@ -330,7 +560,29 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 578,
-		"translation_aya_text": "Bukankah dia mulanya hanya setetes mani yang ditumpahkan (ke dalam rahim), "
+		"translation_aya_text": "Bukankah dia mulanya hanya setetes mani yang ditumpahkan (ke dalam rahim), ",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 14,
+				"end": 15
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 18,
+				"end": 23
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 24,
+				"end": 29
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 32,
+				"end": 38
+			}
+		]
 	},
 	{
 		"aya_id": 5589,
@@ -339,7 +591,19 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 578,
-		"translation_aya_text": "kemudian (mani itu) menjadi sesuatu yang melekat, lalu Allah menciptakannya dan menyempurnakannya, "
+		"translation_aya_text": "kemudian (mani itu) menjadi sesuatu yang melekat, lalu Allah menciptakannya dan menyempurnakannya, ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "ikhfa",
+				"start": 18,
+				"end": 23
+			}
+		]
 	},
 	{
 		"aya_id": 5590,
@@ -348,7 +612,14 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 578,
-		"translation_aya_text": "lalu Dia menjadikan darinya sepasang laki-laki dan perempuan. "
+		"translation_aya_text": "lalu Dia menjadikan darinya sepasang laki-laki dan perempuan. ",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 47,
+				"end": 51
+			}
+		]
 	},
 	{
 		"aya_id": 5591,
@@ -357,6 +628,18 @@
 		"sura_id": 75,
 		"juz_id": 29,
 		"page_number": 578,
-		"translation_aya_text": "Bukankah (Allah yang berbuat) demikian berkuasa (pula) menghidupkan orang mati?"
+		"translation_aya_text": "Bukankah (Allah yang berbuat) demikian berkuasa (pula) menghidupkan orang mati?",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 27,
+				"end": 32
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 34,
+				"end": 39
+			}
+		]
 	}
 ]

@@ -6,7 +6,34 @@
 		"sura_id": 66,
 		"juz_id": 28,
 		"page_number": 560,
-		"translation_aya_text": "Wahai Nabi! Mengapa engkau mengharamkan apa yang dihalalkan Allah bagimu? Engkau ingin menyenangkan hati istri-istrimu? Dan Allah Maha Pengampun, Maha Penyayang. "
+		"translation_aya_text": "Wahai Nabi! Mengapa engkau mengharamkan apa yang dihalalkan Allah bagimu? Engkau ingin menyenangkan hati istri-istrimu? Dan Allah Maha Pengampun, Maha Penyayang. ",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 0,
+				"end": 3
+			},
+			{
+				"class": "ghunnah",
+				"start": 14,
+				"end": 17
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 39,
+				"end": 43
+			},
+			{
+				"class": "qalqalah",
+				"start": 67,
+				"end": 68
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 115,
+				"end": 120
+			}
+		]
 	},
 	{
 		"aya_id": 5231,
@@ -15,7 +42,14 @@
 		"sura_id": 66,
 		"juz_id": 28,
 		"page_number": 560,
-		"translation_aya_text": "Sungguh, Allah telah mewajibkan kepadamu membebaskan diri dari sumpahmu; dan Allah adalah pelindungmu dan Dia Maha Mengetahui, Mahabijaksana. "
+		"translation_aya_text": "Sungguh, Allah telah mewajibkan kepadamu membebaskan diri dari sumpahmu; dan Allah adalah pelindungmu dan Dia Maha Mengetahui, Mahabijaksana. ",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 2,
+				"end": 3
+			}
+		]
 	},
 	{
 		"aya_id": 5232,
@@ -24,7 +58,64 @@
 		"sura_id": 66,
 		"juz_id": 28,
 		"page_number": 560,
-		"translation_aya_text": "Dan ingatlah ketika secara rahasia Nabi membicarakan suatu peristiwa kepada salah seorang istrinya (Hafsah). Lalu dia menceritakan peristiwa itu (kepada Aisyah) dan Allah memberitahukan peristiwa itu kepadanya (Nabi), lalu (Nabi) memberitahukan (kepada Hafsah) sebagian dan menyembunyikan sebagian yang lain. Maka ketika dia (Nabi) memberitahukan pembicaraan itu kepadanya (Hafsah), dia bertanya, “Siapa yang telah memberitahukan hal ini kepadamu?” Nabi menjawab, “Yang memberitahukan kepadaku adalah Allah Yang Maha Mengetahui, Mahateliti.” "
+		"translation_aya_text": "Dan ingatlah ketika secara rahasia Nabi membicarakan suatu peristiwa kepada salah seorang istrinya (Hafsah). Lalu dia menceritakan peristiwa itu (kepada Aisyah) dan Allah memberitahukan peristiwa itu kepadanya (Nabi), lalu (Nabi) memberitahukan (kepada Hafsah) sebagian dan menyembunyikan sebagian yang lain. Maka ketika dia (Nabi) memberitahukan pembicaraan itu kepadanya (Hafsah), dia bertanya, “Siapa yang telah memberitahukan hal ini kepadamu?” Nabi menjawab, “Yang memberitahukan kepadaku adalah Allah Yang Maha Mengetahui, Mahateliti.” ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 17,
+				"end": 20
+			},
+			{
+				"class": "ikhfa",
+				"start": 57,
+				"end": 59
+			},
+			{
+				"class": "ikhfa",
+				"start": 61,
+				"end": 63
+			},
+			{
+				"class": "ghunnah",
+				"start": 66,
+				"end": 69
+			},
+			{
+				"class": "iqlab",
+				"start": 146,
+				"end": 148
+			},
+			{
+				"class": "iqlab",
+				"start": 149,
+				"end": 151
+			},
+			{
+				"class": "ikhfa",
+				"start": 154,
+				"end": 156
+			},
+			{
+				"class": "ikhfa",
+				"start": 157,
+				"end": 159
+			},
+			{
+				"class": "ghunnah",
+				"start": 162,
+				"end": 165
+			},
+			{
+				"class": "iqlab",
+				"start": 198,
+				"end": 200
+			},
+			{
+				"class": "iqlab",
+				"start": 200,
+				"end": 202
+			}
+		]
 	},
 	{
 		"aya_id": 5233,
@@ -33,7 +124,44 @@
 		"sura_id": 66,
 		"juz_id": 28,
 		"page_number": 560,
-		"translation_aya_text": "Jika kamu berdua bertobat kepada Allah, maka sungguh, hati kamu berdua telah condong (untuk menerima kebenaran); dan jika kamu berdua saling bantu-membantu menyusahkan Nabi, maka sungguh, Allah menjadi pelindungnya dan (juga) Jibril dan orang-orang mukmin yang baik; dan selain itu malaikat-malaikat adalah penolongnya. "
+		"translation_aya_text": "Jika kamu berdua bertobat kepada Allah, maka sungguh, hati kamu berdua telah condong (untuk menerima kebenaran); dan jika kamu berdua saling bantu-membantu menyusahkan Nabi, maka sungguh, Allah menjadi pelindungnya dan (juga) Jibril dan orang-orang mukmin yang baik; dan selain itu malaikat-malaikat adalah penolongnya. ",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 2,
+				"end": 7
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 12,
+				"end": 16
+			},
+			{
+				"class": "qalqalah",
+				"start": 34,
+				"end": 35
+			},
+			{
+				"class": "ikhfa",
+				"start": 63,
+				"end": 68
+			},
+			{
+				"class": "ghunnah",
+				"start": 89,
+				"end": 92
+			},
+			{
+				"class": "qalqalah",
+				"start": 120,
+				"end": 121
+			},
+			{
+				"class": "madd-wajib",
+				"start": 163,
+				"end": 167
+			}
+		]
 	},
 	{
 		"aya_id": 5234,
@@ -42,7 +170,104 @@
 		"sura_id": 66,
 		"juz_id": 28,
 		"page_number": 560,
-		"translation_aya_text": "Jika dia (Nabi) menceraikan kamu, boleh jadi Tuhan akan memberi ganti kepadanya dengan istri-istri yang lebih baik dari kamu, perempuan-perempuan yang patuh, yang beriman, yang taat, yang bertobat, yang beribadah, yang berpuasa, yang janda dan yang perawan. "
+		"translation_aya_text": "Jika dia (Nabi) menceraikan kamu, boleh jadi Tuhan akan memberi ganti kepadanya dengan istri-istri yang lebih baik dari kamu, perempuan-perempuan yang patuh, yang beriman, yang taat, yang bertobat, yang beribadah, yang berpuasa, yang janda dan yang perawan. ",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 11,
+				"end": 15
+			},
+			{
+				"class": "ikhfa",
+				"start": 17,
+				"end": 22
+			},
+			{
+				"class": "ghunnah",
+				"start": 29,
+				"end": 32
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 35,
+				"end": 40
+			},
+			{
+				"class": "qalqalah",
+				"start": 41,
+				"end": 42
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 47,
+				"end": 51
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 66,
+				"end": 68
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 69,
+				"end": 71
+			},
+			{
+				"class": "ikhfa",
+				"start": 73,
+				"end": 77
+			},
+			{
+				"class": "ghunnah",
+				"start": 77,
+				"end": 80
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 89,
+				"end": 94
+			},
+			{
+				"class": "ikhfa",
+				"start": 101,
+				"end": 106
+			},
+			{
+				"class": "ikhfa",
+				"start": 110,
+				"end": 115
+			},
+			{
+				"class": "madd-wajib",
+				"start": 113,
+				"end": 117
+			},
+			{
+				"class": "ikhfa",
+				"start": 130,
+				"end": 135
+			},
+			{
+				"class": "madd-wajib",
+				"start": 133,
+				"end": 137
+			},
+			{
+				"class": "ikhfa",
+				"start": 141,
+				"end": 146
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 151,
+				"end": 156
+			},
+			{
+				"class": "qalqalah",
+				"start": 159,
+				"end": 160
+			}
+		]
 	},
 	{
 		"aya_id": 5235,
@@ -51,7 +276,59 @@
 		"sura_id": 66,
 		"juz_id": 28,
 		"page_number": 560,
-		"translation_aya_text": "Wahai orang-orang yang beriman! Peliharalah dirimu dan keluargamu dari api neraka yang bahan bakarnya adalah manusia dan batu; penjaganya malaikat-malaikat yang kasar, dan keras, yang tidak durhaka kepada Allah terhadap apa yang Dia perintahkan kepada mereka dan selalu mengerjakan apa yang diperintahkan. "
+		"translation_aya_text": "Wahai orang-orang yang beriman! Peliharalah dirimu dan keluargamu dari api neraka yang bahan bakarnya adalah manusia dan batu; penjaganya malaikat-malaikat yang kasar, dan keras, yang tidak durhaka kepada Allah terhadap apa yang Dia perintahkan kepada mereka dan selalu mengerjakan apa yang diperintahkan. ",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 0,
+				"end": 3
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 35,
+				"end": 38
+			},
+			{
+				"class": "ikhfa",
+				"start": 42,
+				"end": 46
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 71,
+				"end": 73
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 74,
+				"end": 76
+			},
+			{
+				"class": "ghunnah",
+				"start": 90,
+				"end": 93
+			},
+			{
+				"class": "madd-wajib",
+				"start": 124,
+				"end": 128
+			},
+			{
+				"class": "ikhfa",
+				"start": 140,
+				"end": 145
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 148,
+				"end": 153
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 176,
+				"end": 180
+			}
+		]
 	},
 	{
 		"aya_id": 5236,
@@ -60,7 +337,29 @@
 		"sura_id": 66,
 		"juz_id": 28,
 		"page_number": 560,
-		"translation_aya_text": "Wahai orang-orang kafir! Janganlah kamu mengemukakan alasan pada hari ini. Sesungguhnya kamu hanya diberi balasan menurut apa yang telah kamu kerjakan. "
+		"translation_aya_text": "Wahai orang-orang kafir! Janganlah kamu mengemukakan alasan pada hari ini. Sesungguhnya kamu hanya diberi balasan menurut apa yang telah kamu kerjakan. ",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 0,
+				"end": 3
+			},
+			{
+				"class": "ghunnah",
+				"start": 63,
+				"end": 66
+			},
+			{
+				"class": "qalqalah",
+				"start": 72,
+				"end": 73
+			},
+			{
+				"class": "ikhfa",
+				"start": 87,
+				"end": 91
+			}
+		]
 	},
 	{
 		"aya_id": 5237,
@@ -69,7 +368,79 @@
 		"sura_id": 66,
 		"juz_id": 28,
 		"page_number": 561,
-		"translation_aya_text": "Wahai orang-orang yang beriman! Bertobatlah kepada Allah dengan tobat yang semurni-murninya, mudah-mudahan Tuhan kamu akan menghapus kesalahan-kesalahanmu dan memasukkan kamu ke dalam surga yang mengalir di bawahnya sungai-sungai, pada hari ketika Allah tidak mengecewakan Nabi dan orang-orang yang beriman bersama dengannya; sedang cahaya mereka memancar di hadapan dan di sebelah kanan mereka, sambil mereka berkata, “Ya Tuhan kami, sempurnakanlah untuk kami cahaya kami dan ampunilah kami; Sungguh, Engkau Mahakuasa atas segala sesuatu.” "
+		"translation_aya_text": "Wahai orang-orang yang beriman! Bertobatlah kepada Allah dengan tobat yang semurni-murninya, mudah-mudahan Tuhan kamu akan menghapus kesalahan-kesalahanmu dan memasukkan kamu ke dalam surga yang mengalir di bawahnya sungai-sungai, pada hari ketika Allah tidak mengecewakan Nabi dan orang-orang yang beriman bersama dengannya; sedang cahaya mereka memancar di hadapan dan di sebelah kanan mereka, sambil mereka berkata, “Ya Tuhan kami, sempurnakanlah untuk kami cahaya kami dan ampunilah kami; Sungguh, Engkau Mahakuasa atas segala sesuatu.” ",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 0,
+				"end": 3
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 39,
+				"end": 42
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 64,
+				"end": 69
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 97,
+				"end": 102
+			},
+			{
+				"class": "ikhfa",
+				"start": 113,
+				"end": 117
+			},
+			{
+				"class": "qalqalah",
+				"start": 138,
+				"end": 139
+			},
+			{
+				"class": "ghunnah",
+				"start": 151,
+				"end": 154
+			},
+			{
+				"class": "ikhfa",
+				"start": 154,
+				"end": 159
+			},
+			{
+				"class": "qalqalah",
+				"start": 159,
+				"end": 160
+			},
+			{
+				"class": "ikhfa",
+				"start": 168,
+				"end": 173
+			},
+			{
+				"class": "ghunnah",
+				"start": 223,
+				"end": 226
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 339,
+				"end": 343
+			},
+			{
+				"class": "ghunnah",
+				"start": 387,
+				"end": 390
+			},
+			{
+				"class": "ikhfa",
+				"start": 409,
+				"end": 414
+			}
+		]
 	},
 	{
 		"aya_id": 5238,
@@ -78,7 +449,24 @@
 		"sura_id": 66,
 		"juz_id": 28,
 		"page_number": 561,
-		"translation_aya_text": "Wahai Nabi! Perangilah orang-orang kafir dan orang-orang munafik dan bersikap keraslah terhadap mereka. Tempat mereka adalah neraka Jahanam dan itulah seburuk-buruk tempat kembali. "
+		"translation_aya_text": "Wahai Nabi! Perangilah orang-orang kafir dan orang-orang munafik dan bersikap keraslah terhadap mereka. Tempat mereka adalah neraka Jahanam dan itulah seburuk-buruk tempat kembali. ",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 0,
+				"end": 3
+			},
+			{
+				"class": "ghunnah",
+				"start": 14,
+				"end": 17
+			},
+			{
+				"class": "ghunnah",
+				"start": 101,
+				"end": 104
+			}
+		]
 	},
 	{
 		"aya_id": 5239,
@@ -87,7 +475,59 @@
 		"sura_id": 66,
 		"juz_id": 28,
 		"page_number": 561,
-		"translation_aya_text": "Allah membuat perumpamaan bagi orang-orang kafir, istri Nuh dan istri Lut. Keduanya berada di bawah pengawasan dua orang hamba yang saleh di antara hamba-hamba Kami; lalu kedua istri itu berkhianat kepada kedua suaminya, tetapi kedua suaminya itu tidak dapat membantu mereka sedikit pun dari (siksaan) Allah; dan dikatakan (kepada kedua istri itu), “Masuklah kamu berdua ke neraka bersama orang-orang yang masuk (neraka).” "
+		"translation_aya_text": "Allah membuat perumpamaan bagi orang-orang kafir, istri Nuh dan istri Lut. Keduanya berada di bawah pengawasan dua orang hamba yang saleh di antara hamba-hamba Kami; lalu kedua istri itu berkhianat kepada kedua suaminya, tetapi kedua suaminya itu tidak dapat membantu mereka sedikit pun dari (siksaan) Allah; dan dikatakan (kepada kedua istri itu), “Masuklah kamu berdua ke neraka bersama orang-orang yang masuk (neraka).” ",
+		"tajweed": [
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 19,
+				"end": 21
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 22,
+				"end": 24
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 59,
+				"end": 64
+			},
+			{
+				"class": "ikhfa",
+				"start": 79,
+				"end": 81
+			},
+			{
+				"class": "ikhfa",
+				"start": 82,
+				"end": 84
+			},
+			{
+				"class": "qalqalah",
+				"start": 101,
+				"end": 102
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 197,
+				"end": 200
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 201,
+				"end": 203
+			},
+			{
+				"class": "qalqalah",
+				"start": 213,
+				"end": 214
+			},
+			{
+				"class": "ghunnah",
+				"start": 223,
+				"end": 226
+			}
+		]
 	},
 	{
 		"aya_id": 5240,
@@ -96,7 +536,49 @@
 		"sura_id": 66,
 		"juz_id": 28,
 		"page_number": 561,
-		"translation_aya_text": "Dan Allah membuat perumpamaan bagi orang-orang yang beriman, istri Fir‘aun, ketika dia berkata, “Ya Tuhanku, bangunkanlah untukku sebuah rumah di sisi-Mu dalam surga dan selamatkanlah aku dari Fir‘aun dan perbuatannya, dan selamatkanlah aku dari kaum yang zalim,” "
+		"translation_aya_text": "Dan Allah membuat perumpamaan bagi orang-orang yang beriman, istri Fir‘aun, ketika dia berkata, “Ya Tuhanku, bangunkanlah untukku sebuah rumah di sisi-Mu dalam surga dan selamatkanlah aku dari Fir‘aun dan perbuatannya, dan selamatkanlah aku dari kaum yang zalim,” ",
+		"tajweed": [
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 21,
+				"end": 23
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 24,
+				"end": 26
+			},
+			{
+				"class": "qalqalah",
+				"start": 89,
+				"end": 90
+			},
+			{
+				"class": "ikhfa",
+				"start": 101,
+				"end": 105
+			},
+			{
+				"class": "ikhfa",
+				"start": 112,
+				"end": 114
+			},
+			{
+				"class": "ikhfa",
+				"start": 115,
+				"end": 117
+			},
+			{
+				"class": "ghunnah",
+				"start": 125,
+				"end": 128
+			},
+			{
+				"class": "ikhfa",
+				"start": 145,
+				"end": 150
+			}
+		]
 	},
 	{
 		"aya_id": 5241,
@@ -105,6 +587,23 @@
 		"sura_id": 66,
 		"juz_id": 28,
 		"page_number": 561,
-		"translation_aya_text": "dan Maryam putri Imran yang memelihara kehormatannya, maka Kami tiupkan ke dalam rahimnya sebagian dari roh (ciptaan) Kami; dan dia membenarkan kalimat-kalimat Tuhannya dan kitab-kitab-Nya; dan dia termasuk orang-orang yang taat. "
+		"translation_aya_text": "dan Maryam putri Imran yang memelihara kehormatannya, maka Kami tiupkan ke dalam rahimnya sebagian dari roh (ciptaan) Kami; dan dia membenarkan kalimat-kalimat Tuhannya dan kitab-kitab-Nya; dan dia termasuk orang-orang yang taat. ",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 12,
+				"end": 13
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 34,
+				"end": 38
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 80,
+				"end": 85
+			}
+		]
 	}
 ]

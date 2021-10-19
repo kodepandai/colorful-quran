@@ -6,7 +6,19 @@
 		"sura_id": 104,
 		"juz_id": 30,
 		"page_number": 601,
-		"translation_aya_text": "Celakalah bagi setiap pengumpat dan pencela,"
+		"translation_aya_text": "Celakalah bagi setiap pengumpat dan pencela,",
+		"tajweed": [
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 4,
+				"end": 9
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 22,
+				"end": 27
+			}
+		]
 	},
 	{
 		"aya_id": 6181,
@@ -15,7 +27,19 @@
 		"sura_id": 104,
 		"juz_id": 30,
 		"page_number": 601,
-		"translation_aya_text": "yang mengumpulkan harta dan menghitung-hitungnya,"
+		"translation_aya_text": "yang mengumpulkan harta dan menghitung-hitungnya,",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 21,
+				"end": 23
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 24,
+				"end": 26
+			}
+		]
 	},
 	{
 		"aya_id": 6182,
@@ -24,7 +48,19 @@
 		"sura_id": 104,
 		"juz_id": 30,
 		"page_number": 601,
-		"translation_aya_text": "dia (manusia) mengira bahwa hartanya itu dapat mengekalkannya."
+		"translation_aya_text": "dia (manusia) mengira bahwa hartanya itu dapat mengekalkannya.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 11,
+				"end": 14
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 20,
+				"end": 24
+			}
+		]
 	},
 	{
 		"aya_id": 6183,
@@ -33,7 +69,24 @@
 		"sura_id": 104,
 		"juz_id": 30,
 		"page_number": 601,
-		"translation_aya_text": "Sekali-kali tidak! Pasti dia akan dilemparkan ke dalam (neraka) Hutamah."
+		"translation_aya_text": "Sekali-kali tidak! Pasti dia akan dilemparkan ke dalam (neraka) Hutamah.",
+		"tajweed": [
+			{
+				"class": "iqlab",
+				"start": 11,
+				"end": 13
+			},
+			{
+				"class": "iqlab",
+				"start": 13,
+				"end": 15
+			},
+			{
+				"class": "ghunnah",
+				"start": 18,
+				"end": 21
+			}
+		]
 	},
 	{
 		"aya_id": 6184,
@@ -42,7 +95,19 @@
 		"sura_id": 104,
 		"juz_id": 30,
 		"page_number": 601,
-		"translation_aya_text": "Dan tahukah kamu apakah (neraka) Hutamah itu?"
+		"translation_aya_text": "Dan tahukah kamu apakah (neraka) Hutamah itu?",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 3,
+				"end": 7
+			},
+			{
+				"class": "qalqalah",
+				"start": 9,
+				"end": 10
+			}
+		]
 	},
 	{
 		"aya_id": 6185,
@@ -51,7 +116,8 @@
 		"sura_id": 104,
 		"juz_id": 30,
 		"page_number": 601,
-		"translation_aya_text": "(Yaitu) api  (azab) Allah yang dinyalakan,"
+		"translation_aya_text": "(Yaitu) api  (azab) Allah yang dinyalakan,",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6186,
@@ -60,7 +126,8 @@
 		"sura_id": 104,
 		"juz_id": 30,
 		"page_number": 601,
-		"translation_aya_text": "yang (membakar) sampai ke hati."
+		"translation_aya_text": "yang (membakar) sampai ke hati.",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6187,
@@ -69,7 +136,19 @@
 		"sura_id": 104,
 		"juz_id": 30,
 		"page_number": 601,
-		"translation_aya_text": "Sungguh, api itu ditutup rapat atas (diri) mereka,"
+		"translation_aya_text": "Sungguh, api itu ditutup rapat atas (diri) mereka,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "idgham-mimi",
+				"start": 17,
+				"end": 22
+			}
+		]
 	},
 	{
 		"aya_id": 6188,
@@ -78,6 +157,13 @@
 		"sura_id": 104,
 		"juz_id": 30,
 		"page_number": 601,
-		"translation_aya_text": "(sedang mereka itu) diikat pada tiang-tiang yang panjang."
+		"translation_aya_text": "(sedang mereka itu) diikat pada tiang-tiang yang panjang.",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 9,
+				"end": 14
+			}
+		]
 	}
 ]

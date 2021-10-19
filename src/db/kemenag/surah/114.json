@@ -6,7 +6,14 @@
 		"sura_id": 114,
 		"juz_id": 30,
 		"page_number": 604,
-		"translation_aya_text": "Katakanlah, “Aku berlindung kepada Tuhannya manusia,"
+		"translation_aya_text": "Katakanlah, “Aku berlindung kepada Tuhannya manusia,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 24,
+				"end": 27
+			}
+		]
 	},
 	{
 		"aya_id": 6232,
@@ -15,7 +22,14 @@
 		"sura_id": 114,
 		"juz_id": 30,
 		"page_number": 604,
-		"translation_aya_text": "Raja manusia,"
+		"translation_aya_text": "Raja manusia,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 9,
+				"end": 12
+			}
+		]
 	},
 	{
 		"aya_id": 6233,
@@ -24,7 +38,14 @@
 		"sura_id": 114,
 		"juz_id": 30,
 		"page_number": 604,
-		"translation_aya_text": "sembahan manusia,"
+		"translation_aya_text": "sembahan manusia,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 9,
+				"end": 12
+			}
+		]
 	},
 	{
 		"aya_id": 6234,
@@ -33,7 +54,19 @@
 		"sura_id": 114,
 		"juz_id": 30,
 		"page_number": 604,
-		"translation_aya_text": "dari kejahatan (bisikan) setan yang bersembunyi,"
+		"translation_aya_text": "dari kejahatan (bisikan) setan yang bersembunyi,",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 2,
+				"end": 7
+			},
+			{
+				"class": "ghunnah",
+				"start": 32,
+				"end": 35
+			}
+		]
 	},
 	{
 		"aya_id": 6235,
@@ -42,7 +75,14 @@
 		"sura_id": 114,
 		"juz_id": 30,
 		"page_number": 604,
-		"translation_aya_text": "yang membisikkan (kejahatan) ke dalam dada manusia,"
+		"translation_aya_text": "yang membisikkan (kejahatan) ke dalam dada manusia,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 36,
+				"end": 39
+			}
+		]
 	},
 	{
 		"aya_id": 6236,
@@ -51,6 +91,18 @@
 		"sura_id": 114,
 		"juz_id": 30,
 		"page_number": 604,
-		"translation_aya_text": "dari (golongan) jin dan manusia.”"
+		"translation_aya_text": "dari (golongan) jin dan manusia.”",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 10,
+				"end": 13
+			},
+			{
+				"class": "ghunnah",
+				"start": 20,
+				"end": 23
+			}
+		]
 	}
 ]

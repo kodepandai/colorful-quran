@@ -6,7 +6,19 @@
 		"sura_id": 84,
 		"juz_id": 30,
 		"page_number": 589,
-		"translation_aya_text": "Apabila langit terbelah,"
+		"translation_aya_text": "Apabila langit terbelah,",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 12,
+				"end": 15
+			},
+			{
+				"class": "ikhfa",
+				"start": 19,
+				"end": 23
+			}
+		]
 	},
 	{
 		"aya_id": 5886,
@@ -15,7 +27,8 @@
 		"sura_id": 84,
 		"juz_id": 30,
 		"page_number": 589,
-		"translation_aya_text": "dan patuh kepada Tuhannya, dan sudah semestinya patuh, "
+		"translation_aya_text": "dan patuh kepada Tuhannya, dan sudah semestinya patuh, ",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5887,
@@ -24,7 +37,8 @@
 		"sura_id": 84,
 		"juz_id": 30,
 		"page_number": 589,
-		"translation_aya_text": "dan apabila bumi diratakan, "
+		"translation_aya_text": "dan apabila bumi diratakan, ",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5888,
@@ -33,7 +47,8 @@
 		"sura_id": 84,
 		"juz_id": 30,
 		"page_number": 589,
-		"translation_aya_text": "dan memuntahkan apa yang ada di dalamnya dan menjadi kosong,"
+		"translation_aya_text": "dan memuntahkan apa yang ada di dalamnya dan menjadi kosong,",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5889,
@@ -42,7 +57,8 @@
 		"sura_id": 84,
 		"juz_id": 30,
 		"page_number": 589,
-		"translation_aya_text": "dan patuh kepada Tuhannya, dan sudah semestinya patuh."
+		"translation_aya_text": "dan patuh kepada Tuhannya, dan sudah semestinya patuh.",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5890,
@@ -51,7 +67,39 @@
 		"sura_id": 84,
 		"juz_id": 30,
 		"page_number": 589,
-		"translation_aya_text": "Wahai manusia! Sesungguhnya kamu telah bekerja keras menuju Tuhanmu, maka kamu akan menemui-Nya."
+		"translation_aya_text": "Wahai manusia! Sesungguhnya kamu telah bekerja keras menuju Tuhanmu, maka kamu akan menemui-Nya.",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 0,
+				"end": 3
+			},
+			{
+				"class": "ikhfa",
+				"start": 17,
+				"end": 21
+			},
+			{
+				"class": "ghunnah",
+				"start": 27,
+				"end": 30
+			},
+			{
+				"class": "qalqalah",
+				"start": 57,
+				"end": 58
+			},
+			{
+				"class": "ikhfa",
+				"start": 59,
+				"end": 61
+			},
+			{
+				"class": "ikhfa",
+				"start": 62,
+				"end": 64
+			}
+		]
 	},
 	{
 		"aya_id": 5891,
@@ -60,7 +108,14 @@
 		"sura_id": 84,
 		"juz_id": 30,
 		"page_number": 589,
-		"translation_aya_text": "Maka adapun orang yang catatannya diberikan dari sebelah kanannya, "
+		"translation_aya_text": "Maka adapun orang yang catatannya diberikan dari sebelah kanannya, ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 4,
+				"end": 7
+			}
+		]
 	},
 	{
 		"aya_id": 5892,
@@ -69,7 +124,19 @@
 		"sura_id": 84,
 		"juz_id": 30,
 		"page_number": 589,
-		"translation_aya_text": "maka dia akan diperiksa dengan pemeriksaan yang mudah, "
+		"translation_aya_text": "maka dia akan diperiksa dengan pemeriksaan yang mudah, ",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 24,
+				"end": 26
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 27,
+				"end": 29
+			}
+		]
 	},
 	{
 		"aya_id": 5893,
@@ -78,7 +145,19 @@
 		"sura_id": 84,
 		"juz_id": 30,
 		"page_number": 589,
-		"translation_aya_text": "dan dia akan kembali kepada keluarganya (yang sama-sama beriman) dengan gembira."
+		"translation_aya_text": "dan dia akan kembali kepada keluarganya (yang sama-sama beriman) dengan gembira.",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 5,
+				"end": 9
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 16,
+				"end": 21
+			}
+		]
 	},
 	{
 		"aya_id": 5894,
@@ -87,7 +166,19 @@
 		"sura_id": 84,
 		"juz_id": 30,
 		"page_number": 589,
-		"translation_aya_text": "Dan adapun orang yang catatannya diberikan dari sebelah belakang, "
+		"translation_aya_text": "Dan adapun orang yang catatannya diberikan dari sebelah belakang, ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 4,
+				"end": 7
+			},
+			{
+				"class": "madd-wajib",
+				"start": 35,
+				"end": 38
+			}
+		]
 	},
 	{
 		"aya_id": 5895,
@@ -96,7 +187,14 @@
 		"sura_id": 84,
 		"juz_id": 30,
 		"page_number": 589,
-		"translation_aya_text": "maka dia akan berteriak, “Celakalah aku!” "
+		"translation_aya_text": "maka dia akan berteriak, “Celakalah aku!” ",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 11,
+				"end": 12
+			}
+		]
 	},
 	{
 		"aya_id": 5896,
@@ -105,7 +203,8 @@
 		"sura_id": 84,
 		"juz_id": 30,
 		"page_number": 589,
-		"translation_aya_text": "Dan dia akan masuk ke dalam api yang menyala-nyala (neraka)."
+		"translation_aya_text": "Dan dia akan masuk ke dalam api yang menyala-nyala (neraka).",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5897,
@@ -114,7 +213,19 @@
 		"sura_id": 84,
 		"juz_id": 30,
 		"page_number": 589,
-		"translation_aya_text": "Sungguh, dia dahulu (di dunia) bergembira di kalangan keluarganya (yang sama-sama kafir). "
+		"translation_aya_text": "Sungguh, dia dahulu (di dunia) bergembira di kalangan keluarganya (yang sama-sama kafir). ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 16,
+				"end": 20
+			}
+		]
 	},
 	{
 		"aya_id": 5898,
@@ -123,7 +234,29 @@
 		"sura_id": 84,
 		"juz_id": 30,
 		"page_number": 589,
-		"translation_aya_text": "Sesungguhnya dia mengira bahwa dia tidak akan kembali (kepada Tuhannya). "
+		"translation_aya_text": "Sesungguhnya dia mengira bahwa dia tidak akan kembali (kepada Tuhannya). ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "ghunnah",
+				"start": 10,
+				"end": 13
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 16,
+				"end": 21
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 22,
+				"end": 27
+			}
+		]
 	},
 	{
 		"aya_id": 5899,
@@ -132,7 +265,14 @@
 		"sura_id": 84,
 		"juz_id": 30,
 		"page_number": 589,
-		"translation_aya_text": "Tidak demikian, sesungguhnya Tuhannya selalu melihatnya. "
+		"translation_aya_text": "Tidak demikian, sesungguhnya Tuhannya selalu melihatnya. ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 9,
+				"end": 12
+			}
+		]
 	},
 	{
 		"aya_id": 5900,
@@ -141,7 +281,19 @@
 		"sura_id": 84,
 		"juz_id": 30,
 		"page_number": 589,
-		"translation_aya_text": "Maka Aku bersumpah demi cahaya merah pada waktu senja, "
+		"translation_aya_text": "Maka Aku bersumpah demi cahaya merah pada waktu senja, ",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 3,
+				"end": 7
+			},
+			{
+				"class": "qalqalah",
+				"start": 9,
+				"end": 10
+			}
+		]
 	},
 	{
 		"aya_id": 5901,
@@ -150,7 +302,8 @@
 		"sura_id": 84,
 		"juz_id": 30,
 		"page_number": 589,
-		"translation_aya_text": "demi malam dan apa yang diselubunginya,"
+		"translation_aya_text": "demi malam dan apa yang diselubunginya,",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5902,
@@ -159,7 +312,8 @@
 		"sura_id": 84,
 		"juz_id": 30,
 		"page_number": 589,
-		"translation_aya_text": "demi bulan apabila jadi purnama,"
+		"translation_aya_text": "demi bulan apabila jadi purnama,",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5903,
@@ -168,7 +322,19 @@
 		"sura_id": 84,
 		"juz_id": 30,
 		"page_number": 589,
-		"translation_aya_text": "sungguh, akan kamu jalani tingkat demi tingkat (dalam kehidupan)."
+		"translation_aya_text": "sungguh, akan kamu jalani tingkat demi tingkat (dalam kehidupan).",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 10,
+				"end": 13
+			},
+			{
+				"class": "ikhfa",
+				"start": 24,
+				"end": 29
+			}
+		]
 	},
 	{
 		"aya_id": 5904,
@@ -177,7 +343,8 @@
 		"sura_id": 84,
 		"juz_id": 30,
 		"page_number": 589,
-		"translation_aya_text": "Maka mengapa mereka tidak mau beriman?"
+		"translation_aya_text": "Maka mengapa mereka tidak mau beriman?",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5905,
@@ -186,7 +353,8 @@
 		"sura_id": 84,
 		"juz_id": 30,
 		"page_number": 589,
-		"translation_aya_text": "Dan apabila Al-Qur'an dibacakan kepada mereka, mereka tidak (mau) bersujud,"
+		"translation_aya_text": "Dan apabila Al-Qur'an dibacakan kepada mereka, mereka tidak (mau) bersujud,",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5906,
@@ -195,7 +363,8 @@
 		"sura_id": 84,
 		"juz_id": 30,
 		"page_number": 589,
-		"translation_aya_text": "bahkan orang-orang kafir itu mendustakan(nya)."
+		"translation_aya_text": "bahkan orang-orang kafir itu mendustakan(nya).",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5907,
@@ -204,7 +373,8 @@
 		"sura_id": 84,
 		"juz_id": 30,
 		"page_number": 589,
-		"translation_aya_text": "Dan Allah lebih mengetahui apa yang mereka sembunyikan (dalam hati mereka)."
+		"translation_aya_text": "Dan Allah lebih mengetahui apa yang mereka sembunyikan (dalam hati mereka).",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5908,
@@ -213,7 +383,8 @@
 		"sura_id": 84,
 		"juz_id": 30,
 		"page_number": 589,
-		"translation_aya_text": "Maka sampaikanlah kepada mereka (ancaman) azab yang pedih,"
+		"translation_aya_text": "Maka sampaikanlah kepada mereka (ancaman) azab yang pedih,",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5909,
@@ -222,6 +393,13 @@
 		"sura_id": 84,
 		"juz_id": 30,
 		"page_number": 589,
-		"translation_aya_text": "kecuali orang-orang yang beriman dan mengerjakan kebajikan, mereka akan mendapat pahala yang tidak putus-putusnya."
+		"translation_aya_text": "kecuali orang-orang yang beriman dan mengerjakan kebajikan, mereka akan mendapat pahala yang tidak putus-putusnya.",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 60,
+				"end": 61
+			}
+		]
 	}
 ]

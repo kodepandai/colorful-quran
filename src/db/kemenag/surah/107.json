@@ -6,7 +6,8 @@
 		"sura_id": 107,
 		"juz_id": 30,
 		"page_number": 602,
-		"translation_aya_text": "Tahukah kamu (orang) yang mendustakan agama?"
+		"translation_aya_text": "Tahukah kamu (orang) yang mendustakan agama?",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6199,
@@ -15,7 +16,8 @@
 		"sura_id": 107,
 		"juz_id": 30,
 		"page_number": 602,
-		"translation_aya_text": "Maka itulah orang yang menghardik anak yatim,"
+		"translation_aya_text": "Maka itulah orang yang menghardik anak yatim,",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6200,
@@ -24,7 +26,8 @@
 		"sura_id": 107,
 		"juz_id": 30,
 		"page_number": 602,
-		"translation_aya_text": "dan tidak mendorong memberi makan orang miskin."
+		"translation_aya_text": "dan tidak mendorong memberi makan orang miskin.",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6201,
@@ -33,7 +36,14 @@
 		"sura_id": 107,
 		"juz_id": 30,
 		"page_number": 602,
-		"translation_aya_text": "Maka celakalah orang yang salat,"
+		"translation_aya_text": "Maka celakalah orang yang salat,",
+		"tajweed": [
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 6,
+				"end": 11
+			}
+		]
 	},
 	{
 		"aya_id": 6202,
@@ -42,7 +52,14 @@
 		"sura_id": 107,
 		"juz_id": 30,
 		"page_number": 602,
-		"translation_aya_text": "(yaitu) orang-orang yang lalai terhadap salatnya,"
+		"translation_aya_text": "(yaitu) orang-orang yang lalai terhadap salatnya,",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 18,
+				"end": 23
+			}
+		]
 	},
 	{
 		"aya_id": 6203,
@@ -51,7 +68,14 @@
 		"sura_id": 107,
 		"juz_id": 30,
 		"page_number": 602,
-		"translation_aya_text": "yang berbuat ria,"
+		"translation_aya_text": "yang berbuat ria,",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 19,
+				"end": 22
+			}
+		]
 	},
 	{
 		"aya_id": 6204,
@@ -60,6 +84,7 @@
 		"sura_id": 107,
 		"juz_id": 30,
 		"page_number": 602,
-		"translation_aya_text": "dan enggan (memberikan) bantuan."
+		"translation_aya_text": "dan enggan (memberikan) bantuan.",
+		"tajweed": []
 	}
 ]

@@ -6,7 +6,8 @@
 		"sura_id": 113,
 		"juz_id": 30,
 		"page_number": 604,
-		"translation_aya_text": "Katakanlah, “Aku berlindung kepada Tuhan yang menguasai subuh (fajar),"
+		"translation_aya_text": "Katakanlah, “Aku berlindung kepada Tuhan yang menguasai subuh (fajar),",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6227,
@@ -15,7 +16,14 @@
 		"sura_id": 113,
 		"juz_id": 30,
 		"page_number": 604,
-		"translation_aya_text": "dari kejahatan (makhluk yang) Dia ciptakan,"
+		"translation_aya_text": "dari kejahatan (makhluk yang) Dia ciptakan,",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 2,
+				"end": 7
+			}
+		]
 	},
 	{
 		"aya_id": 6228,
@@ -24,7 +32,14 @@
 		"sura_id": 113,
 		"juz_id": 30,
 		"page_number": 604,
-		"translation_aya_text": "dan dari kejahatan malam apabila telah gelap gulita,"
+		"translation_aya_text": "dan dari kejahatan malam apabila telah gelap gulita,",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 4,
+				"end": 9
+			}
+		]
 	},
 	{
 		"aya_id": 6229,
@@ -33,7 +48,19 @@
 		"sura_id": 113,
 		"juz_id": 30,
 		"page_number": 604,
-		"translation_aya_text": "dan dari kejahatan (perempuan-perempuan) penyihir yang meniup pada buhul-buhul (talinya),"
+		"translation_aya_text": "dan dari kejahatan (perempuan-perempuan) penyihir yang meniup pada buhul-buhul (talinya),",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 4,
+				"end": 9
+			},
+			{
+				"class": "ghunnah",
+				"start": 15,
+				"end": 18
+			}
+		]
 	},
 	{
 		"aya_id": 6230,
@@ -42,6 +69,13 @@
 		"sura_id": 113,
 		"juz_id": 30,
 		"page_number": 604,
-		"translation_aya_text": "dan dari kejahatan orang yang dengki apabila dia dengki.”"
+		"translation_aya_text": "dan dari kejahatan orang yang dengki apabila dia dengki.”",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 4,
+				"end": 9
+			}
+		]
 	}
 ]

@@ -6,7 +6,8 @@
 		"sura_id": 95,
 		"juz_id": 30,
 		"page_number": 597,
-		"translation_aya_text": "Demi (buah) Tin dan (buah) Zaitun,"
+		"translation_aya_text": "Demi (buah) Tin dan (buah) Zaitun,",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6100,
@@ -15,7 +16,8 @@
 		"sura_id": 95,
 		"juz_id": 30,
 		"page_number": 597,
-		"translation_aya_text": "demi gunung Sinai,"
+		"translation_aya_text": "demi gunung Sinai,",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6101,
@@ -24,7 +26,8 @@
 		"sura_id": 95,
 		"juz_id": 30,
 		"page_number": 597,
-		"translation_aya_text": "dan demi negeri (Mekah) yang aman ini."
+		"translation_aya_text": "dan demi negeri (Mekah) yang aman ini.",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6102,
@@ -33,7 +36,34 @@
 		"sura_id": 95,
 		"juz_id": 30,
 		"page_number": 597,
-		"translation_aya_text": "Sungguh, Kami telah menciptakan manusia dalam bentuk yang sebaik-baiknya,"
+		"translation_aya_text": "Sungguh, Kami telah menciptakan manusia dalam bentuk yang sebaik-baiknya,",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 4,
+				"end": 5
+			},
+			{
+				"class": "qalqalah",
+				"start": 11,
+				"end": 12
+			},
+			{
+				"class": "ikhfa",
+				"start": 22,
+				"end": 26
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 32,
+				"end": 36
+			},
+			{
+				"class": "qalqalah",
+				"start": 47,
+				"end": 48
+			}
+		]
 	},
 	{
 		"aya_id": 6103,
@@ -42,7 +72,19 @@
 		"sura_id": 95,
 		"juz_id": 30,
 		"page_number": 597,
-		"translation_aya_text": "kemudian Kami kembalikan dia ke tempat yang serendah-rendahnya,"
+		"translation_aya_text": "kemudian Kami kembalikan dia ke tempat yang serendah-rendahnya,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "qalqalah",
+				"start": 10,
+				"end": 11
+			}
+		]
 	},
 	{
 		"aya_id": 6104,
@@ -51,7 +93,14 @@
 		"sura_id": 95,
 		"juz_id": 30,
 		"page_number": 597,
-		"translation_aya_text": "kecuali orang-orang yang beriman dan mengerjakan kebajikan; maka mereka akan mendapat pahala yang tidak ada putus-putusnya."
+		"translation_aya_text": "kecuali orang-orang yang beriman dan mengerjakan kebajikan; maka mereka akan mendapat pahala yang tidak ada putus-putusnya.",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 62,
+				"end": 63
+			}
+		]
 	},
 	{
 		"aya_id": 6105,
@@ -60,7 +109,8 @@
 		"sura_id": 95,
 		"juz_id": 30,
 		"page_number": 597,
-		"translation_aya_text": "Maka apa yang menyebabkan (mereka) mendustakanmu (tentang) hari pembalasan setelah (adanya keterangan-keterangan) itu?"
+		"translation_aya_text": "Maka apa yang menyebabkan (mereka) mendustakanmu (tentang) hari pembalasan setelah (adanya keterangan-keterangan) itu?",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6106,
@@ -69,6 +119,7 @@
 		"sura_id": 95,
 		"juz_id": 30,
 		"page_number": 597,
-		"translation_aya_text": "Bukankah Allah hakim yang paling adil?"
+		"translation_aya_text": "Bukankah Allah hakim yang paling adil?",
+		"tajweed": []
 	}
 ]

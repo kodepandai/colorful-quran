@@ -6,7 +6,14 @@
 		"sura_id": 100,
 		"juz_id": 30,
 		"page_number": 599,
-		"translation_aya_text": "Demi kuda perang yang berlari kencang terengah-engah,"
+		"translation_aya_text": "Demi kuda perang yang berlari kencang terengah-engah,",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 16,
+				"end": 17
+			}
+		]
 	},
 	{
 		"aya_id": 6148,
@@ -15,7 +22,14 @@
 		"sura_id": 100,
 		"juz_id": 30,
 		"page_number": 599,
-		"translation_aya_text": "dan kuda yang memercikkan bunga api (dengan pukulan kuku kakinya),"
+		"translation_aya_text": "dan kuda yang memercikkan bunga api (dengan pukulan kuku kakinya),",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 18,
+				"end": 19
+			}
+		]
 	},
 	{
 		"aya_id": 6149,
@@ -24,7 +38,14 @@
 		"sura_id": 100,
 		"juz_id": 30,
 		"page_number": 599,
-		"translation_aya_text": "dan kuda yang menyerang (dengan tiba-tiba) pada waktu pagi,"
+		"translation_aya_text": "dan kuda yang menyerang (dengan tiba-tiba) pada waktu pagi,",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 18,
+				"end": 19
+			}
+		]
 	},
 	{
 		"aya_id": 6150,
@@ -33,7 +54,14 @@
 		"sura_id": 100,
 		"juz_id": 30,
 		"page_number": 599,
-		"translation_aya_text": "sehingga menerbangkan debu,"
+		"translation_aya_text": "sehingga menerbangkan debu,",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 18,
+				"end": 19
+			}
+		]
 	},
 	{
 		"aya_id": 6151,
@@ -42,7 +70,14 @@
 		"sura_id": 100,
 		"juz_id": 30,
 		"page_number": 599,
-		"translation_aya_text": "lalu menyerbu ke tengah-tengah kumpulan musuh,"
+		"translation_aya_text": "lalu menyerbu ke tengah-tengah kumpulan musuh,",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 6,
+				"end": 7
+			}
+		]
 	},
 	{
 		"aya_id": 6152,
@@ -51,7 +86,19 @@
 		"sura_id": 100,
 		"juz_id": 30,
 		"page_number": 599,
-		"translation_aya_text": "sungguh, manusia itu sangat ingkar, (tidak bersyukur) kepada Tuhannya,"
+		"translation_aya_text": "sungguh, manusia itu sangat ingkar, (tidak bersyukur) kepada Tuhannya,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "ikhfa",
+				"start": 11,
+				"end": 15
+			}
+		]
 	},
 	{
 		"aya_id": 6153,
@@ -60,7 +107,14 @@
 		"sura_id": 100,
 		"juz_id": 30,
 		"page_number": 599,
-		"translation_aya_text": "dan sesungguhnya dia (manusia) menyaksikan (mengakui) keingkarannya,"
+		"translation_aya_text": "dan sesungguhnya dia (manusia) menyaksikan (mengakui) keingkarannya,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 4,
+				"end": 7
+			}
+		]
 	},
 	{
 		"aya_id": 6154,
@@ -69,7 +123,14 @@
 		"sura_id": 100,
 		"juz_id": 30,
 		"page_number": 599,
-		"translation_aya_text": "dan sesungguhnya cintanya kepada harta benar-benar berlebihan."
+		"translation_aya_text": "dan sesungguhnya cintanya kepada harta benar-benar berlebihan.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 4,
+				"end": 7
+			}
+		]
 	},
 	{
 		"aya_id": 6155,
@@ -78,7 +139,8 @@
 		"sura_id": 100,
 		"juz_id": 30,
 		"page_number": 599,
-		"translation_aya_text": "Maka tidakkah dia mengetahui apabila apa yang di dalam kubur dikeluarkan,"
+		"translation_aya_text": "Maka tidakkah dia mengetahui apabila apa yang di dalam kubur dikeluarkan,",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6156,
@@ -87,7 +149,8 @@
 		"sura_id": 100,
 		"juz_id": 30,
 		"page_number": 600,
-		"translation_aya_text": "dan apa yang tersimpan di dalam dada dilahirkan?"
+		"translation_aya_text": "dan apa yang tersimpan di dalam dada dilahirkan?",
+		"tajweed": []
 	},
 	{
 		"aya_id": 6157,
@@ -96,6 +159,18 @@
 		"sura_id": 100,
 		"juz_id": 30,
 		"page_number": 600,
-		"translation_aya_text": "sungguh, Tuhan mereka pada hari itu Mahateliti terhadap keadaan mereka."
+		"translation_aya_text": "sungguh, Tuhan mereka pada hari itu Mahateliti terhadap keadaan mereka.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 32,
+				"end": 37
+			}
+		]
 	}
 ]

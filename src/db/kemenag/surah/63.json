@@ -6,7 +6,29 @@
 		"sura_id": 63,
 		"juz_id": 28,
 		"page_number": 554,
-		"translation_aya_text": "Apabila orang-orang munafik datang kepadamu (Muhammad), mereka berkata, “Kami mengakui, bahwa engkau adalah Rasul Allah.” Dan Allah mengetahui bahwa engkau benar-benar Rasul-Nya; dan Allah menyaksikan bahwa orang-orang munafik itu benar-benar pendusta."
+		"translation_aya_text": "Apabila orang-orang munafik datang kepadamu (Muhammad), mereka berkata, “Kami mengakui, bahwa engkau adalah Rasul Allah.” Dan Allah mengetahui bahwa engkau benar-benar Rasul-Nya; dan Allah menyaksikan bahwa orang-orang munafik itu benar-benar pendusta.",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 7,
+				"end": 10
+			},
+			{
+				"class": "ghunnah",
+				"start": 51,
+				"end": 54
+			},
+			{
+				"class": "ghunnah",
+				"start": 98,
+				"end": 101
+			},
+			{
+				"class": "ghunnah",
+				"start": 139,
+				"end": 142
+			}
+		]
 	},
 	{
 		"aya_id": 5190,
@@ -15,7 +37,39 @@
 		"sura_id": 63,
 		"juz_id": 28,
 		"page_number": 554,
-		"translation_aya_text": "Mereka menjadikan sumpah-sumpah mereka sebagai perisai, lalu mereka menghalang-halangi (manusia) dari jalan Allah. Sungguh, betapa buruknya apa yang telah mereka kerjakan."
+		"translation_aya_text": "Mereka menjadikan sumpah-sumpah mereka sebagai perisai, lalu mereka menghalang-halangi (manusia) dari jalan Allah. Sungguh, betapa buruknya apa yang telah mereka kerjakan.",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 9,
+				"end": 12
+			},
+			{
+				"class": "ghunnah",
+				"start": 30,
+				"end": 33
+			},
+			{
+				"class": "ikhfa",
+				"start": 33,
+				"end": 38
+			},
+			{
+				"class": "ikhfa",
+				"start": 49,
+				"end": 54
+			},
+			{
+				"class": "ghunnah",
+				"start": 72,
+				"end": 75
+			},
+			{
+				"class": "madd-wajib",
+				"start": 81,
+				"end": 84
+			}
+		]
 	},
 	{
 		"aya_id": 5191,
@@ -24,7 +78,19 @@
 		"sura_id": 63,
 		"juz_id": 28,
 		"page_number": 554,
-		"translation_aya_text": "Yang demikian itu karena sesungguhnya mereka telah beriman, kemudian menjadi kafir, maka hati mereka dikunci, sehingga mereka tidak dapat mengerti. "
+		"translation_aya_text": "Yang demikian itu karena sesungguhnya mereka telah beriman, kemudian menjadi kafir, maka hati mereka dikunci, sehingga mereka tidak dapat mengerti. ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 11,
+				"end": 14
+			},
+			{
+				"class": "ghunnah",
+				"start": 31,
+				"end": 34
+			}
+		]
 	},
 	{
 		"aya_id": 5192,
@@ -33,7 +99,49 @@
 		"sura_id": 63,
 		"juz_id": 28,
 		"page_number": 554,
-		"translation_aya_text": "Dan apabila engkau melihat mereka, tubuh mereka mengagumkanmu. Dan jika mereka berkata, engkau mendengarkan tutur-katanya. Mereka seakan-akan kayu yang tersandar. Mereka mengira bahwa setiap teriakan ditujukan kepada mereka. Mereka itulah musuh (yang sebenarnya), maka waspadalah terhadap mereka; Allah membinasakan mereka. Bagaimanakah mereka dapat dipalingkan (dari kebenaran)?"
+		"translation_aya_text": "Dan apabila engkau melihat mereka, tubuh mereka mengagumkanmu. Dan jika mereka berkata, engkau mendengarkan tutur-katanya. Mereka seakan-akan kayu yang tersandar. Mereka mengira bahwa setiap teriakan ditujukan kepada mereka. Mereka itulah musuh (yang sebenarnya), maka waspadalah terhadap mereka; Allah membinasakan mereka. Bagaimanakah mereka dapat dipalingkan (dari kebenaran)?",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 36,
+				"end": 37
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 53,
+				"end": 58
+			},
+			{
+				"class": "ghunnah",
+				"start": 97,
+				"end": 100
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 109,
+				"end": 114
+			},
+			{
+				"class": "ghunnah",
+				"start": 117,
+				"end": 120
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 122,
+				"end": 124
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 126,
+				"end": 128
+			},
+			{
+				"class": "ghunnah",
+				"start": 221,
+				"end": 224
+			}
+		]
 	},
 	{
 		"aya_id": 5193,
@@ -42,7 +150,14 @@
 		"sura_id": 63,
 		"juz_id": 28,
 		"page_number": 555,
-		"translation_aya_text": "Dan apabila dikatakan kepada mereka, “Marilah (beriman), agar Rasulullah memohonkan ampunan bagimu,” mereka membuang muka dan engkau lihat mereka berpaling dengan menyombongkan diri. "
+		"translation_aya_text": "Dan apabila dikatakan kepada mereka, “Marilah (beriman), agar Rasulullah memohonkan ampunan bagimu,” mereka membuang muka dan engkau lihat mereka berpaling dengan menyombongkan diri. ",
+		"tajweed": [
+			{
+				"class": "idgham-mimi",
+				"start": 123,
+				"end": 128
+			}
+		]
 	},
 	{
 		"aya_id": 5194,
@@ -51,7 +166,24 @@
 		"sura_id": 63,
 		"juz_id": 28,
 		"page_number": 555,
-		"translation_aya_text": "Sama saja bagi mereka, engkau (Muhammad) mohonkan ampunan untuk mereka atau tidak engkau mohonkan ampunan bagi mereka, Allah tidak akan mengampuni mereka; sesungguhnya Allah tidak akan memberi petunjuk kepada orang-orang yang fasik."
+		"translation_aya_text": "Sama saja bagi mereka, engkau (Muhammad) mohonkan ampunan untuk mereka atau tidak engkau mohonkan ampunan bagi mereka, Allah tidak akan mengampuni mereka; sesungguhnya Allah tidak akan memberi petunjuk kepada orang-orang yang fasik.",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 3,
+				"end": 6
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 76,
+				"end": 81
+			},
+			{
+				"class": "ghunnah",
+				"start": 107,
+				"end": 110
+			}
+		]
 	},
 	{
 		"aya_id": 5195,
@@ -60,7 +192,34 @@
 		"sura_id": 63,
 		"juz_id": 28,
 		"page_number": 555,
-		"translation_aya_text": "Mereka yang berkata (kepada orang-orang Ansar), “Janganlah kamu bersedekah kepada orang-orang (Muhajirin) yang ada di sisi Rasulullah sampai mereka bubar (meninggalkan Rasulullah).” Padahal milik Allah-lah perbendaharaan langit dan bumi, tetapi orang-orang munafik itu tidak memahami."
+		"translation_aya_text": "Mereka yang berkata (kepada orang-orang Ansar), “Janganlah kamu bersedekah kepada orang-orang (Muhajirin) yang ada di sisi Rasulullah sampai mereka bubar (meninggalkan Rasulullah).” Padahal milik Allah-lah perbendaharaan langit dan bumi, tetapi orang-orang munafik itu tidak memahami.",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 35,
+				"end": 39
+			},
+			{
+				"class": "ikhfa",
+				"start": 58,
+				"end": 62
+			},
+			{
+				"class": "ikhfa",
+				"start": 89,
+				"end": 93
+			},
+			{
+				"class": "madd-wajib",
+				"start": 114,
+				"end": 118
+			},
+			{
+				"class": "ghunnah",
+				"start": 154,
+				"end": 157
+			}
+		]
 	},
 	{
 		"aya_id": 5196,
@@ -69,7 +228,29 @@
 		"sura_id": 63,
 		"juz_id": 28,
 		"page_number": 555,
-		"translation_aya_text": "Mereka berkata, “Sungguh, jika kita kembali ke Madinah (kembali dari perang Bani Mustalik), pastilah orang yang kuat akan mengusir orang-orang yang lemah dari sana.” Padahal kekuatan itu hanyalah bagi Allah, Rasul-Nya dan bagi orang-orang mukmin, tetapi orang-orang munafik itu tidak mengetahui."
+		"translation_aya_text": "Mereka berkata, “Sungguh, jika kita kembali ke Madinah (kembali dari perang Bani Mustalik), pastilah orang yang kuat akan mengusir orang-orang yang lemah dari sana.” Padahal kekuatan itu hanyalah bagi Allah, Rasul-Nya dan bagi orang-orang mukmin, tetapi orang-orang munafik itu tidak mengetahui.",
+		"tajweed": [
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 18,
+				"end": 23
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 29,
+				"end": 33
+			},
+			{
+				"class": "ghunnah",
+				"start": 63,
+				"end": 66
+			},
+			{
+				"class": "ghunnah",
+				"start": 159,
+				"end": 162
+			}
+		]
 	},
 	{
 		"aya_id": 5197,
@@ -78,7 +259,34 @@
 		"sura_id": 63,
 		"juz_id": 28,
 		"page_number": 555,
-		"translation_aya_text": "Wahai orang-orang yang beriman! Janganlah harta bendamu dan anak-anakmu melalaikan kamu dari mengingat Allah. Dan barangsiapa berbuat demikian, maka mereka itulah orang-orang yang rugi."
+		"translation_aya_text": "Wahai orang-orang yang beriman! Janganlah harta bendamu dan anak-anakmu melalaikan kamu dari mengingat Allah. Dan barangsiapa berbuat demikian, maka mereka itulah orang-orang yang rugi.",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 0,
+				"end": 3
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 65,
+				"end": 69
+			},
+			{
+				"class": "ikhfa",
+				"start": 85,
+				"end": 90
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 108,
+				"end": 113
+			},
+			{
+				"class": "madd-wajib",
+				"start": 133,
+				"end": 137
+			}
+		]
 	},
 	{
 		"aya_id": 5198,
@@ -87,7 +295,79 @@
 		"sura_id": 63,
 		"juz_id": 28,
 		"page_number": 555,
-		"translation_aya_text": "Dan infakkanlah sebagian dari apa yang telah Kami berikan kepadamu sebelum kematian datang kepada salah seorang di antara kamu; lalu dia berkata (menyesali), “Ya Tuhanku, sekiranya Engkau berkenan menunda (kematian)ku sedikit waktu lagi, maka aku dapat bersedekah dan aku akan termasuk orang-orang yang saleh.”"
+		"translation_aya_text": "Dan infakkanlah sebagian dari apa yang telah Kami berikan kepadamu sebelum kematian datang kepada salah seorang di antara kamu; lalu dia berkata (menyesali), “Ya Tuhanku, sekiranya Engkau berkenan menunda (kematian)ku sedikit waktu lagi, maka aku dapat bersedekah dan aku akan termasuk orang-orang yang saleh.”",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 4,
+				"end": 8
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 16,
+				"end": 21
+			},
+			{
+				"class": "qalqalah",
+				"start": 28,
+				"end": 29
+			},
+			{
+				"class": "idgham-mimi",
+				"start": 34,
+				"end": 39
+			},
+			{
+				"class": "ikhfa",
+				"start": 40,
+				"end": 45
+			},
+			{
+				"class": "qalqalah",
+				"start": 45,
+				"end": 46
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 52,
+				"end": 57
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 108,
+				"end": 112
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 123,
+				"end": 127
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 129,
+				"end": 134
+			},
+			{
+				"class": "ikhfa",
+				"start": 138,
+				"end": 143
+			},
+			{
+				"class": "ikhfa",
+				"start": 147,
+				"end": 149
+			},
+			{
+				"class": "ikhfa",
+				"start": 150,
+				"end": 152
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 170,
+				"end": 175
+			}
+		]
 	},
 	{
 		"aya_id": 5199,
@@ -96,6 +376,28 @@
 		"sura_id": 63,
 		"juz_id": 28,
 		"page_number": 555,
-		"translation_aya_text": "Dan Allah tidak akan menunda (kematian) seseorang apabila waktu kematiannya telah datang. Dan Allah Mahateliti apa yang kamu kerjakan."
+		"translation_aya_text": "Dan Allah tidak akan menunda (kematian) seseorang apabila waktu kematiannya telah datang. Dan Allah Mahateliti apa yang kamu kerjakan.",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 4,
+				"end": 9
+			},
+			{
+				"class": "madd-wajib",
+				"start": 41,
+				"end": 44
+			},
+			{
+				"class": "iqlab",
+				"start": 74,
+				"end": 76
+			},
+			{
+				"class": "iqlab",
+				"start": 77,
+				"end": 79
+			}
+		]
 	}
 ]

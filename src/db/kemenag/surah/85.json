@@ -6,7 +6,14 @@
 		"sura_id": 85,
 		"juz_id": 30,
 		"page_number": 590,
-		"translation_aya_text": "Demi langit yang mempunyai gugusan bintang,"
+		"translation_aya_text": "Demi langit yang mempunyai gugusan bintang,",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 8,
+				"end": 11
+			}
+		]
 	},
 	{
 		"aya_id": 5911,
@@ -15,7 +22,8 @@
 		"sura_id": 85,
 		"juz_id": 30,
 		"page_number": 590,
-		"translation_aya_text": "dan demi hari yang dijanjikan."
+		"translation_aya_text": "dan demi hari yang dijanjikan.",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5912,
@@ -24,7 +32,14 @@
 		"sura_id": 85,
 		"juz_id": 30,
 		"page_number": 590,
-		"translation_aya_text": "Demi yang menyaksikan dan yang disaksikan."
+		"translation_aya_text": "Demi yang menyaksikan dan yang disaksikan.",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 7,
+				"end": 12
+			}
+		]
 	},
 	{
 		"aya_id": 5913,
@@ -33,7 +48,8 @@
 		"sura_id": 85,
 		"juz_id": 30,
 		"page_number": 590,
-		"translation_aya_text": "Binasalah orang-orang yang membuat parit (yaitu para pembesar Najran di Yaman),"
+		"translation_aya_text": "Binasalah orang-orang yang membuat parit (yaitu para pembesar Najran di Yaman),",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5914,
@@ -42,7 +58,14 @@
 		"sura_id": 85,
 		"juz_id": 30,
 		"page_number": 590,
-		"translation_aya_text": "yang berapi (yang mempunyai) kayu bakar,"
+		"translation_aya_text": "yang berapi (yang mempunyai) kayu bakar,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			}
+		]
 	},
 	{
 		"aya_id": 5915,
@@ -51,7 +74,8 @@
 		"sura_id": 85,
 		"juz_id": 30,
 		"page_number": 590,
-		"translation_aya_text": "ketika mereka duduk di sekitarnya, "
+		"translation_aya_text": "ketika mereka duduk di sekitarnya, ",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5916,
@@ -60,7 +84,8 @@
 		"sura_id": 85,
 		"juz_id": 30,
 		"page_number": 590,
-		"translation_aya_text": "sedang mereka menyaksikan apa yang mereka perbuat terhadap orang-orang mukmin."
+		"translation_aya_text": "sedang mereka menyaksikan apa yang mereka perbuat terhadap orang-orang mukmin.",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5917,
@@ -69,7 +94,19 @@
 		"sura_id": 85,
 		"juz_id": 30,
 		"page_number": 590,
-		"translation_aya_text": "Dan mereka menyiksa orang-orang mukmin itu hanya karena (orang-orang mukmin itu) beriman kepada Allah Yang Mahaperkasa, Maha Terpuji,"
+		"translation_aya_text": "Dan mereka menyiksa orang-orang mukmin itu hanya karena (orang-orang mukmin itu) beriman kepada Allah Yang Mahaperkasa, Maha Terpuji,",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 29,
+				"end": 33
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 35,
+				"end": 40
+			}
+		]
 	},
 	{
 		"aya_id": 5918,
@@ -78,7 +115,14 @@
 		"sura_id": 85,
 		"juz_id": 30,
 		"page_number": 590,
-		"translation_aya_text": "yang memiliki kerajaan langit dan bumi. Dan Allah Maha Menyaksikan segala sesuatu."
+		"translation_aya_text": "yang memiliki kerajaan langit dan bumi. Dan Allah Maha Menyaksikan segala sesuatu.",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 72,
+				"end": 77
+			}
+		]
 	},
 	{
 		"aya_id": 5919,
@@ -87,7 +131,24 @@
 		"sura_id": 85,
 		"juz_id": 30,
 		"page_number": 590,
-		"translation_aya_text": "Sungguh, orang-orang yang mendatangkan cobaan (bencana, membunuh, menyiksa) kepada orang-orang mukmin laki-laki dan perempuan lalu mereka tidak bertobat, maka mereka akan mendapat azab Jahanam dan mereka akan mendapat azab (neraka) yang membakar."
+		"translation_aya_text": "Sungguh, orang-orang yang mendatangkan cobaan (bencana, membunuh, menyiksa) kepada orang-orang mukmin laki-laki dan perempuan lalu mereka tidak bertobat, maka mereka akan mendapat azab Jahanam dan mereka akan mendapat azab (neraka) yang membakar.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "ghunnah",
+				"start": 60,
+				"end": 63
+			},
+			{
+				"class": "ghunnah",
+				"start": 102,
+				"end": 105
+			}
+		]
 	},
 	{
 		"aya_id": 5920,
@@ -96,7 +157,34 @@
 		"sura_id": 85,
 		"juz_id": 30,
 		"page_number": 590,
-		"translation_aya_text": "Sungguh, orang-orang yang beriman dan mengerjakan kebajikan, mereka akan mendapat surga yang mengalir di bawahnya sungai-sungai, itulah kemenangan yang agung."
+		"translation_aya_text": "Sungguh, orang-orang yang beriman dan mengerjakan kebajikan, mereka akan mendapat surga yang mengalir di bawahnya sungai-sungai, itulah kemenangan yang agung.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "ghunnah",
+				"start": 59,
+				"end": 62
+			},
+			{
+				"class": "ikhfa",
+				"start": 62,
+				"end": 67
+			},
+			{
+				"class": "qalqalah",
+				"start": 67,
+				"end": 68
+			},
+			{
+				"class": "ikhfa",
+				"start": 76,
+				"end": 81
+			}
+		]
 	},
 	{
 		"aya_id": 5921,
@@ -105,7 +193,19 @@
 		"sura_id": 85,
 		"juz_id": 30,
 		"page_number": 590,
-		"translation_aya_text": "Sungguh, azab Tuhanmu sangat keras."
+		"translation_aya_text": "Sungguh, azab Tuhanmu sangat keras.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "qalqalah",
+				"start": 8,
+				"end": 9
+			}
+		]
 	},
 	{
 		"aya_id": 5922,
@@ -114,7 +214,19 @@
 		"sura_id": 85,
 		"juz_id": 30,
 		"page_number": 590,
-		"translation_aya_text": "Sungguh, Dialah yang memulai pen-ciptaan (makhluk) dan yang menghidupkannya (kembali)."
+		"translation_aya_text": "Sungguh, Dialah yang memulai pen-ciptaan (makhluk) dan yang menghidupkannya (kembali).",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "qalqalah",
+				"start": 15,
+				"end": 16
+			}
+		]
 	},
 	{
 		"aya_id": 5923,
@@ -123,7 +235,8 @@
 		"sura_id": 85,
 		"juz_id": 30,
 		"page_number": 590,
-		"translation_aya_text": "Dan Dialah Yang Maha Pengampun, Maha Pengasih,"
+		"translation_aya_text": "Dan Dialah Yang Maha Pengampun, Maha Pengasih,",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5924,
@@ -132,7 +245,8 @@
 		"sura_id": 85,
 		"juz_id": 30,
 		"page_number": 590,
-		"translation_aya_text": "yang memiliki ‘Arsy, lagi Mahamulia, "
+		"translation_aya_text": "yang memiliki ‘Arsy, lagi Mahamulia, ",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5925,
@@ -141,7 +255,14 @@
 		"sura_id": 85,
 		"juz_id": 30,
 		"page_number": 590,
-		"translation_aya_text": "Mahakuasa berbuat apa yang Dia kehendaki. "
+		"translation_aya_text": "Mahakuasa berbuat apa yang Dia kehendaki. ",
+		"tajweed": [
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 6,
+				"end": 11
+			}
+		]
 	},
 	{
 		"aya_id": 5926,
@@ -150,7 +271,8 @@
 		"sura_id": 85,
 		"juz_id": 30,
 		"page_number": 590,
-		"translation_aya_text": "Sudahkah sampai kepadamu berita tentang bala tentara (penentang),"
+		"translation_aya_text": "Sudahkah sampai kepadamu berita tentang bala tentara (penentang),",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5927,
@@ -159,7 +281,8 @@
 		"sura_id": 85,
 		"juz_id": 30,
 		"page_number": 590,
-		"translation_aya_text": "(yaitu) Fir‘aun dan Samud?"
+		"translation_aya_text": "(yaitu) Fir‘aun dan Samud?",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5928,
@@ -168,7 +291,8 @@
 		"sura_id": 85,
 		"juz_id": 30,
 		"page_number": 590,
-		"translation_aya_text": "Memang orang-orang kafir (selalu) mendustakan,"
+		"translation_aya_text": "Memang orang-orang kafir (selalu) mendustakan,",
+		"tajweed": []
 	},
 	{
 		"aya_id": 5929,
@@ -177,7 +301,24 @@
 		"sura_id": 85,
 		"juz_id": 30,
 		"page_number": 590,
-		"translation_aya_text": "padahal Allah mengepung dari belakang mereka (sehingga tidak dapat lolos)."
+		"translation_aya_text": "padahal Allah mengepung dari belakang mereka (sehingga tidak dapat lolos).",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 13,
+				"end": 18
+			},
+			{
+				"class": "madd-wajib",
+				"start": 20,
+				"end": 24
+			},
+			{
+				"class": "idgham-mimi",
+				"start": 28,
+				"end": 33
+			}
+		]
 	},
 	{
 		"aya_id": 5930,
@@ -186,7 +327,14 @@
 		"sura_id": 85,
 		"juz_id": 30,
 		"page_number": 590,
-		"translation_aya_text": "Bahkan (yang didustakan itu) ialah Al-Qur'an yang mulia,"
+		"translation_aya_text": "Bahkan (yang didustakan itu) ialah Al-Qur'an yang mulia,",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 16,
+				"end": 21
+			}
+		]
 	},
 	{
 		"aya_id": 5931,
@@ -195,6 +343,13 @@
 		"sura_id": 85,
 		"juz_id": 30,
 		"page_number": 590,
-		"translation_aya_text": "yang (tersimpan) dalam (tempat) yang terjaga (Lauh Mahfuzh)."
+		"translation_aya_text": "yang (tersimpan) dalam (tempat) yang terjaga (Lauh Mahfuzh).",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 9,
+				"end": 14
+			}
+		]
 	}
 ]

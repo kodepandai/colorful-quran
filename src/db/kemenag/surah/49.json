@@ -6,7 +6,19 @@
 		"sura_id": 49,
 		"juz_id": 26,
 		"page_number": 515,
-		"translation_aya_text": "Wahai orang-orang yang beriman! Janganlah kamu mendahului Allah dan Rasul-Nya dan bertakwalah kepada Allah. Sungguh, Allah Maha Mendengar, Maha Mengetahui."
+		"translation_aya_text": "Wahai orang-orang yang beriman! Janganlah kamu mendahului Allah dan Rasul-Nya dan bertakwalah kepada Allah. Sungguh, Allah Maha Mendengar, Maha Mengetahui.",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 0,
+				"end": 3
+			},
+			{
+				"class": "ghunnah",
+				"start": 107,
+				"end": 110
+			}
+		]
 	},
 	{
 		"aya_id": 4614,
@@ -15,7 +27,39 @@
 		"sura_id": 49,
 		"juz_id": 26,
 		"page_number": 515,
-		"translation_aya_text": "Wahai orang-orang yang beriman! Janganlah kamu meninggikan suaramu melebihi suara Nabi, dan janganlah kamu berkata kepadanya dengan suara keras sebagaimana kerasnya (suara) sebagian kamu terhadap yang lain, nanti (pahala) segala amalmu bisa terhapus sedangkan kamu tidak menyadari. "
+		"translation_aya_text": "Wahai orang-orang yang beriman! Janganlah kamu meninggikan suaramu melebihi suara Nabi, dan janganlah kamu berkata kepadanya dengan suara keras sebagaimana kerasnya (suara) sebagian kamu terhadap yang lain, nanti (pahala) segala amalmu bisa terhapus sedangkan kamu tidak menyadari. ",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 0,
+				"end": 3
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 45,
+				"end": 48
+			},
+			{
+				"class": "ghunnah",
+				"start": 80,
+				"end": 83
+			},
+			{
+				"class": "qalqalah",
+				"start": 97,
+				"end": 98
+			},
+			{
+				"class": "ikhfa",
+				"start": 155,
+				"end": 160
+			},
+			{
+				"class": "ikhfa",
+				"start": 185,
+				"end": 189
+			}
+		]
 	},
 	{
 		"aya_id": 4615,
@@ -24,7 +68,44 @@
 		"sura_id": 49,
 		"juz_id": 26,
 		"page_number": 515,
-		"translation_aya_text": "Sesungguhnya orang-orang yang merendahkan suaranya di sisi Rasulullah, mereka itulah orang-orang yang telah diuji hatinya oleh Allah untuk bertakwa. Mereka akan memperoleh ampunan dan pahala yang besar."
+		"translation_aya_text": "Sesungguhnya orang-orang yang merendahkan suaranya di sisi Rasulullah, mereka itulah orang-orang yang telah diuji hatinya oleh Allah untuk bertakwa. Mereka akan memperoleh ampunan dan pahala yang besar.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "ikhfa",
+				"start": 45,
+				"end": 49
+			},
+			{
+				"class": "madd-wajib",
+				"start": 70,
+				"end": 74
+			},
+			{
+				"class": "qalqalah",
+				"start": 127,
+				"end": 128
+			},
+			{
+				"class": "idgham-mimi",
+				"start": 139,
+				"end": 144
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 151,
+				"end": 156
+			},
+			{
+				"class": "qalqalah",
+				"start": 159,
+				"end": 160
+			}
+		]
 	},
 	{
 		"aya_id": 4616,
@@ -33,7 +114,24 @@
 		"sura_id": 49,
 		"juz_id": 26,
 		"page_number": 515,
-		"translation_aya_text": "Sesungguhnya orang-orang yang memanggil engkau (Muhammad) dari luar kamar(mu) kebanyakan mereka tidak mengerti. "
+		"translation_aya_text": "Sesungguhnya orang-orang yang memanggil engkau (Muhammad) dari luar kamar(mu) kebanyakan mereka tidak mengerti. ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 33,
+				"end": 38
+			},
+			{
+				"class": "madd-wajib",
+				"start": 40,
+				"end": 43
+			}
+		]
 	},
 	{
 		"aya_id": 4617,
@@ -42,7 +140,29 @@
 		"sura_id": 49,
 		"juz_id": 26,
 		"page_number": 516,
-		"translation_aya_text": "Dan sekiranya mereka bersabar sampai engkau keluar menemui mereka, tentu akan lebih baik bagi mereka. Dan Allah Maha Pengampun, Maha Penyayang. "
+		"translation_aya_text": "Dan sekiranya mereka bersabar sampai engkau keluar menemui mereka, tentu akan lebih baik bagi mereka. Dan Allah Maha Pengampun, Maha Penyayang. ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 9,
+				"end": 12
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 66,
+				"end": 68
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 69,
+				"end": 71
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 95,
+				"end": 100
+			}
+		]
 	},
 	{
 		"aya_id": 4618,
@@ -51,7 +171,74 @@
 		"sura_id": 49,
 		"juz_id": 26,
 		"page_number": 516,
-		"translation_aya_text": "Wahai orang-orang yang beriman! Jika seseorang yang fasik datang kepadamu membawa suatu berita, maka telitilah kebenarannya, agar kamu tidak mencelakakan suatu kaum karena kebodohan (kecerobohan), yang akhirnya kamu menyesali perbuatanmu itu. "
+		"translation_aya_text": "Wahai orang-orang yang beriman! Jika seseorang yang fasik datang kepadamu membawa suatu berita, maka telitilah kebenarannya, agar kamu tidak mencelakakan suatu kaum karena kebodohan (kecerobohan), yang akhirnya kamu menyesali perbuatanmu itu. ",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 0,
+				"end": 3
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 29,
+				"end": 32
+			},
+			{
+				"class": "ikhfa",
+				"start": 36,
+				"end": 41
+			},
+			{
+				"class": "madd-wajib",
+				"start": 40,
+				"end": 43
+			},
+			{
+				"class": "iqlab",
+				"start": 55,
+				"end": 57
+			},
+			{
+				"class": "iqlab",
+				"start": 58,
+				"end": 60
+			},
+			{
+				"class": "ikhfa",
+				"start": 65,
+				"end": 67
+			},
+			{
+				"class": "ikhfa",
+				"start": 67,
+				"end": 69
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 79,
+				"end": 82
+			},
+			{
+				"class": "ikhfa",
+				"start": 86,
+				"end": 91
+			},
+			{
+				"class": "iqlab",
+				"start": 105,
+				"end": 107
+			},
+			{
+				"class": "iqlab",
+				"start": 109,
+				"end": 111
+			},
+			{
+				"class": "ikhfa",
+				"start": 119,
+				"end": 124
+			}
+		]
 	},
 	{
 		"aya_id": 4619,
@@ -60,7 +247,34 @@
 		"sura_id": 49,
 		"juz_id": 26,
 		"page_number": 516,
-		"translation_aya_text": "Dan ketahuilah olehmu bahwa di tengah-tengah kamu ada Rasulullah. Kalau dia menuruti (kemauan) kamu dalam banyak hal pasti kamu akan mendapatkan kesusahan. Tetapi Allah menjadikan kamu cinta kepada keimanan dan menjadikan (iman) itu indah dalam hatimu serta menjadikan kamu benci kepada kekafiran, kefasikan, dan kedurhakaan. Mereka itulah orang-orang yang mengikuti jalan yang lurus,"
+		"translation_aya_text": "Dan ketahuilah olehmu bahwa di tengah-tengah kamu ada Rasulullah. Kalau dia menuruti (kemauan) kamu dalam banyak hal pasti kamu akan mendapatkan kesusahan. Tetapi Allah menjadikan kamu cinta kepada keimanan dan menjadikan (iman) itu indah dalam hatimu serta menjadikan kamu benci kepada kekafiran, kefasikan, dan kedurhakaan. Mereka itulah orang-orang yang mengikuti jalan yang lurus,",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 9,
+				"end": 12
+			},
+			{
+				"class": "ghunnah",
+				"start": 16,
+				"end": 19
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 77,
+				"end": 82
+			},
+			{
+				"class": "ghunnah",
+				"start": 114,
+				"end": 117
+			},
+			{
+				"class": "madd-wajib",
+				"start": 253,
+				"end": 257
+			}
+		]
 	},
 	{
 		"aya_id": 4620,
@@ -69,7 +283,29 @@
 		"sura_id": 49,
 		"juz_id": 26,
 		"page_number": 516,
-		"translation_aya_text": "sebagai karunia dan nikmat dari Allah. Dan Allah Maha Mengetahui, Mahabijaksana."
+		"translation_aya_text": "sebagai karunia dan nikmat dari Allah. Dan Allah Maha Mengetahui, Mahabijaksana.",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 4,
+				"end": 6
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 7,
+				"end": 9
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 30,
+				"end": 32
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 33,
+				"end": 35
+			}
+		]
 	},
 	{
 		"aya_id": 4621,
@@ -78,7 +314,79 @@
 		"sura_id": 49,
 		"juz_id": 26,
 		"page_number": 516,
-		"translation_aya_text": "Dan apabila ada dua golongan orang-orang mukmin berperang, maka damaikanlah antara keduanya. Jika salah satu dari keduanya berbuat zalim terhadap (golongan) yang lain, maka perangilah (golongan) yang berbuat zalim itu, sehingga golongan itu kembali kepada perintah Allah. Jika golongan itu telah kembali (kepada perintah Allah), maka damaikanlah antara keduanya dengan adil, dan berlakulah adil. Sungguh, Allah mencintai orang-orang yang berlaku adil. "
+		"translation_aya_text": "Dan apabila ada dua golongan orang-orang mukmin berperang, maka damaikanlah antara keduanya. Jika salah satu dari keduanya berbuat zalim terhadap (golongan) yang lain, maka perangilah (golongan) yang berbuat zalim itu, sehingga golongan itu kembali kepada perintah Allah. Jika golongan itu telah kembali (kepada perintah Allah), maka damaikanlah antara keduanya dengan adil, dan berlakulah adil. Sungguh, Allah mencintai orang-orang yang berlaku adil. ",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 4,
+				"end": 9
+			},
+			{
+				"class": "madd-wajib",
+				"start": 8,
+				"end": 12
+			},
+			{
+				"class": "qalqalah",
+				"start": 43,
+				"end": 44
+			},
+			{
+				"class": "iqlab",
+				"start": 86,
+				"end": 88
+			},
+			{
+				"class": "iqlab",
+				"start": 89,
+				"end": 91
+			},
+			{
+				"class": "qalqalah",
+				"start": 150,
+				"end": 151
+			},
+			{
+				"class": "madd-wajib",
+				"start": 168,
+				"end": 171
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 176,
+				"end": 181
+			},
+			{
+				"class": "ikhfa",
+				"start": 201,
+				"end": 206
+			},
+			{
+				"class": "madd-wajib",
+				"start": 205,
+				"end": 208
+			},
+			{
+				"class": "qalqalah",
+				"start": 246,
+				"end": 247
+			},
+			{
+				"class": "qalqalah",
+				"start": 255,
+				"end": 256
+			},
+			{
+				"class": "ghunnah",
+				"start": 268,
+				"end": 271
+			},
+			{
+				"class": "qalqalah",
+				"start": 293,
+				"end": 294
+			}
+		]
 	},
 	{
 		"aya_id": 4622,
@@ -87,7 +395,19 @@
 		"sura_id": 49,
 		"juz_id": 26,
 		"page_number": 516,
-		"translation_aya_text": "Sesungguhnya orang-orang mukmin itu bersaudara, karena itu damaikanlah antara kedua saudaramu (yang berselisih) dan bertakwalah kepada Allah agar kamu mendapat rahmat. "
+		"translation_aya_text": "Sesungguhnya orang-orang mukmin itu bersaudara, karena itu damaikanlah antara kedua saudaramu (yang berselisih) dan bertakwalah kepada Allah agar kamu mendapat rahmat. ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "ikhfa",
+				"start": 31,
+				"end": 36
+			}
+		]
 	},
 	{
 		"aya_id": 4623,
@@ -96,7 +416,119 @@
 		"sura_id": 49,
 		"juz_id": 26,
 		"page_number": 516,
-		"translation_aya_text": "Wahai orang-orang yang beriman! Janganlah suatu kaum mengolok-olok kaum yang lain (karena) boleh jadi mereka (yang diperolok-olokkan) lebih baik dari mereka (yang mengolok-olok) dan jangan pula perempuan-perempuan (mengolok-olokkan) perempuan lain (karena) boleh jadi perempuan (yang diperolok-olokkan) lebih baik dari perempuan (yang mengolok-olok). Janganlah kamu saling mencela satu sama lain dan janganlah saling memanggil dengan gelar-gelar yang buruk. Seburuk-buruk panggilan adalah (panggilan) yang buruk (fasik) setelah beriman. Dan barangsiapa tidak bertobat, maka mereka itulah orang-orang yang zalim. "
+		"translation_aya_text": "Wahai orang-orang yang beriman! Janganlah suatu kaum mengolok-olok kaum yang lain (karena) boleh jadi mereka (yang diperolok-olokkan) lebih baik dari mereka (yang mengolok-olok) dan jangan pula perempuan-perempuan (mengolok-olokkan) perempuan lain (karena) boleh jadi perempuan (yang diperolok-olokkan) lebih baik dari perempuan (yang mengolok-olok). Janganlah kamu saling mencela satu sama lain dan janganlah saling memanggil dengan gelar-gelar yang buruk. Seburuk-buruk panggilan adalah (panggilan) yang buruk (fasik) setelah beriman. Dan barangsiapa tidak bertobat, maka mereka itulah orang-orang yang zalim. ",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 0,
+				"end": 3
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 50,
+				"end": 55
+			},
+			{
+				"class": "ikhfa",
+				"start": 56,
+				"end": 61
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 68,
+				"end": 73
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 75,
+				"end": 80
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 95,
+				"end": 97
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 98,
+				"end": 100
+			},
+			{
+				"class": "madd-wajib",
+				"start": 118,
+				"end": 121
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 121,
+				"end": 126
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 127,
+				"end": 132
+			},
+			{
+				"class": "madd-wajib",
+				"start": 134,
+				"end": 137
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 142,
+				"end": 147
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 149,
+				"end": 154
+			},
+			{
+				"class": "ghunnah",
+				"start": 157,
+				"end": 160
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 165,
+				"end": 167
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 168,
+				"end": 170
+			},
+			{
+				"class": "ghunnah",
+				"start": 176,
+				"end": 179
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 195,
+				"end": 198
+			},
+			{
+				"class": "ikhfa",
+				"start": 202,
+				"end": 206
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 301,
+				"end": 306
+			},
+			{
+				"class": "qalqalah",
+				"start": 314,
+				"end": 315
+			},
+			{
+				"class": "madd-wajib",
+				"start": 322,
+				"end": 326
+			}
+		]
 	},
 	{
 		"aya_id": 4624,
@@ -105,7 +537,79 @@
 		"sura_id": 49,
 		"juz_id": 26,
 		"page_number": 517,
-		"translation_aya_text": "Wahai orang-orang yang beriman! Jauhilah banyak dari prasangka, sesungguhnya sebagian prasangka itu dosa dan janganlah kamu mencari-cari kesalahan orang lain dan janganlah ada di antara kamu yang menggunjing sebagian yang lain. Apakah ada di antara kamu yang suka memakan daging saudaranya yang sudah mati? Tentu kamu merasa jijik. Dan bertakwalah kepada Allah, sesungguhnya Allah Maha Penerima tobat, Maha Penyayang."
+		"translation_aya_text": "Wahai orang-orang yang beriman! Jauhilah banyak dari prasangka, sesungguhnya sebagian prasangka itu dosa dan janganlah kamu mencari-cari kesalahan orang lain dan janganlah ada di antara kamu yang menggunjing sebagian yang lain. Apakah ada di antara kamu yang suka memakan daging saudaranya yang sudah mati? Tentu kamu merasa jijik. Dan bertakwalah kepada Allah, sesungguhnya Allah Maha Penerima tobat, Maha Penyayang.",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 0,
+				"end": 3
+			},
+			{
+				"class": "qalqalah",
+				"start": 33,
+				"end": 34
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 51,
+				"end": 53
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 54,
+				"end": 56
+			},
+			{
+				"class": "ghunnah",
+				"start": 66,
+				"end": 69
+			},
+			{
+				"class": "ghunnah",
+				"start": 73,
+				"end": 76
+			},
+			{
+				"class": "ghunnah",
+				"start": 89,
+				"end": 92
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 97,
+				"end": 102
+			},
+			{
+				"class": "qalqalah",
+				"start": 132,
+				"end": 133
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 180,
+				"end": 185
+			},
+			{
+				"class": "ikhfa",
+				"start": 213,
+				"end": 215
+			},
+			{
+				"class": "ikhfa",
+				"start": 216,
+				"end": 218
+			},
+			{
+				"class": "ghunnah",
+				"start": 257,
+				"end": 260
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 275,
+				"end": 280
+			}
+		]
 	},
 	{
 		"aya_id": 4625,
@@ -114,7 +618,79 @@
 		"sura_id": 49,
 		"juz_id": 26,
 		"page_number": 517,
-		"translation_aya_text": "Wahai manusia! Sungguh, Kami telah menciptakan kamu dari seorang laki-laki dan seorang perempuan, kemudian Kami jadikan kamu berbangsa-bangsa dan bersuku-suku agar kamu saling mengenal. Sesungguhnya yang paling mulia di antara kamu di sisi Allah ialah orang yang paling bertakwa. Sungguh, Allah Maha Mengetahui, Mahateliti. "
+		"translation_aya_text": "Wahai manusia! Sungguh, Kami telah menciptakan kamu dari seorang laki-laki dan seorang perempuan, kemudian Kami jadikan kamu berbangsa-bangsa dan bersuku-suku agar kamu saling mengenal. Sesungguhnya yang paling mulia di antara kamu di sisi Allah ialah orang yang paling bertakwa. Sungguh, Allah Maha Mengetahui, Mahateliti. ",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 0,
+				"end": 3
+			},
+			{
+				"class": "ghunnah",
+				"start": 14,
+				"end": 17
+			},
+			{
+				"class": "ghunnah",
+				"start": 23,
+				"end": 26
+			},
+			{
+				"class": "qalqalah",
+				"start": 32,
+				"end": 33
+			},
+			{
+				"class": "idgham-mimi",
+				"start": 38,
+				"end": 43
+			},
+			{
+				"class": "ikhfa",
+				"start": 44,
+				"end": 49
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 51,
+				"end": 56
+			},
+			{
+				"class": "ikhfa",
+				"start": 59,
+				"end": 63
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 86,
+				"end": 88
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 89,
+				"end": 91
+			},
+			{
+				"class": "madd-wajib",
+				"start": 96,
+				"end": 100
+			},
+			{
+				"class": "ghunnah",
+				"start": 124,
+				"end": 127
+			},
+			{
+				"class": "ikhfa",
+				"start": 143,
+				"end": 147
+			},
+			{
+				"class": "ghunnah",
+				"start": 171,
+				"end": 174
+			}
+		]
 	},
 	{
 		"aya_id": 4626,
@@ -123,7 +699,54 @@
 		"sura_id": 49,
 		"juz_id": 26,
 		"page_number": 517,
-		"translation_aya_text": "Orang-orang Arab Badui berkata, “Kami telah beriman.” Katakanlah (kepada mereka), “Kamu belum beriman, tetapi katakanlah ‘Kami telah tunduk (Islam),’ karena iman belum masuk ke dalam hatimu. Dan jika kamu taat kepada Allah dan Rasul-Nya, Dia tidak akan mengurangi sedikit pun (pahala) amal perbuatanmu. Sungguh, Allah Maha Pengampun, Maha Penyayang.” "
+		"translation_aya_text": "Orang-orang Arab Badui berkata, “Kami telah beriman.” Katakanlah (kepada mereka), “Kamu belum beriman, tetapi katakanlah ‘Kami telah tunduk (Islam),’ karena iman belum masuk ke dalam hatimu. Dan jika kamu taat kepada Allah dan Rasul-Nya, Dia tidak akan mengurangi sedikit pun (pahala) amal perbuatanmu. Sungguh, Allah Maha Pengampun, Maha Penyayang.” ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 27,
+				"end": 30
+			},
+			{
+				"class": "ikhfa",
+				"start": 63,
+				"end": 68
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 72,
+				"end": 75
+			},
+			{
+				"class": "ghunnah",
+				"start": 93,
+				"end": 96
+			},
+			{
+				"class": "qalqalah",
+				"start": 100,
+				"end": 101
+			},
+			{
+				"class": "ikhfa",
+				"start": 143,
+				"end": 148
+			},
+			{
+				"class": "idgham-mimi",
+				"start": 190,
+				"end": 195
+			},
+			{
+				"class": "ghunnah",
+				"start": 225,
+				"end": 228
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 243,
+				"end": 248
+			}
+		]
 	},
 	{
 		"aya_id": 4627,
@@ -132,7 +755,29 @@
 		"sura_id": 49,
 		"juz_id": 26,
 		"page_number": 517,
-		"translation_aya_text": "Sesungguhnya orang-orang mukmin yang sebenarnya adalah mereka yang beriman kepada Allah dan Rasul-Nya kemudian mereka tidak ragu-ragu dan mereka berjihad dengan harta dan jiwanya di jalan Allah. Mereka itulah orang-orang yang benar."
+		"translation_aya_text": "Sesungguhnya orang-orang mukmin yang sebenarnya adalah mereka yang beriman kepada Allah dan Rasul-Nya kemudian mereka tidak ragu-ragu dan mereka berjihad dengan harta dan jiwanya di jalan Allah. Mereka itulah orang-orang yang benar.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "ghunnah",
+				"start": 71,
+				"end": 74
+			},
+			{
+				"class": "ikhfa",
+				"start": 126,
+				"end": 130
+			},
+			{
+				"class": "madd-wajib",
+				"start": 164,
+				"end": 168
+			}
+		]
 	},
 	{
 		"aya_id": 4628,
@@ -141,7 +786,8 @@
 		"sura_id": 49,
 		"juz_id": 26,
 		"page_number": 517,
-		"translation_aya_text": "Katakanlah (kepada mereka), “Apakah kamu akan memberitahukan kepada Allah tentang agamamu (keyakinanmu), padahal Allah mengetahui apa yang ada di langit dan apa yang ada di bumi dan Allah Maha Mengetahui segala sesuatu.” "
+		"translation_aya_text": "Katakanlah (kepada mereka), “Apakah kamu akan memberitahukan kepada Allah tentang agamamu (keyakinanmu), padahal Allah mengetahui apa yang ada di langit dan apa yang ada di bumi dan Allah Maha Mengetahui segala sesuatu.” ",
+		"tajweed": []
 	},
 	{
 		"aya_id": 4629,
@@ -150,7 +796,34 @@
 		"sura_id": 49,
 		"juz_id": 26,
 		"page_number": 517,
-		"translation_aya_text": "Mereka merasa berjasa kepadamu dengan keislaman mereka. Katakanlah, “Janganlah kamu merasa berjasa kepadaku dengan keislamanmu, sebenarnya Allah yang melimpahkan nikmat kepadamu dengan menunjukkan kamu kepada keimanan, jika kamu orang yang benar.” "
+		"translation_aya_text": "Mereka merasa berjasa kepadamu dengan keislaman mereka. Katakanlah, “Janganlah kamu merasa berjasa kepadaku dengan keislamanmu, sebenarnya Allah yang melimpahkan nikmat kepadamu dengan menunjukkan kamu kepada keimanan, jika kamu orang yang benar.” ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 4,
+				"end": 7
+			},
+			{
+				"class": "ghunnah",
+				"start": 54,
+				"end": 57
+			},
+			{
+				"class": "ghunnah",
+				"start": 101,
+				"end": 104
+			},
+			{
+				"class": "ikhfa",
+				"start": 147,
+				"end": 152
+			},
+			{
+				"class": "ikhfa",
+				"start": 152,
+				"end": 156
+			}
+		]
 	},
 	{
 		"aya_id": 4630,
@@ -159,6 +832,23 @@
 		"sura_id": 49,
 		"juz_id": 26,
 		"page_number": 517,
-		"translation_aya_text": "Sungguh, Allah mengetahui apa yang gaib di langit dan di bumi. Dan Allah Maha Melihat apa yang kamu kerjakan. "
+		"translation_aya_text": "Sungguh, Allah mengetahui apa yang gaib di langit dan di bumi. Dan Allah Maha Melihat apa yang kamu kerjakan. ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 5
+			},
+			{
+				"class": "iqlab",
+				"start": 71,
+				"end": 73
+			},
+			{
+				"class": "iqlab",
+				"start": 74,
+				"end": 76
+			}
+		]
 	}
 ]
