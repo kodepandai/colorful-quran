@@ -32,7 +32,6 @@ export const HamzahYa = 'ٕ';
 export const Ya = 'ي';
 
 export const Shaddah = 'ّ';
-export const Sukun = 'ْ';
 export const FatahTanwin = 'ً';
 export const DhumahTanwin = 'ٌ';
 export const KasrahTanwin = 'ٍ';
@@ -45,6 +44,12 @@ export const WaqafLazim = 'ۘ';
 export const WaqafLove = 'ە';
 export const MeemIqlab = 'ۢ';
 export const Blank = ' ';
+
+export const Kasrah = 'ِ';
+export const Fatah = 'َ';
+export const Dhummah = 'ُ';
+export const Sukun = 'ْ';
+
 export const FindCharIndex = (kalimah: string, match: string | string[]): number => {
 	return kalimah.split('').findIndex((x) => x == match || match.includes(x));
 };
@@ -53,4 +58,36 @@ export const IsChar = (txt: string, match: string | string[]): boolean => {
 	return txt == match || match.includes(txt);
 };
 
+export const IsHuruf = (txt: string): boolean =>
+	IsChar(txt, [
+		Alif,
+		Ba,
+		Ta,
+		Tsa,
+		Jeem,
+		Cha,
+		Kha,
+		Dal,
+		Dhal,
+		Ra,
+		Za,
+		Sin,
+		Syin,
+		Shad,
+		Dhad,
+		Tha,
+		Dza,
+		Ain,
+		Gain,
+		Fa,
+		Qaf,
+		Kaf,
+		Lam,
+		Meem,
+		Noon,
+		Wau,
+		Ha,
+		Hamzah,
+		Ya
+	]);
 export const Tanwin = [FatahTanwin, DhumahTanwin, KasrahTanwin];

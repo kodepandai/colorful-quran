@@ -1,4 +1,4 @@
-import { AlifMaksura, Blank, IsChar } from '$tajweed/kemenag/check/Char';
+import { AlifMaksura, Blank, IsChar, IsHuruf } from '$tajweed/kemenag/check/Char';
 
 const MovePointer =
 	(move = 1) =>
@@ -19,3 +19,20 @@ const MovePointer =
 export const GetPrev = MovePointer(-1);
 
 export const GetNext = MovePointer(1);
+
+const MovePointerToHuruf =
+	(move = 1) =>
+	(ayaSplitted: string[], i: number) => {
+		let cursor = i + move;
+		let end = false;
+		while (!end) {
+			if (IsHuruf(ayaSplitted[cursor])) {
+				end = true;
+			} else {
+				cursor += move;
+			}
+		}
+		return [cursor, ayaSplitted[cursor]] as [number, string];
+	};
+
+export const GetPrevHuruf = MovePointerToHuruf(-1);

@@ -8,6 +8,7 @@ export type Rule =
 	| 'madd-4-5'
 	| 'madd-2-4-6'
 	| 'madd-6'
+	| 'madd-arid-lissukun'
 	| 'ghunnah'
 	| 'idgham-mimi'
 	| 'ikhfa-syafawi'

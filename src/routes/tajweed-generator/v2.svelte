@@ -9,6 +9,7 @@
 	import IdghamMimi from '$tajweed/kemenag/rule/IdghamMimi';
 	import Ikhfa from '$tajweed/kemenag/rule/Ikhfa';
 	import Iqlab from '$tajweed/kemenag/rule/Iqlab';
+	import MaddAridLissukun from '$tajweed/kemenag/rule/MaddAridLissukun';
 	import MaddJaiz from '$tajweed/kemenag/rule/MaddJaiz';
 	import MaddWajib from '$tajweed/kemenag/rule/MaddWajib';
 	import Qalqalah from '$tajweed/kemenag/rule/Qalqalah';
@@ -30,7 +31,8 @@
 					Ikhfa,
 					Iqlab,
 					MaddJaiz,
-					MaddWajib
+					MaddWajib,
+					MaddAridLissukun
 				]);
 				surahJson[i].tajweed = tajweed;
 			})
