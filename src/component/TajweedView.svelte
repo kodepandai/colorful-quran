@@ -4,10 +4,36 @@
 	import Icon from '@iconify/svelte';
 	import { createEventDispatcher } from 'svelte';
 	const dispatch = createEventDispatcher();
+
+	export let surah: IAya[];
+	interface IToolTip {
+		tajweed: ITajweed;
+		position: {
+			x: number;
+			y: number;
+		};
+	}
+	let tooltip: IToolTip = {
+		tajweed: null,
+		position: {
+			x: 0,
+			y: 0
+		}
+	};
+
 	const saveLastReading = (aya: IAya) => {
 		dispatch('saveLastReading', aya);
 	};
-	export let surah: IAya[];
+
+	const showToolTip = (e: MouseEvent, tajweed: ITajweed) => {
+		tooltip = {
+			tajweed,
+			position: {
+				x: e.clientX,
+				y: e.clientY
+			}
+		};
+	};
 
 	$: surah = surah.map((aya) => {
 		let sliceAya: ITajweed[] = [
@@ -54,7 +80,11 @@
 		</div>
 		<div class="font-arab py-2 mb-3 border-b text-xl">
 			{#each aya.tajweed as tajweed}
-				<i class={tajweed.class} title={tajweed.class}>
+				<i
+					class={'leading-[4rem] ' + (tajweed.class ? 'cursor-pointer ' + tajweed.class : '')}
+					title={tajweed.class}
+					on:click={(e) => showToolTip(e, tajweed)}
+				>
 					{aya.aya_text.slice(tajweed.start, tajweed.end)}
 				</i>
 			{/each}
@@ -64,3 +94,21 @@
 		</div>
 	{/if}
 {/each}
+
+{#if tooltip?.tajweed?.class}
+	<div
+		class="fixed flex justify-center items-center bg-black bg-opacity-25 inset-0"
+		on:click={() => (tooltip.tajweed = null)}
+	>
+		<div class="relative h-full w-full">
+			<div
+				class="capitalize font-semibold border rounded bg-white p-4 whitespace-nowrap shadow absolute -translate-x-full -translate-y-full"
+				style={`top: ${tooltip.position.y}px; left: ${tooltip.position.x}px; border-color: var(--color-${tooltip.tajweed.class})`}
+			>
+				{tooltip.tajweed.class.replace(/-/g, ' ')}
+			</div>
+		</div>
+	</div>
+{/if}
+
+<svelte:window on:scroll|passive={() => (tooltip.tajweed = null)} />
