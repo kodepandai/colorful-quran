@@ -1,4 +1,5 @@
 <script lang="ts">
+	import TajweedView from '$component/TajweedView.svelte';
 	import type { IAya, ITajweed } from '$contract/surah';
 
 	import list from '$db/kemenag/list.json';
@@ -38,39 +39,6 @@
 			})
 		);
 	};
-
-	$: if (surahJson) {
-		surahJson = surahJson.map((aya) => {
-			let sliceAya: ITajweed[] = [
-				{
-					class: '',
-					start: 0,
-					end: 0
-				}
-			];
-			aya.tajweed?.forEach((t) => {
-				const lastSlice = sliceAya[sliceAya.length - 1];
-				if (lastSlice.end < t.start) {
-					sliceAya.push({
-						class: '',
-						start: lastSlice.end,
-						end: t.start
-					});
-					sliceAya.push(t);
-				} else {
-					sliceAya.push(t);
-				}
-			});
-			sliceAya.push({
-				class: '',
-				start: sliceAya[sliceAya.length - 1].end,
-				end: aya.aya_text.length
-			});
-			sliceAya.shift();
-			aya.tajweed = sliceAya;
-			return aya;
-		});
-	}
 </script>
 
 <div class="p-4">
@@ -94,20 +62,7 @@
 	<div class="flex flex-row mt-4 flex-wrap">
 		<div class="w-full md:w-1/2 pr-4">
 			<div>Tajweed Preview</div>
-			{#each surahJson as aya}
-				{#if aya.sura_id != 1 || aya.aya_number != 1}
-					<div class="font-arab py-2 mb-3 border-b text-xl">
-						{#each aya.tajweed as tajweed}
-							<i class={tajweed.class} title={tajweed.class}>
-								{aya.aya_text.slice(tajweed.start, tajweed.end)}
-							</i>
-						{/each}
-						<p class="font-sans text-sm mt-2 pt-2" style="direction: ltr;">
-							{aya.aya_number}. {aya.translation_aya_text}
-						</p>
-					</div>
-				{/if}
-			{/each}
+			<TajweedView surah={surahJson} />
 		</div>
 		<div class="w-full md:w-1/2">
 			<div>
