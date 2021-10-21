@@ -8,6 +8,7 @@
 }
 :root {
 	--font-arab: 'Kemenag LPMQ';
+	--font-sans: Arial, Helvetica, sans-serif;
 	--color-silent: rgba(204, 204, 204, 0.863);
 	--color-madd-4-5: rgb(38, 139, 13);
 	--color-madd-2-4-6: rgb(0, 247, 255);

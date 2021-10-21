@@ -4,7 +4,8 @@ module.exports = {
 	theme: {
 		extend: {
 			fontFamily: {
-				arab: 'var(--font-arab)'
+				arab: 'var(--font-arab)',
+				sans: 'var(--font-sans)'
 			}
 		}
 	}

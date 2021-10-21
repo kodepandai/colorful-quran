@@ -1,6 +1,6 @@
 <script lang="ts">
 	import TajweedView from '$component/TajweedView.svelte';
-	import type { IAya, ITajweed } from '$contract/surah';
+	import type { IAya } from '$contract/surah';
 
 	import list from '$db/kemenag/list.json';
 	import GenerateRule from '$tajweed/GenerateRule';
