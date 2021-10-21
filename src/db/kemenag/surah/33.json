@@ -59,7 +59,13 @@
 		"juz_id": 21,
 		"page_number": 418,
 		"translation_aya_text": "dan bertawakallah kepada Allah. Dan cukuplah Allah sebagai pemelihara.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 50,
+				"end": 52
+			}
+		]
 	},
 	{
 		"aya_id": 3537,
@@ -114,6 +120,11 @@
 				"class": "madd-wajib",
 				"start": 171,
 				"end": 174
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 269,
+				"end": 271
 			}
 		]
 	},
@@ -190,6 +201,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 266,
 				"end": 268
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 272,
+				"end": 274
 			}
 		]
 	},
@@ -266,6 +282,11 @@
 				"class": "ikhfa",
 				"start": 261,
 				"end": 263
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 295,
+				"end": 297
 			}
 		]
 	},
@@ -446,6 +467,11 @@
 				"class": "ikhfa",
 				"start": 60,
 				"end": 62
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 65,
+				"end": 67
 			}
 		]
 	},
@@ -472,6 +498,11 @@
 				"class": "madd-jaiz",
 				"start": 104,
 				"end": 108
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 119,
+				"end": 121
 			}
 		]
 	},
@@ -528,6 +559,11 @@
 				"class": "idgham-bighunnah",
 				"start": 202,
 				"end": 207
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 230,
+				"end": 231
 			}
 		]
 	},
@@ -559,6 +595,11 @@
 				"class": "madd-jaiz",
 				"start": 108,
 				"end": 112
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 123,
+				"end": 125
 			}
 		]
 	},
@@ -590,6 +631,11 @@
 				"class": "qalqalah",
 				"start": 69,
 				"end": 70
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 108,
+				"end": 110
 			}
 		]
 	},
@@ -687,6 +733,11 @@
 				"class": "idgham-bighunnah",
 				"start": 162,
 				"end": 164
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 174,
+				"end": 176
 			}
 		]
 	},
@@ -744,6 +795,11 @@
 				"class": "madd-wajib",
 				"start": 238,
 				"end": 242
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 331,
+				"end": 333
 			}
 		]
 	},
@@ -1144,6 +1200,11 @@
 				"class": "qalqalah",
 				"start": 121,
 				"end": 122
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 131,
+				"end": 133
 			}
 		]
 	},

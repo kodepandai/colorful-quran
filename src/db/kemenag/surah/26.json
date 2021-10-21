@@ -17,7 +17,13 @@
 		"juz_id": 19,
 		"page_number": 367,
 		"translation_aya_text": "Inilah ayat-ayat Kitab (Al-Qur'an) yang jelas.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 31,
+				"end": 33
+			}
+		]
 	},
 	{
 		"aya_id": 2935,
@@ -32,6 +38,11 @@
 				"class": "idgham-bighunnah",
 				"start": 15,
 				"end": 20
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 55,
+				"end": 57
 			}
 		]
 	},
@@ -63,6 +74,11 @@
 				"class": "ikhfa",
 				"start": 56,
 				"end": 61
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 96,
+				"end": 98
 			}
 		]
 	},
@@ -89,6 +105,11 @@
 				"class": "idgham-bighunnah",
 				"start": 29,
 				"end": 34
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 90,
+				"end": 92
 			}
 		]
 	},
@@ -115,6 +136,11 @@
 				"class": "iqlab",
 				"start": 39,
 				"end": 41
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 78,
+				"end": 80
 			}
 		]
 	},
@@ -146,6 +172,11 @@
 				"class": "ikhfa",
 				"start": 74,
 				"end": 79
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 81,
+				"end": 83
 			}
 		]
 	},
@@ -177,6 +208,11 @@
 				"class": "idgham-mimi",
 				"start": 50,
 				"end": 55
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 62,
+				"end": 64
 			}
 		]
 	},
@@ -193,6 +229,11 @@
 				"class": "ghunnah",
 				"start": 4,
 				"end": 7
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 42,
+				"end": 44
 			}
 		]
 	},
@@ -209,6 +250,11 @@
 				"class": "madd-jaiz",
 				"start": 26,
 				"end": 31
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 61,
+				"end": 63
 			}
 		]
 	},
@@ -220,7 +266,13 @@
 		"juz_id": 19,
 		"page_number": 367,
 		"translation_aya_text": "(yaitu) kaum Fir‘aun. Mengapa mereka tidak bertakwa?”",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 33,
+				"end": 35
+			}
+		]
 	},
 	{
 		"aya_id": 2944,
@@ -245,6 +297,11 @@
 				"class": "idgham-bighunnah",
 				"start": 31,
 				"end": 36
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 44,
+				"end": 46
 			}
 		]
 	},
@@ -266,6 +323,11 @@
 				"class": "ikhfa",
 				"start": 28,
 				"end": 32
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 68,
+				"end": 70
 			}
 		]
 	},
@@ -302,6 +364,11 @@
 				"class": "qalqalah",
 				"start": 43,
 				"end": 44
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 49,
+				"end": 51
 			}
 		]
 	},
@@ -328,6 +395,11 @@
 				"class": "idgham-mimi",
 				"start": 51,
 				"end": 56
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 65,
+				"end": 67
 			}
 		]
 	},
@@ -349,6 +421,11 @@
 				"class": "ghunnah",
 				"start": 34,
 				"end": 37
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 63,
+				"end": 65
 			}
 		]
 	},
@@ -370,6 +447,11 @@
 				"class": "madd-wajib",
 				"start": 35,
 				"end": 38
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 40,
+				"end": 42
 			}
 		]
 	},
@@ -391,6 +473,11 @@
 				"class": "idgham-bighunnah",
 				"start": 40,
 				"end": 42
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 79,
+				"end": 81
 			}
 		]
 	},
@@ -407,6 +494,11 @@
 				"class": "ikhfa",
 				"start": 44,
 				"end": 48
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 63,
+				"end": 65
 			}
 		]
 	},
@@ -433,6 +525,11 @@
 				"class": "idgham-bighunnah",
 				"start": 24,
 				"end": 26
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 50,
+				"end": 52
 			}
 		]
 	},
@@ -464,6 +561,11 @@
 				"class": "idgham-bighunnah",
 				"start": 67,
 				"end": 69
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 98,
+				"end": 100
 			}
 		]
 	},
@@ -500,6 +602,11 @@
 				"class": "madd-wajib",
 				"start": 66,
 				"end": 69
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 71,
+				"end": 73
 			}
 		]
 	},
@@ -511,7 +618,13 @@
 		"juz_id": 19,
 		"page_number": 368,
 		"translation_aya_text": "Fir‘aun bertanya, “Siapa Tuhan seluruh alam itu?”",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 38,
+				"end": 40
+			}
+		]
 	},
 	{
 		"aya_id": 2956,
@@ -536,6 +649,11 @@
 				"class": "idgham-mimi",
 				"start": 66,
 				"end": 71
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 78,
+				"end": 80
 			}
 		]
 	},
@@ -552,6 +670,11 @@
 				"class": "madd-jaiz",
 				"start": 19,
 				"end": 23
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 39,
+				"end": 41
 			}
 		]
 	},
@@ -568,6 +691,11 @@
 				"class": "madd-wajib",
 				"start": 27,
 				"end": 31
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 48,
+				"end": 50
 			}
 		]
 	},
@@ -594,6 +722,11 @@
 				"class": "qalqalah",
 				"start": 59,
 				"end": 60
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 63,
+				"end": 65
 			}
 		]
 	},
@@ -615,6 +748,11 @@
 				"class": "ikhfa",
 				"start": 64,
 				"end": 68
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 79,
+				"end": 81
 			}
 		]
 	},
@@ -636,6 +774,11 @@
 				"class": "ghunnah",
 				"start": 52,
 				"end": 55
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 76,
+				"end": 78
 			}
 		]
 	},
@@ -652,6 +795,11 @@
 				"class": "idgham-bighunnah",
 				"start": 30,
 				"end": 35
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 38,
+				"end": 40
 			}
 		]
 	},
@@ -678,6 +826,11 @@
 				"class": "ikhfa",
 				"start": 26,
 				"end": 30
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 45,
+				"end": 47
 			}
 		]
 	},
@@ -694,6 +847,11 @@
 				"class": "idgham-bighunnah",
 				"start": 38,
 				"end": 43
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 46,
+				"end": 48
 			}
 		]
 	},
@@ -715,6 +873,11 @@
 				"class": "ghunnah",
 				"start": 43,
 				"end": 46
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 50,
+				"end": 52
 			}
 		]
 	},
@@ -736,6 +899,11 @@
 				"class": "ghunnah",
 				"start": 29,
 				"end": 32
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 52,
+				"end": 54
 			}
 		]
 	},
@@ -757,6 +925,11 @@
 				"class": "idgham-mimi",
 				"start": 26,
 				"end": 31
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 75,
+				"end": 77
 			}
 		]
 	},
@@ -783,6 +956,11 @@
 				"class": "madd-wajib",
 				"start": 49,
 				"end": 53
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 64,
+				"end": 66
 			}
 		]
 	},
@@ -794,7 +972,13 @@
 		"juz_id": 19,
 		"page_number": 368,
 		"translation_aya_text": "niscaya mereka akan mendatangkan semua pesihir yang pandai kepadamu.” ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 32,
+				"end": 34
+			}
+		]
 	},
 	{
 		"aya_id": 2970,
@@ -809,6 +993,11 @@
 				"class": "idgham-bighunnah",
 				"start": 37,
 				"end": 42
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 47,
+				"end": 49
 			}
 		]
 	},
@@ -840,6 +1029,11 @@
 				"class": "qalqalah",
 				"start": 37,
 				"end": 38
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 45,
+				"end": 47
 			}
 		]
 	},
@@ -856,6 +1050,11 @@
 				"class": "ikhfa",
 				"start": 35,
 				"end": 40
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 61,
+				"end": 63
 			}
 		]
 	},
@@ -897,6 +1096,11 @@
 				"class": "ghunnah",
 				"start": 82,
 				"end": 85
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 103,
+				"end": 105
 			}
 		]
 	},
@@ -923,6 +1127,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 30,
 				"end": 32
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 51,
+				"end": 53
 			}
 		]
 	},
@@ -959,6 +1168,11 @@
 				"class": "idgham-mimi",
 				"start": 44,
 				"end": 49
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 54,
+				"end": 56
 			}
 		]
 	},
@@ -975,6 +1189,11 @@
 				"class": "ghunnah",
 				"start": 72,
 				"end": 75
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 95,
+				"end": 97
 			}
 		]
 	},
@@ -986,7 +1205,13 @@
 		"juz_id": 19,
 		"page_number": 369,
 		"translation_aya_text": "Kemudian Musa melemparkan tongkatnya, maka tiba-tiba ia menelan benda-benda palsu yang mereka ada-adakan itu.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 60,
+				"end": 62
+			}
+		]
 	},
 	{
 		"aya_id": 2978,
@@ -996,7 +1221,13 @@
 		"juz_id": 19,
 		"page_number": 369,
 		"translation_aya_text": "Maka menyungkurlah para pesihir itu, bersujud.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 29,
+				"end": 31
+			}
+		]
 	},
 	{
 		"aya_id": 2979,
@@ -1016,6 +1247,11 @@
 				"class": "ghunnah",
 				"start": 14,
 				"end": 17
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 36,
+				"end": 38
 			}
 		]
 	},
@@ -1027,7 +1263,13 @@
 		"juz_id": 19,
 		"page_number": 369,
 		"translation_aya_text": "(yaitu) Tuhannya Musa dan Harun.”",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 20,
+				"end": 22
+			}
+		]
 	},
 	{
 		"aya_id": 2981,
@@ -1077,6 +1319,11 @@
 				"class": "qalqalah",
 				"start": 212,
 				"end": 213
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 218,
+				"end": 220
 			}
 		]
 	},
@@ -1103,6 +1350,11 @@
 				"class": "ikhfa",
 				"start": 46,
 				"end": 50
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 54,
+				"end": 56
 			}
 		]
 	},
@@ -1149,6 +1401,11 @@
 				"class": "madd-jaiz",
 				"start": 67,
 				"end": 71
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 90,
+				"end": 92
 			}
 		]
 	},
@@ -1180,6 +1437,11 @@
 				"class": "idgham-mimi",
 				"start": 64,
 				"end": 69
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 77,
+				"end": 79
 			}
 		]
 	},
@@ -1196,6 +1458,11 @@
 				"class": "madd-wajib",
 				"start": 32,
 				"end": 36
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 47,
+				"end": 49
 			}
 		]
 	},
@@ -1222,6 +1489,11 @@
 				"class": "ikhfa",
 				"start": 28,
 				"end": 33
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 39,
+				"end": 41
 			}
 		]
 	},
@@ -1243,6 +1515,11 @@
 				"class": "madd-wajib",
 				"start": 21,
 				"end": 25
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 29,
+				"end": 31
 			}
 		]
 	},
@@ -1259,6 +1536,11 @@
 				"class": "ghunnah",
 				"start": 4,
 				"end": 7
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 26,
+				"end": 28
 			}
 		]
 	},
@@ -1295,6 +1577,11 @@
 				"class": "idgham-bighunnah",
 				"start": 28,
 				"end": 33
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 38,
+				"end": 40
 			}
 		]
 	},
@@ -1316,6 +1603,11 @@
 				"class": "ikhfa",
 				"start": 20,
 				"end": 25
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 27,
+				"end": 29
 			}
 		]
 	},
@@ -1337,6 +1629,11 @@
 				"class": "madd-wajib",
 				"start": 39,
 				"end": 42
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 44,
+				"end": 46
 			}
 		]
 	},
@@ -1353,6 +1650,11 @@
 				"class": "idgham-mimi",
 				"start": 14,
 				"end": 19
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 26,
+				"end": 28
 			}
 		]
 	},
@@ -1389,6 +1691,11 @@
 				"class": "qalqalah",
 				"start": 65,
 				"end": 66
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 71,
+				"end": 73
 			}
 		]
 	},
@@ -1405,6 +1712,11 @@
 				"class": "ghunnah",
 				"start": 16,
 				"end": 19
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 43,
+				"end": 45
 			}
 		]
 	},
@@ -1441,6 +1753,11 @@
 				"class": "ikhfa",
 				"start": 95,
 				"end": 100
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 117,
+				"end": 119
 			}
 		]
 	},
@@ -1457,6 +1774,11 @@
 				"class": "ghunnah",
 				"start": 16,
 				"end": 19
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 29,
+				"end": 31
 			}
 		]
 	},
@@ -1488,6 +1810,11 @@
 				"class": "qalqalah",
 				"start": 40,
 				"end": 41
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 46,
+				"end": 48
 			}
 		]
 	},
@@ -1509,6 +1836,11 @@
 				"class": "qalqalah",
 				"start": 12,
 				"end": 13
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 27,
+				"end": 29
 			}
 		]
 	},
@@ -1540,6 +1872,11 @@
 				"class": "idgham-mimi",
 				"start": 50,
 				"end": 55
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 62,
+				"end": 64
 			}
 		]
 	},
@@ -1556,6 +1893,11 @@
 				"class": "ghunnah",
 				"start": 4,
 				"end": 7
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 42,
+				"end": 44
 			}
 		]
 	},
@@ -1572,6 +1914,11 @@
 				"class": "qalqalah",
 				"start": 28,
 				"end": 29
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 34,
+				"end": 36
 			}
 		]
 	},
@@ -1583,7 +1930,13 @@
 		"juz_id": 19,
 		"page_number": 370,
 		"translation_aya_text": "Ketika dia (Ibrahim) berkata kepada ayahnya dan kaumnya, “Apakah yang kamu sembah?”",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 45,
+				"end": 47
+			}
+		]
 	},
 	{
 		"aya_id": 3003,
@@ -1603,6 +1956,11 @@
 				"class": "ikhfa",
 				"start": 28,
 				"end": 30
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 51,
+				"end": 53
 			}
 		]
 	},
@@ -1619,6 +1977,11 @@
 				"class": "qalqalah",
 				"start": 35,
 				"end": 36
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 39,
+				"end": 41
 			}
 		]
 	},
@@ -1635,6 +1998,11 @@
 				"class": "ikhfa",
 				"start": 7,
 				"end": 11
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 34,
+				"end": 36
 			}
 		]
 	},
@@ -1661,6 +2029,11 @@
 				"class": "madd-wajib",
 				"start": 28,
 				"end": 31
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 54,
+				"end": 56
 			}
 		]
 	},
@@ -1682,6 +2055,11 @@
 				"class": "ikhfa",
 				"start": 28,
 				"end": 32
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 43,
+				"end": 45
 			}
 		]
 	},
@@ -1703,6 +2081,11 @@
 				"class": "qalqalah",
 				"start": 29,
 				"end": 30
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 35,
+				"end": 37
 			}
 		]
 	},
@@ -1729,6 +2112,11 @@
 				"class": "madd-jaiz",
 				"start": 23,
 				"end": 27
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 49,
+				"end": 51
 			}
 		]
 	},
@@ -1740,7 +2128,13 @@
 		"juz_id": 19,
 		"page_number": 370,
 		"translation_aya_text": "(yaitu) Yang telah menciptakan aku, maka Dia yang memberi petunjuk kepadaku,",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 33,
+				"end": 35
+			}
+		]
 	},
 	{
 		"aya_id": 3011,
@@ -1755,6 +2149,11 @@
 				"class": "qalqalah",
 				"start": 18,
 				"end": 19
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 37,
+				"end": 39
 			}
 		]
 	},
@@ -1766,7 +2165,13 @@
 		"juz_id": 19,
 		"page_number": 370,
 		"translation_aya_text": "dan apabila aku sakit, Dialah yang menyembuhkan aku, ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 30,
+				"end": 32
+			}
+		]
 	},
 	{
 		"aya_id": 3013,
@@ -1781,6 +2186,11 @@
 				"class": "ghunnah",
 				"start": 26,
 				"end": 29
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 36,
+				"end": 38
 			}
 		]
 	},
@@ -1807,6 +2217,11 @@
 				"class": "idgham-bighunnah",
 				"start": 23,
 				"end": 28
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 68,
+				"end": 70
 			}
 		]
 	},
@@ -1838,6 +2253,11 @@
 				"class": "qalqalah",
 				"start": 33,
 				"end": 34
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 51,
+				"end": 53
 			}
 		]
 	},
@@ -1864,6 +2284,11 @@
 				"class": "ikhfa",
 				"start": 28,
 				"end": 33
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 44,
+				"end": 46
 			}
 		]
 	},
@@ -1895,6 +2320,11 @@
 				"class": "ghunnah",
 				"start": 39,
 				"end": 42
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 44,
+				"end": 46
 			}
 		]
 	},
@@ -1916,6 +2346,11 @@
 				"class": "ghunnah",
 				"start": 22,
 				"end": 25
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 49,
+				"end": 51
 			}
 		]
 	},
@@ -1932,6 +2367,11 @@
 				"class": "qalqalah",
 				"start": 26,
 				"end": 27
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 32,
+				"end": 34
 			}
 		]
 	},
@@ -1953,6 +2393,11 @@
 				"class": "idgham-bighunnah",
 				"start": 23,
 				"end": 28
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 37,
+				"end": 39
 			}
 		]
 	},
@@ -1969,6 +2414,11 @@
 				"class": "ikhfa",
 				"start": 32,
 				"end": 37
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 39,
+				"end": 41
 			}
 		]
 	},
@@ -1985,6 +2435,11 @@
 				"class": "ghunnah",
 				"start": 18,
 				"end": 21
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 35,
+				"end": 37
 			}
 		]
 	},
@@ -1996,7 +2451,13 @@
 		"juz_id": 19,
 		"page_number": 371,
 		"translation_aya_text": "dan neraka Jahim diperlihatkan dengan jelas kepada orang-orang yang sesat,”",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 32,
+				"end": 34
+			}
+		]
 	},
 	{
 		"aya_id": 3024,
@@ -2011,6 +2472,11 @@
 				"class": "ikhfa",
 				"start": 29,
 				"end": 33
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 44,
+				"end": 46
 			}
 		]
 	},
@@ -2037,6 +2503,11 @@
 				"class": "ikhfa",
 				"start": 50,
 				"end": 54
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 58,
+				"end": 60
 			}
 		]
 	},
@@ -2074,6 +2545,11 @@
 				"class": "qalqalah",
 				"start": 24,
 				"end": 25
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 30,
+				"end": 32
 			}
 		]
 	},
@@ -2085,7 +2561,13 @@
 		"juz_id": 19,
 		"page_number": 371,
 		"translation_aya_text": "Mereka berkata sambil bertengkar di dalamnya (neraka),",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 34,
+				"end": 36
+			}
+		]
 	},
 	{
 		"aya_id": 3029,
@@ -2110,6 +2592,11 @@
 				"class": "idgham-bighunnah",
 				"start": 33,
 				"end": 38
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 41,
+				"end": 43
 			}
 		]
 	},
@@ -2121,7 +2608,13 @@
 		"juz_id": 19,
 		"page_number": 371,
 		"translation_aya_text": "karena kita mempersamakan kamu (berhala-berhala) dengan Tuhan seluruh alam.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 36,
+				"end": 38
+			}
+		]
 	},
 	{
 		"aya_id": 3031,
@@ -2146,6 +2639,11 @@
 				"class": "qalqalah",
 				"start": 31,
 				"end": 32
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 37,
+				"end": 39
 			}
 		]
 	},
@@ -2162,6 +2660,11 @@
 				"class": "ikhfa",
 				"start": 14,
 				"end": 19
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 24,
+				"end": 26
 			}
 		]
 	},
@@ -2173,7 +2676,13 @@
 		"juz_id": 19,
 		"page_number": 371,
 		"translation_aya_text": "dan tidak pula mempunyai teman yang akrab,",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 19,
+				"end": 21
+			}
+		]
 	},
 	{
 		"aya_id": 3034,
@@ -2193,6 +2702,11 @@
 				"class": "ikhfa",
 				"start": 24,
 				"end": 29
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 54,
+				"end": 56
 			}
 		]
 	},
@@ -2224,6 +2738,11 @@
 				"class": "idgham-mimi",
 				"start": 50,
 				"end": 55
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 62,
+				"end": 64
 			}
 		]
 	},
@@ -2240,6 +2759,11 @@
 				"class": "ghunnah",
 				"start": 4,
 				"end": 7
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 42,
+				"end": 44
 			}
 		]
 	},
@@ -2251,7 +2775,13 @@
 		"juz_id": 19,
 		"page_number": 371,
 		"translation_aya_text": "Kaum Nuh telah mendustakan para rasul.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 37,
+				"end": 39
+			}
+		]
 	},
 	{
 		"aya_id": 3038,
@@ -2261,7 +2791,13 @@
 		"juz_id": 19,
 		"page_number": 371,
 		"translation_aya_text": "Ketika saudara mereka (Nuh) berkata kepada mereka, “Mengapa kamu tidak bertakwa?",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 49,
+				"end": 51
+			}
+		]
 	},
 	{
 		"aya_id": 3039,
@@ -2276,6 +2812,11 @@
 				"class": "ghunnah",
 				"start": 2,
 				"end": 5
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 28,
+				"end": 30
 			}
 		]
 	},
@@ -2287,7 +2828,13 @@
 		"juz_id": 19,
 		"page_number": 371,
 		"translation_aya_text": "Maka bertakwalah kamu kepada Allah dan taatlah kepadaku.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 29,
+				"end": 31
+			}
+		]
 	},
 	{
 		"aya_id": 3041,
@@ -2312,6 +2859,11 @@
 				"class": "qalqalah",
 				"start": 50,
 				"end": 51
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 85,
+				"end": 87
 			}
 		]
 	},
@@ -2323,7 +2875,13 @@
 		"juz_id": 19,
 		"page_number": 371,
 		"translation_aya_text": "Maka bertakwalah kamu kepada Allah dan taatlah kepadaku.”",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 29,
+				"end": 31
+			}
+		]
 	},
 	{
 		"aya_id": 3043,
@@ -2338,6 +2896,11 @@
 				"class": "madd-jaiz",
 				"start": 7,
 				"end": 10
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 52,
+				"end": 54
 			}
 		]
 	},
@@ -2349,7 +2912,13 @@
 		"juz_id": 19,
 		"page_number": 372,
 		"translation_aya_text": "Dia (Nuh) menjawab, “Tidak ada pengetahuanku tentang apa yang mereka kerjakan.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 44,
+				"end": 46
+			}
+		]
 	},
 	{
 		"aya_id": 3045,
@@ -2359,7 +2928,13 @@
 		"juz_id": 19,
 		"page_number": 372,
 		"translation_aya_text": "Perhitungan (amal perbuatan) mereka tidak lain hanyalah kepada Tuhanku, jika kamu menyadari.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 51,
+				"end": 53
+			}
+		]
 	},
 	{
 		"aya_id": 3046,
@@ -2374,6 +2949,11 @@
 				"class": "madd-jaiz",
 				"start": 3,
 				"end": 7
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 35,
+				"end": 37
 			}
 		]
 	},
@@ -2390,6 +2970,11 @@
 				"class": "idgham-bighunnah",
 				"start": 25,
 				"end": 30
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 33,
+				"end": 35
 			}
 		]
 	},
@@ -2416,6 +3001,11 @@
 				"class": "ghunnah",
 				"start": 51,
 				"end": 54
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 73,
+				"end": 75
 			}
 		]
 	},
@@ -2432,6 +3022,11 @@
 				"class": "ghunnah",
 				"start": 14,
 				"end": 17
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 34,
+				"end": 36
 			}
 		]
 	},
@@ -2458,6 +3053,11 @@
 				"class": "idgham-bighunnah",
 				"start": 57,
 				"end": 62
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 84,
+				"end": 86
 			}
 		]
 	},
@@ -2479,6 +3079,11 @@
 				"class": "idgham-bighunnah",
 				"start": 19,
 				"end": 24
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 53,
+				"end": 55
 			}
 		]
 	},
@@ -2500,6 +3105,11 @@
 				"class": "qalqalah",
 				"start": 12,
 				"end": 13
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 32,
+				"end": 34
 			}
 		]
 	},
@@ -2531,6 +3141,11 @@
 				"class": "idgham-mimi",
 				"start": 50,
 				"end": 55
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 62,
+				"end": 64
 			}
 		]
 	},
@@ -2547,6 +3162,11 @@
 				"class": "ghunnah",
 				"start": 4,
 				"end": 7
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 42,
+				"end": 44
 			}
 		]
 	},
@@ -2558,7 +3178,13 @@
 		"juz_id": 19,
 		"page_number": 372,
 		"translation_aya_text": "(Kaum) ‘Ad telah mendustakan para rasul.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 29,
+				"end": 31
+			}
+		]
 	},
 	{
 		"aya_id": 3056,
@@ -2568,7 +3194,13 @@
 		"juz_id": 19,
 		"page_number": 372,
 		"translation_aya_text": "Ketika saudara mereka Hud berkata kepada mereka, “Mengapa kamu tidak bertakwa?",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 49,
+				"end": 51
+			}
+		]
 	},
 	{
 		"aya_id": 3057,
@@ -2583,6 +3215,11 @@
 				"class": "ghunnah",
 				"start": 2,
 				"end": 5
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 28,
+				"end": 30
 			}
 		]
 	},
@@ -2594,7 +3231,13 @@
 		"juz_id": 19,
 		"page_number": 372,
 		"translation_aya_text": "karena itu bertakwalah kepada Allah dan taatlah kepadaku.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 29,
+				"end": 31
+			}
+		]
 	},
 	{
 		"aya_id": 3059,
@@ -2619,6 +3262,11 @@
 				"class": "qalqalah",
 				"start": 50,
 				"end": 51
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 85,
+				"end": 87
 			}
 		]
 	},
@@ -2640,6 +3288,11 @@
 				"class": "ikhfa",
 				"start": 32,
 				"end": 37
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 43,
+				"end": 45
 			}
 		]
 	},
@@ -2651,7 +3304,13 @@
 		"juz_id": 19,
 		"page_number": 372,
 		"translation_aya_text": "dan kamu membuat benteng-benteng dengan harapan kamu hidup kekal?",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 46,
+				"end": 48
+			}
+		]
 	},
 	{
 		"aya_id": 3062,
@@ -2661,7 +3320,13 @@
 		"juz_id": 19,
 		"page_number": 372,
 		"translation_aya_text": "Dan apabila kamu menyiksa, maka kamu lakukan secara kejam dan bengis.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 38,
+				"end": 40
+			}
+		]
 	},
 	{
 		"aya_id": 3063,
@@ -2671,7 +3336,13 @@
 		"juz_id": 19,
 		"page_number": 372,
 		"translation_aya_text": "Maka bertakwalah kepada Allah dan taatlah kepadaku,",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 29,
+				"end": 31
+			}
+		]
 	},
 	{
 		"aya_id": 3064,
@@ -2686,6 +3357,11 @@
 				"class": "madd-jaiz",
 				"start": 17,
 				"end": 21
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 47,
+				"end": 49
 			}
 		]
 	},
@@ -2702,6 +3378,11 @@
 				"class": "idgham-bighunnah",
 				"start": 21,
 				"end": 26
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 31,
+				"end": 33
 			}
 		]
 	},
@@ -2723,6 +3404,11 @@
 				"class": "idgham-bighunnah",
 				"start": 7,
 				"end": 12
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 17,
+				"end": 19
 			}
 		]
 	},
@@ -2744,6 +3430,11 @@
 				"class": "madd-jaiz",
 				"start": 5,
 				"end": 9
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 47,
+				"end": 49
 			}
 		]
 	},
@@ -2770,6 +3461,11 @@
 				"class": "idgham-bighunnah",
 				"start": 54,
 				"end": 59
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 73,
+				"end": 75
 			}
 		]
 	},
@@ -2786,6 +3482,11 @@
 				"class": "madd-jaiz",
 				"start": 8,
 				"end": 12
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 36,
+				"end": 38
 			}
 		]
 	},
@@ -2797,7 +3498,13 @@
 		"juz_id": 19,
 		"page_number": 373,
 		"translation_aya_text": "dan kami (sama sekali) tidak akan diazab.”",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 24,
+				"end": 26
+			}
+		]
 	},
 	{
 		"aya_id": 3071,
@@ -2827,6 +3534,11 @@
 				"class": "idgham-mimi",
 				"start": 82,
 				"end": 87
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 94,
+				"end": 96
 			}
 		]
 	},
@@ -2843,6 +3555,11 @@
 				"class": "ghunnah",
 				"start": 4,
 				"end": 7
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 42,
+				"end": 44
 			}
 		]
 	},
@@ -2854,7 +3571,13 @@
 		"juz_id": 19,
 		"page_number": 373,
 		"translation_aya_text": "Kaum Samud telah mendustakan para rasul.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 30,
+				"end": 32
+			}
+		]
 	},
 	{
 		"aya_id": 3074,
@@ -2864,7 +3587,13 @@
 		"juz_id": 19,
 		"page_number": 373,
 		"translation_aya_text": "Ketika saudara mereka Saleh berkata kepada mereka, “Mengapa kamu tidak bertakwa?",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 49,
+				"end": 51
+			}
+		]
 	},
 	{
 		"aya_id": 3075,
@@ -2879,6 +3608,11 @@
 				"class": "ghunnah",
 				"start": 2,
 				"end": 5
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 28,
+				"end": 30
 			}
 		]
 	},
@@ -2890,7 +3624,13 @@
 		"juz_id": 19,
 		"page_number": 373,
 		"translation_aya_text": "karena itu bertakwalah kepada Allah dan taatlah kepadaku.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 29,
+				"end": 31
+			}
+		]
 	},
 	{
 		"aya_id": 3077,
@@ -2915,6 +3655,11 @@
 				"class": "qalqalah",
 				"start": 50,
 				"end": 51
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 85,
+				"end": 87
 			}
 		]
 	},
@@ -2931,6 +3676,11 @@
 				"class": "madd-jaiz",
 				"start": 29,
 				"end": 33
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 39,
+				"end": 41
 			}
 		]
 	},
@@ -2952,6 +3702,11 @@
 				"class": "idgham-bighunnah",
 				"start": 10,
 				"end": 15
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 20,
+				"end": 22
 			}
 		]
 	},
@@ -2973,6 +3728,11 @@
 				"class": "ikhfa",
 				"start": 19,
 				"end": 24
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 36,
+				"end": 38
 			}
 		]
 	},
@@ -2994,6 +3754,11 @@
 				"class": "ikhfa",
 				"start": 40,
 				"end": 42
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 47,
+				"end": 49
 			}
 		]
 	},
@@ -3005,7 +3770,13 @@
 		"juz_id": 19,
 		"page_number": 373,
 		"translation_aya_text": "maka bertakwalah kepada Allah dan taatlah kepadaku;",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 29,
+				"end": 31
+			}
+		]
 	},
 	{
 		"aya_id": 3083,
@@ -3020,6 +3791,11 @@
 				"class": "madd-jaiz",
 				"start": 14,
 				"end": 17
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 37,
+				"end": 39
 			}
 		]
 	},
@@ -3031,7 +3807,13 @@
 		"juz_id": 19,
 		"page_number": 373,
 		"translation_aya_text": "yang berbuat kerusakan di bumi dan tidak mengadakan perbaikan.”",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 52,
+				"end": 54
+			}
+		]
 	},
 	{
 		"aya_id": 3085,
@@ -3061,6 +3843,11 @@
 				"class": "ikhfa",
 				"start": 22,
 				"end": 26
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 44,
+				"end": 46
 			}
 		]
 	},
@@ -3097,6 +3884,11 @@
 				"class": "ikhfa",
 				"start": 61,
 				"end": 65
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 80,
+				"end": 82
 			}
 		]
 	},
@@ -3123,6 +3915,11 @@
 				"class": "idgham-bighunnah",
 				"start": 56,
 				"end": 61
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 66,
+				"end": 68
 			}
 		]
 	},
@@ -3144,6 +3941,11 @@
 				"class": "ikhfa",
 				"start": 26,
 				"end": 31
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 63,
+				"end": 65
 			}
 		]
 	},
@@ -3155,7 +3957,13 @@
 		"juz_id": 19,
 		"page_number": 373,
 		"translation_aya_text": "Kemudian mereka membunuhnya, lalu mereka merasa menyesal,",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 34,
+				"end": 36
+			}
+		]
 	},
 	{
 		"aya_id": 3090,
@@ -3185,6 +3993,11 @@
 				"class": "idgham-mimi",
 				"start": 75,
 				"end": 80
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 87,
+				"end": 89
 			}
 		]
 	},
@@ -3201,6 +4014,11 @@
 				"class": "ghunnah",
 				"start": 4,
 				"end": 7
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 42,
+				"end": 44
 			}
 		]
 	},
@@ -3212,7 +4030,13 @@
 		"juz_id": 19,
 		"page_number": 374,
 		"translation_aya_text": "Kaum Lut telah mendustakan para rasul,",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 37,
+				"end": 39
+			}
+		]
 	},
 	{
 		"aya_id": 3093,
@@ -3222,7 +4046,13 @@
 		"juz_id": 19,
 		"page_number": 374,
 		"translation_aya_text": "ketika saudara mereka Lut berkata kepada mereka, “Mengapa kamu tidak bertakwa?”",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 49,
+				"end": 51
+			}
+		]
 	},
 	{
 		"aya_id": 3094,
@@ -3237,6 +4067,11 @@
 				"class": "ghunnah",
 				"start": 2,
 				"end": 5
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 28,
+				"end": 30
 			}
 		]
 	},
@@ -3248,7 +4083,13 @@
 		"juz_id": 19,
 		"page_number": 374,
 		"translation_aya_text": "maka bertakwalah kepada Allah dan taatlah kepadaku.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 29,
+				"end": 31
+			}
+		]
 	},
 	{
 		"aya_id": 3096,
@@ -3273,6 +4114,11 @@
 				"class": "qalqalah",
 				"start": 49,
 				"end": 50
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 84,
+				"end": 86
 			}
 		]
 	},
@@ -3284,7 +4130,13 @@
 		"juz_id": 19,
 		"page_number": 374,
 		"translation_aya_text": "Mengapa kamu mendatangi jenis laki-laki di antara manusia (berbuat homoseks),",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 40,
+				"end": 42
+			}
+		]
 	},
 	{
 		"aya_id": 3098,
@@ -3304,6 +4156,11 @@
 				"class": "ikhfa",
 				"start": 69,
 				"end": 73
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 87,
+				"end": 89
 			}
 		]
 	},
@@ -3330,6 +4187,11 @@
 				"class": "ghunnah",
 				"start": 51,
 				"end": 54
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 71,
+				"end": 73
 			}
 		]
 	},
@@ -3351,6 +4213,11 @@
 				"class": "idgham-mimi",
 				"start": 24,
 				"end": 29
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 41,
+				"end": 43
 			}
 		]
 	},
@@ -3367,6 +4234,11 @@
 				"class": "ghunnah",
 				"start": 27,
 				"end": 32
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 42,
+				"end": 44
 			}
 		]
 	},
@@ -3388,6 +4260,11 @@
 				"class": "qalqalah",
 				"start": 28,
 				"end": 29
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 34,
+				"end": 36
 			}
 		]
 	},
@@ -3409,6 +4286,11 @@
 				"class": "ikhfa",
 				"start": 16,
 				"end": 18
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 30,
+				"end": 32
 			}
 		]
 	},
@@ -3430,6 +4312,11 @@
 				"class": "ghunnah",
 				"start": 8,
 				"end": 11
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 26,
+				"end": 28
 			}
 		]
 	},
@@ -3466,6 +4353,11 @@
 				"class": "ikhfa",
 				"start": 56,
 				"end": 60
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 62,
+				"end": 64
 			}
 		]
 	},
@@ -3497,6 +4389,11 @@
 				"class": "idgham-mimi",
 				"start": 50,
 				"end": 55
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 62,
+				"end": 64
 			}
 		]
 	},
@@ -3513,6 +4410,11 @@
 				"class": "ghunnah",
 				"start": 4,
 				"end": 7
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 42,
+				"end": 44
 			}
 		]
 	},
@@ -3524,7 +4426,13 @@
 		"juz_id": 19,
 		"page_number": 374,
 		"translation_aya_text": "Penduduk Aikah telah mendustakan para rasul;",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 40,
+				"end": 42
+			}
+		]
 	},
 	{
 		"aya_id": 3109,
@@ -3534,7 +4442,13 @@
 		"juz_id": 19,
 		"page_number": 374,
 		"translation_aya_text": "ketika Syuaib berkata kepada mereka, “Mengapa kamu tidak bertakwa?",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 40,
+				"end": 42
+			}
+		]
 	},
 	{
 		"aya_id": 3110,
@@ -3549,6 +4463,11 @@
 				"class": "ghunnah",
 				"start": 2,
 				"end": 5
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 28,
+				"end": 30
 			}
 		]
 	},
@@ -3560,7 +4479,13 @@
 		"juz_id": 19,
 		"page_number": 374,
 		"translation_aya_text": "maka bertakwalah kepada Allah dan taatlah kepadaku;",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 29,
+				"end": 31
+			}
+		]
 	},
 	{
 		"aya_id": 3112,
@@ -3585,6 +4510,11 @@
 				"class": "qalqalah",
 				"start": 49,
 				"end": 50
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 84,
+				"end": 86
 			}
 		]
 	},
@@ -3596,7 +4526,13 @@
 		"juz_id": 19,
 		"page_number": 374,
 		"translation_aya_text": "Sempurnakanlah takaran dan janganlah kamu merugikan orang lain.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 55,
+				"end": 57
+			}
+		]
 	},
 	{
 		"aya_id": 3114,
@@ -3606,7 +4542,13 @@
 		"juz_id": 19,
 		"page_number": 374,
 		"translation_aya_text": "Dan timbanglah dengan timbangan yang benar.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 36,
+				"end": 38
+			}
+		]
 	},
 	{
 		"aya_id": 3115,
@@ -3631,6 +4573,11 @@
 				"class": "madd-wajib",
 				"start": 31,
 				"end": 34
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 79,
+				"end": 81
 			}
 		]
 	},
@@ -3642,7 +4589,13 @@
 		"juz_id": 19,
 		"page_number": 375,
 		"translation_aya_text": "dan bertakwalah kepada Allah yang telah menciptakan kamu dan umat-umat yang terdahulu.”",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 56,
+				"end": 58
+			}
+		]
 	},
 	{
 		"aya_id": 3117,
@@ -3672,6 +4625,11 @@
 				"class": "ikhfa",
 				"start": 22,
 				"end": 26
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 44,
+				"end": 46
 			}
 		]
 	},
@@ -3708,6 +4666,11 @@
 				"class": "ghunnah",
 				"start": 51,
 				"end": 54
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 73,
+				"end": 75
 			}
 		]
 	},
@@ -3749,6 +4712,11 @@
 				"class": "ikhfa",
 				"start": 54,
 				"end": 58
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 73,
+				"end": 75
 			}
 		]
 	},
@@ -3765,6 +4733,11 @@
 				"class": "madd-jaiz",
 				"start": 11,
 				"end": 15
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 38,
+				"end": 40
 			}
 		]
 	},
@@ -3781,6 +4754,11 @@
 				"class": "ghunnah",
 				"start": 56,
 				"end": 59
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 87,
+				"end": 89
 			}
 		]
 	},
@@ -3812,6 +4790,11 @@
 				"class": "idgham-mimi",
 				"start": 50,
 				"end": 55
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 62,
+				"end": 64
 			}
 		]
 	},
@@ -3828,6 +4811,11 @@
 				"class": "ghunnah",
 				"start": 4,
 				"end": 7
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 42,
+				"end": 44
 			}
 		]
 	},
@@ -3849,6 +4837,11 @@
 				"class": "ikhfa",
 				"start": 14,
 				"end": 18
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 38,
+				"end": 40
 			}
 		]
 	},
@@ -3860,7 +4853,13 @@
 		"juz_id": 19,
 		"page_number": 375,
 		"translation_aya_text": "Yang dibawa turun oleh ar-Ruh al-Amin (Jibril), ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 29,
+				"end": 31
+			}
+		]
 	},
 	{
 		"aya_id": 3126,
@@ -3875,6 +4874,11 @@
 				"class": "ikhfa",
 				"start": 36,
 				"end": 40
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 42,
+				"end": 44
 			}
 		]
 	},
@@ -3891,6 +4895,11 @@
 				"class": "idgham-bighunnah",
 				"start": 16,
 				"end": 22
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 25,
+				"end": 27
 			}
 		]
 	},
@@ -3907,6 +4916,11 @@
 				"class": "ghunnah",
 				"start": 4,
 				"end": 7
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 34,
+				"end": 36
 			}
 		]
 	},
@@ -3938,6 +4952,11 @@
 				"class": "madd-wajib",
 				"start": 72,
 				"end": 75
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 77,
+				"end": 79
 			}
 		]
 	},
@@ -3949,7 +4968,13 @@
 		"juz_id": 19,
 		"page_number": 375,
 		"translation_aya_text": "Dan seandainya (Al-Qur'an) itu Kami turunkan kepada sebagian dari golongan bukan Arab,",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 43,
+				"end": 45
+			}
+		]
 	},
 	{
 		"aya_id": 3131,
@@ -3964,6 +4989,11 @@
 				"class": "idgham-mimi",
 				"start": 19,
 				"end": 24
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 49,
+				"end": 51
 			}
 		]
 	},
@@ -3980,6 +5010,11 @@
 				"class": "qalqalah",
 				"start": 39,
 				"end": 40
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 45,
+				"end": 47
 			}
 		]
 	},
@@ -3991,7 +5026,13 @@
 		"juz_id": 19,
 		"page_number": 375,
 		"translation_aya_text": "mereka tidak akan beriman kepadanya, hingga mereka melihat azab yang pedih,",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 55,
+				"end": 57
+			}
+		]
 	},
 	{
 		"aya_id": 3134,
@@ -4006,6 +5047,11 @@
 				"class": "idgham-bighunnah",
 				"start": 21,
 				"end": 26
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 44,
+				"end": 46
 			}
 		]
 	},
@@ -4022,6 +5068,11 @@
 				"class": "ikhfa",
 				"start": 28,
 				"end": 32
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 34,
+				"end": 36
 			}
 		]
 	},
@@ -4033,7 +5084,13 @@
 		"juz_id": 19,
 		"page_number": 375,
 		"translation_aya_text": "Bukankah mereka yang meminta agar azab Kami dipercepat?",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 29,
+				"end": 31
+			}
+		]
 	},
 	{
 		"aya_id": 3137,
@@ -4048,6 +5105,11 @@
 				"class": "idgham-bighunnah",
 				"start": 15,
 				"end": 20
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 37,
+				"end": 39
 			}
 		]
 	},
@@ -4074,6 +5136,11 @@
 				"class": "idgham-mimi",
 				"start": 14,
 				"end": 19
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 39,
+				"end": 41
 			}
 		]
 	},
@@ -4095,6 +5162,11 @@
 				"class": "idgham-mimi",
 				"start": 19,
 				"end": 24
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 45,
+				"end": 47
 			}
 		]
 	},
@@ -4121,6 +5193,11 @@
 				"class": "ikhfa",
 				"start": 48,
 				"end": 52
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 54,
+				"end": 56
 			}
 		]
 	},
@@ -4137,6 +5214,11 @@
 				"class": "ghunnah",
 				"start": 17,
 				"end": 20
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 28,
+				"end": 30
 			}
 		]
 	},
@@ -4148,7 +5230,13 @@
 		"juz_id": 19,
 		"page_number": 376,
 		"translation_aya_text": "Dan (Al-Qur'an) itu tidaklah dibawa turun oleh setan-setan.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 32,
+				"end": 34
+			}
+		]
 	},
 	{
 		"aya_id": 3143,
@@ -4168,6 +5256,11 @@
 				"class": "iqlab",
 				"start": 10,
 				"end": 12
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 43,
+				"end": 45
 			}
 		]
 	},
@@ -4184,6 +5277,11 @@
 				"class": "ghunnah",
 				"start": 2,
 				"end": 5
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 37,
+				"end": 39
 			}
 		]
 	},
@@ -4200,6 +5298,11 @@
 				"class": "qalqalah",
 				"start": 8,
 				"end": 9
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 69,
+				"end": 71
 			}
 		]
 	},
@@ -4221,6 +5324,11 @@
 				"class": "qalqalah",
 				"start": 29,
 				"end": 30
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 35,
+				"end": 37
 			}
 		]
 	},
@@ -4232,7 +5340,13 @@
 		"juz_id": 19,
 		"page_number": 376,
 		"translation_aya_text": "dan rendahkanlah dirimu terhadap orang-orang yang beriman yang mengikutimu.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 54,
+				"end": 56
+			}
+		]
 	},
 	{
 		"aya_id": 3148,
@@ -4262,6 +5376,11 @@
 				"class": "ghunnah",
 				"start": 44,
 				"end": 47
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 57,
+				"end": 59
 			}
 		]
 	},
@@ -4273,7 +5392,13 @@
 		"juz_id": 19,
 		"page_number": 376,
 		"translation_aya_text": "Dan bertawakallah kepada (Allah) Yang Mahaperkasa, Maha Penyayang.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 37,
+				"end": 39
+			}
+		]
 	},
 	{
 		"aya_id": 3150,
@@ -4283,7 +5408,13 @@
 		"juz_id": 19,
 		"page_number": 376,
 		"translation_aya_text": "Yang melihat engkau ketika engkau berdiri (untuk salat),",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 28,
+				"end": 30
+			}
+		]
 	},
 	{
 		"aya_id": 3151,
@@ -4293,7 +5424,13 @@
 		"juz_id": 19,
 		"page_number": 376,
 		"translation_aya_text": "dan (melihat) perubahan gerakan badanmu di antara orang-orang yang sujud.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 27,
+				"end": 29
+			}
+		]
 	},
 	{
 		"aya_id": 3152,
@@ -4308,6 +5445,11 @@
 				"class": "ghunnah",
 				"start": 2,
 				"end": 5
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 32,
+				"end": 34
 			}
 		]
 	},
@@ -4324,6 +5466,11 @@
 				"class": "ikhfa",
 				"start": 27,
 				"end": 32
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 49,
+				"end": 51
 			}
 		]
 	},
@@ -4335,7 +5482,13 @@
 		"juz_id": 19,
 		"page_number": 376,
 		"translation_aya_text": "Mereka (setan) turun kepada setiap pendusta yang banyak berdosa,",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 35,
+				"end": 37
+			}
+		]
 	},
 	{
 		"aya_id": 3155,
@@ -4345,7 +5498,13 @@
 		"juz_id": 19,
 		"page_number": 376,
 		"translation_aya_text": "mereka menyampaikan hasil pendengaran mereka, sedangkan kebanyakan mereka orang-orang pendusta.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 43,
+				"end": 45
+			}
+		]
 	},
 	{
 		"aya_id": 3156,
@@ -4381,6 +5540,11 @@
 				"class": "idgham-bighunnah",
 				"start": 36,
 				"end": 41
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 48,
+				"end": 50
 			}
 		]
 	},
@@ -4397,6 +5561,11 @@
 				"class": "ghunnah",
 				"start": 4,
 				"end": 7
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 41,
+				"end": 43
 			}
 		]
 	},
@@ -4453,6 +5622,11 @@
 				"class": "ikhfa",
 				"start": 179,
 				"end": 183
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 187,
+				"end": 189
 			}
 		]
 	}

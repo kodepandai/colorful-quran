@@ -58,6 +58,11 @@
 				"class": "qalqalah",
 				"start": 43,
 				"end": 44
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 47,
+				"end": 49
 			}
 		]
 	},
@@ -74,6 +79,11 @@
 				"class": "ikhfa",
 				"start": 39,
 				"end": 43
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 43,
+				"end": 45
 			}
 		]
 	},

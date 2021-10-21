@@ -7,7 +7,13 @@
 		"juz_id": 29,
 		"page_number": 566,
 		"translation_aya_text": "Hari Kiamat,",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 6,
+				"end": 8
+			}
+		]
 	},
 	{
 		"aya_id": 5325,
@@ -17,7 +23,13 @@
 		"juz_id": 29,
 		"page_number": 566,
 		"translation_aya_text": "apakah hari Kiamat itu?",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 9,
+				"end": 11
+			}
+		]
 	},
 	{
 		"aya_id": 5326,
@@ -37,6 +49,11 @@
 				"class": "qalqalah",
 				"start": 9,
 				"end": 10
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 26,
+				"end": 28
 			}
 		]
 	},
@@ -188,6 +205,11 @@
 				"class": "qalqalah",
 				"start": 29,
 				"end": 30
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 61,
+				"end": 62
 			}
 		]
 	},
@@ -587,7 +609,13 @@
 		"juz_id": 29,
 		"page_number": 567,
 		"translation_aya_text": "(Allah berfirman), “Tangkaplah dia lalu belenggulah tangannya ke lehernya.” ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 16,
+				"end": 18
+			}
+		]
 	},
 	{
 		"aya_id": 5354,
@@ -602,6 +630,11 @@
 				"class": "ghunnah",
 				"start": 2,
 				"end": 5
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 23,
+				"end": 25
 			}
 		]
 	},
@@ -638,6 +671,11 @@
 				"class": "ikhfa",
 				"start": 51,
 				"end": 53
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 61,
+				"end": 63
 			}
 		]
 	},
@@ -654,6 +692,11 @@
 				"class": "ghunnah",
 				"start": 2,
 				"end": 5
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 44,
+				"end": 46
 			}
 		]
 	},
@@ -665,7 +708,13 @@
 		"juz_id": 29,
 		"page_number": 567,
 		"translation_aya_text": "Dan juga dia tidak mendorong (orang lain) untuk memberi makan orang miskin. ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 37,
+				"end": 39
+			}
+		]
 	},
 	{
 		"aya_id": 5358,
@@ -675,7 +724,13 @@
 		"juz_id": 29,
 		"page_number": 568,
 		"translation_aya_text": "Maka pada hari ini di sini tidak ada seorang teman pun baginya. ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 36,
+				"end": 38
+			}
+		]
 	},
 	{
 		"aya_id": 5359,
@@ -685,7 +740,13 @@
 		"juz_id": 29,
 		"page_number": 568,
 		"translation_aya_text": "Dan tidak ada makanan (baginya) kecuali dari darah dan nanah. ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 33,
+				"end": 35
+			}
+		]
 	},
 	{
 		"aya_id": 5360,
@@ -700,6 +761,11 @@
 				"class": "madd-jaiz",
 				"start": 13,
 				"end": 17
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 35,
+				"end": 37
 			}
 		]
 	},
@@ -726,6 +792,11 @@
 				"class": "qalqalah",
 				"start": 24,
 				"end": 25
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 30,
+				"end": 32
 			}
 		]
 	},
@@ -742,6 +813,11 @@
 				"class": "qalqalah",
 				"start": 12,
 				"end": 13
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 18,
+				"end": 20
 			}
 		]
 	},
@@ -763,6 +839,11 @@
 				"class": "ikhfa",
 				"start": 23,
 				"end": 28
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 30,
+				"end": 32
 			}
 		]
 	},
@@ -794,6 +875,11 @@
 				"class": "idgham-bighunnah",
 				"start": 39,
 				"end": 41
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 53,
+				"end": 55
 			}
 		]
 	},
@@ -825,6 +911,11 @@
 				"class": "idgham-bighunnah",
 				"start": 33,
 				"end": 35
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 48,
+				"end": 50
 			}
 		]
 	},
@@ -851,6 +942,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 14,
 				"end": 19
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 33,
+				"end": 35
 			}
 		]
 	},
@@ -862,7 +958,13 @@
 		"juz_id": 29,
 		"page_number": 568,
 		"translation_aya_text": "Dan sekiranya dia (Muhammad) mengada-adakan sebagian perkataan atas (nama) Kami, ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 44,
+				"end": 46
+			}
+		]
 	},
 	{
 		"aya_id": 5368,
@@ -872,7 +974,13 @@
 		"juz_id": 29,
 		"page_number": 568,
 		"translation_aya_text": "pasti Kami pegang dia pada tangan kanannya. ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 28,
+				"end": 30
+			}
+		]
 	},
 	{
 		"aya_id": 5369,
@@ -887,6 +995,11 @@
 				"class": "ghunnah",
 				"start": 2,
 				"end": 5
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 32,
+				"end": 34
 			}
 		]
 	},
@@ -908,6 +1021,11 @@
 				"class": "idgham-mimi",
 				"start": 12,
 				"end": 17
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 42,
+				"end": 44
 			}
 		]
 	},
@@ -929,6 +1047,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 20,
 				"end": 25
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 35,
+				"end": 37
 			}
 		]
 	},
@@ -960,6 +1083,11 @@
 				"class": "idgham-mimi",
 				"start": 32,
 				"end": 37
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 45,
+				"end": 47
 			}
 		]
 	},
@@ -976,6 +1104,11 @@
 				"class": "ghunnah",
 				"start": 4,
 				"end": 7
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 36,
+				"end": 38
 			}
 		]
 	},
@@ -992,6 +1125,11 @@
 				"class": "ghunnah",
 				"start": 4,
 				"end": 7
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 25,
+				"end": 27
 			}
 		]
 	},
@@ -1003,6 +1141,12 @@
 		"juz_id": 29,
 		"page_number": 568,
 		"translation_aya_text": "Maka bertasbihlah dengan (menyebut) nama Tuhanmu Yang Mahaagung. ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 33,
+				"end": 35
+			}
+		]
 	}
 ]

@@ -59,6 +59,11 @@
 				"class": "idgham-bighunnah",
 				"start": 21,
 				"end": 26
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 27,
+				"end": 29
 			}
 		]
 	},
@@ -350,6 +355,11 @@
 				"class": "ikhfa",
 				"start": 19,
 				"end": 24
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 24,
+				"end": 26
 			}
 		]
 	},
@@ -478,7 +488,13 @@
 		"juz_id": 27,
 		"page_number": 526,
 		"translation_aya_text": "(Tidak!) Maka milik Allah-lah kehidupan akhirat dan kehidupan dunia. ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 29,
+				"end": 31
+			}
+		]
 	},
 	{
 		"aya_id": 4810,
@@ -812,7 +828,13 @@
 		"juz_id": 27,
 		"page_number": 527,
 		"translation_aya_text": "Ataukah belum diberitakan (kepadanya) apa yang ada dalam lembaran-lembaran (Kitab Suci yang diturunkan kepada) Musa?",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 40,
+				"end": 42
+			}
+		]
 	},
 	{
 		"aya_id": 4821,
@@ -1085,6 +1107,11 @@
 				"class": "madd-jaiz",
 				"start": 7,
 				"end": 11
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 33,
+				"end": 35
 			}
 		]
 	},
@@ -1178,6 +1205,11 @@
 				"class": "madd-wajib",
 				"start": 13,
 				"end": 16
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 33,
+				"end": 34
 			}
 		]
 	},
@@ -1199,6 +1231,11 @@
 				"class": "ghunnah",
 				"start": 23,
 				"end": 26
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 36,
+				"end": 38
 			}
 		]
 	},
@@ -1236,7 +1273,13 @@
 		"juz_id": 27,
 		"page_number": 528,
 		"translation_aya_text": "Maka apakah kamu merasa heran terhadap pemberitaan ini?",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 35,
+				"end": 37
+			}
+		]
 	},
 	{
 		"aya_id": 4844,
@@ -1251,6 +1294,11 @@
 				"class": "qalqalah",
 				"start": 23,
 				"end": 24
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 27,
+				"end": 29
 			}
 		]
 	},
@@ -1267,6 +1315,11 @@
 				"class": "ikhfa",
 				"start": 4,
 				"end": 8
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 18,
+				"end": 20
 			}
 		]
 	},
@@ -1278,6 +1331,12 @@
 		"juz_id": 27,
 		"page_number": 528,
 		"translation_aya_text": "Maka bersujudlah kepada Allah dan sembahlah (Dia). ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 30,
+				"end": 32
+			}
+		]
 	}
 ]

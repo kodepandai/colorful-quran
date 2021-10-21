@@ -107,6 +107,11 @@
 				"class": "madd-wajib",
 				"start": 468,
 				"end": 471
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 481,
+				"end": 483
 			}
 		]
 	},
@@ -148,6 +153,11 @@
 				"class": "madd-wajib",
 				"start": 115,
 				"end": 118
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 145,
+				"end": 147
 			}
 		]
 	},
@@ -174,6 +184,11 @@
 				"class": "madd-jaiz",
 				"start": 35,
 				"end": 39
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 128,
+				"end": 130
 			}
 		]
 	},
@@ -270,6 +285,11 @@
 				"class": "qalqalah",
 				"start": 454,
 				"end": 455
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 478,
+				"end": 480
 			}
 		]
 	},
@@ -301,6 +321,11 @@
 				"class": "ikhfa",
 				"start": 93,
 				"end": 97
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 117,
+				"end": 119
 			}
 		]
 	},
@@ -337,6 +362,11 @@
 				"class": "ghunnah",
 				"start": 122,
 				"end": 125
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 157,
+				"end": 159
 			}
 		]
 	},
@@ -393,6 +423,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 132,
 				"end": 137
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 140,
+				"end": 142
 			}
 		]
 	},
@@ -439,6 +474,11 @@
 				"class": "qalqalah",
 				"start": 188,
 				"end": 189
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 194,
+				"end": 196
 			}
 		]
 	},
@@ -485,6 +525,11 @@
 				"class": "madd-wajib",
 				"start": 189,
 				"end": 193
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 212,
+				"end": 214
 			}
 		]
 	},
@@ -626,6 +671,11 @@
 				"class": "ikhfa",
 				"start": 479,
 				"end": 483
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 559,
+				"end": 561
 			}
 		]
 	},
@@ -677,6 +727,11 @@
 				"class": "ikhfa",
 				"start": 176,
 				"end": 180
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 196,
+				"end": 198
 			}
 		]
 	},
@@ -778,6 +833,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 363,
 				"end": 368
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 371,
+				"end": 373
 			}
 		]
 	},
@@ -799,6 +859,11 @@
 				"class": "qalqalah",
 				"start": 86,
 				"end": 87
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 164,
+				"end": 166
 			}
 		]
 	}

@@ -42,6 +42,11 @@
 				"class": "idgham-bighunnah",
 				"start": 81,
 				"end": 86
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 110,
+				"end": 112
 			}
 		]
 	},
@@ -63,6 +68,11 @@
 				"class": "idgham-bighunnah",
 				"start": 36,
 				"end": 41
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 44,
+				"end": 46
 			}
 		]
 	},
@@ -74,7 +84,13 @@
 		"juz_id": 29,
 		"page_number": 570,
 		"translation_aya_text": "(yaitu) sembahlah Allah, bertakwalah kepada-Nya dan taatlah kepadaku, ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 46,
+				"end": 48
+			}
+		]
 	},
 	{
 		"aya_id": 5423,
@@ -124,6 +140,11 @@
 				"class": "ikhfa",
 				"start": 132,
 				"end": 136
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 147,
+				"end": 149
 			}
 		]
 	},
@@ -658,6 +679,11 @@
 				"class": "ikhfa",
 				"start": 107,
 				"end": 111
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 111,
+				"end": 112
 			}
 		]
 	},

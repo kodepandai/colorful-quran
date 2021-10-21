@@ -90,6 +90,11 @@
 				"class": "ikhfa",
 				"start": 17,
 				"end": 21
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 54,
+				"end": 56
 			}
 		]
 	},
@@ -137,7 +142,13 @@
 		"juz_id": 30,
 		"page_number": 587,
 		"translation_aya_text": "Sekali-kali jangan begitu! Bahkan kamu mendustakan hari pembalasan.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 33,
+				"end": 35
+			}
+		]
 	},
 	{
 		"aya_id": 5839,
@@ -152,6 +163,11 @@
 				"class": "ghunnah",
 				"start": 4,
 				"end": 7
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 27,
+				"end": 29
 			}
 		]
 	},
@@ -173,6 +189,11 @@
 				"class": "ikhfa",
 				"start": 8,
 				"end": 10
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 16,
+				"end": 18
 			}
 		]
 	},
@@ -184,7 +205,13 @@
 		"juz_id": 30,
 		"page_number": 587,
 		"translation_aya_text": "mereka mengetahui apa yang kamu kerjakan. ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 25,
+				"end": 27
+			}
+		]
 	},
 	{
 		"aya_id": 5842,
@@ -204,6 +231,11 @@
 				"class": "qalqalah",
 				"start": 11,
 				"end": 12
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 30,
+				"end": 32
 			}
 		]
 	},
@@ -220,6 +252,11 @@
 				"class": "ghunnah",
 				"start": 5,
 				"end": 8
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 32,
+				"end": 34
 			}
 		]
 	},
@@ -231,7 +268,13 @@
 		"juz_id": 30,
 		"page_number": 587,
 		"translation_aya_text": "Mereka masuk ke dalamnya pada hari pembalasan.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 26,
+				"end": 28
+			}
+		]
 	},
 	{
 		"aya_id": 5845,
@@ -246,6 +289,11 @@
 				"class": "madd-wajib",
 				"start": 22,
 				"end": 26
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 30,
+				"end": 32
 			}
 		]
 	},
@@ -267,6 +315,11 @@
 				"class": "qalqalah",
 				"start": 9,
 				"end": 10
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 33,
+				"end": 35
 			}
 		]
 	},
@@ -293,6 +346,11 @@
 				"class": "qalqalah",
 				"start": 13,
 				"end": 14
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 37,
+				"end": 39
 			}
 		]
 	},

@@ -237,7 +237,13 @@
 		"juz_id": 30,
 		"page_number": 583,
 		"translation_aya_text": "Sudahkah sampai kepadamu (Muhammad) kisah Musa?",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 24,
+				"end": 26
+			}
+		]
 	},
 	{
 		"aya_id": 5728,
@@ -356,7 +362,13 @@
 		"juz_id": 30,
 		"page_number": 584,
 		"translation_aya_text": "Kemudian dia mengumpulkan (pembesar-pembesarnya) lalu berseru (memanggil kaumnya).",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 13,
+				"end": 14
+			}
+		]
 	},
 	{
 		"aya_id": 5736,
@@ -376,7 +388,13 @@
 		"juz_id": 30,
 		"page_number": 584,
 		"translation_aya_text": "Maka Allah menghukumnya dengan azab di akhirat dan siksaan di dunia.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 46,
+				"end": 48
+			}
+		]
 	},
 	{
 		"aya_id": 5738,

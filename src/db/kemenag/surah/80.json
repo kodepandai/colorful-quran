@@ -561,6 +561,11 @@
 				"class": "idgham-bighunnah",
 				"start": 9,
 				"end": 14
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 15,
+				"end": 17
 			}
 		]
 	},
@@ -598,6 +603,11 @@
 				"class": "madd-wajib",
 				"start": 9,
 				"end": 12
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 22,
+				"end": 24
 			}
 		]
 	},
@@ -609,7 +619,13 @@
 		"juz_id": 30,
 		"page_number": 585,
 		"translation_aya_text": "pada hari itu manusia lari dari saudaranya,",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 34,
+				"end": 36
+			}
+		]
 	},
 	{
 		"aya_id": 5793,
@@ -624,6 +640,11 @@
 				"class": "ghunnah",
 				"start": 4,
 				"end": 7
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 16,
+				"end": 18
 			}
 		]
 	},
@@ -635,7 +656,13 @@
 		"juz_id": 30,
 		"page_number": 585,
 		"translation_aya_text": "dan dari istri dan anak-anaknya.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 20,
+				"end": 22
+			}
+		]
 	},
 	{
 		"aya_id": 5795,
@@ -660,6 +687,11 @@
 				"class": "idgham-bighunnah",
 				"start": 42,
 				"end": 47
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 52,
+				"end": 54
 			}
 		]
 	},

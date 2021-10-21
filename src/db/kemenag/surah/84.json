@@ -98,6 +98,11 @@
 				"class": "ikhfa",
 				"start": 62,
 				"end": 64
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 71,
+				"end": 73
 			}
 		]
 	},
@@ -255,6 +260,11 @@
 				"class": "idgham-bighunnah",
 				"start": 22,
 				"end": 27
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 30,
+				"end": 32
 			}
 		]
 	},
@@ -344,7 +354,13 @@
 		"juz_id": 30,
 		"page_number": 589,
 		"translation_aya_text": "Maka mengapa mereka tidak mau beriman?",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 25,
+				"end": 27
+			}
+		]
 	},
 	{
 		"aya_id": 5905,
@@ -354,7 +370,13 @@
 		"juz_id": 30,
 		"page_number": 589,
 		"translation_aya_text": "Dan apabila Al-Qur'an dibacakan kepada mereka, mereka tidak (mau) bersujud,",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 50,
+				"end": 52
+			}
+		]
 	},
 	{
 		"aya_id": 5906,
@@ -364,7 +386,13 @@
 		"juz_id": 30,
 		"page_number": 589,
 		"translation_aya_text": "bahkan orang-orang kafir itu mendustakan(nya).",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 35,
+				"end": 37
+			}
+		]
 	},
 	{
 		"aya_id": 5907,
@@ -374,7 +402,13 @@
 		"juz_id": 30,
 		"page_number": 589,
 		"translation_aya_text": "Dan Allah lebih mengetahui apa yang mereka sembunyikan (dalam hati mereka).",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 31,
+				"end": 33
+			}
+		]
 	},
 	{
 		"aya_id": 5908,
@@ -384,7 +418,13 @@
 		"juz_id": 30,
 		"page_number": 589,
 		"translation_aya_text": "Maka sampaikanlah kepada mereka (ancaman) azab yang pedih,",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 28,
+				"end": 30
+			}
+		]
 	},
 	{
 		"aya_id": 5909,
@@ -399,6 +439,11 @@
 				"class": "qalqalah",
 				"start": 60,
 				"end": 61
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 78,
+				"end": 80
 			}
 		]
 	}

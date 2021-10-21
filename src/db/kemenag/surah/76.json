@@ -569,6 +569,11 @@
 				"class": "ikhfa",
 				"start": 95,
 				"end": 99
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 99,
+				"end": 101
 			}
 		]
 	},

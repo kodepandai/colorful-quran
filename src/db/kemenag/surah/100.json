@@ -97,6 +97,11 @@
 				"class": "ikhfa",
 				"start": 11,
 				"end": 15
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 35,
+				"end": 37
 			}
 		]
 	},
@@ -113,6 +118,11 @@
 				"class": "ghunnah",
 				"start": 4,
 				"end": 7
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 29,
+				"end": 31
 			}
 		]
 	},
@@ -129,6 +139,11 @@
 				"class": "ghunnah",
 				"start": 4,
 				"end": 7
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 34,
+				"end": 36
 			}
 		]
 	},
@@ -140,7 +155,13 @@
 		"juz_id": 30,
 		"page_number": 599,
 		"translation_aya_text": "Maka tidakkah dia mengetahui apabila apa yang di dalam kubur dikeluarkan,",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 49,
+				"end": 51
+			}
+		]
 	},
 	{
 		"aya_id": 6156,
@@ -150,7 +171,13 @@
 		"juz_id": 30,
 		"page_number": 600,
 		"translation_aya_text": "dan apa yang tersimpan di dalam dada dilahirkan?",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 25,
+				"end": 27
+			}
+		]
 	},
 	{
 		"aya_id": 6157,
@@ -170,6 +197,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 32,
 				"end": 37
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 42,
+				"end": 44
 			}
 		]
 	}

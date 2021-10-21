@@ -43,6 +43,11 @@
 				"class": "ghunnah",
 				"start": 20,
 				"end": 23
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 36,
+				"end": 37
 			}
 		]
 	},
@@ -224,6 +229,11 @@
 				"class": "ikhfa",
 				"start": 10,
 				"end": 14
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 37,
+				"end": 39
 			}
 		]
 	},
@@ -416,7 +426,13 @@
 		"juz_id": 29,
 		"page_number": 578,
 		"translation_aya_text": "dan dikatakan (kepadanya), “Siapa yang dapat menyembuhkan?”",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 17,
+				"end": 18
+			}
+		]
 	},
 	{
 		"aya_id": 5579,
@@ -436,6 +452,11 @@
 				"class": "ghunnah",
 				"start": 11,
 				"end": 14
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 24,
+				"end": 25
 			}
 		]
 	},
@@ -447,7 +468,13 @@
 		"juz_id": 29,
 		"page_number": 578,
 		"translation_aya_text": "dan bertaut betis (kiri) dengan betis (kanan),",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 29,
+				"end": 30
+			}
+		]
 	},
 	{
 		"aya_id": 5581,
@@ -457,7 +484,13 @@
 		"juz_id": 29,
 		"page_number": 578,
 		"translation_aya_text": "kepada Tuhanmulah pada hari itu kamu dihalau. ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 35,
+				"end": 36
+			}
+		]
 	},
 	{
 		"aya_id": 5582,

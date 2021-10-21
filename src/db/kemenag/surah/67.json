@@ -12,6 +12,11 @@
 				"class": "ikhfa",
 				"start": 61,
 				"end": 66
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 68,
+				"end": 70
 			}
 		]
 	},
@@ -38,6 +43,11 @@
 				"class": "idgham-bighunnah",
 				"start": 83,
 				"end": 85
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 110,
+				"end": 112
 			}
 		]
 	},
@@ -89,6 +99,11 @@
 				"class": "ikhfa",
 				"start": 125,
 				"end": 130
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 132,
+				"end": 134
 			}
 		]
 	},
@@ -125,6 +140,11 @@
 				"class": "idgham-bighunnah",
 				"start": 74,
 				"end": 76
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 87,
+				"end": 89
 			}
 		]
 	},
@@ -171,6 +191,11 @@
 				"class": "qalqalah",
 				"start": 104,
 				"end": 105
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 132,
+				"end": 134
 			}
 		]
 	},
@@ -187,6 +212,11 @@
 				"class": "ghunnah",
 				"start": 48,
 				"end": 51
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 71,
+				"end": 73
 			}
 		]
 	},
@@ -213,6 +243,11 @@
 				"class": "idgham-bighunnah",
 				"start": 50,
 				"end": 52
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 63,
+				"end": 65
 			}
 		]
 	},
@@ -239,6 +274,11 @@
 				"class": "madd-jaiz",
 				"start": 88,
 				"end": 92
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 114,
+				"end": 116
 			}
 		]
 	},
@@ -290,6 +330,11 @@
 				"class": "ikhfa",
 				"start": 128,
 				"end": 133
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 135,
+				"end": 137
 			}
 		]
 	},
@@ -316,6 +361,11 @@
 				"class": "madd-jaiz",
 				"start": 59,
 				"end": 63
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 79,
+				"end": 81
 			}
 		]
 	},
@@ -347,6 +397,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 39,
 				"end": 41
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 59,
+				"end": 61
 			}
 		]
 	},
@@ -383,6 +438,11 @@
 				"class": "ikhfa",
 				"start": 76,
 				"end": 81
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 83,
+				"end": 85
 			}
 		]
 	},
@@ -414,6 +474,11 @@
 				"class": "iqlab",
 				"start": 63,
 				"end": 65
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 79,
+				"end": 81
 			}
 		]
 	},
@@ -425,7 +490,13 @@
 		"juz_id": 29,
 		"page_number": 563,
 		"translation_aya_text": "Apakah (pantas) Allah yang menciptakan itu tidak mengetahui? Dan Dia Mahahalus, Maha Mengetahui.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 54,
+				"end": 56
+			}
+		]
 	},
 	{
 		"aya_id": 5256,
@@ -455,6 +526,11 @@
 				"class": "ghunnah",
 				"start": 116,
 				"end": 119
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 121,
+				"end": 123
 			}
 		]
 	},
@@ -491,6 +567,11 @@
 				"class": "idgham-bighunnah",
 				"start": 37,
 				"end": 42
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 84,
+				"end": 86
 			}
 		]
 	},
@@ -537,6 +618,11 @@
 				"class": "ikhfa",
 				"start": 73,
 				"end": 75
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 102,
+				"end": 104
 			}
 		]
 	},
@@ -563,6 +649,11 @@
 				"class": "qalqalah",
 				"start": 35,
 				"end": 36
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 63,
+				"end": 65
 			}
 		]
 	},
@@ -604,6 +695,11 @@
 				"class": "iqlab",
 				"start": 129,
 				"end": 131
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 134,
+				"end": 136
 			}
 		]
 	},
@@ -645,6 +741,11 @@
 				"class": "ikhfa",
 				"start": 59,
 				"end": 64
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 117,
+				"end": 119
 			}
 		]
 	},
@@ -666,6 +767,11 @@
 				"class": "idgham-bighunnah",
 				"start": 85,
 				"end": 91
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 96,
+				"end": 98
 			}
 		]
 	},
@@ -712,6 +818,11 @@
 				"class": "idgham-bighunnah",
 				"start": 91,
 				"end": 96
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 103,
+				"end": 105
 			}
 		]
 	},
@@ -748,6 +859,11 @@
 				"class": "idgham-bighunnah",
 				"start": 101,
 				"end": 103
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 115,
+				"end": 117
 			}
 		]
 	},
@@ -759,7 +875,13 @@
 		"juz_id": 29,
 		"page_number": 563,
 		"translation_aya_text": "Katakanlah, “Dialah yang menjadikan kamu berkembang biak di muka bumi, dan hanya kepada-Nya kamu akan dikumpulkan.” ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 63,
+				"end": 65
+			}
+		]
 	},
 	{
 		"aya_id": 5266,
@@ -779,6 +901,11 @@
 				"class": "ikhfa",
 				"start": 44,
 				"end": 48
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 57,
+				"end": 59
 			}
 		]
 	},
@@ -815,6 +942,11 @@
 				"class": "idgham-bighunnah",
 				"start": 65,
 				"end": 70
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 73,
+				"end": 75
 			}
 		]
 	},
@@ -841,6 +973,11 @@
 				"class": "ikhfa",
 				"start": 94,
 				"end": 98
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 113,
+				"end": 115
 			}
 		]
 	},
@@ -862,6 +999,11 @@
 				"class": "idgham-bighunnah",
 				"start": 79,
 				"end": 84
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 123,
+				"end": 125
 			}
 		]
 	},
@@ -883,6 +1025,11 @@
 				"class": "idgham-bighunnah",
 				"start": 97,
 				"end": 102
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 105,
+				"end": 107
 			}
 		]
 	},
@@ -919,6 +1066,11 @@
 				"class": "idgham-bighunnah",
 				"start": 78,
 				"end": 83
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 86,
+				"end": 88
 			}
 		]
 	}

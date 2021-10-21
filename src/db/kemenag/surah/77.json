@@ -192,6 +192,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 17,
 				"end": 22
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 34,
+				"end": 36
 			}
 		]
 	},
@@ -203,7 +208,13 @@
 		"juz_id": 29,
 		"page_number": 580,
 		"translation_aya_text": "Bukankah telah Kami binasakan orang-orang yang dahulu?",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 26,
+				"end": 28
+			}
+		]
 	},
 	{
 		"aya_id": 5639,
@@ -218,6 +229,11 @@
 				"class": "ghunnah",
 				"start": 2,
 				"end": 5
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 28,
+				"end": 30
 			}
 		]
 	},
@@ -234,6 +250,11 @@
 				"class": "qalqalah",
 				"start": 25,
 				"end": 26
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 31,
+				"end": 33
 			}
 		]
 	},
@@ -255,6 +276,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 17,
 				"end": 22
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 34,
+				"end": 36
 			}
 		]
 	},
@@ -291,6 +317,11 @@
 				"class": "idgham-bighunnah",
 				"start": 32,
 				"end": 37
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 40,
+				"end": 42
 			}
 		]
 	},
@@ -307,6 +338,11 @@
 				"class": "idgham-bighunnah",
 				"start": 23,
 				"end": 28
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 31,
+				"end": 33
 			}
 		]
 	},
@@ -323,6 +359,11 @@
 				"class": "idgham-bighunnah",
 				"start": 10,
 				"end": 15
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 20,
+				"end": 22
 			}
 		]
 	},
@@ -334,7 +375,13 @@
 		"juz_id": 29,
 		"page_number": 581,
 		"translation_aya_text": "lalu Kami tentukan (bentuknya), maka (Kamilah) sebaik-baik yang menentukan.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 31,
+				"end": 33
+			}
+		]
 	},
 	{
 		"aya_id": 5646,
@@ -354,6 +401,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 17,
 				"end": 22
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 34,
+				"end": 36
 			}
 		]
 	},
@@ -443,6 +495,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 17,
 				"end": 22
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 34,
+				"end": 36
 			}
 		]
 	},
@@ -469,6 +526,11 @@
 				"class": "ikhfa",
 				"start": 27,
 				"end": 31
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 48,
+				"end": 50
 			}
 		]
 	},
@@ -574,6 +636,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 17,
 				"end": 22
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 34,
+				"end": 36
 			}
 		]
 	},
@@ -590,6 +657,11 @@
 				"class": "ikhfa",
 				"start": 19,
 				"end": 23
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 25,
+				"end": 27
 			}
 		]
 	},
@@ -601,7 +673,13 @@
 		"juz_id": 29,
 		"page_number": 581,
 		"translation_aya_text": "dan tidak diizinkan kepada mereka mengemukakan alasan agar mereka dimaafkan. ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 34,
+				"end": 36
+			}
+		]
 	},
 	{
 		"aya_id": 5659,
@@ -621,6 +699,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 17,
 				"end": 22
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 34,
+				"end": 36
 			}
 		]
 	},
@@ -632,7 +715,13 @@
 		"juz_id": 29,
 		"page_number": 581,
 		"translation_aya_text": "Inilah hari keputusan; (pada hari ini) Kami kumpulkan kamu dan orang-orang yang terdahulu. ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 48,
+				"end": 50
+			}
+		]
 	},
 	{
 		"aya_id": 5661,
@@ -652,6 +741,11 @@
 				"class": "ikhfa",
 				"start": 24,
 				"end": 29
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 35,
+				"end": 37
 			}
 		]
 	},
@@ -673,6 +767,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 17,
 				"end": 22
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 34,
+				"end": 36
 			}
 		]
 	},
@@ -694,6 +793,11 @@
 				"class": "idgham-bighunnah",
 				"start": 30,
 				"end": 35
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 40,
+				"end": 42
 			}
 		]
 	},
@@ -710,6 +814,11 @@
 				"class": "ghunnah",
 				"start": 13,
 				"end": 18
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 28,
+				"end": 30
 			}
 		]
 	},
@@ -736,6 +845,11 @@
 				"class": "ikhfa",
 				"start": 42,
 				"end": 46
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 57,
+				"end": 59
 			}
 		]
 	},
@@ -757,6 +871,11 @@
 				"class": "qalqalah",
 				"start": 18,
 				"end": 19
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 35,
+				"end": 37
 			}
 		]
 	},
@@ -778,6 +897,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 17,
 				"end": 22
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 34,
+				"end": 36
 			}
 		]
 	},
@@ -804,6 +928,11 @@
 				"class": "qalqalah",
 				"start": 46,
 				"end": 47
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 52,
+				"end": 54
 			}
 		]
 	},
@@ -825,6 +954,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 17,
 				"end": 22
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 34,
+				"end": 36
 			}
 		]
 	},
@@ -836,7 +970,13 @@
 		"juz_id": 29,
 		"page_number": 581,
 		"translation_aya_text": "Dan apabila dikatakan kepada mereka, “Rukuklah,” mereka tidak mau rukuk.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 45,
+				"end": 47
+			}
+		]
 	},
 	{
 		"aya_id": 5671,
@@ -856,6 +996,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 17,
 				"end": 22
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 34,
+				"end": 36
 			}
 		]
 	},
@@ -877,6 +1022,11 @@
 				"class": "iqlab",
 				"start": 19,
 				"end": 21
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 37,
+				"end": 39
 			}
 		]
 	}

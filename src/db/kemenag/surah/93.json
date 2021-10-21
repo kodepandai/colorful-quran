@@ -42,6 +42,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 19,
 				"end": 24
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 38,
+				"end": 40
 			}
 		]
 	},
@@ -78,6 +83,11 @@
 				"class": "ikhfa",
 				"start": 25,
 				"end": 27
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 28,
+				"end": 30
 			}
 		]
 	},

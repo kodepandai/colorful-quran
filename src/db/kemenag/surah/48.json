@@ -203,7 +203,13 @@
 		"juz_id": 26,
 		"page_number": 511,
 		"translation_aya_text": "Dan milik Allah bala tentara langit dan bumi. Dan Allah Mahaperkasa, Mahabijaksana. ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 74,
+				"end": 76
+			}
+		]
 	},
 	{
 		"aya_id": 4591,
@@ -494,6 +500,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 121,
 				"end": 123
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 127,
+				"end": 129
 			}
 		]
 	},
@@ -535,6 +546,11 @@
 				"class": "qalqalah",
 				"start": 213,
 				"end": 214
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 302,
+				"end": 304
 			}
 		]
 	},
@@ -1000,6 +1016,11 @@
 				"class": "qalqalah",
 				"start": 345,
 				"end": 346
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 394,
+				"end": 396
 			}
 		]
 	},

@@ -12,6 +12,11 @@
 				"class": "madd-jaiz",
 				"start": 5,
 				"end": 8
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 26,
+				"end": 28
 			}
 		]
 	},
@@ -28,6 +33,11 @@
 				"class": "madd-jaiz",
 				"start": 1,
 				"end": 5
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 26,
+				"end": 28
 			}
 		]
 	},
@@ -117,6 +127,12 @@
 		"juz_id": 30,
 		"page_number": 603,
 		"translation_aya_text": "Untukmu agamamu, dan untukku agamaku.”",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 27,
+				"end": 29
+			}
+		]
 	}
 ]

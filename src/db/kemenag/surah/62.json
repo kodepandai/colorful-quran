@@ -7,7 +7,13 @@
 		"juz_id": 28,
 		"page_number": 553,
 		"translation_aya_text": "Apa yang ada di langit dan apa yang ada di bumi senantiasa bertasbih kepada Allah. Maharaja, Yang Mahasuci, Yang Mahaperkasa, Mahabijaksana.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 100,
+				"end": 102
+			}
+		]
 	},
 	{
 		"aya_id": 5179,
@@ -52,6 +58,11 @@
 				"class": "idgham-bighunnah",
 				"start": 184,
 				"end": 189
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 192,
+				"end": 194
 			}
 		]
 	},
@@ -68,6 +79,11 @@
 				"class": "ghunnah",
 				"start": 25,
 				"end": 28
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 76,
+				"end": 78
 			}
 		]
 	},
@@ -89,6 +105,11 @@
 				"class": "madd-wajib",
 				"start": 42,
 				"end": 45
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 80,
+				"end": 82
 			}
 		]
 	},
@@ -120,6 +141,11 @@
 				"class": "iqlab",
 				"start": 106,
 				"end": 108
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 212,
+				"end": 214
 			}
 		]
 	},
@@ -181,6 +207,11 @@
 				"class": "ikhfa",
 				"start": 136,
 				"end": 140
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 149,
+				"end": 151
 			}
 		]
 	},
@@ -222,6 +253,11 @@
 				"class": "iqlab",
 				"start": 81,
 				"end": 83
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 93,
+				"end": 95
 			}
 		]
 	},
@@ -253,6 +289,11 @@
 				"class": "ikhfa",
 				"start": 153,
 				"end": 157
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 168,
+				"end": 170
 			}
 		]
 	},
@@ -294,6 +335,11 @@
 				"class": "ikhfa",
 				"start": 169,
 				"end": 173
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 184,
+				"end": 186
 			}
 		]
 	},
@@ -330,6 +376,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 119,
 				"end": 121
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 141,
+				"end": 143
 			}
 		]
 	},
@@ -376,6 +427,11 @@
 				"class": "idgham-bighunnah",
 				"start": 116,
 				"end": 121
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 182,
+				"end": 184
 			}
 		]
 	}

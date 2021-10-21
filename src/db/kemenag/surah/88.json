@@ -74,6 +74,11 @@
 				"class": "ikhfa",
 				"start": 31,
 				"end": 36
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 38,
+				"end": 40
 			}
 		]
 	},
@@ -90,6 +95,11 @@
 				"class": "ikhfa",
 				"start": 31,
 				"end": 36
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 36,
+				"end": 38
 			}
 		]
 	},
@@ -179,6 +189,11 @@
 				"class": "idgham-bighunnah",
 				"start": 12,
 				"end": 17
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 22,
+				"end": 24
 			}
 		]
 	},
@@ -195,6 +210,11 @@
 				"class": "idgham-bighunnah",
 				"start": 10,
 				"end": 15
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 20,
+				"end": 22
 			}
 		]
 	},
@@ -206,7 +226,13 @@
 		"juz_id": 30,
 		"page_number": 592,
 		"translation_aya_text": "dan bantal-bantal sandaran yang tersusun,",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 19,
+				"end": 21
+			}
+		]
 	},
 	{
 		"aya_id": 5983,
@@ -221,6 +247,11 @@
 				"class": "qalqalah",
 				"start": 16,
 				"end": 17
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 20,
+				"end": 22
 			}
 		]
 	},

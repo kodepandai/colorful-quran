@@ -7,7 +7,13 @@
 		"juz_id": 30,
 		"page_number": 601,
 		"translation_aya_text": "Tidakkah engkau (Muhammad) perhatikan bagaimana Tuhanmu telah bertindak terhadap pasukan bergajah?",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 50,
+				"end": 52
+			}
+		]
 	},
 	{
 		"aya_id": 6190,
@@ -22,6 +28,11 @@
 				"class": "qalqalah",
 				"start": 9,
 				"end": 10
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 38,
+				"end": 40
 			}
 		]
 	},
@@ -33,7 +44,13 @@
 		"juz_id": 30,
 		"page_number": 601,
 		"translation_aya_text": "dan Dia mengirimkan kepada mereka burung yang berbondong-bondong,",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 38,
+				"end": 40
+			}
+		]
 	},
 	{
 		"aya_id": 6192,
@@ -53,6 +70,11 @@
 				"class": "ikhfa",
 				"start": 28,
 				"end": 33
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 36,
+				"end": 38
 			}
 		]
 	},
@@ -69,6 +91,11 @@
 				"class": "idgham-bighunnah",
 				"start": 19,
 				"end": 24
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 29,
+				"end": 31
 			}
 		]
 	}

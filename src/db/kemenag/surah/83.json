@@ -12,6 +12,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 4,
 				"end": 9
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 21,
+				"end": 23
 			}
 		]
 	},
@@ -28,6 +33,11 @@
 				"class": "ghunnah",
 				"start": 37,
 				"end": 40
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 54,
+				"end": 56
 			}
 		]
 	},
@@ -39,7 +49,13 @@
 		"juz_id": 30,
 		"page_number": 587,
 		"translation_aya_text": "dan apabila mereka menakar atau menimbang (untuk orang lain), mereka mengurangi. ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 47,
+				"end": 49
+			}
+		]
 	},
 	{
 		"aya_id": 5852,
@@ -74,6 +90,11 @@
 				"class": "qalqalah",
 				"start": 39,
 				"end": 40
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 47,
+				"end": 49
 			}
 		]
 	},
@@ -85,7 +106,13 @@
 		"juz_id": 30,
 		"page_number": 587,
 		"translation_aya_text": "pada suatu hari yang besar, ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 13,
+				"end": 15
+			}
+		]
 	},
 	{
 		"aya_id": 5854,
@@ -100,6 +127,11 @@
 				"class": "ghunnah",
 				"start": 19,
 				"end": 22
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 43,
+				"end": 45
 			}
 		]
 	},
@@ -121,6 +153,11 @@
 				"class": "ghunnah",
 				"start": 10,
 				"end": 13
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 45,
+				"end": 47
 			}
 		]
 	},
@@ -142,6 +179,11 @@
 				"class": "qalqalah",
 				"start": 9,
 				"end": 10
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 26,
+				"end": 28
 			}
 		]
 	},
@@ -158,6 +200,11 @@
 				"class": "idgham-bighunnah",
 				"start": 4,
 				"end": 9
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 14,
+				"end": 16
 			}
 		]
 	},
@@ -179,6 +226,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 17,
 				"end": 22
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 34,
+				"end": 36
 			}
 		]
 	},
@@ -190,7 +242,13 @@
 		"juz_id": 30,
 		"page_number": 588,
 		"translation_aya_text": "(yaitu) orang-orang yang mendustakannya (hari pembalasan).",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 39,
+				"end": 41
+			}
+		]
 	},
 	{
 		"aya_id": 5860,
@@ -205,6 +263,11 @@
 				"class": "madd-jaiz",
 				"start": 18,
 				"end": 22
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 48,
+				"end": 50
 			}
 		]
 	},
@@ -216,7 +279,13 @@
 		"juz_id": 30,
 		"page_number": 588,
 		"translation_aya_text": "yang apabila dibacakan kepadanya ayat-ayat Kami, dia berkata, “Itu adalah dongeng orang-orang dahulu.” ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 61,
+				"end": 63
+			}
+		]
 	},
 	{
 		"aya_id": 5862,
@@ -231,6 +300,11 @@
 				"class": "idgham-mimi",
 				"start": 35,
 				"end": 40
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 60,
+				"end": 62
 			}
 		]
 	},
@@ -262,6 +336,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 43,
 				"end": 48
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 59,
+				"end": 61
 			}
 		]
 	},
@@ -283,6 +362,11 @@
 				"class": "ghunnah",
 				"start": 8,
 				"end": 11
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 33,
+				"end": 35
 			}
 		]
 	},
@@ -304,6 +388,11 @@
 				"class": "ikhfa",
 				"start": 31,
 				"end": 35
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 52,
+				"end": 54
 			}
 		]
 	},
@@ -330,6 +419,11 @@
 				"class": "qalqalah",
 				"start": 26,
 				"end": 27
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 49,
+				"end": 51
 			}
 		]
 	},
@@ -351,6 +445,11 @@
 				"class": "qalqalah",
 				"start": 9,
 				"end": 10
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 29,
+				"end": 31
 			}
 		]
 	},
@@ -367,6 +466,11 @@
 				"class": "idgham-bighunnah",
 				"start": 4,
 				"end": 9
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 14,
+				"end": 16
 			}
 		]
 	},
@@ -378,7 +482,13 @@
 		"juz_id": 30,
 		"page_number": 588,
 		"translation_aya_text": "yang disaksikan oleh (malaikat-malaikat) yang didekatkan (kepada Allah). ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 24,
+				"end": 26
+			}
+		]
 	},
 	{
 		"aya_id": 5870,
@@ -398,6 +508,11 @@
 				"class": "qalqalah",
 				"start": 11,
 				"end": 12
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 30,
+				"end": 32
 			}
 		]
 	},
@@ -419,6 +534,11 @@
 				"class": "ikhfa",
 				"start": 23,
 				"end": 27
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 29,
+				"end": 31
 			}
 		]
 	},
@@ -435,6 +555,11 @@
 				"class": "ghunnah",
 				"start": 38,
 				"end": 41
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 43,
+				"end": 45
 			}
 		]
 	},
@@ -456,6 +581,11 @@
 				"class": "idgham-bighunnah",
 				"start": 23,
 				"end": 28
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 33,
+				"end": 35
 			}
 		]
 	},
@@ -477,6 +607,11 @@
 				"class": "idgham-bighunnah",
 				"start": 16,
 				"end": 18
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 61,
+				"end": 63
 			}
 		]
 	},
@@ -493,6 +628,11 @@
 				"class": "ikhfa",
 				"start": 14,
 				"end": 19
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 23,
+				"end": 25
 			}
 		]
 	},
@@ -514,6 +654,11 @@
 				"class": "idgham-bighunnah",
 				"start": 7,
 				"end": 9
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 36,
+				"end": 38
 			}
 		]
 	},
@@ -535,6 +680,11 @@
 				"class": "qalqalah",
 				"start": 19,
 				"end": 20
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 72,
+				"end": 74
 			}
 		]
 	},
@@ -546,7 +696,13 @@
 		"juz_id": 30,
 		"page_number": 588,
 		"translation_aya_text": "Dan apabila mereka (orang-orang yang beriman) melintas di hadapan mereka, mereka saling mengedip-ngedipkan matanya,",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 35,
+				"end": 37
+			}
+		]
 	},
 	{
 		"aya_id": 5879,
@@ -576,6 +732,11 @@
 				"class": "ikhfa",
 				"start": 41,
 				"end": 45
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 59,
+				"end": 61
 			}
 		]
 	},
@@ -602,6 +763,11 @@
 				"class": "madd-wajib",
 				"start": 41,
 				"end": 44
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 56,
+				"end": 58
 			}
 		]
 	},
@@ -618,6 +784,11 @@
 				"class": "madd-jaiz",
 				"start": 3,
 				"end": 7
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 36,
+				"end": 38
 			}
 		]
 	},
@@ -629,7 +800,13 @@
 		"juz_id": 30,
 		"page_number": 588,
 		"translation_aya_text": "Maka pada hari ini, orang-orang yang beriman yang menertawakan orang-orang kafir, ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 58,
+				"end": 60
+			}
+		]
 	},
 	{
 		"aya_id": 5883,
@@ -649,6 +826,11 @@
 				"class": "ikhfa",
 				"start": 23,
 				"end": 27
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 29,
+				"end": 31
 			}
 		]
 	},
@@ -660,6 +842,12 @@
 		"juz_id": 30,
 		"page_number": 589,
 		"translation_aya_text": "Apakah orang-orang kafir itu diberi balasan (hukuman) terhadap apa yang telah mereka perbuat? ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 46,
+				"end": 48
+			}
+		]
 	}
 ]

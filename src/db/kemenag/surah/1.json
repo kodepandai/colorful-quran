@@ -7,7 +7,13 @@
 		"juz_id": 1,
 		"page_number": 1,
 		"translation_aya_text": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 34,
+				"end": 36
+			}
+		]
 	},
 	{
 		"aya_id": 2,
@@ -17,7 +23,13 @@
 		"juz_id": 1,
 		"page_number": 1,
 		"translation_aya_text": "Segala puji bagi Allah, Tuhan seluruh alam,",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 34,
+				"end": 36
+			}
+		]
 	},
 	{
 		"aya_id": 3,
@@ -27,7 +39,13 @@
 		"juz_id": 1,
 		"page_number": 1,
 		"translation_aya_text": "Yang Maha Pengasih, Maha Penyayang,",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 19,
+				"end": 21
+			}
+		]
 	},
 	{
 		"aya_id": 4,
@@ -37,7 +55,13 @@
 		"juz_id": 1,
 		"page_number": 1,
 		"translation_aya_text": "Pemilik hari pembalasan.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 19,
+				"end": 21
+			}
+		]
 	},
 	{
 		"aya_id": 5,
@@ -47,7 +71,13 @@
 		"juz_id": 1,
 		"page_number": 1,
 		"translation_aya_text": "Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami mohon pertolongan.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 37,
+				"end": 39
+			}
+		]
 	},
 	{
 		"aya_id": 6,
@@ -57,7 +87,13 @@
 		"juz_id": 1,
 		"page_number": 1,
 		"translation_aya_text": "Tunjukilah kami jalan yang lurus,",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 32,
+				"end": 34
+			}
+		]
 	},
 	{
 		"aya_id": 7,
@@ -66,7 +102,13 @@
 		"sura_id": 1,
 		"juz_id": 1,
 		"page_number": 1,
-		"tajweed": [],
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 92,
+				"end": 94
+			}
+		],
 		"translation_aya_text": "(yaitu) jalan orang-orang yang telah Engkau beri nikmat kepadanya; bukan (jalan) mereka yang dimurkai, dan bukan (pula jalan) mereka yang sesat."
 	}
 ]

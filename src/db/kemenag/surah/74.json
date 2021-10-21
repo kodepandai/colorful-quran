@@ -106,6 +106,11 @@
 				"class": "ghunnah",
 				"start": 21,
 				"end": 24
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 27,
+				"end": 29
 			}
 		]
 	},
@@ -122,6 +127,11 @@
 				"class": "idgham-bighunnah",
 				"start": 18,
 				"end": 23
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 33,
+				"end": 35
 			}
 		]
 	},
@@ -133,7 +143,13 @@
 		"juz_id": 29,
 		"page_number": 575,
 		"translation_aya_text": "bagi orang-orang kafir tidak mudah.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 31,
+				"end": 33
+			}
+		]
 	},
 	{
 		"aya_id": 5506,
@@ -216,6 +232,11 @@
 				"class": "qalqalah",
 				"start": 8,
 				"end": 9
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 24,
+				"end": 26
 			}
 		]
 	},
@@ -674,6 +695,11 @@
 				"class": "iqlab",
 				"start": 13,
 				"end": 15
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 33,
+				"end": 35
 			}
 		]
 	},
@@ -690,6 +716,11 @@
 				"class": "madd-jaiz",
 				"start": 4,
 				"end": 8
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 24,
+				"end": 26
 			}
 		]
 	},
@@ -711,6 +742,11 @@
 				"class": "madd-wajib",
 				"start": 20,
 				"end": 23
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 27,
+				"end": 29
 			}
 		]
 	},
@@ -727,6 +763,11 @@
 				"class": "qalqalah",
 				"start": 10,
 				"end": 11
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 16,
+				"end": 18
 			}
 		]
 	},
@@ -748,7 +789,13 @@
 		"juz_id": 29,
 		"page_number": 576,
 		"translation_aya_text": "Mereka menjawab, “Dahulu kami tidak termasuk orang-orang yang melaksanakan salat, ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 34,
+				"end": 36
+			}
+		]
 	},
 	{
 		"aya_id": 5539,
@@ -763,6 +810,11 @@
 				"class": "qalqalah",
 				"start": 14,
 				"end": 15
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 30,
+				"end": 32
 			}
 		]
 	},
@@ -784,6 +836,11 @@
 				"class": "madd-wajib",
 				"start": 27,
 				"end": 31
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 35,
+				"end": 37
 			}
 		]
 	},
@@ -800,6 +857,11 @@
 				"class": "ghunnah",
 				"start": 4,
 				"end": 7
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 33,
+				"end": 35
 			}
 		]
 	},
@@ -816,6 +878,11 @@
 				"class": "madd-jaiz",
 				"start": 4,
 				"end": 8
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 24,
+				"end": 26
 			}
 		]
 	},
@@ -832,6 +899,11 @@
 				"class": "ikhfa",
 				"start": 8,
 				"end": 12
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 39,
+				"end": 41
 			}
 		]
 	},
@@ -843,7 +915,13 @@
 		"juz_id": 29,
 		"page_number": 577,
 		"translation_aya_text": "Lalu mengapa mereka (orang-orang kafir) berpaling dari peringatan (Allah)?",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 40,
+				"end": 42
+			}
+		]
 	},
 	{
 		"aya_id": 5545,

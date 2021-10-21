@@ -23,7 +23,13 @@
 		"juz_id": 21,
 		"page_number": 411,
 		"translation_aya_text": "Inilah ayat-ayat Al-Qur'an yang mengandung hikmah, ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 31,
+				"end": 33
+			}
+		]
 	},
 	{
 		"aya_id": 3472,
@@ -48,6 +54,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 15,
 				"end": 20
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 31,
+				"end": 33
 			}
 		]
 	},
@@ -59,7 +70,13 @@
 		"juz_id": 21,
 		"page_number": 411,
 		"translation_aya_text": "(yaitu) orang-orang yang melaksanakan salat, menunaikan zakat dan mereka meyakini adanya akhirat. ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 93,
+				"end": 95
+			}
+		]
 	},
 	{
 		"aya_id": 3474,
@@ -94,6 +111,11 @@
 				"class": "madd-wajib",
 				"start": 46,
 				"end": 50
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 71,
+				"end": 73
 			}
 		]
 	},
@@ -130,6 +152,11 @@
 				"class": "idgham-bighunnah",
 				"start": 150,
 				"end": 155
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 158,
+				"end": 160
 			}
 		]
 	},
@@ -181,6 +208,11 @@
 				"class": "ikhfa",
 				"start": 114,
 				"end": 116
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 141,
+				"end": 143
 			}
 		]
 	},
@@ -207,6 +239,11 @@
 				"class": "ghunnah",
 				"start": 67,
 				"end": 70
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 72,
+				"end": 74
 			}
 		]
 	},
@@ -228,6 +265,11 @@
 				"class": "idgham-bighunnah",
 				"start": 42,
 				"end": 44
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 69,
+				"end": 71
 			}
 		]
 	},
@@ -304,6 +346,11 @@
 				"class": "ikhfa",
 				"start": 216,
 				"end": 221
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 223,
+				"end": 225
 			}
 		]
 	},
@@ -325,6 +372,11 @@
 				"class": "idgham-bighunnah",
 				"start": 102,
 				"end": 107
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 110,
+				"end": 112
 			}
 		]
 	},
@@ -366,6 +418,11 @@
 				"class": "ghunnah",
 				"start": 129,
 				"end": 132
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 153,
+				"end": 155
 			}
 		]
 	},
@@ -392,6 +449,11 @@
 				"class": "ghunnah",
 				"start": 84,
 				"end": 87
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 111,
+				"end": 113
 			}
 		]
 	},
@@ -418,6 +480,11 @@
 				"class": "idgham-bighunnah",
 				"start": 78,
 				"end": 83
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 159,
+				"end": 161
 			}
 		]
 	},
@@ -469,6 +536,11 @@
 				"class": "ikhfa",
 				"start": 227,
 				"end": 231
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 242,
+				"end": 244
 			}
 		]
 	},
@@ -515,6 +587,11 @@
 				"class": "ghunnah",
 				"start": 150,
 				"end": 153
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 175,
+				"end": 177
 			}
 		]
 	},
@@ -541,6 +618,11 @@
 				"class": "ghunnah",
 				"start": 112,
 				"end": 115
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 142,
+				"end": 144
 			}
 		]
 	},
@@ -567,6 +649,11 @@
 				"class": "ikhfa",
 				"start": 109,
 				"end": 114
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 116,
+				"end": 118
 			}
 		]
 	},
@@ -603,6 +690,11 @@
 				"class": "ikhfa",
 				"start": 57,
 				"end": 61
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 93,
+				"end": 95
 			}
 		]
 	},
@@ -669,6 +761,11 @@
 				"class": "idgham-bighunnah",
 				"start": 224,
 				"end": 229
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 232,
+				"end": 234
 			}
 		]
 	},
@@ -705,6 +802,11 @@
 				"class": "qalqalah",
 				"start": 145,
 				"end": 146
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 177,
+				"end": 179
 			}
 		]
 	},
@@ -736,6 +838,11 @@
 				"class": "ikhfa",
 				"start": 56,
 				"end": 61
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 137,
+				"end": 139
 			}
 		]
 	},
@@ -772,6 +879,11 @@
 				"class": "iqlab",
 				"start": 120,
 				"end": 122
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 136,
+				"end": 138
 			}
 		]
 	},
@@ -798,6 +910,11 @@
 				"class": "ghunnah",
 				"start": 26,
 				"end": 29
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 62,
+				"end": 64
 			}
 		]
 	},
@@ -824,6 +941,11 @@
 				"class": "ghunnah",
 				"start": 70,
 				"end": 73
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 137,
+				"end": 139
 			}
 		]
 	},
@@ -840,6 +962,11 @@
 				"class": "ghunnah",
 				"start": 43,
 				"end": 46
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 78,
+				"end": 80
 			}
 		]
 	},
@@ -901,6 +1028,11 @@
 				"class": "ghunnah",
 				"start": 145,
 				"end": 148
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 170,
+				"end": 172
 			}
 		]
 	},
@@ -932,6 +1064,11 @@
 				"class": "iqlab",
 				"start": 83,
 				"end": 85
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 88,
+				"end": 90
 			}
 		]
 	},
@@ -1003,6 +1140,11 @@
 				"class": "ghunnah",
 				"start": 174,
 				"end": 177
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 209,
+				"end": 211
 			}
 		]
 	},
@@ -1039,6 +1181,11 @@
 				"class": "ghunnah",
 				"start": 90,
 				"end": 93
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 125,
+				"end": 127
 			}
 		]
 	},
@@ -1080,6 +1227,11 @@
 				"class": "ikhfa",
 				"start": 141,
 				"end": 146
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 148,
+				"end": 150
 			}
 		]
 	},
@@ -1141,6 +1293,11 @@
 				"class": "ikhfa",
 				"start": 192,
 				"end": 197
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 199,
+				"end": 201
 			}
 		]
 	},
@@ -1212,6 +1369,11 @@
 				"class": "ghunnah",
 				"start": 236,
 				"end": 239
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 261,
+				"end": 263
 			}
 		]
 	},
@@ -1278,6 +1440,11 @@
 				"class": "ghunnah",
 				"start": 194,
 				"end": 197
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 219,
+				"end": 221
 			}
 		]
 	}

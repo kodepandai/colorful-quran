@@ -12,6 +12,11 @@
 				"class": "ikhfa",
 				"start": 115,
 				"end": 120
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 122,
+				"end": 124
 			}
 		]
 	},
@@ -53,6 +58,11 @@
 				"class": "idgham-bighunnah",
 				"start": 66,
 				"end": 68
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 100,
+				"end": 102
 			}
 		]
 	},
@@ -64,7 +74,13 @@
 		"juz_id": 28,
 		"page_number": 556,
 		"translation_aya_text": "Dia menciptakan langit dan bumi dengan (tujuan) yang benar, Dia membentuk rupamu lalu memperbagus rupamu, dan kepada-Nya tempat kembali. ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 97,
+				"end": 99
+			}
+		]
 	},
 	{
 		"aya_id": 5203,
@@ -84,6 +100,11 @@
 				"class": "iqlab",
 				"start": 107,
 				"end": 109
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 123,
+				"end": 125
 			}
 		]
 	},
@@ -105,6 +126,11 @@
 				"class": "qalqalah",
 				"start": 54,
 				"end": 55
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 111,
+				"end": 113
 			}
 		]
 	},
@@ -131,6 +157,11 @@
 				"class": "idgham-bighunnah",
 				"start": 83,
 				"end": 88
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 172,
+				"end": 174
 			}
 		]
 	},
@@ -182,6 +213,11 @@
 				"class": "ghunnah",
 				"start": 106,
 				"end": 109
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 155,
+				"end": 157
 			}
 		]
 	},
@@ -208,6 +244,11 @@
 				"class": "ikhfa",
 				"start": 59,
 				"end": 63
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 103,
+				"end": 105
 			}
 		]
 	},
@@ -289,6 +330,11 @@
 				"class": "ikhfa",
 				"start": 230,
 				"end": 232
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 255,
+				"end": 257
 			}
 		]
 	},
@@ -315,6 +361,11 @@
 				"class": "ghunnah",
 				"start": 72,
 				"end": 75
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 115,
+				"end": 117
 			}
 		]
 	},
@@ -351,6 +402,11 @@
 				"class": "iqlab",
 				"start": 72,
 				"end": 74
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 129,
+				"end": 131
 			}
 		]
 	},
@@ -372,6 +428,11 @@
 				"class": "ghunnah",
 				"start": 72,
 				"end": 75
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 114,
+				"end": 116
 			}
 		]
 	},
@@ -388,6 +449,11 @@
 				"class": "madd-jaiz",
 				"start": 10,
 				"end": 14
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 77,
+				"end": 79
 			}
 		]
 	},
@@ -439,6 +505,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 176,
 				"end": 181
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 184,
+				"end": 186
 			}
 		]
 	},
@@ -485,6 +556,11 @@
 				"class": "qalqalah",
 				"start": 73,
 				"end": 74
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 82,
+				"end": 84
 			}
 		]
 	},
@@ -526,6 +602,11 @@
 				"class": "madd-wajib",
 				"start": 138,
 				"end": 142
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 163,
+				"end": 165
 			}
 		]
 	},
@@ -557,6 +638,11 @@
 				"class": "idgham-bighunnah",
 				"start": 39,
 				"end": 41
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 101,
+				"end": 103
 			}
 		]
 	},
@@ -568,6 +654,12 @@
 		"juz_id": 28,
 		"page_number": 557,
 		"translation_aya_text": "Yang Mengetahui yang gaib dan yang nyata. Yang Mahaperkasa, Mahabijaksana.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 51,
+				"end": 53
+			}
+		]
 	}
 ]

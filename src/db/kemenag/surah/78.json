@@ -17,6 +17,11 @@
 				"class": "madd-wajib",
 				"start": 11,
 				"end": 14
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 18,
+				"end": 20
 			}
 		]
 	},
@@ -33,6 +38,11 @@
 				"class": "ghunnah",
 				"start": 7,
 				"end": 10
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 22,
+				"end": 24
 			}
 		]
 	},
@@ -44,7 +54,13 @@
 		"juz_id": 30,
 		"page_number": 582,
 		"translation_aya_text": "yang dalam hal itu mereka berselisih.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 31,
+				"end": 33
+			}
+		]
 	},
 	{
 		"aya_id": 5676,
@@ -54,7 +70,13 @@
 		"juz_id": 30,
 		"page_number": 582,
 		"translation_aya_text": "Tidak! Kelak mereka akan mengetahui,",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 17,
+				"end": 19
+			}
+		]
 	},
 	{
 		"aya_id": 5677,
@@ -69,6 +91,11 @@
 				"class": "ghunnah",
 				"start": 2,
 				"end": 5
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 23,
+				"end": 25
 			}
 		]
 	},
@@ -566,6 +593,11 @@
 				"class": "idgham-bighunnah",
 				"start": 32,
 				"end": 34
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 45,
+				"end": 46
 			}
 		]
 	},
@@ -633,6 +665,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 52,
 				"end": 54
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 122,
+				"end": 123
 			}
 		]
 	},
@@ -654,6 +691,11 @@
 				"class": "madd-wajib",
 				"start": 35,
 				"end": 38
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 66,
+				"end": 68
 			}
 		]
 	},

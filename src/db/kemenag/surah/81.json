@@ -281,6 +281,11 @@
 				"class": "ikhfa",
 				"start": 23,
 				"end": 28
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 30,
+				"end": 32
 			}
 		]
 	},
@@ -297,6 +302,11 @@
 				"class": "ikhfa",
 				"start": 15,
 				"end": 19
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 38,
+				"end": 40
 			}
 		]
 	},
@@ -323,6 +333,11 @@
 				"class": "ghunnah",
 				"start": 11,
 				"end": 14
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 19,
+				"end": 21
 			}
 		]
 	},
@@ -339,6 +354,11 @@
 				"class": "qalqalah",
 				"start": 22,
 				"end": 23
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 26,
+				"end": 28
 			}
 		]
 	},
@@ -355,6 +375,11 @@
 				"class": "qalqalah",
 				"start": 6,
 				"end": 7
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 35,
+				"end": 37
 			}
 		]
 	},
@@ -366,7 +391,13 @@
 		"juz_id": 30,
 		"page_number": 586,
 		"translation_aya_text": "Dan dia (Muhammad) bukanlah seorang yang kikir (enggan) untuk menerangkan yang gaib.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 33,
+				"end": 35
+			}
+		]
 	},
 	{
 		"aya_id": 5825,
@@ -381,6 +412,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 26,
 				"end": 31
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 34,
+				"end": 36
 			}
 		]
 	},
@@ -392,7 +428,13 @@
 		"juz_id": 30,
 		"page_number": 586,
 		"translation_aya_text": "maka ke manakah kamu akan pergi?",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 17,
+				"end": 19
+			}
+		]
 	},
 	{
 		"aya_id": 5827,
@@ -407,6 +449,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 21,
 				"end": 26
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 35,
+				"end": 37
 			}
 		]
 	},
@@ -438,6 +485,11 @@
 				"class": "idgham-bighunnah",
 				"start": 25,
 				"end": 30
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 37,
+				"end": 39
 			}
 		]
 	},
@@ -469,6 +521,11 @@
 				"class": "madd-wajib",
 				"start": 36,
 				"end": 39
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 65,
+				"end": 67
 			}
 		]
 	}

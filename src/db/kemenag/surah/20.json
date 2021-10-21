@@ -157,7 +157,13 @@
 		"juz_id": 16,
 		"page_number": 312,
 		"translation_aya_text": " Dan apakah telah sampai kepadamu kisah Musa?",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 26,
+				"end": 28
+			}
+		]
 	},
 	{
 		"aya_id": 2358,
@@ -233,6 +239,11 @@
 				"class": "madd-jaiz",
 				"start": 6,
 				"end": 10
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 32,
+				"end": 34
 			}
 		]
 	},
@@ -270,7 +281,13 @@
 		"juz_id": 16,
 		"page_number": 313,
 		"translation_aya_text": " Dan Aku telah memilih engkau, maka dengarkanlah apa yang akan diwahyukan (kepadamu).",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 40,
+				"end": 42
+			}
+		]
 	},
 	{
 		"aya_id": 2362,
@@ -368,7 +385,13 @@
 		"juz_id": 16,
 		"page_number": 313,
 		"translation_aya_text": "”Dan apakah yang ada di tangan kananmu, wahai Musa? ”",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 30,
+				"end": 32
+			}
+		]
 	},
 	{
 		"aya_id": 2366,
@@ -388,7 +411,13 @@
 		"juz_id": 16,
 		"page_number": 313,
 		"translation_aya_text": "Dia (Allah) berfirman, “Lemparkanlah ia, wahai Musa!”",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 20,
+				"end": 22
+			}
+		]
 	},
 	{
 		"aya_id": 2368,
@@ -414,7 +443,13 @@
 		"juz_id": 16,
 		"page_number": 313,
 		"translation_aya_text": "Dia (Allah) berfirman, “Peganglah ia dan jangan takut, Kami akan mengembalikannya kepada keadaannya semula,",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 59,
+				"end": 61
+			}
+		]
 	},
 	{
 		"aya_id": 2370,
@@ -576,7 +611,13 @@
 		"juz_id": 16,
 		"page_number": 313,
 		"translation_aya_text": "(yaitu) Harun, saudaraku,",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 9,
+				"end": 11
+			}
+		]
 	},
 	{
 		"aya_id": 2379,
@@ -669,6 +710,11 @@
 				"class": "qalqalah",
 				"start": 8,
 				"end": 9
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 35,
+				"end": 37
 			}
 		]
 	},
@@ -716,6 +762,11 @@
 				"class": "ghunnah",
 				"start": 27,
 				"end": 30
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 39,
+				"end": 41
 			}
 		]
 	},
@@ -848,6 +899,11 @@
 				"class": "idgham-bighunnah",
 				"start": 285,
 				"end": 290
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 293,
+				"end": 295
 			}
 		]
 	},
@@ -998,6 +1054,11 @@
 				"class": "madd-jaiz",
 				"start": 37,
 				"end": 41
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 52,
+				"end": 54
 			}
 		]
 	},
@@ -1101,6 +1162,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 10,
 				"end": 15
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 29,
+				"end": 31
 			}
 		]
 	},
@@ -1133,7 +1199,13 @@
 		"juz_id": 16,
 		"page_number": 314,
 		"translation_aya_text": "Dia (Fir‘aun) berkata, “Jadi bagaimana keadaan umat-umat yang dahulu?”",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 35,
+				"end": 37
+			}
+		]
 	},
 	{
 		"aya_id": 2400,
@@ -1307,6 +1379,11 @@
 				"class": "qalqalah",
 				"start": 6,
 				"end": 7
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 51,
+				"end": 53
 			}
 		]
 	},
@@ -1318,7 +1395,13 @@
 		"juz_id": 16,
 		"page_number": 315,
 		"translation_aya_text": "Dia (Fir‘aun) berkata, “Apakah engkau datang kepada kami untuk mengusir kami dari negeri kami dengan sihirmu, wahai Musa?",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 62,
+				"end": 64
+			}
+		]
 	},
 	{
 		"aya_id": 2406,
@@ -1410,6 +1493,11 @@
 				"class": "ghunnah",
 				"start": 42,
 				"end": 45
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 46,
+				"end": 48
 			}
 		]
 	},
@@ -1622,6 +1710,11 @@
 				"class": "idgham-bighunnah",
 				"start": 31,
 				"end": 36
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 37,
+				"end": 39
 			}
 		]
 	},
@@ -1700,6 +1793,11 @@
 				"class": "ghunnah",
 				"start": 46,
 				"end": 49
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 72,
+				"end": 74
 			}
 		]
 	},
@@ -2227,6 +2325,11 @@
 				"class": "ikhfa",
 				"start": 22,
 				"end": 27
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 38,
+				"end": 40
 			}
 		]
 	},
@@ -2530,6 +2633,11 @@
 				"class": "qalqalah",
 				"start": 17,
 				"end": 18
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 72,
+				"end": 74
 			}
 		]
 	},
@@ -2544,6 +2652,11 @@
 		"tajweed": [
 			{
 				"class": "madd-jaiz",
+				"start": 53,
+				"end": 56
+			},
+			{
+				"class": "madd-arid-lissukun",
 				"start": 53,
 				"end": 56
 			}
@@ -3198,6 +3311,11 @@
 				"class": "qalqalah",
 				"start": 75,
 				"end": 76
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 84,
+				"end": 86
 			}
 		]
 	},

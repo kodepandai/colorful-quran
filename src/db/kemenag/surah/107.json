@@ -7,7 +7,13 @@
 		"juz_id": 30,
 		"page_number": 602,
 		"translation_aya_text": "Tahukah kamu (orang) yang mendustakan agama?",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 37,
+				"end": 39
+			}
+		]
 	},
 	{
 		"aya_id": 6199,
@@ -17,7 +23,13 @@
 		"juz_id": 30,
 		"page_number": 602,
 		"translation_aya_text": "Maka itulah orang yang menghardik anak yatim,",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 33,
+				"end": 35
+			}
+		]
 	},
 	{
 		"aya_id": 6200,
@@ -27,7 +39,13 @@
 		"juz_id": 30,
 		"page_number": 602,
 		"translation_aya_text": "dan tidak mendorong memberi makan orang miskin.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 37,
+				"end": 39
+			}
+		]
 	},
 	{
 		"aya_id": 6201,
@@ -42,6 +60,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 6,
 				"end": 11
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 21,
+				"end": 23
 			}
 		]
 	},
@@ -58,6 +81,11 @@
 				"class": "ikhfa",
 				"start": 18,
 				"end": 23
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 38,
+				"end": 40
 			}
 		]
 	},
@@ -74,6 +102,11 @@
 				"class": "madd-wajib",
 				"start": 19,
 				"end": 22
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 24,
+				"end": 26
 			}
 		]
 	},
@@ -85,6 +118,12 @@
 		"juz_id": 30,
 		"page_number": 602,
 		"translation_aya_text": "dan enggan (memberikan) bantuan.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 23,
+				"end": 25
+			}
+		]
 	}
 ]

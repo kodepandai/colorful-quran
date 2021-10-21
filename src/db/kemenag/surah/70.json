@@ -105,6 +105,11 @@
 				"class": "ikhfa",
 				"start": 17,
 				"end": 19
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 22,
+				"end": 24
 			}
 		]
 	},
@@ -193,6 +198,11 @@
 				"class": "iqlab",
 				"start": 80,
 				"end": 82
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 87,
+				"end": 89
 			}
 		]
 	},
@@ -204,7 +214,13 @@
 		"juz_id": 29,
 		"page_number": 569,
 		"translation_aya_text": "dan istrinya dan saudaranya, ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 20,
+				"end": 22
+			}
+		]
 	},
 	{
 		"aya_id": 5388,
@@ -214,7 +230,13 @@
 		"juz_id": 29,
 		"page_number": 569,
 		"translation_aya_text": "dan keluarga yang melindunginya (di dunia),",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 31,
+				"end": 33
+			}
+		]
 	},
 	{
 		"aya_id": 5389,
@@ -249,6 +271,11 @@
 				"class": "ikhfa",
 				"start": 40,
 				"end": 44
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 44,
+				"end": 46
 			}
 		]
 	},
@@ -364,7 +391,13 @@
 		"juz_id": 29,
 		"page_number": 569,
 		"translation_aya_text": "kecuali orang-orang yang melaksanakan salat, ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 17,
+				"end": 19
+			}
+		]
 	},
 	{
 		"aya_id": 5398,
@@ -379,6 +412,11 @@
 				"class": "madd-wajib",
 				"start": 35,
 				"end": 39
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 43,
+				"end": 45
 			}
 		]
 	},
@@ -400,6 +438,11 @@
 				"class": "idgham-bighunnah",
 				"start": 35,
 				"end": 41
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 46,
+				"end": 48
 			}
 		]
 	},
@@ -416,6 +459,11 @@
 				"class": "madd-wajib",
 				"start": 6,
 				"end": 10
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 26,
+				"end": 28
 			}
 		]
 	},
@@ -427,7 +475,13 @@
 		"juz_id": 29,
 		"page_number": 569,
 		"translation_aya_text": "dan orang-orang yang mempercayai hari pembalasan, ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 41,
+				"end": 43
+			}
+		]
 	},
 	{
 		"aya_id": 5402,
@@ -447,6 +501,11 @@
 				"class": "idgham-mimi",
 				"start": 39,
 				"end": 44
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 51,
+				"end": 53
 			}
 		]
 	},
@@ -463,6 +522,11 @@
 				"class": "ghunnah",
 				"start": 2,
 				"end": 5
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 37,
+				"end": 39
 			}
 		]
 	},
@@ -474,7 +538,13 @@
 		"juz_id": 29,
 		"page_number": 569,
 		"translation_aya_text": "dan orang-orang yang memelihara kemaluannya, ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 40,
+				"end": 42
+			}
+		]
 	},
 	{
 		"aya_id": 5405,
@@ -494,6 +564,11 @@
 				"class": "ghunnah",
 				"start": 64,
 				"end": 67
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 87,
+				"end": 89
 			}
 		]
 	},
@@ -520,6 +595,11 @@
 				"class": "madd-wajib",
 				"start": 37,
 				"end": 41
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 58,
+				"end": 60
 			}
 		]
 	},
@@ -531,7 +611,13 @@
 		"juz_id": 29,
 		"page_number": 569,
 		"translation_aya_text": "Dan orang-orang yang memelihara amanat dan janjinya, ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 51,
+				"end": 53
+			}
+		]
 	},
 	{
 		"aya_id": 5408,
@@ -546,6 +632,11 @@
 				"class": "madd-wajib",
 				"start": 34,
 				"end": 38
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 42,
+				"end": 44
 			}
 		]
 	},
@@ -557,7 +648,13 @@
 		"juz_id": 29,
 		"page_number": 569,
 		"translation_aya_text": "dan orang-orang yang memelihara salatnya.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 45,
+				"end": 47
+			}
+		]
 	},
 	{
 		"aya_id": 5410,
@@ -582,6 +679,11 @@
 				"class": "idgham-bighunnah",
 				"start": 22,
 				"end": 27
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 34,
+				"end": 36
 			}
 		]
 	},
@@ -593,7 +695,13 @@
 		"juz_id": 29,
 		"page_number": 569,
 		"translation_aya_text": "Maka mengapa orang-orang kafir itu datang bergegas ke hadapanmu (Muhammad), ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 46,
+				"end": 48
+			}
+		]
 	},
 	{
 		"aya_id": 5412,
@@ -603,7 +711,13 @@
 		"juz_id": 29,
 		"page_number": 569,
 		"translation_aya_text": "dari kanan dan dari kiri dengan berkelompok-kelompok?",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 39,
+				"end": 41
+			}
+		]
 	},
 	{
 		"aya_id": 5413,
@@ -638,6 +752,11 @@
 				"class": "ghunnah",
 				"start": 52,
 				"end": 55
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 62,
+				"end": 64
 			}
 		]
 	},
@@ -669,6 +788,11 @@
 				"class": "ghunnah",
 				"start": 31,
 				"end": 34
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 44,
+				"end": 46
 			}
 		]
 	},
@@ -695,6 +819,11 @@
 				"class": "ghunnah",
 				"start": 53,
 				"end": 56
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 66,
+				"end": 68
 			}
 		]
 	},
@@ -726,6 +855,11 @@
 				"class": "idgham-bighunnah",
 				"start": 30,
 				"end": 32
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 67,
+				"end": 69
 			}
 		]
 	},
@@ -737,7 +871,13 @@
 		"juz_id": 29,
 		"page_number": 570,
 		"translation_aya_text": "Maka biarkanlah mereka tenggelam dan bermain-main (dalam kesesatan) sampai mereka menjumpai hari yang diancamkan kepada mereka, ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 82,
+				"end": 84
+			}
+		]
 	},
 	{
 		"aya_id": 5418,
@@ -772,6 +912,11 @@
 				"class": "idgham-bighunnah",
 				"start": 69,
 				"end": 74
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 81,
+				"end": 83
 			}
 		]
 	},
@@ -798,6 +943,11 @@
 				"class": "ikhfa",
 				"start": 46,
 				"end": 48
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 90,
+				"end": 92
 			}
 		]
 	}
