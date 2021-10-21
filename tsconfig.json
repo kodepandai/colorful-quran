@@ -27,6 +27,7 @@
 			"$db/*": ["src/db/*"],
 			"$contract/*": ["src/contract/*"],
 			"$component/*": ["src/component/*"],
+			"$store/*": ["src/store/*"],
 			"$tajweed/*": ["src/tajweed/*"]
 		}
 	},

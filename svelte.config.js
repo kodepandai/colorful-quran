@@ -18,6 +18,7 @@ const config = {
 					$db: resolve('./src/db'),
 					$contract: resolve('./src/contract'),
 					$component: resolve('./src/component'),
+					$store: resolve('./src/store'),
 					$tajweed: resolve('./src/tajweed')
 				}
 			}
