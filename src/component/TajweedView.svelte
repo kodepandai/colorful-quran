@@ -78,7 +78,7 @@
 				{/if}
 			</button>
 		</div>
-		<div class="font-arab py-2 mb-3 border-b text-xl">
+		<div class="font-arab py-2 mb-3 border-b text-xl overscroll-auto" id={aya.aya_number}>
 			{#each aya.tajweed as tajweed}
 				<i
 					class={'leading-[4rem] ' + (tajweed.class ? 'cursor-pointer ' + tajweed.class : '')}
