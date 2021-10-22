@@ -3,7 +3,7 @@
 
 	import list from '$db/kemenag/list.json';
 	import Icon from '@iconify/svelte';
-import { Setting$ } from '$store/Setting';
+	import { Setting$ } from '$store/Setting';
 	import { onMount } from 'svelte';
 
 	let querySearch = '';
@@ -17,9 +17,7 @@ import { Setting$ } from '$store/Setting';
 	}
 
 	onMount(() => {
-		getLastSurah = list.find(
-			(data) => data.id.toString() == $Setting$.last_read_surah
-		)?.surat_name;
+		getLastSurah = list.find((data) => data.id.toString() == $Setting$.last_read_surah)?.surat_name;
 		getLastAyat = $Setting$.last_read_aya;
 	});
 
