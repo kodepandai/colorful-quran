@@ -38,7 +38,8 @@
 	const saveLastReading = ({ detail: { sura_id, aya_number } }: { detail: IAya }) => {
 		Setting$.set({
 			last_read_aya: aya_number.toString(),
-			last_read_surah: sura_id.toString()
+			last_read_surah: sura_id.toString(),
+			theme: $Setting$.theme
 		});
 		alert('Data berhasil disimpan');
 	};
@@ -53,27 +54,31 @@
 	};
 </script>
 
-<div class="flex justify-between items-center pt-4 pb-2 border-b sticky top-14 bg-white">
-	<div class="w-8 cursor-pointer" on:click={() => prevSurah()}>
+<div
+	class="flex justify-between items-center pt-4 pb-2 border-b sticky top-14 bg-white dark:bg-dark"
+>
+	<div class="w-8 cursor-pointer dark:text-white" on:click={() => prevSurah()}>
 		{#if surahDetail.id > 1}
 			<Icon icon="ant-design:double-left-outlined" width="30" height="30" />
 		{/if}
 	</div>
 	<div class="flex flex-col">
-		<span class="text-lg font-bold text-center">{surahDetail.surat_name}</span>
+		<span class="text-lg font-bold text-center dark:text-white">{surahDetail.surat_name}</span>
 		<div class="flex">
-			<span class="text-xs text-graySecond">{surahDetail.surat_terjemahan}</span>
-			<span class="text-xs text-graySecond"> &nbsp;{surahDetail.count_ayat} ayat</span>
+			<span class="text-xs text-graySecond dark:text-white">{surahDetail.surat_terjemahan}</span>
+			<span class="text-xs text-graySecond dark:text-white">
+				&nbsp;{surahDetail.count_ayat} ayat</span
+			>
 		</div>
 	</div>
-	<div class="w-8 cursor-pointer" on:click={() => nextSurah()}>
+	<div class="w-8 cursor-pointer dark:text-white" on:click={() => nextSurah()}>
 		{#if surahDetail.id < 114}
 			<Icon icon="ant-design:double-right-outlined" width="30" height="30" />
 		{/if}
 	</div>
 </div>
 {#if surahDetail.id != 9}
-	<div class="flex flex-col items-center my-4 border-b pb-2">
+	<div class="flex flex-col items-center my-4 border-b pb-2 dark:text-white">
 		<span class="text-3xl mb-2 font-arab">{basmalah}</span>
 		<span class="text-xs">{surahDetail.id == 1 ? '1. ' : ''}{basmalah01}</span>
 	</div>

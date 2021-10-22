@@ -77,7 +77,3 @@
 .qalqalah {
 	color: var(--color-qalqalah);
 }
-
-html {
-	scroll-behavior: smooth;
-}
