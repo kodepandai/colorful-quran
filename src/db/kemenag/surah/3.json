@@ -165,11 +165,6 @@
 				"class": "madd-wajib",
 				"start": 72,
 				"end": 75
-			},
-			{
-				"class": "madd-arid-lissukun",
-				"start": 73,
-				"end": 75
 			}
 		]
 	},
@@ -1743,11 +1738,6 @@
 				"class": "madd-wajib",
 				"start": 120,
 				"end": 123
-			},
-			{
-				"class": "madd-arid-lissukun",
-				"start": 121,
-				"end": 123
 			}
 		]
 	},
@@ -1869,11 +1859,6 @@
 			{
 				"class": "madd-wajib",
 				"start": 132,
-				"end": 135
-			},
-			{
-				"class": "madd-arid-lissukun",
-				"start": 133,
 				"end": 135
 			}
 		]

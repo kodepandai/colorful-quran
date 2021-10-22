@@ -3,6 +3,7 @@
 	import { Setting$ } from '$store/Setting';
 	import Icon from '@iconify/svelte';
 	import { createEventDispatcher } from 'svelte';
+	import AyaNumber from './AyaNumber.svelte';
 	const dispatch = createEventDispatcher();
 
 	export let surah: IAya[];
@@ -11,13 +12,15 @@
 		position: {
 			x: number;
 			y: number;
+			inverseX: boolean;
 		};
 	}
 	let tooltip: IToolTip = {
 		tajweed: null,
 		position: {
 			x: 0,
-			y: 0
+			y: 0,
+			inverseX: false
 		}
 	};
 
@@ -26,11 +29,13 @@
 	};
 
 	const showToolTip = (e: MouseEvent, tajweed: ITajweed) => {
+		console.log(e.clientX, window.innerWidth, e.clientX < window.innerWidth / 2);
 		tooltip = {
 			tajweed,
 			position: {
 				x: e.clientX,
-				y: e.clientY
+				y: e.clientY,
+				inverseX: e.clientX > window.innerWidth / 2
 			}
 		};
 	};
@@ -78,7 +83,10 @@
 				{/if}
 			</button>
 		</div>
-		<div class="font-arab py-2 mb-3 border-b text-xl">
+		<div
+			class="font-arab py-2 mb-3 border-b text-xl overscroll-auto"
+			id={aya.aya_number.toString()}
+		>
 			{#each aya.tajweed as tajweed}
 				<i
 					class={'leading-[4rem] ' + (tajweed.class ? 'cursor-pointer ' + tajweed.class : '')}
@@ -88,6 +96,7 @@
 					{aya.aya_text.slice(tajweed.start, tajweed.end)}
 				</i>
 			{/each}
+			<AyaNumber number={aya.aya_number} />
 			<p class="font-sans text-sm mt-2 pt-2" style="direction: ltr;">
 				{aya.aya_number}. {aya.translation_aya_text}
 			</p>
@@ -102,7 +111,10 @@
 	>
 		<div class="relative h-full w-full">
 			<div
-				class="capitalize font-semibold border rounded bg-white p-4 whitespace-nowrap shadow absolute -translate-x-full -translate-y-full"
+				class="capitalize font-semibold border rounded bg-white p-4 whitespace-nowrap shadow absolute {tooltip
+					.position.inverseX
+					? '-translate-x-full'
+					: ''} -translate-y-full"
 				style={`top: ${tooltip.position.y}px; left: ${tooltip.position.x}px; border-color: var(--color-${tooltip.tajweed.class})`}
 			>
 				{tooltip.tajweed.class.replace(/-/g, ' ')}
