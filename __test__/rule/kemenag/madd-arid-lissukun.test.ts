@@ -1,5 +1,5 @@
 import surah2 from '$db/kemenag/surah/2.json';
-import surah3 from '$db/kemenag/surah/3.json'
+import surah3 from '$db/kemenag/surah/3.json';
 import surah114 from '$db/kemenag/surah/114.json';
 import MaddAridLissukun from '$tajweed/kemenag/rule/MaddAridLissukun';
 import GenerateRule from '$tajweed/GenerateRule';
