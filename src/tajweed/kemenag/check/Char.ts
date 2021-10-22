@@ -31,6 +31,17 @@ export const HamzahWau = 'ٔ';
 export const HamzahYa = 'ٕ';
 export const Ya = 'ي';
 
+export const One = '١';
+export const Two = '٢';
+export const Three = '٣';
+export const Four = '٤';
+export const Five = '٥';
+export const Six = '٦';
+export const Seven = '٧';
+export const Eight = '٨';
+export const Nine = '٩';
+export const Ten = '١٠';
+
 export const Shaddah = 'ّ';
 export const FatahTanwin = 'ً';
 export const DhumahTanwin = 'ٌ';
