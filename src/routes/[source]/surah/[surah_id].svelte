@@ -1,6 +1,7 @@
 <script context="module" lang="ts">
 	import type { IAya, ISurah } from '$contract/surah';
 	import type { Load } from '@sveltejs/kit';
+	import Icon from '@iconify/svelte';
 	let basmalah = 'بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ';
 	let basmalah01 = 'Dengan nama Allah Yang Maha Pengasih, Maha Penyayang.';
 	const getSurah = async (source, surah_id) => {
@@ -29,6 +30,7 @@
 <script lang="ts">
 	import TajweedView from '$component/TajweedView.svelte';
 	import { Setting$ } from '$store/Setting';
+	import { goto } from '$app/navigation';
 
 	export let surah: IAya[];
 	export let surahDetail: ISurah;
@@ -40,23 +42,40 @@
 		});
 		alert('Data berhasil disimpan');
 	};
+
+	const nextSurah = () => {
+		let page = surahDetail.id + 1;
+		goto(page.toString());
+	};
+	const prevSurah = () => {
+		let page = surahDetail.id - 1;
+		goto(page.toString());
+	};
 </script>
 
-<div class="sm:w-1/2 flex flex-col p-4 mx-auto">
-	<div class="text-center mb-2">
-		<span class="font-bold text-indigo-900 text-xl">Colorful Quran</span>
-	</div>
-	<div
-		class="from-blue-500 to-indigo-700 bg-gradient-to-br rounded-xl px-8 py-5 mb-4 flex flex-col text-center"
-	>
-		<span class="text-lg text-white">{surahDetail.surat_name}</span>
-		<span class="text-md text-white mb-1">{surahDetail.surat_terjemahan}</span>
-		<hr />
-		<span class="text-sm text-white mt-2 mb-4">{surahDetail.count_ayat} ayat</span>
-		{#if surahDetail.id != 9}
-			<span class="text-white text-3xl mb-2 font-arab">{basmalah}</span>
-			<span class="text-white text-xs">{surahDetail.id == 1 ? '1. ' : ''}{basmalah01}</span>
+<div class="flex justify-between items-center pt-4 pb-2 border-b sticky top-14 bg-white">
+	<div class="w-8 cursor-pointer" on:click={() => prevSurah()}>
+		{#if surahDetail.id > 1}
+			<Icon icon="ant-design:double-left-outlined" width="30" height="30" />
 		{/if}
 	</div>
-	<TajweedView {surah} on:saveLastReading={saveLastReading} />
+	<div class="flex flex-col">
+		<span class="text-lg font-bold text-center">{surahDetail.surat_name}</span>
+		<div class="flex">
+			<span class="text-xs text-graySecond">{surahDetail.surat_terjemahan}</span>
+			<span class="text-xs text-graySecond"> &nbsp;{surahDetail.count_ayat} ayat</span>
+		</div>
+	</div>
+	<div class="w-8 cursor-pointer" on:click={() => nextSurah()}>
+		{#if surahDetail.id < 114}
+			<Icon icon="ant-design:double-right-outlined" width="30" height="30" />
+		{/if}
+	</div>
 </div>
+{#if surahDetail.id != 9}
+	<div class="flex flex-col items-center my-4 border-b pb-2">
+		<span class="text-3xl mb-2 font-arab">{basmalah}</span>
+		<span class="text-xs">{surahDetail.id == 1 ? '1. ' : ''}{basmalah01}</span>
+	</div>
+{/if}
+<TajweedView {surah} on:saveLastReading={saveLastReading} />
