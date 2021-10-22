@@ -12,6 +12,7 @@
 	import Iqlab from '$tajweed/kemenag/rule/Iqlab';
 	import MaddAridLissukun from '$tajweed/kemenag/rule/MaddAridLissukun';
 	import MaddJaiz from '$tajweed/kemenag/rule/MaddJaiz';
+	import MaddLazimHarfi from '$tajweed/kemenag/rule/MaddLazimHarfi';
 	import MaddWajib from '$tajweed/kemenag/rule/MaddWajib';
 	import Qalqalah from '$tajweed/kemenag/rule/Qalqalah';
 
@@ -23,18 +24,23 @@
 	const generateTajeed = () => {
 		Promise.all(
 			surahJson.map(async (aya, i) => {
-				const tajweed = await GenerateRule(aya.aya_text, [
-					Ghunnah,
-					IdghamBighunnah,
-					IdghamBilaghunnah,
-					IdghamMimi,
-					Qalqalah,
-					Ikhfa,
-					Iqlab,
-					MaddJaiz,
-					MaddWajib,
-					MaddAridLissukun
-				]);
+				const tajweed = await GenerateRule(
+					aya.aya_text,
+					[
+						Ghunnah,
+						IdghamBighunnah,
+						IdghamBilaghunnah,
+						IdghamMimi,
+						Qalqalah,
+						Ikhfa,
+						Iqlab,
+						MaddJaiz,
+						MaddWajib,
+						MaddAridLissukun,
+						MaddLazimHarfi
+					],
+					i == 0
+				);
 				surahJson[i].tajweed = tajweed;
 			})
 		);
