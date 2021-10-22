@@ -1,6 +1,6 @@
 import type { RuleFinder } from '$contract/rule';
 import type { ITajweed } from '$contract/surah';
-import { Alif, Dhummah, Fatah, IsChar, Kasrah, Shaddah, Sukun, Wau, Ya } from '../check/Char';
+import { Alif, Dhummah, Fatah, Hamzah, IsChar, Kasrah, Shaddah, Sukun, Wau, Ya } from '../check/Char';
 import { GetPrev, GetPrevHuruf } from '../check/Pointer';
 
 const MaddAridLissukun: RuleFinder = (ayaSplited) => {
@@ -10,7 +10,7 @@ const MaddAridLissukun: RuleFinder = (ayaSplited) => {
 			// check is end of aya
 			if (i == ayaSplited.length - 1) {
 				// get prev huruf
-				const [end] = GetPrevHuruf(ayaSplited, i);
+				const [end, lastHuruf] = GetPrevHuruf(ayaSplited, i);
 				const [prev, huruf] = GetPrevHuruf(ayaSplited, end);
 				let check = false;
 				const prev2 = GetPrev(ayaSplited, prev, [Shaddah]);
@@ -20,7 +20,7 @@ const MaddAridLissukun: RuleFinder = (ayaSplited) => {
 					IsChar(ayaSplited[prev2], Kasrah)
 				)
 					check = true;
-				if (IsChar(huruf, Alif) && IsChar(ayaSplited[prev2], Fatah)) check = true;
+				if (IsChar(huruf, Alif) && IsChar(ayaSplited[prev2], Fatah) && !IsChar(lastHuruf, Hamzah)) check = true;
 				if (
 					IsChar(huruf, Wau) &&
 					IsChar(ayaSplited[prev + 1], Sukun) &&
