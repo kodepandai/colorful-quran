@@ -16,7 +16,7 @@
 	--color-madd-wajib: var(--color-madd-4-5);
 	--color-madd-jaiz: var(--color-madd-4-5);
 	--color-madd-arid-lissukun: var(--color-madd-2-4-6);
-	--color-madd-lazim-harfi: var(--color-madd-6);
+	--color-madd-lazim-mutsaqal-harfi: var(--color-madd-6);
 	--color-ghunnah: rgb(255, 0, 179);
 	--color-idgham-mimi: rgb(116, 143, 231);
 	--color-ikhfa-syafawi: rgb(116, 143, 231);
@@ -40,7 +40,7 @@
 .silent {
 	color: var(--color-silent);
 }
-.madd-lazim-harfi {
+.madd-lazim-mutsaqal-harfi {
 	color: var(--color-madd-6);
 }
 .madd-wajib,

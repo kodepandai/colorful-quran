@@ -22,11 +22,11 @@ const Ghunnah: RuleFinder = (ayaSplited) => {
 				Shaddah
 			);
 			const MaddahIndex = FindCharIndex(
-				ayaSplited[i]+ayaSplited[i+1] + ayaSplited[i + 2],
+				ayaSplited[i] + ayaSplited[i + 1] + ayaSplited[i + 2],
 				Maddah
-			)
+			);
 
-			if (IsChar(txt, [Noon, Meem]) && ShaddahIndex >= 0 && MaddahIndex==-1) {
+			if (IsChar(txt, [Noon, Meem]) && ShaddahIndex >= 0 && MaddahIndex == -1) {
 				const prev = GetPrev(ayaSplited, i, [Alif]);
 				if (
 					!(
