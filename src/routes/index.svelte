@@ -3,13 +3,13 @@
 
 	import list from '$db/kemenag/list.json';
 	import Icon from '@iconify/svelte';
+import { Setting$ } from '$store/Setting';
 	import { onMount } from 'svelte';
 
 	let querySearch = '';
 	let dataFiltered = [];
 	let getLastSurah = '';
 	let getLastAyat = '';
-	let getSetting;
 	$: {
 		dataFiltered = list.filter((data) => {
 			return data.surat_name.toLocaleLowerCase().includes(querySearch.toLocaleLowerCase());
@@ -17,15 +17,14 @@
 	}
 
 	onMount(() => {
-		getSetting = JSON.parse(localStorage.getItem('setting'));
 		getLastSurah = list.find(
-			(data) => data.id.toString() == getSetting.last_read_surah
+			(data) => data.id.toString() == $Setting$.last_read_surah
 		)?.surat_name;
-		getLastAyat = getSetting.last_read_aya;
+		getLastAyat = $Setting$.last_read_aya;
 	});
 
 	const gotoLastRead = () => {
-		goto('/kemenag/surah/' + getSetting.last_read_surah + '#' + getSetting.last_read_aya);
+		goto('/kemenag/surah/' + $Setting$.last_read_surah + '#' + $Setting$.last_read_aya);
 	};
 </script>
 
@@ -41,7 +40,7 @@
 	/>
 </div>
 <div class="bg-secondary rounded-xl p-3 mb-4 flex">
-	<div class="bg-[#F3F3F3] rounded-lg w-40 flex flex-col p-2">
+	<div class="bg-[#F3F3F3] rounded-lg w-40 md:w-1/2 flex flex-col p-2">
 		<div class="flex">
 			<Icon icon="codicon:book" width="14" height="14" />
 			<span class="text-xs pl-2"> Surah terakhir dibaca</span>
@@ -53,7 +52,7 @@
 			<span class="text-xs">Ayat: {getLastAyat}</span>
 		{/if}
 	</div>
-	<div class="flex items-center justify-between w-60 px-4">
+	<div class="flex items-center justify-between w-60 md:w-1/2 px-4">
 		<div class="flex flex-col items-center cursor-pointer" on:click={() => gotoLastRead()}>
 			<Icon icon="emojione-monotone:open-book" color="#fff" width="30" height="30" />
 			<span class="text-xs text-white">Last read</span>
