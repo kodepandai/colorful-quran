@@ -3,6 +3,7 @@
 	import { Setting$ } from '$store/Setting';
 	import Icon from '@iconify/svelte';
 	import { createEventDispatcher } from 'svelte';
+	import AyaNumber from './AyaNumber.svelte';
 	const dispatch = createEventDispatcher();
 
 	export let surah: IAya[];
@@ -95,6 +96,7 @@
 					{aya.aya_text.slice(tajweed.start, tajweed.end)}
 				</i>
 			{/each}
+			<AyaNumber number={aya.aya_number} />
 			<p class="font-sans text-sm mt-2 pt-2" style="direction: ltr;">
 				{aya.aya_number}. {aya.translation_aya_text}
 			</p>
