@@ -38,7 +38,7 @@
 	/>
 </div>
 <div class="bg-secondary rounded-xl p-3 mb-4 flex">
-	<div class="bg-[#F3F3F3] rounded-lg w-40 md:w-1/2 flex flex-col p-2">
+	<div class="bg-[#F3F3F3] rounded-lg w-5/12 md:w-1/2 flex flex-col p-2">
 		<div class="flex">
 			<Icon icon="codicon:book" width="14" height="14" />
 			<span class="text-xs pl-2"> Surah terakhir dibaca</span>
@@ -50,7 +50,7 @@
 			<span class="text-xs">Ayat: {getLastAyat}</span>
 		{/if}
 	</div>
-	<div class="flex items-center justify-between w-60 md:w-1/2 px-4">
+	<div class="flex items-center justify-around w-7/12 md:w-1/2">
 		<div class="flex flex-col items-center cursor-pointer" on:click={() => gotoLastRead()}>
 			<Icon icon="emojione-monotone:open-book" color="#fff" width="30" height="30" />
 			<span class="text-xs text-white">Last read</span>
@@ -59,10 +59,10 @@
 			<Icon icon="bx:bx-bookmark-alt" color="#fff" width="30" height="30" />
 			<span class="text-xs text-white">Penanda</span>
 		</div>
-		<div class="flex flex-col items-center cursor-pointer">
+		<a class="flex flex-col items-center" href="/tasbih">
 			<Icon icon="gg:apple-watch" color="white" width="30" height="30" />
 			<span class="text-xs text-white">Tasbih</span>
-		</div>
+		</a>
 	</div>
 </div>
 
