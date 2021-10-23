@@ -82,23 +82,3 @@
 .qalqalah {
 	color: var(--color-qalqalah);
 }
-
-.tasbihconter {
-	width: 343px;
-	height: 343px;
-}
-.countconter {
-	height: 60px;
-	margin-top: 72px;
-}
-.tmblcount {
-	width: 72px;
-	height: 72px;
-	border-radius: 100%;
-	position: absolute;
-	bottom: 60px;
-	border: 2px solid white;
-}
-.top165 {
-	top: 165px;
-}
