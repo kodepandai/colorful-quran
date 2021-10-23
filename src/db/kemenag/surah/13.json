@@ -9,6 +9,16 @@
 		"translation_aya_text": "Alif Lam Mim Ra. Ini adalah ayat-ayat Kitab (Al-Qur'an). Dan (Kitab) yang diturunkan kepadamu (Muhammad) dari Tuhanmu itu adalah benar; tetapi kebanyakan manusia tidak beriman (kepadanya).",
 		"tajweed": [
 			{
+				"class": "madd-lazim-mukhofaf-harfi",
+				"start": 1,
+				"end": 2
+			},
+			{
+				"class": "madd-lazim-mutsaqal-harfi",
+				"start": 3,
+				"end": 5
+			},
+			{
 				"class": "ikhfa",
 				"start": 49,
 				"end": 53

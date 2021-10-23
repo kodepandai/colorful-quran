@@ -29,7 +29,6 @@
 	};
 
 	const showToolTip = (e: MouseEvent, tajweed: ITajweed) => {
-		console.log(e.clientX, window.innerWidth, e.clientX < window.innerWidth / 2);
 		tooltip = {
 			tajweed,
 			position: {

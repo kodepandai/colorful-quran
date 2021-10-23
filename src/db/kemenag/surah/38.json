@@ -7,7 +7,13 @@
 		"juz_id": 23,
 		"page_number": 453,
 		"translation_aya_text": "Shad, demi Al-Qur'an yang mengandung peringatan. ",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-lazim-mukhofaf-harfi",
+				"start": 0,
+				"end": 2
+			}
+		]
 	},
 	{
 		"aya_id": 3972,

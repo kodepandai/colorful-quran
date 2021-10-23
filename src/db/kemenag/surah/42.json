@@ -7,7 +7,13 @@
 		"juz_id": 25,
 		"page_number": 483,
 		"translation_aya_text": "Ha Mim",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-lazim-mukhofaf-harfi",
+				"start": 3,
+				"end": 6
+			}
+		]
 	},
 	{
 		"aya_id": 4274,

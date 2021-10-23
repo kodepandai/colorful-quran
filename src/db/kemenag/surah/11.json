@@ -9,6 +9,11 @@
 		"translation_aya_text": "Alif Lam Ra. (Inilah) Kitab yang ayat-ayatnya disusun dengan rapi kemudian dijelaskan secara terperinci, (yang diturunkan) dari sisi (Allah) Yang Mahabijaksana, Mahateliti,",
 		"tajweed": [
 			{
+				"class": "madd-lazim-mukhofaf-harfi",
+				"start": 1,
+				"end": 2
+			},
+			{
 				"class": "ghunnah",
 				"start": 37,
 				"end": 40

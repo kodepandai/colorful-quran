@@ -10,6 +10,7 @@ export type Rule =
 	| 'madd-6'
 	| 'madd-arid-lissukun'
 	| 'madd-lazim-mutsaqal-harfi'
+	| 'madd-lazim-mukhofaf-harfi'
 	| 'ghunnah'
 	| 'idgham-mimi'
 	| 'ikhfa-syafawi'

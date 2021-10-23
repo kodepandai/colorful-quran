@@ -7,7 +7,18 @@
 		"juz_id": 20,
 		"page_number": 385,
 		"translation_aya_text": "Tha Sin Mim",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-lazim-mukhofaf-harfi",
+				"start": 3,
+				"end": 4
+			},
+			{
+				"class": "madd-lazim-mutsaqal-harfi",
+				"start": 5,
+				"end": 8
+			}
+		]
 	},
 	{
 		"aya_id": 3254,

@@ -9,6 +9,11 @@
 		"translation_aya_text": "Alif Lam Ra. Inilah ayat-ayat Al-Qur'an yang penuh hikmah.",
 		"tajweed": [
 			{
+				"class": "madd-lazim-mukhofaf-harfi",
+				"start": 1,
+				"end": 2
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 38,
 				"end": 40

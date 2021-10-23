@@ -7,7 +7,23 @@
 		"juz_id": 8,
 		"page_number": 151,
 		"translation_aya_text": "Alif Lam Mim shad.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-lazim-mukhofaf-harfi",
+				"start": 1,
+				"end": 2
+			},
+			{
+				"class": "madd-lazim-mutsaqal-harfi",
+				"start": 3,
+				"end": 5
+			},
+			{
+				"class": "madd-lazim-mukhofaf-harfi",
+				"start": 6,
+				"end": 8
+			}
+		]
 	},
 	{
 		"aya_id": 956,

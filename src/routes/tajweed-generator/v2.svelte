@@ -12,7 +12,7 @@
 	import Iqlab from '$tajweed/kemenag/rule/Iqlab';
 	import MaddAridLissukun from '$tajweed/kemenag/rule/MaddAridLissukun';
 	import MaddJaiz from '$tajweed/kemenag/rule/MaddJaiz';
-	import MaddLazimMutsaqalHarfi from '$tajweed/kemenag/rule/MaddLazimMutsaqalHarfi';
+	import MaddLazimHarfi from '$tajweed/kemenag/rule/MaddLazimHarfi';
 	import MaddWajib from '$tajweed/kemenag/rule/MaddWajib';
 	import Qalqalah from '$tajweed/kemenag/rule/Qalqalah';
 
@@ -37,7 +37,7 @@
 						MaddJaiz,
 						MaddWajib,
 						MaddAridLissukun,
-						MaddLazimMutsaqalHarfi
+						MaddLazimHarfi
 					],
 					i == 0
 				);

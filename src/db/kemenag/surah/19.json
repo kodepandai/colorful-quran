@@ -7,7 +7,23 @@
 		"juz_id": 16,
 		"page_number": 305,
 		"translation_aya_text": "Kaf  Ha Ya ‘Ain Shad.",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "madd-lazim-mukhofaf-harfi",
+				"start": 0,
+				"end": 1
+			},
+			{
+				"class": "madd-lazim-mukhofaf-harfi",
+				"start": 6,
+				"end": 7
+			},
+			{
+				"class": "madd-lazim-mukhofaf-harfi",
+				"start": 8,
+				"end": 10
+			}
+		]
 	},
 	{
 		"aya_id": 2252,

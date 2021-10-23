@@ -9,6 +9,11 @@
 		"translation_aya_text": "Qaf. Demi Al-Qur'an yang mulia. ",
 		"tajweed": [
 			{
+				"class": "madd-lazim-mukhofaf-harfi",
+				"start": 1,
+				"end": 4
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 27,
 				"end": 29

@@ -9,6 +9,11 @@
 		"translation_aya_text": "Alif Lam Ra. (Ini adalah) Kitab yang Kami turunkan kepadamu (Muhammad) agar engkau mengeluarkan manusia dari kegelapan kepada cahaya terang-benderang dengan izin Tuhan, (yaitu) menuju jalan Tuhan Yang Mahaperkasa, Maha Terpuji.",
 		"tajweed": [
 			{
+				"class": "madd-lazim-mukhofaf-harfi",
+				"start": 1,
+				"end": 2
+			},
+			{
 				"class": "ikhfa",
 				"start": 17,
 				"end": 21

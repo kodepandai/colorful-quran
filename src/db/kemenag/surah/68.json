@@ -9,6 +9,11 @@
 		"translation_aya_text": "Nun. Demi pena dan apa yang mereka tuliskan, ",
 		"tajweed": [
 			{
+				"class": "madd-lazim-mukhofaf-harfi",
+				"start": 0,
+				"end": 2
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 30,
 				"end": 32
