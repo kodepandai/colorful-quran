@@ -9,9 +9,14 @@
 		"translation_aya_text": "Alif Lam Mim.",
 		"tajweed": [
 			{
-				"class": "ghunnah",
+				"class": "madd-lazim-mukhofaf-harfi",
+				"start": 2,
+				"end": 3
+			},
+			{
+				"class": "madd-lazim-mutsaqal-harfi",
 				"start": 4,
-				"end": 8
+				"end": 6
 			}
 		]
 	},

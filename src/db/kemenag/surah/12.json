@@ -9,6 +9,11 @@
 		"translation_aya_text": "Alif Lam Ra.  Ini adalah ayat-ayat Kitab (Al-Qur'an) yang jelas.",
 		"tajweed": [
 			{
+				"class": "madd-lazim-mukhofaf-harfi",
+				"start": 1,
+				"end": 2
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 39,
 				"end": 41

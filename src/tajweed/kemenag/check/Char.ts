@@ -58,6 +58,7 @@ export const Blank = ' ';
 
 export const Kasrah = 'ِ';
 export const Fatah = 'َ';
+export const FatahMadd = 'ٰ';
 export const Dhummah = 'ُ';
 export const Sukun = 'ْ';
 

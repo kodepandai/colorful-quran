@@ -36,3 +36,4 @@ const MovePointerToHuruf =
 	};
 
 export const GetPrevHuruf = MovePointerToHuruf(-1);
+export const GetNextHuruf = MovePointerToHuruf(1);

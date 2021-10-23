@@ -16,6 +16,8 @@
 	--color-madd-wajib: var(--color-madd-4-5);
 	--color-madd-jaiz: var(--color-madd-4-5);
 	--color-madd-arid-lissukun: var(--color-madd-2-4-6);
+	--color-madd-lazim-mutsaqal-harfi: var(--color-madd-6);
+	--color-madd-lazim-mukhofaf-harfi: var(--color-madd-6);
 	--color-ghunnah: rgb(255, 0, 179);
 	--color-idgham-mimi: rgb(116, 143, 231);
 	--color-ikhfa-syafawi: rgb(116, 143, 231);
@@ -39,7 +41,10 @@
 .silent {
 	color: var(--color-silent);
 }
-
+.madd-lazim-mutsaqal-harfi,
+.madd-lazim-mukhofaf-harfi {
+	color: var(--color-madd-6);
+}
 .madd-wajib,
 .madd-jaiz {
 	color: var(--color-madd-4-5);
@@ -77,9 +82,7 @@
 .qalqalah {
 	color: var(--color-qalqalah);
 }
-html {
-	scroll-behavior: smooth;
-}
+
 .tasbihconter {
 	width: 343px;
 	height: 343px;
@@ -91,7 +94,7 @@ html {
 .tmblcount {
 	width: 72px;
 	height: 72px;
-	border-radius: 3100%;
+	border-radius: 100%;
 	position: absolute;
 	bottom: 60px;
 	border: 2px solid white;

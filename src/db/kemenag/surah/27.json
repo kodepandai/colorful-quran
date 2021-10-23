@@ -9,6 +9,11 @@
 		"translation_aya_text": "Tha Sin. Inilah ayat-ayat Al-Qur'an, dan Kitab yang jelas,",
 		"tajweed": [
 			{
+				"class": "madd-lazim-mukhofaf-harfi",
+				"start": 2,
+				"end": 4
+			},
+			{
 				"class": "idgham-bighunnah",
 				"start": 40,
 				"end": 45

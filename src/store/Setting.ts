@@ -2,13 +2,19 @@ import { writable } from 'svelte/store';
 import { browser } from '$app/env';
 
 interface ISetting {
-	last_read_surah: string;
-	last_read_aya: string;
+	last_read_surah?: string;
+	last_read_aya?: string;
+	theme?: string;
+	ukuranAyat?: number;
+	ukuranTerjemahan?: number;
 }
 
 const defaultSetting: ISetting = {
 	last_read_aya: '',
-	last_read_surah: ''
+	last_read_surah: '',
+	theme: '',
+	ukuranAyat: 16,
+	ukuranTerjemahan: 12
 };
 export const Setting$ =
 	typeof window !== 'undefined'
