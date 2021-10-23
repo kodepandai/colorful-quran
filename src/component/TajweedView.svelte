@@ -83,20 +83,26 @@
 			</button>
 		</div>
 		<div
-			class="font-arab py-2 mb-3 border-b text-xl overscroll-auto"
+			class="font-arab py-2 mb-3 border-b text-xl overscroll-auto dark:text-white"
 			id={aya.aya_number.toString()}
 		>
-			{#each aya.tajweed as tajweed}
-				<i
-					class={'leading-[4rem] ' + (tajweed.class ? 'cursor-pointer ' + tajweed.class : '')}
-					title={tajweed.class}
-					on:click={(e) => showToolTip(e, tajweed)}
-				>
-					{aya.aya_text.slice(tajweed.start, tajweed.end)}
-				</i>
-			{/each}
+			<span
+				style="font-size: {$Setting$.ukuranAyat}px; line-height: {$Setting$.ukuranAyat + 50}px "
+			>
+				{#each aya.tajweed as tajweed}
+					<i
+						class={tajweed.class ? 'cursor-pointer ' + tajweed.class : ''}
+						title={tajweed.class}
+						on:click={(e) => showToolTip(e, tajweed)}
+						>{aya.aya_text.slice(tajweed.start, tajweed.end)}</i
+					>
+				{/each}
+			</span>
 			<AyaNumber number={aya.aya_number} />
-			<p class="font-sans text-sm mt-2 pt-2" style="direction: ltr;">
+			<p
+				class="font-sans mt-2 pt-2 dark:text-white"
+				style="direction: ltr; font-size: {$Setting$.ukuranTerjemahan}px;"
+			>
 				{aya.aya_number}. {aya.translation_aya_text}
 			</p>
 		</div>

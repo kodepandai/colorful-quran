@@ -68,7 +68,7 @@
 
 {#if dataFiltered.length <= 0}
 	<div class="flex w-full justify-center">
-		<span class="text-gray-500 ">Surah tidak ditemukan</span>
+		<span class="text-gray-500 dark:text-white">Surah tidak ditemukan</span>
 	</div>
 {/if}
 {#each dataFiltered as surah}
@@ -76,17 +76,19 @@
 		<div class="flex">
 			<div class="inline-flex p-1 w-14 justify-center items-center">
 				<img src={'/border.png'} class="w-full" alt="" />
-				<span class="align-middle absolute text-sm">{surah.id}</span>
+				<span class="align-middle absolute text-sm dark:text-white">{surah.id}</span>
 			</div>
 			<div class="flex flex-col line ml-3">
-				<span class="text-sm">{` ${surah.surat_name}`}</span>
+				<span class="text-sm dark:text-white">{` ${surah.surat_name}`}</span>
 				<div class="flex flex-row">
-					<span class="text-xs text-gray-400">{` ${surah.surat_terjemahan}`}</span>
-					<span class="text-xs ml-2 text-gray-400">{` ${surah.count_ayat}`} ayat</span>
+					<span class="text-xs text-gray-400 dark:text-white">{` ${surah.surat_terjemahan}`}</span>
+					<span class="text-xs ml-2 text-gray-400 dark:text-white"
+						>{` ${surah.count_ayat}`} ayat</span
+					>
 				</div>
 			</div>
 		</div>
-		<span class="font-arab inline-block align-baseline font-bold text-primary"
+		<span class="font-arab inline-block align-baseline font-bold text-primary dark:text-white"
 			>{surah.surat_text}</span
 		>
 	</a>
