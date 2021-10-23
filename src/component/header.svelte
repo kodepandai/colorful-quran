@@ -9,7 +9,7 @@
 	const themeMode = () => {
 		let gettheme = window.document.getElementsByTagName('html')[0].classList.toggle('dark');
 		let theme = gettheme ? 'dark' : 'light';
-		$Setting$.theme = theme
+		$Setting$.theme = theme;
 	};
 
 	const copyUrl = () => {
@@ -19,10 +19,10 @@
 	};
 
 	const changeUkuranAyat = (e) => {
-		$Setting$.ukuranAyat = e.target.value
+		$Setting$.ukuranAyat = e.target.value;
 	};
 	const changeUkuranTerjemahan = (e) => {
-		$Setting$.ukuranTerjemahan = e.target.value
+		$Setting$.ukuranTerjemahan = e.target.value;
 	};
 </script>
 
@@ -74,13 +74,7 @@
 			</div>
 			<div class="block">
 				<span>Ukuran Ayat</span>
-				<input
-					type="range"
-					min="10"
-					max="40"
-					class="w-full"
-					on:change={changeUkuranAyat}
-				/>
+				<input type="range" min="10" max="40" class="w-full" on:change={changeUkuranAyat} />
 				<span class="text-xs text-graySecond">{$Setting$.ukuranAyat} px</span>
 			</div>
 		</div>
@@ -90,13 +84,7 @@
 			</div>
 			<div class="block">
 				<span>Ukuran Terjemahan</span>
-				<input
-					type="range"
-					min="10"
-					max="40"
-					class="w-full"
-					on:change={changeUkuranTerjemahan}
-				/>
+				<input type="range" min="10" max="40" class="w-full" on:change={changeUkuranTerjemahan} />
 				<span class="text-xs text-graySecond">{$Setting$.ukuranTerjemahan} px</span>
 			</div>
 		</div>

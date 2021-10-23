@@ -4,9 +4,9 @@ import { browser } from '$app/env';
 interface ISetting {
 	last_read_surah?: string;
 	last_read_aya?: string;
-	theme?: string,
-	ukuranAyat?: number
-	ukuranTerjemahan?: number
+	theme?: string;
+	ukuranAyat?: number;
+	ukuranTerjemahan?: number;
 }
 
 const defaultSetting: ISetting = {
