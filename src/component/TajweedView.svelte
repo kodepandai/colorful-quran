@@ -7,8 +7,6 @@
 	const dispatch = createEventDispatcher();
 
 	export let surah: IAya[];
-	let w;
-	let h;
 	interface IToolTip {
 		tajweed: ITajweed;
 		position: {
@@ -88,20 +86,17 @@
 		<div
 			class="font-arab py-2 mb-3 border-b text-xl overscroll-auto dark:text-white"
 			id={aya.aya_number.toString()}
-			bind:clientWidth={w}
-			bind:clientHeight={h}
 		>
+		<span style="font-size: {$Setting$.ukuranAyat}px; line-height: {$Setting$.ukuranAyat+50}px "> 
 			{#each aya.tajweed as tajweed}
-				<i
-					class={'leading-[4rem]]' + (tajweed.class ? 'cursor-pointer ' + tajweed.class : '')}
+			<i class={(tajweed.class ? 'cursor-pointer ' + tajweed.class : '')}
 					title={tajweed.class}
 					on:click={(e) => showToolTip(e, tajweed)}
-				>
-					{aya.aya_text.slice(tajweed.start, tajweed.end)}
-				</i>
+				>{aya.aya_text.slice(tajweed.start, tajweed.end)}</i>
 			{/each}
+		</span>
 			<AyaNumber number={aya.aya_number} />
-			<p class="font-sans text-sm mt-2 pt-2 dark:text-white" style="direction: ltr;">
+			<p class="font-sans mt-2 pt-2 dark:text-white" style="direction: ltr; font-size: {$Setting$.ukuranTerjemahan}px;">
 				{aya.aya_number}. {aya.translation_aya_text}
 			</p>
 		</div>

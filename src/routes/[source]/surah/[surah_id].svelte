@@ -36,11 +36,8 @@
 	export let surahDetail: ISurah;
 
 	const saveLastReading = ({ detail: { sura_id, aya_number } }: { detail: IAya }) => {
-		Setting$.set({
-			last_read_aya: aya_number.toString(),
-			last_read_surah: sura_id.toString(),
-			theme: $Setting$.theme
-		});
+		$Setting$.last_read_aya = aya_number.toString()
+		$Setting$.last_read_surah = sura_id.toString()
 		alert('Data berhasil disimpan');
 	};
 

@@ -5,17 +5,11 @@
 	import Modal from './Modal.svelte';
 	import { Setting$ } from '$store/Setting';
 	let showModal = false;
-	let ukuranAyat = 12;
-	let ukuranTerjemahan = 16;
 
 	const themeMode = () => {
 		let gettheme = window.document.getElementsByTagName('html')[0].classList.toggle('dark');
 		let theme = gettheme ? 'dark' : 'light';
-		Setting$.set({
-			last_read_aya: $Setting$.last_read_aya,
-			last_read_surah: $Setting$.last_read_surah,
-			theme: theme
-		});
+		$Setting$.theme = theme
 	};
 
 	const copyUrl = () => {
@@ -24,22 +18,11 @@
 		alert('Url berhasil disalin');
 	};
 
-	const changeUkuranAyat = () => {
-		Setting$.set({
-			last_read_aya: $Setting$.last_read_aya,
-			last_read_surah: $Setting$.last_read_surah,
-			theme: $Setting$.theme,
-			ukuranAyat: ukuranAyat
-		});
+	const changeUkuranAyat = (e) => {
+		$Setting$.ukuranAyat = e.target.value
 	};
-	const changeUkuranTerjemahan = () => {
-		Setting$.set({
-			last_read_aya: $Setting$.last_read_aya,
-			last_read_surah: $Setting$.last_read_surah,
-			theme: $Setting$.theme,
-			ukuranAyat: $Setting$.ukuranAyat,
-			ukuranTerjemahan: ukuranTerjemahan
-		});
+	const changeUkuranTerjemahan = (e) => {
+		$Setting$.ukuranTerjemahan = e.target.value
 	};
 </script>
 
@@ -93,13 +76,12 @@
 				<span>Ukuran Ayat</span>
 				<input
 					type="range"
-					min="1"
-					max="100"
-					bind:value={ukuranAyat}
+					min="10"
+					max="40"
 					class="w-full"
-					on:change={() => changeUkuranAyat()}
+					on:change={changeUkuranAyat}
 				/>
-				<span class="text-xs text-graySecond">{ukuranAyat} px</span>
+				<span class="text-xs text-graySecond">{$Setting$.ukuranAyat} px</span>
 			</div>
 		</div>
 		<div class="border-b py-2 flex mb-3 cursor-pointer">
@@ -110,13 +92,12 @@
 				<span>Ukuran Terjemahan</span>
 				<input
 					type="range"
-					min="1"
-					max="100"
-					bind:value={ukuranTerjemahan}
+					min="10"
+					max="40"
 					class="w-full"
-					on:change={() => changeUkuranTerjemahan()}
+					on:change={changeUkuranTerjemahan}
 				/>
-				<span class="text-xs text-graySecond">{ukuranTerjemahan} px</span>
+				<span class="text-xs text-graySecond">{$Setting$.ukuranTerjemahan} px</span>
 			</div>
 		</div>
 	</Modal>
