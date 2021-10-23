@@ -74,7 +74,14 @@
 			</div>
 			<div class="block">
 				<span>Ukuran Ayat</span>
-				<input type="range" min="10" max="40" class="w-full" on:change={changeUkuranAyat} />
+				<input
+					type="range"
+					min="10"
+					max="40"
+					class="w-full"
+					on:change={changeUkuranAyat}
+					value={$Setting$.ukuranAyat}
+				/>
 				<span class="text-xs text-graySecond">{$Setting$.ukuranAyat} px</span>
 			</div>
 		</div>
@@ -84,7 +91,14 @@
 			</div>
 			<div class="block">
 				<span>Ukuran Terjemahan</span>
-				<input type="range" min="10" max="40" class="w-full" on:change={changeUkuranTerjemahan} />
+				<input
+					type="range"
+					min="10"
+					max="40"
+					class="w-full"
+					on:change={changeUkuranTerjemahan}
+					value={$Setting$.ukuranTerjemahan}
+				/>
 				<span class="text-xs text-graySecond">{$Setting$.ukuranTerjemahan} px</span>
 			</div>
 		</div>

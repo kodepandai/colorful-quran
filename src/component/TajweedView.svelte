@@ -87,7 +87,8 @@
 			id={aya.aya_number.toString()}
 		>
 			<span
-				style="font-size: {$Setting$.ukuranAyat}px; line-height: {$Setting$.ukuranAyat + 50}px "
+				style="font-size: {$Setting$.ukuranAyat}px; line-height: {Number($Setting$.ukuranAyat) +
+					50}px "
 			>
 				{#each aya.tajweed as tajweed}
 					<i
@@ -100,7 +101,7 @@
 			</span>
 			<AyaNumber number={aya.aya_number} />
 			<p
-				class="font-sans mt-2 pt-2 dark:text-white"
+				class="font-sans mt-2 pt-2 dark:text-white leading-normal"
 				style="direction: ltr; font-size: {$Setting$.ukuranTerjemahan}px;"
 			>
 				{aya.aya_number}. {aya.translation_aya_text}
