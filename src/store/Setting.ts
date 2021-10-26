@@ -7,6 +7,7 @@ interface ISetting {
 	theme?: string;
 	ukuranAyat?: number;
 	ukuranTerjemahan?: number;
+	translate?: string;
 }
 
 const defaultSetting: ISetting = {
@@ -14,7 +15,8 @@ const defaultSetting: ISetting = {
 	last_read_surah: '',
 	theme: '',
 	ukuranAyat: 16,
-	ukuranTerjemahan: 12
+	ukuranTerjemahan: 12,
+	translate: ''
 };
 export const Setting$ =
 	typeof window !== 'undefined'

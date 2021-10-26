@@ -24,6 +24,10 @@
 	const changeUkuranTerjemahan = (e) => {
 		$Setting$.ukuranTerjemahan = e.target.value;
 	};
+
+	const hideTranslate = () => {
+		$Setting$.translate = $Setting$.translate == 'hide' ? 'show' : 'hide';
+	};
 </script>
 
 <div class="flex justify-between h-14 sticky top-0 bg-primary">
@@ -55,6 +59,12 @@
 				<Icon icon="ant-design:copy-outlined" width="20" height="20" />
 			</div>
 			<span>Salin tautan surah ini</span>
+		</div>
+		<div class="border-b py-2 flex mb-3 cursor-pointer" on:click={() => hideTranslate()}>
+			<div class="w-12 flex justify-center">
+				<Icon icon="bi:translate" width="20" height="20" />
+			</div>
+			<span>{$Setting$.translate == 'show' ? 'Hilangkan' : 'Tampilkan'} terjemahan</span>
 		</div>
 		<!-- <div class="border-b py-2 flex mb-3 cursor-pointer">
 			<div class="w-12 flex justify-center">
