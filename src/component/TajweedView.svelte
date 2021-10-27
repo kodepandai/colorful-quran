@@ -121,7 +121,9 @@
 			</span>
 			<AyaNumber number={aya.aya_number} />
 			<p
-				class="font-sans mt-2 pt-2 dark:text-white leading-normal"
+				class="font-sans mt-2 pt-2 dark:text-white  {$Setting$.showTranslate
+					? 'h-auto leading-normal'
+					: 'h-0 overflow-hidden leading-none'}"
 				style="direction: ltr; font-size: {$Setting$.ukuranTerjemahan}px;"
 			>
 				{aya.aya_number}. {aya.translation_aya_text}
