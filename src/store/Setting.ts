@@ -7,7 +7,7 @@ interface ISetting {
 	theme?: string;
 	ukuranAyat?: number;
 	ukuranTerjemahan?: number;
-	translate?: string;
+	showTranslate?: boolean;
 }
 
 const defaultSetting: ISetting = {
@@ -16,7 +16,7 @@ const defaultSetting: ISetting = {
 	theme: '',
 	ukuranAyat: 16,
 	ukuranTerjemahan: 12,
-	translate: ''
+	showTranslate: true
 };
 export const Setting$ =
 	typeof window !== 'undefined'

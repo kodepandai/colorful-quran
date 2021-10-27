@@ -26,7 +26,7 @@
 	};
 
 	const hideTranslate = () => {
-		$Setting$.translate = $Setting$.translate == 'hide' ? 'show' : 'hide';
+		$Setting$.showTranslate = !$Setting$.showTranslate;
 	};
 </script>
 
@@ -64,7 +64,7 @@
 			<div class="w-12 flex justify-center">
 				<Icon icon="bi:translate" width="20" height="20" />
 			</div>
-			<span>{$Setting$.translate == 'show' ? 'Hilangkan' : 'Tampilkan'} terjemahan</span>
+			<span>{$Setting$.showTranslate ? 'Hilangkan' : 'Tampilkan'} terjemahan</span>
 		</div>
 		<!-- <div class="border-b py-2 flex mb-3 cursor-pointer">
 			<div class="w-12 flex justify-center">
