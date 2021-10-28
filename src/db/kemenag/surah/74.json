@@ -372,7 +372,7 @@
 		"tajweed": [
 			{
 				"class": "madd-jaiz",
-				"start": 16,
+				"start": 17,
 				"end": 20
 			},
 			{
@@ -393,7 +393,7 @@
 		"tajweed": [
 			{
 				"class": "madd-jaiz",
-				"start": 8,
+				"start": 9,
 				"end": 12
 			}
 		]
@@ -419,7 +419,7 @@
 		"tajweed": [
 			{
 				"class": "madd-jaiz",
-				"start": 3,
+				"start": 4,
 				"end": 7
 			},
 			{
@@ -482,7 +482,7 @@
 		"tajweed": [
 			{
 				"class": "madd-jaiz",
-				"start": 13,
+				"start": 14,
 				"end": 17
 			},
 			{
@@ -527,7 +527,7 @@
 			},
 			{
 				"class": "madd-jaiz",
-				"start": 352,
+				"start": 353,
 				"end": 356
 			},
 			{
@@ -547,7 +547,7 @@
 			},
 			{
 				"class": "madd-wajib",
-				"start": 424,
+				"start": 425,
 				"end": 427
 			},
 			{
@@ -557,7 +557,7 @@
 			},
 			{
 				"class": "madd-wajib",
-				"start": 450,
+				"start": 451,
 				"end": 453
 			}
 		]
@@ -604,7 +604,7 @@
 			},
 			{
 				"class": "madd-jaiz",
-				"start": 15,
+				"start": 16,
 				"end": 19
 			}
 		]
@@ -662,7 +662,7 @@
 			},
 			{
 				"class": "madd-wajib",
-				"start": 8,
+				"start": 9,
 				"end": 11
 			},
 			{
@@ -714,7 +714,7 @@
 		"tajweed": [
 			{
 				"class": "madd-jaiz",
-				"start": 4,
+				"start": 5,
 				"end": 8
 			},
 			{
@@ -740,7 +740,7 @@
 			},
 			{
 				"class": "madd-wajib",
-				"start": 20,
+				"start": 21,
 				"end": 23
 			},
 			{
@@ -834,7 +834,7 @@
 			},
 			{
 				"class": "madd-wajib",
-				"start": 27,
+				"start": 28,
 				"end": 31
 			},
 			{
@@ -876,7 +876,7 @@
 		"tajweed": [
 			{
 				"class": "madd-jaiz",
-				"start": 4,
+				"start": 2,
 				"end": 8
 			},
 			{
@@ -1017,7 +1017,7 @@
 		"tajweed": [
 			{
 				"class": "madd-jaiz",
-				"start": 4,
+				"start": 5,
 				"end": 8
 			},
 			{
@@ -1043,7 +1043,7 @@
 			},
 			{
 				"class": "madd-wajib",
-				"start": 8,
+				"start": 9,
 				"end": 11
 			}
 		]
@@ -1059,7 +1059,7 @@
 		"tajweed": [
 			{
 				"class": "madd-jaiz",
-				"start": 23,
+				"start": 24,
 				"end": 27
 			},
 			{
@@ -1069,7 +1069,7 @@
 			},
 			{
 				"class": "madd-wajib",
-				"start": 36,
+				"start": 37,
 				"end": 39
 			},
 			{

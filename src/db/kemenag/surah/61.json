@@ -170,7 +170,7 @@
 			},
 			{
 				"class": "madd-wajib",
-				"start": 51,
+				"start": 52,
 				"end": 54
 			},
 			{
@@ -230,7 +230,7 @@
 			},
 			{
 				"class": "madd-wajib",
-				"start": 227,
+				"start": 228,
 				"end": 230
 			},
 			{
@@ -266,7 +266,7 @@
 			},
 			{
 				"class": "madd-jaiz",
-				"start": 69,
+				"start": 68,
 				"end": 73
 			},
 			{
@@ -543,7 +543,7 @@
 			},
 			{
 				"class": "madd-wajib",
-				"start": 209,
+				"start": 210,
 				"end": 213
 			},
 			{
@@ -568,12 +568,12 @@
 			},
 			{
 				"class": "madd-wajib",
-				"start": 240,
+				"start": 241,
 				"end": 243
 			},
 			{
 				"class": "madd-wajib",
-				"start": 263,
+				"start": 264,
 				"end": 267
 			},
 			{
