@@ -13,12 +13,12 @@ describe('MaddJaiz finder kemenag version', () => {
 		expect(result.length).toEqual(2);
 		expect(result[0]).toEqual({
 			class: 'madd-jaiz',
-			start: 29,
+			start: 30,
 			end: 33
 		});
 		expect(result[1]).toEqual({
 			class: 'madd-jaiz',
-			start: 54,
+			start: 55,
 			end: 58
 		});
 	});
