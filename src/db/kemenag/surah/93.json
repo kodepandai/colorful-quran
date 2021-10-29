@@ -123,7 +123,7 @@
 		"tajweed": [
 			{
 				"class": "madd-wajib",
-				"start": 12,
+				"start": 13,
 				"end": 16
 			},
 			{
@@ -175,7 +175,7 @@
 			},
 			{
 				"class": "madd-wajib",
-				"start": 13,
+				"start": 14,
 				"end": 17
 			}
 		]

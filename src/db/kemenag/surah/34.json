@@ -31,7 +31,7 @@
 			},
 			{
 				"class": "madd-wajib",
-				"start": 83,
+				"start": 84,
 				"end": 86
 			},
 			{
@@ -62,7 +62,7 @@
 			},
 			{
 				"class": "madd-jaiz",
-				"start": 192,
+				"start": 193,
 				"end": 196
 			},
 			{
@@ -72,7 +72,7 @@
 			},
 			{
 				"class": "madd-jaiz",
-				"start": 220,
+				"start": 221,
 				"end": 224
 			},
 			{
@@ -288,7 +288,7 @@
 			},
 			{
 				"class": "madd-wajib",
-				"start": 76,
+				"start": 77,
 				"end": 79
 			},
 			{
@@ -313,7 +313,7 @@
 			},
 			{
 				"class": "madd-wajib",
-				"start": 179,
+				"start": 180,
 				"end": 182
 			},
 			{
@@ -477,7 +477,7 @@
 		"tajweed": [
 			{
 				"class": "madd-wajib",
-				"start": 25,
+				"start": 26,
 				"end": 28
 			},
 			{
@@ -977,7 +977,7 @@
 			},
 			{
 				"class": "madd-jaiz",
-				"start": 69,
+				"start": 67,
 				"end": 73
 			},
 			{
@@ -1018,7 +1018,7 @@
 			},
 			{
 				"class": "madd-jaiz",
-				"start": 77,
+				"start": 78,
 				"end": 81
 			},
 			{
@@ -1049,7 +1049,7 @@
 			},
 			{
 				"class": "madd-jaiz",
-				"start": 28,
+				"start": 29,
 				"end": 32
 			},
 			{
@@ -1111,7 +1111,7 @@
 			},
 			{
 				"class": "madd-wajib",
-				"start": 50,
+				"start": 51,
 				"end": 53
 			},
 			{
@@ -1132,7 +1132,7 @@
 		"tajweed": [
 			{
 				"class": "madd-jaiz",
-				"start": 3,
+				"start": 4,
 				"end": 7
 			},
 			{
@@ -1260,7 +1260,7 @@
 			},
 			{
 				"class": "madd-jaiz",
-				"start": 108,
+				"start": 107,
 				"end": 112
 			},
 			{
@@ -1270,7 +1270,7 @@
 			},
 			{
 				"class": "madd-jaiz",
-				"start": 277,
+				"start": 278,
 				"end": 281
 			},
 			{
@@ -1311,7 +1311,7 @@
 			},
 			{
 				"class": "madd-wajib",
-				"start": 109,
+				"start": 110,
 				"end": 112
 			},
 			{
@@ -1352,7 +1352,7 @@
 			},
 			{
 				"class": "madd-jaiz",
-				"start": 113,
+				"start": 114,
 				"end": 117
 			},
 			{
@@ -1423,7 +1423,7 @@
 		"tajweed": [
 			{
 				"class": "madd-jaiz",
-				"start": 3,
+				"start": 4,
 				"end": 7
 			},
 			{
@@ -1443,7 +1443,7 @@
 			},
 			{
 				"class": "madd-jaiz",
-				"start": 89,
+				"start": 90,
 				"end": 93
 			},
 			{
@@ -1515,7 +1515,7 @@
 			},
 			{
 				"class": "madd-wajib",
-				"start": 49,
+				"start": 50,
 				"end": 52
 			},
 			{
@@ -1551,12 +1551,12 @@
 		"tajweed": [
 			{
 				"class": "madd-jaiz",
-				"start": 3,
+				"start": 4,
 				"end": 7
 			},
 			{
 				"class": "madd-jaiz",
-				"start": 24,
+				"start": 25,
 				"end": 28
 			},
 			{
@@ -1566,7 +1566,7 @@
 			},
 			{
 				"class": "madd-jaiz",
-				"start": 82,
+				"start": 81,
 				"end": 86
 			},
 			{
@@ -1586,7 +1586,7 @@
 			},
 			{
 				"class": "madd-wajib",
-				"start": 148,
+				"start": 149,
 				"end": 151
 			},
 			{
@@ -1648,7 +1648,7 @@
 			},
 			{
 				"class": "madd-wajib",
-				"start": 49,
+				"start": 50,
 				"end": 52
 			},
 			{
@@ -1658,7 +1658,7 @@
 			},
 			{
 				"class": "madd-jaiz",
-				"start": 91,
+				"start": 92,
 				"end": 95
 			},
 			{
@@ -1724,7 +1724,7 @@
 			},
 			{
 				"class": "madd-wajib",
-				"start": 72,
+				"start": 73,
 				"end": 75
 			},
 			{
@@ -1842,7 +1842,7 @@
 			},
 			{
 				"class": "madd-jaiz",
-				"start": 63,
+				"start": 64,
 				"end": 67
 			},
 			{
@@ -1862,12 +1862,12 @@
 			},
 			{
 				"class": "madd-jaiz",
-				"start": 163,
+				"start": 164,
 				"end": 167
 			},
 			{
 				"class": "madd-jaiz",
-				"start": 171,
+				"start": 172,
 				"end": 175
 			},
 			{
@@ -1892,12 +1892,12 @@
 			},
 			{
 				"class": "madd-wajib",
-				"start": 241,
+				"start": 242,
 				"end": 244
 			},
 			{
 				"class": "madd-jaiz",
-				"start": 260,
+				"start": 261,
 				"end": 264
 			},
 			{
@@ -1923,7 +1923,7 @@
 		"tajweed": [
 			{
 				"class": "madd-jaiz",
-				"start": 3,
+				"start": 4,
 				"end": 7
 			},
 			{
@@ -1948,12 +1948,12 @@
 			},
 			{
 				"class": "madd-jaiz",
-				"start": 53,
+				"start": 54,
 				"end": 57
 			},
 			{
 				"class": "madd-jaiz",
-				"start": 66,
+				"start": 67,
 				"end": 70
 			},
 			{
@@ -1994,7 +1994,7 @@
 			},
 			{
 				"class": "madd-jaiz",
-				"start": 65,
+				"start": 66,
 				"end": 69
 			},
 			{
@@ -2020,7 +2020,7 @@
 			},
 			{
 				"class": "madd-jaiz",
-				"start": 13,
+				"start": 14,
 				"end": 17
 			},
 			{
@@ -2143,7 +2143,7 @@
 		"tajweed": [
 			{
 				"class": "madd-wajib",
-				"start": 6,
+				"start": 7,
 				"end": 9
 			},
 			{
@@ -2179,7 +2179,7 @@
 			},
 			{
 				"class": "madd-jaiz",
-				"start": 27,
+				"start": 28,
 				"end": 31
 			},
 			{
@@ -2215,7 +2215,7 @@
 		"tajweed": [
 			{
 				"class": "madd-jaiz",
-				"start": 10,
+				"start": 9,
 				"end": 14
 			},
 			{

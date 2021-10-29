@@ -10,7 +10,7 @@
 		"tajweed": [
 			{
 				"class": "madd-jaiz",
-				"start": 1,
+				"start": 2,
 				"end": 5
 			},
 			{
@@ -241,7 +241,7 @@
 		"tajweed": [
 			{
 				"class": "madd-jaiz",
-				"start": 3,
+				"start": 4,
 				"end": 7
 			},
 			{

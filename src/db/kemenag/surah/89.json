@@ -267,7 +267,7 @@
 			},
 			{
 				"class": "madd-jaiz",
-				"start": 6,
+				"start": 7,
 				"end": 10
 			},
 			{
@@ -377,7 +377,7 @@
 		"tajweed": [
 			{
 				"class": "madd-jaiz",
-				"start": 4,
+				"start": 5,
 				"end": 8
 			},
 			{
@@ -403,7 +403,7 @@
 		"tajweed": [
 			{
 				"class": "madd-wajib",
-				"start": 4,
+				"start": 5,
 				"end": 7
 			},
 			{
