@@ -1,12 +1,14 @@
 <script lang="ts">
-	import type { IAya, ITajweed } from '$contract/surah';
+	import type { IAya, ISurah, ITajweed } from '$contract/surah';
 	import { Setting$ } from '$store/Setting';
 	import Icon from '@iconify/svelte';
 	import { createEventDispatcher } from 'svelte';
 	import AyaNumber from './AyaNumber.svelte';
+	import Share from './button/share.svelte';
 	const dispatch = createEventDispatcher();
 
 	export let surah: IAya[];
+	export let surahDetail: ISurah;
 	interface IToolTip {
 		tajweed: ITajweed;
 		showDesc: boolean;
@@ -92,44 +94,51 @@
 </script>
 
 {#each surah as aya}
-	{#if aya.sura_id != 1 || aya.aya_number != 1}
-		<div class="flex">
+	<div class="group border-b py-2">
+		{#if aya.sura_id != 1 || aya.aya_number != 1}
+			<div
+				class="font-arab   text-xl overscroll-auto dark:text-white "
+				id={aya.aya_number.toString()}
+			>
+				<span
+					style="font-size: {$Setting$.ukuranAyat}px; line-height: {Number($Setting$.ukuranAyat) +
+						50}px "
+				>
+					{#each aya.tajweed as tajweed}
+						<i
+							class={tajweed.class ? 'cursor-pointer ' + tajweed.class : ''}
+							title={tajweed.class}
+							on:click={(e) => showToolTip(e, tajweed)}
+							>{aya.aya_text.slice(tajweed.start, tajweed.end)}</i
+						>
+					{/each}
+				</span>
+				<AyaNumber number={aya.aya_number} />
+				<p
+					class="font-sans mt-2 pt-2 dark:text-white  {$Setting$.showTranslate
+						? 'h-auto leading-normal'
+						: 'h-0 overflow-hidden leading-none'}"
+					style="direction: ltr; font-size: {$Setting$.ukuranTerjemahan}px;"
+				>
+					{aya.aya_number}. {aya.translation_aya_text}
+				</p>
+			</div>
+		{/if}
+		<div class="hidden group-hover:flex mt-2 justify-between">
+			<Share
+				text={decodeURIComponent(
+					`${aya.aya_text} %0A${aya.translation_aya_text} (${surahDetail.surat_name}:${aya.aya_number})`
+				)}
+			/>
 			<button on:click={() => saveLastReading(aya)}>
 				{#if $Setting$.last_read_surah == aya.sura_id.toString() && $Setting$.last_read_aya == aya.aya_number.toString()}
-					<Icon icon="emojione-monotone:open-book" color="#5C7AEA" width="20" height="20" />
+					<Icon icon="emojione-monotone:open-book" color="#5C7AEA" width="30" height="30" />
 				{:else}
-					<Icon icon="emojione-monotone:open-book" color="#B2B1B9" width="20" height="20" />
+					<Icon icon="emojione-monotone:open-book" color="#B2B1B9" width="30" height="30" />
 				{/if}
 			</button>
 		</div>
-		<div
-			class="font-arab py-2 mb-3 border-b text-xl overscroll-auto dark:text-white"
-			id={aya.aya_number.toString()}
-		>
-			<span
-				style="font-size: {$Setting$.ukuranAyat}px; line-height: {Number($Setting$.ukuranAyat) +
-					50}px "
-			>
-				{#each aya.tajweed as tajweed}
-					<i
-						class={tajweed.class ? 'cursor-pointer ' + tajweed.class : ''}
-						title={tajweed.class}
-						on:click={(e) => showToolTip(e, tajweed)}
-						>{aya.aya_text.slice(tajweed.start, tajweed.end)}</i
-					>
-				{/each}
-			</span>
-			<AyaNumber number={aya.aya_number} />
-			<p
-				class="font-sans mt-2 pt-2 dark:text-white  {$Setting$.showTranslate
-					? 'h-auto leading-normal'
-					: 'h-0 overflow-hidden leading-none'}"
-				style="direction: ltr; font-size: {$Setting$.ukuranTerjemahan}px;"
-			>
-				{aya.aya_number}. {aya.translation_aya_text}
-			</p>
-		</div>
-	{/if}
+	</div>
 {/each}
 
 {#if tooltip?.tajweed?.class}
