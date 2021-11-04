@@ -9,7 +9,7 @@
 
 	let url_whatsapp, url_telegram, url_facebook, url_twitter;
 	$: {
-		url_whatsapp = encodeURI(`whatsapp://send?text=${text}`);
+		url_whatsapp = encodeURI(`https://api.whatsapp.com/send/?text=${text}`);
 		url_telegram = encodeURI(`https://t.me/share/url?url=${link}&text=${text}`);
 		url_facebook = encodeURI(`https://web.facebook.com/sharer/sharer.php?u=${link}`);
 		url_twitter = encodeURI(
@@ -18,21 +18,18 @@
 	}
 </script>
 
-<div class="flex space-y-2 w-full bg-red-500">
+<div class="flex space-x-3 items-center">
+	<span class="dark:text-white text-sm">Share:</span>
 	<a href={url_whatsapp}>
-		<Icon icon="logos:whatsapp" width="30" height="30" />
-		<span class="text-sm">Whatsapp</span>
+		<Icon icon="logos:whatsapp" width="25" height="25" />
 	</a>
 	<a href={url_telegram}>
-		<Icon icon="bx:bxl-telegram" color="#40b3e0" width="30" height="30" />
-		<span class="text-sm text-red-500">Telegram</span>
+		<Icon icon="bx:bxl-telegram" color="#40b3e0" width="25" height="25" />
 	</a>
 	<a href={url_facebook}>
-		<Icon icon="bi:facebook" color="#1877f2" width="30" height="30" />
-		<span class="text-sm text-red-500">Facebook</span>
+		<Icon icon="bi:facebook" color="#1877f2" width="25" height="25" />
 	</a>
 	<a href={url_twitter}>
-		<Icon icon="logos:twitter" color="#40b3e0" width="30" height="30" />
-		<span class="text-sm text-red-500">Twitter</span>
+		<Icon icon="logos:twitter" color="#40b3e0" width="25" height="25" />
 	</a>
 </div>

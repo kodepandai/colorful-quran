@@ -80,4 +80,4 @@
 		<span class="text-xs">{surahDetail.id == 1 ? '1. ' : ''}{basmalah01}</span>
 	</div>
 {/if}
-<TajweedView {surah} on:saveLastReading={saveLastReading} />
+<TajweedView {surah} {surahDetail} on:saveLastReading={saveLastReading} />
