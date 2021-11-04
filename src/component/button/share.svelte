@@ -9,7 +9,7 @@
 
 	let url_whatsapp, url_telegram, url_facebook, url_twitter;
 	$: {
-		url_whatsapp = encodeURI(`whatsapp://send?text=${text}`);
+		url_whatsapp = encodeURI(`https://api.whatsapp.com/send/?text=${text}`);
 		url_telegram = encodeURI(`https://t.me/share/url?url=${link}&text=${text}`);
 		url_facebook = encodeURI(`https://web.facebook.com/sharer/sharer.php?u=${link}`);
 		url_twitter = encodeURI(
