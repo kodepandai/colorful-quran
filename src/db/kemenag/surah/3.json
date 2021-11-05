@@ -623,6 +623,11 @@
 		"translation_aya_text": "Katakanlah, “Maukah aku kabarkan kepadamu apa yang lebih baik dari yang demikian itu?” Bagi orang-orang yang bertakwa (tersedia) di sisi Tuhan mereka surga-surga yang mengalir di bawahnya sungai-sungai, mereka kekal di dalamnya, dan pasangan-pasangan yang suci, serta rida Allah. Dan Allah Maha Melihat hamba-hamba-Nya.",
 		"tajweed": [
 			{
+				"class": "ikhfa-syafawi",
+				"start": 20,
+				"end": 25
+			},
+			{
 				"class": "idgham-bighunnah",
 				"start": 29,
 				"end": 34
@@ -942,6 +947,11 @@
 				"class": "ghunnah",
 				"start": 149,
 				"end": 152
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 168,
+				"end": 173
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -2237,6 +2247,11 @@
 				"end": 55
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 65,
+				"end": 70
+			},
+			{
 				"class": "idgham-bighunnah",
 				"start": 74,
 				"end": 79
@@ -2285,6 +2300,11 @@
 				"class": "qalqalah",
 				"start": 244,
 				"end": 245
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 302,
+				"end": 307
 			},
 			{
 				"class": "ghunnah",
@@ -2336,6 +2356,16 @@
 				"class": "idgham-bilaghunnah",
 				"start": 12,
 				"end": 14
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 69,
+				"end": 74
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 118,
+				"end": 123
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -3014,9 +3044,19 @@
 				"end": 30
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 48,
+				"end": 53
+			},
+			{
 				"class": "ikhfa",
 				"start": 60,
 				"end": 65
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 103,
+				"end": 108
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -3556,6 +3596,11 @@
 				"end": 30
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 51,
+				"end": 56
+			},
+			{
 				"class": "ikhfa",
 				"start": 150,
 				"end": 154
@@ -3666,6 +3711,11 @@
 				"class": "ghunnah",
 				"start": 56,
 				"end": 59
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 92,
+				"end": 97
 			},
 			{
 				"class": "ikhfa",
@@ -4668,6 +4718,11 @@
 				"end": 62
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 108,
+				"end": 113
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 138,
 				"end": 140
@@ -4692,6 +4747,11 @@
 				"class": "idgham-bighunnah",
 				"start": 95,
 				"end": 100
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 107,
+				"end": 112
 			},
 			{
 				"class": "qalqalah",
@@ -4784,6 +4844,11 @@
 				"class": "ikhfa",
 				"start": 126,
 				"end": 131
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 171,
+				"end": 176
 			},
 			{
 				"class": "madd-jaiz",
@@ -4952,6 +5017,11 @@
 				"class": "ghunnah",
 				"start": 55,
 				"end": 58
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 108,
+				"end": 113
 			},
 			{
 				"class": "ikhfa",
@@ -5747,6 +5817,11 @@
 				"end": 59
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 77,
+				"end": 82
+			},
+			{
 				"class": "idgham-bighunnah",
 				"start": 96,
 				"end": 101
@@ -5798,6 +5873,11 @@
 				"end": 83
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 96,
+				"end": 101
+			},
+			{
 				"class": "idgham-bighunnah",
 				"start": 115,
 				"end": 120
@@ -5832,6 +5912,11 @@
 				"class": "ghunnah",
 				"start": 58,
 				"end": 61
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 72,
+				"end": 77
 			},
 			{
 				"class": "ghunnah",
@@ -6893,6 +6978,11 @@
 				"class": "madd-jaiz",
 				"start": 34,
 				"end": 38
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 56,
+				"end": 61
 			},
 			{
 				"class": "madd-jaiz",
@@ -8363,6 +8453,16 @@
 				"end": 95
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 99,
+				"end": 101
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 103,
+				"end": 105
+			},
+			{
 				"class": "idgham-bilaghunnah",
 				"start": 116,
 				"end": 122
@@ -8819,6 +8919,11 @@
 				"class": "ghunnah",
 				"start": 125,
 				"end": 128
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 130,
+				"end": 135
 			},
 			{
 				"class": "idgham-bighunnah",

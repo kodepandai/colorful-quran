@@ -256,6 +256,11 @@
 				"end": 38
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 82,
+				"end": 87
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 95,
 				"end": 97
@@ -1566,6 +1571,11 @@
 				"end": 22
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 27,
+				"end": 32
+			},
+			{
 				"class": "madd-wajib",
 				"start": 38,
 				"end": 41
@@ -1589,6 +1599,11 @@
 				"class": "iqlab",
 				"start": 64,
 				"end": 66
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 71,
+				"end": 76
 			},
 			{
 				"class": "madd-wajib",
@@ -2227,6 +2242,11 @@
 				"end": 131
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 153,
+				"end": 158
+			},
+			{
 				"class": "madd-wajib",
 				"start": 160,
 				"end": 162
@@ -2425,6 +2445,11 @@
 				"class": "ikhfa",
 				"start": 64,
 				"end": 68
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 72,
+				"end": 77
 			},
 			{
 				"class": "qalqalah",
@@ -2929,6 +2954,11 @@
 				"class": "madd-jaiz",
 				"start": 75,
 				"end": 78
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 88,
+				"end": 93
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -3514,6 +3544,16 @@
 				"end": 102
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 121,
+				"end": 126
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 171,
+				"end": 176
+			},
+			{
 				"class": "ikhfa",
 				"start": 181,
 				"end": 185
@@ -3986,6 +4026,11 @@
 				"class": "ikhfa",
 				"start": 91,
 				"end": 96
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 128,
+				"end": 133
 			},
 			{
 				"class": "qalqalah",
@@ -4526,6 +4571,11 @@
 				"end": 78
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 88,
+				"end": 93
+			},
+			{
 				"class": "idgham-bighunnah",
 				"start": 98,
 				"end": 103
@@ -4534,6 +4584,11 @@
 				"class": "qalqalah",
 				"start": 185,
 				"end": 186
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 230,
+				"end": 235
 			},
 			{
 				"class": "madd-jaiz",
@@ -4918,6 +4973,16 @@
 				"end": 52
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 57,
+				"end": 59
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 61,
+				"end": 63
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 92,
 				"end": 94
@@ -5023,6 +5088,11 @@
 				"class": "ikhfa",
 				"start": 298,
 				"end": 303
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 407,
+				"end": 412
 			},
 			{
 				"class": "ikhfa",
@@ -5868,6 +5938,11 @@
 				"end": 152
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 156,
+				"end": 161
+			},
+			{
 				"class": "madd-wajib",
 				"start": 177,
 				"end": 179
@@ -6227,6 +6302,11 @@
 				"class": "qalqalah",
 				"start": 68,
 				"end": 69
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 115,
+				"end": 120
 			},
 			{
 				"class": "ikhfa",
@@ -6760,6 +6840,11 @@
 				"end": 39
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 39,
+				"end": 44
+			},
+			{
 				"class": "ikhfa",
 				"start": 70,
 				"end": 75
@@ -7218,6 +7303,11 @@
 				"end": 119
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 145,
+				"end": 150
+			},
+			{
 				"class": "ikhfa",
 				"start": 155,
 				"end": 160
@@ -7646,6 +7736,11 @@
 				"class": "ghunnah",
 				"start": 12,
 				"end": 15
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 17,
+				"end": 22
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -8225,6 +8320,11 @@
 				"end": 105
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 181,
+				"end": 186
+			},
+			{
 				"class": "ghunnah",
 				"start": 205,
 				"end": 208
@@ -8300,6 +8400,11 @@
 				"class": "ghunnah",
 				"start": 2,
 				"end": 5
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 19,
+				"end": 24
 			},
 			{
 				"class": "madd-wajib",
@@ -9319,6 +9424,16 @@
 				"class": "madd-jaiz",
 				"start": 14,
 				"end": 17
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 30,
+				"end": 35
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 41,
+				"end": 46
 			},
 			{
 				"class": "qalqalah",
@@ -11338,6 +11453,11 @@
 				"end": 69
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 79,
+				"end": 84
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 135,
 				"end": 137
@@ -11824,6 +11944,11 @@
 				"end": 331
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 367,
+				"end": 372
+			},
+			{
 				"class": "madd-jaiz",
 				"start": 404,
 				"end": 407
@@ -11888,6 +12013,11 @@
 				"class": "ghunnah",
 				"start": 105,
 				"end": 108
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 134,
+				"end": 139
 			},
 			{
 				"class": "ikhfa",
@@ -12006,6 +12136,11 @@
 				"end": 521
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 529,
+				"end": 534
+			},
+			{
 				"class": "madd-jaiz",
 				"start": 577,
 				"end": 580
@@ -12107,6 +12242,11 @@
 		"page_number": 38,
 		"translation_aya_text": "Dan tidak ada dosa bagimu meminang perempuan-perempuan itu dengan sindiran atau kamu sembunyikan (keinginanmu) dalam hati. Allah mengetahui bahwa kamu akan menyebut-nyebut kepada mereka. Tetapi janganlah kamu membuat perjanjian (untuk menikah) dengan mereka secara rahasia, kecuali sekedar mengucapkan kata-kata yang baik. Dan janganlah kamu menetapkan akad nikah, sebelum habis masa idahnya. Ketahuilah bahwa Allah mengetahui apa yang ada dalam hatimu, maka takutlah kepada-Nya. Dan ketahuilah bahwa Allah Maha Pengampun, Maha Penyantun.",
 		"tajweed": [
+			{
+				"class": "ikhfa-syafawi",
+				"start": 42,
+				"end": 47
+			},
 			{
 				"class": "qalqalah",
 				"start": 57,
@@ -13042,6 +13182,11 @@
 				"end": 63
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 72,
+				"end": 77
+			},
+			{
 				"class": "ikhfa",
 				"start": 81,
 				"end": 83
@@ -13224,6 +13369,11 @@
 		"translation_aya_text": "Maka mereka mengalahkannya dengan izin Allah, dan Dawud membunuh Jalut. Kemudian Allah memberinya (Dawud) kerajaan, dan hikmah, dan mengajarinya apa yang Dia kehendaki. Dan kalau Allah tidak melindungi sebagian manusia dengan sebagian yang lain, niscaya rusaklah bumi ini. Tetapi Allah mempunyai karunia (yang dilimpahkan-Nya) atas seluruh alam.",
 		"tajweed": [
 			{
+				"class": "ikhfa-syafawi",
+				"start": 12,
+				"end": 17
+			},
+			{
 				"class": "ghunnah",
 				"start": 115,
 				"end": 120
@@ -13237,6 +13387,11 @@
 				"class": "ghunnah",
 				"start": 160,
 				"end": 163
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 175,
+				"end": 180
 			},
 			{
 				"class": "idgham-bilaghunnah",
@@ -14152,6 +14307,11 @@
 				"end": 40
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 59,
+				"end": 64
+			},
+			{
 				"class": "ghunnah",
 				"start": 69,
 				"end": 72
@@ -14460,6 +14620,11 @@
 				"end": 166
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 181,
+				"end": 186
+			},
+			{
 				"class": "madd-jaiz",
 				"start": 202,
 				"end": 205
@@ -14499,6 +14664,11 @@
 				"class": "qalqalah",
 				"start": 29,
 				"end": 30
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 46,
+				"end": 51
 			},
 			{
 				"class": "madd-wajib",
@@ -14831,6 +15001,11 @@
 				"end": 138
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 171,
+				"end": 176
+			},
+			{
 				"class": "ghunnah",
 				"start": 209,
 				"end": 212
@@ -14880,6 +15055,11 @@
 				"class": "ikhfa",
 				"start": 14,
 				"end": 18
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 36,
+				"end": 41
 			},
 			{
 				"class": "ghunnah",
@@ -15230,6 +15410,11 @@
 				"end": 51
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 51,
+				"end": 56
+			},
+			{
 				"class": "madd-jaiz",
 				"start": 65,
 				"end": 70
@@ -15516,6 +15701,11 @@
 				"end": 84
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 105,
+				"end": 110
+			},
+			{
 				"class": "ikhfa",
 				"start": 112,
 				"end": 114
@@ -15585,6 +15775,11 @@
 				"class": "qalqalah",
 				"start": 114,
 				"end": 115
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 118,
+				"end": 123
 			},
 			{
 				"class": "idgham-bighunnah",

@@ -178,6 +178,11 @@
 				"end": 33
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 37,
+				"end": 42
+			},
+			{
 				"class": "madd-jaiz",
 				"start": 48,
 				"end": 51
@@ -255,6 +260,11 @@
 				"end": 14
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 23,
+				"end": 28
+			},
+			{
 				"class": "idgham-bighunnah",
 				"start": 32,
 				"end": 37
@@ -325,6 +335,11 @@
 				"class": "ikhfa",
 				"start": 67,
 				"end": 71
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 75,
+				"end": 80
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -2038,6 +2053,11 @@
 				"end": 72
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 75,
+				"end": 80
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 98,
 				"end": 100
@@ -2164,6 +2184,11 @@
 				"class": "idgham-bighunnah",
 				"start": 40,
 				"end": 42
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 56,
+				"end": 61
 			},
 			{
 				"class": "madd-jaiz",
@@ -2353,6 +2378,11 @@
 				"class": "qalqalah",
 				"start": 6,
 				"end": 7
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 17,
+				"end": 22
 			},
 			{
 				"class": "ikhfa",
@@ -3396,6 +3426,11 @@
 				"end": 112
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 118,
+				"end": 123
+			},
+			{
 				"class": "idgham-bighunnah",
 				"start": 128,
 				"end": 133
@@ -3599,6 +3634,11 @@
 				"end": 60
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 60,
+				"end": 65
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 74,
 				"end": 76
@@ -3711,6 +3751,11 @@
 				"class": "madd-jaiz",
 				"start": 29,
 				"end": 33
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 71,
+				"end": 76
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -3936,6 +3981,11 @@
 				"class": "madd-wajib",
 				"start": 112,
 				"end": 114
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 120,
+				"end": 125
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -4170,6 +4220,11 @@
 				"class": "qalqalah",
 				"start": 47,
 				"end": 48
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 67,
+				"end": 72
 			},
 			{
 				"class": "madd-jaiz",
@@ -4428,6 +4483,11 @@
 				"end": 125
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 140,
+				"end": 145
+			},
+			{
 				"class": "idgham-bighunnah",
 				"start": 149,
 				"end": 154
@@ -4459,6 +4519,11 @@
 				"end": 30
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 72,
+				"end": 77
+			},
+			{
 				"class": "idgham-bighunnah",
 				"start": 81,
 				"end": 86
@@ -4472,6 +4537,11 @@
 				"class": "ikhfa",
 				"start": 120,
 				"end": 125
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 146,
+				"end": 151
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -4498,6 +4568,11 @@
 				"class": "idgham-bighunnah",
 				"start": 30,
 				"end": 35
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 44,
+				"end": 49
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -4539,6 +4614,11 @@
 				"class": "idgham-bighunnah",
 				"start": 30,
 				"end": 35
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 44,
+				"end": 49
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -4613,6 +4693,11 @@
 				"end": 98
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 103,
+				"end": 108
+			},
+			{
 				"class": "qalqalah",
 				"start": 126,
 				"end": 127
@@ -4657,6 +4742,11 @@
 				"class": "madd-wajib",
 				"start": 66,
 				"end": 68
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 85,
+				"end": 90
 			},
 			{
 				"class": "ikhfa",
@@ -4826,6 +4916,11 @@
 				"class": "qalqalah",
 				"start": 69,
 				"end": 70
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 80,
+				"end": 85
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -5334,6 +5429,11 @@
 				"class": "ikhfa",
 				"start": 21,
 				"end": 25
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 25,
+				"end": 30
 			},
 			{
 				"class": "qalqalah",
@@ -5913,6 +6013,11 @@
 				"end": 45
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 54,
+				"end": 59
+			},
+			{
 				"class": "ikhfa",
 				"start": 82,
 				"end": 86
@@ -6187,6 +6292,11 @@
 				"class": "madd-wajib",
 				"start": 131,
 				"end": 133
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 154,
+				"end": 159
 			},
 			{
 				"class": "madd-wajib",
@@ -7059,6 +7169,11 @@
 				"end": 178
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 256,
+				"end": 261
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 279,
 				"end": 281
@@ -7093,6 +7208,11 @@
 				"class": "ikhfa",
 				"start": 130,
 				"end": 134
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 149,
+				"end": 154
 			},
 			{
 				"class": "ikhfa",
@@ -7431,6 +7551,11 @@
 				"end": 218
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 225,
+				"end": 230
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 251,
 				"end": 253
@@ -7636,6 +7761,11 @@
 				"end": 40
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 100,
+				"end": 105
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 152,
 				"end": 154
@@ -7782,6 +7912,11 @@
 				"class": "madd-jaiz",
 				"start": 106,
 				"end": 109
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 119,
+				"end": 124
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -9085,6 +9220,11 @@
 		"page_number": 176,
 		"translation_aya_text": "Dan apabila engkau (Muhammad) tidak membacakan suatu ayat kepada mereka, mereka berkata, “Mengapa tidak engkau buat sendiri ayat itu?” Katakanlah (Muhammad), “Sesungguhnya aku hanya mengikuti apa yang diwahyukan Tuhanku kepadaku. (Al-Qur'an) ini adalah bukti-bukti yang nyata dari Tuhanmu, petunjuk dan rahmat bagi orang-orang yang beriman.”",
 		"tajweed": [
+			{
+				"class": "ikhfa-syafawi",
+				"start": 21,
+				"end": 26
+			},
 			{
 				"class": "ikhfa",
 				"start": 30,

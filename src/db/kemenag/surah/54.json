@@ -916,6 +916,11 @@
 				"class": "idgham-bighunnah",
 				"start": 60,
 				"end": 62
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 72,
+				"end": 77
 			}
 		]
 	},
@@ -975,6 +980,11 @@
 				"end": 15
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 19,
+				"end": 24
+			},
+			{
 				"class": "qalqalah",
 				"start": 24,
 				"end": 25
@@ -1025,6 +1035,11 @@
 				"class": "qalqalah",
 				"start": 6,
 				"end": 7
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 18,
+				"end": 23
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -1129,6 +1144,11 @@
 				"class": "madd-wajib",
 				"start": 31,
 				"end": 35
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 51,
+				"end": 56
 			},
 			{
 				"class": "madd-wajib",

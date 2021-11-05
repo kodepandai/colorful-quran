@@ -70,6 +70,11 @@
 				"end": 190
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 313,
+				"end": 318
+			},
+			{
 				"class": "madd-jaiz",
 				"start": 373,
 				"end": 376
@@ -700,6 +705,11 @@
 				"class": "iqlab",
 				"start": 90,
 				"end": 92
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 99,
+				"end": 104
 			},
 			{
 				"class": "ikhfa",

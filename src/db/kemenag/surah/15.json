@@ -352,6 +352,11 @@
 		"translation_aya_text": "Dan kalau Kami bukakan kepada mereka salah satu pintu langit, lalu mereka terus menerus naik ke atasnya,",
 		"tajweed": [
 			{
+				"class": "ikhfa-syafawi",
+				"start": 25,
+				"end": 30
+			},
+			{
 				"class": "idgham-bighunnah",
 				"start": 31,
 				"end": 33

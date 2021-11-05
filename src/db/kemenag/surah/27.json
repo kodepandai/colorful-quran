@@ -61,6 +61,11 @@
 		"translation_aya_text": "(yaitu) orang-orang yang melaksanakan salat dan menunaikan zakat, dan mereka meyakini adanya akhirat.",
 		"tajweed": [
 			{
+				"class": "ikhfa-syafawi",
+				"start": 63,
+				"end": 68
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 93,
 				"end": 95
@@ -183,6 +188,11 @@
 				"class": "idgham-mimi",
 				"start": 67,
 				"end": 72
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 101,
+				"end": 106
 			},
 			{
 				"class": "ikhfa",
@@ -1288,6 +1298,11 @@
 				"end": 7
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 29,
+				"end": 34
+			},
+			{
 				"class": "ikhfa",
 				"start": 41,
 				"end": 46
@@ -1354,9 +1369,24 @@
 				"end": 100
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 107,
+				"end": 109
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 110,
+				"end": 112
+			},
+			{
 				"class": "ikhfa",
 				"start": 118,
 				"end": 122
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 122,
+				"end": 127
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -1380,9 +1410,19 @@
 				"end": 35
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 37,
+				"end": 42
+			},
+			{
 				"class": "idgham-bilaghunnah",
 				"start": 48,
 				"end": 53
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 67,
+				"end": 72
 			},
 			{
 				"class": "ghunnah",
@@ -2835,6 +2875,11 @@
 				"end": 19
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 38,
+				"end": 43
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 69,
 				"end": 71
@@ -3019,6 +3064,11 @@
 				"class": "qalqalah",
 				"start": 16,
 				"end": 17
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 31,
+				"end": 36
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -3242,6 +3292,11 @@
 				"end": 37
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 40,
+				"end": 45
+			},
+			{
 				"class": "ghunnah",
 				"start": 89,
 				"end": 92
@@ -3267,6 +3322,11 @@
 		"page_number": 384,
 		"translation_aya_text": "Dan berlakulah perkataan (janji azab) atas mereka karena kezaliman mereka, maka mereka tidak dapat berkata.",
 		"tajweed": [
+			{
+				"class": "ikhfa-syafawi",
+				"start": 27,
+				"end": 32
+			},
 			{
 				"class": "ikhfa",
 				"start": 59,

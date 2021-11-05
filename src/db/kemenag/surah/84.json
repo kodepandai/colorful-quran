@@ -420,6 +420,11 @@
 		"translation_aya_text": "Maka sampaikanlah kepada mereka (ancaman) azab yang pedih,",
 		"tajweed": [
 			{
+				"class": "ikhfa-syafawi",
+				"start": 11,
+				"end": 16
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 28,
 				"end": 30

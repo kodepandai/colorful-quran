@@ -97,6 +97,11 @@
 				"end": 77
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 79,
+				"end": 84
+			},
+			{
 				"class": "idgham-bighunnah",
 				"start": 84,
 				"end": 88
@@ -232,6 +237,11 @@
 				"class": "madd-wajib",
 				"start": 228,
 				"end": 230
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 234,
+				"end": 239
 			},
 			{
 				"class": "idgham-bighunnah",

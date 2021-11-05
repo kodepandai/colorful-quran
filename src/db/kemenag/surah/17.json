@@ -249,6 +249,11 @@
 				"end": 54
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 59,
+				"end": 64
+			},
+			{
 				"class": "idgham-bighunnah",
 				"start": 71,
 				"end": 76
@@ -1537,6 +1542,11 @@
 		"translation_aya_text": "Maka apakah pantas Tuhan memilihkan anak laki-laki untukmu dan Dia mengambil anak perempuan dari malaikat? Sungguh, kamu benar-benar mengucapkan kata yang besar (dosanya).",
 		"tajweed": [
 			{
+				"class": "ikhfa-syafawi",
+				"start": 23,
+				"end": 28
+			},
+			{
 				"class": "madd-wajib",
 				"start": 61,
 				"end": 65
@@ -2435,6 +2445,11 @@
 		"translation_aya_text": "Dan perdayakanlah siapa saja di antara mereka yang engkau (Iblis) sanggup dengan suaramu (yang memukau), kerahkanlah pasukanmu terhadap mereka, yang berkuda dan yang berjalan kaki, dan bersekutulah dengan mereka pada harta dan anak-anak lalu beri janjilah kepada mereka.” Padahal setan itu hanya menjanjikan tipuan belaka kepada mereka.",
 		"tajweed": [
 			{
+				"class": "ikhfa-syafawi",
+				"start": 37,
+				"end": 42
+			},
+			{
 				"class": "qalqalah",
 				"start": 55,
 				"end": 56
@@ -2443,6 +2458,11 @@
 				"class": "qalqalah",
 				"start": 59,
 				"end": 60
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 70,
+				"end": 75
 			},
 			{
 				"class": "qalqalah",
@@ -2623,6 +2643,11 @@
 				"class": "idgham-bighunnah",
 				"start": 88,
 				"end": 90
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 117,
+				"end": 122
 			},
 			{
 				"class": "ghunnah",
@@ -3758,6 +3783,11 @@
 		"page_number": 292,
 		"translation_aya_text": "Itulah balasan bagi mereka, karena sesungguhnya mereka kafir kepada ayat-ayat Kami dan (karena mereka) berkata, “Apabila kami telah menjadi tulang belulang dan benda-benda yang hancur, apakah kami benar-benar akan dibangkitkan kembali sebagai makhluk baru?”",
 		"tajweed": [
+			{
+				"class": "ikhfa-syafawi",
+				"start": 17,
+				"end": 22
+			},
 			{
 				"class": "ghunnah",
 				"start": 24,

@@ -938,6 +938,11 @@
 				"end": 31
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 43,
+				"end": 48
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 75,
 				"end": 77
@@ -2621,6 +2626,11 @@
 		"translation_aya_text": "karena kita mempersamakan kamu (berhala-berhala) dengan Tuhan seluruh alam.",
 		"tajweed": [
 			{
+				"class": "ikhfa-syafawi",
+				"start": 16,
+				"end": 21
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 36,
 				"end": 38
@@ -3333,6 +3343,11 @@
 		"translation_aya_text": "Dan apabila kamu menyiksa, maka kamu lakukan secara kejam dan bengis.",
 		"tajweed": [
 			{
+				"class": "ikhfa-syafawi",
+				"start": 16,
+				"end": 21
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 38,
 				"end": 40
@@ -3370,6 +3385,11 @@
 				"end": 21
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 30,
+				"end": 35
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 47,
 				"end": 49
@@ -3385,6 +3405,11 @@
 		"page_number": 372,
 		"translation_aya_text": "Dia (Allah) telah menganugerahkan kepadamu hewan ternak dan anak-anak,",
 		"tajweed": [
+			{
+				"class": "ikhfa-syafawi",
+				"start": 9,
+				"end": 14
+			},
 			{
 				"class": "idgham-bighunnah",
 				"start": 21,
@@ -4162,6 +4187,16 @@
 				"class": "idgham-mimi",
 				"start": 38,
 				"end": 43
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 58,
+				"end": 60
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 61,
+				"end": 63
 			},
 			{
 				"class": "ikhfa",
@@ -5054,6 +5089,11 @@
 		"page_number": 375,
 		"translation_aya_text": "maka datang azab kepada mereka secara mendadak, ketika mereka tidak menyadarinya,",
 		"tajweed": [
+			{
+				"class": "ikhfa-syafawi",
+				"start": 12,
+				"end": 17
+			},
 			{
 				"class": "idgham-bighunnah",
 				"start": 21,

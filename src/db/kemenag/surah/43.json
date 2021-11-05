@@ -201,6 +201,11 @@
 				"end": 13
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 29,
+				"end": 34
+			},
+			{
 				"class": "qalqalah",
 				"start": 34,
 				"end": 35
@@ -499,6 +504,11 @@
 				"end": 39
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 49,
+				"end": 54
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 61,
 				"end": 63
@@ -514,6 +524,11 @@
 		"page_number": 490,
 		"translation_aya_text": "Dan apabila salah seorang di antara mereka diberi kabar gembira dengan apa (kelahiran anak perempuan) yang dijadikan sebagai perumpamaan bagi (Allah) Yang Maha Pengasih, jadilah wajahnya hitam pekat, karena menahan sedih (dan marah).",
 		"tajweed": [
+			{
+				"class": "ikhfa-syafawi",
+				"start": 24,
+				"end": 29
+			},
 			{
 				"class": "ikhfa",
 				"start": 57,
@@ -618,6 +633,11 @@
 				"end": 54
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 61,
+				"end": 66
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 110,
 				"end": 112
@@ -652,6 +672,11 @@
 				"class": "qalqalah",
 				"start": 34,
 				"end": 35
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 45,
+				"end": 50
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -837,6 +862,11 @@
 		"translation_aya_text": "(Rasul itu) berkata, “Apakah (kamu akan mengikutinya juga) sekalipun aku membawa untukmu (agama) yang lebih baik daripada apa yang kamu peroleh dari (agama) yang dianut nenek moyangmu.” Mereka menjawab, “Sesungguhnya kami mengingkari (agama) yang kamu diperintahkan untuk menyampaikannya.”",
 		"tajweed": [
 			{
+				"class": "ikhfa-syafawi",
+				"start": 24,
+				"end": 29
+			},
+			{
 				"class": "ghunnah",
 				"start": 37,
 				"end": 42
@@ -865,6 +895,11 @@
 				"class": "madd-jaiz",
 				"start": 100,
 				"end": 103
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 113,
+				"end": 118
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -1123,6 +1158,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 152,
 				"end": 157
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 176,
+				"end": 181
 			},
 			{
 				"class": "ikhfa",
@@ -1705,6 +1745,11 @@
 				"end": 13
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 17,
+				"end": 22
+			},
+			{
 				"class": "madd-jaiz",
 				"start": 30,
 				"end": 33
@@ -1734,6 +1779,11 @@
 				"class": "idgham-mimi",
 				"start": 14,
 				"end": 19
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 79,
+				"end": 84
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -2251,6 +2301,16 @@
 				"end": 48
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 58,
+				"end": 63
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 93,
+				"end": 98
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 164,
 				"end": 166
@@ -2332,6 +2392,11 @@
 				"class": "ikhfa",
 				"start": 38,
 				"end": 43
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 51,
+				"end": 56
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -2458,6 +2523,11 @@
 		"page_number": 494,
 		"translation_aya_text": "Kepada mereka diedarkan piring-piring dan gelas-gelas dari emas, dan di dalam surga itu terdapat apa yang diingini oleh hati dan segala yang sedap (dipandang) mata. Dan kamu kekal di dalamnya.",
 		"tajweed": [
+			{
+				"class": "ikhfa-syafawi",
+				"start": 16,
+				"end": 21
+			},
 			{
 				"class": "idgham-bighunnah",
 				"start": 26,
@@ -2676,6 +2746,11 @@
 				"end": 5
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 15,
+				"end": 20
+			},
+			{
 				"class": "ghunnah",
 				"start": 35,
 				"end": 38
@@ -2751,6 +2826,16 @@
 				"class": "qalqalah",
 				"start": 52,
 				"end": 53
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 59,
+				"end": 61
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 63,
+				"end": 65
 			},
 			{
 				"class": "madd-arid-lissukun",

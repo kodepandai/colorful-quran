@@ -557,6 +557,11 @@
 				"end": 47
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 55,
+				"end": 60
+			},
+			{
 				"class": "idgham-bighunnah",
 				"start": 66,
 				"end": 71
@@ -1388,6 +1393,11 @@
 				"end": 22
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 22,
+				"end": 27
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 38,
 				"end": 40
@@ -1495,6 +1505,11 @@
 				"class": "qalqalah",
 				"start": 17,
 				"end": 18
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 23,
+				"end": 28
 			},
 			{
 				"class": "madd-arid-lissukun",

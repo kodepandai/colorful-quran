@@ -77,6 +77,11 @@
 		"translation_aya_text": "(yaitu) orang-orang yang melaksanakan salat, menunaikan zakat dan mereka meyakini adanya akhirat. ",
 		"tajweed": [
 			{
+				"class": "ikhfa-syafawi",
+				"start": 63,
+				"end": 68
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 93,
 				"end": 95
@@ -538,6 +543,11 @@
 				"end": 181
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 216,
+				"end": 221
+			},
+			{
 				"class": "ikhfa",
 				"start": 227,
 				"end": 231
@@ -869,6 +879,11 @@
 				"class": "ikhfa",
 				"start": 26,
 				"end": 30
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 77,
+				"end": 82
 			},
 			{
 				"class": "ghunnah",
@@ -1374,6 +1389,11 @@
 				"class": "ghunnah",
 				"start": 236,
 				"end": 239
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 241,
+				"end": 246
 			},
 			{
 				"class": "madd-arid-lissukun",

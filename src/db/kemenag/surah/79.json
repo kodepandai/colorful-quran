@@ -227,7 +227,13 @@
 		"juz_id": 30,
 		"page_number": 583,
 		"translation_aya_text": "Maka seketika itu mereka hidup kembali di bumi (yang baru).",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "ikhfa-syafawi",
+				"start": 10,
+				"end": 15
+			}
+		]
 	},
 	{
 		"aya_id": 5727,

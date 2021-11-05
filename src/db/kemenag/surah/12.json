@@ -618,6 +618,11 @@
 				"end": 120
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 122,
+				"end": 127
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 163,
 				"end": 165
@@ -1795,6 +1800,11 @@
 				"end": 183
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 213,
+				"end": 218
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 241,
 				"end": 243
@@ -2236,6 +2246,11 @@
 				"class": "ghunnah",
 				"start": 53,
 				"end": 56
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 77,
+				"end": 82
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -2887,6 +2902,11 @@
 				"end": 7
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 18,
+				"end": 23
+			},
+			{
 				"class": "idgham-bilaghunnah",
 				"start": 57,
 				"end": 62
@@ -3421,6 +3441,11 @@
 				"class": "ghunnah",
 				"start": 4,
 				"end": 7
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 18,
+				"end": 23
 			},
 			{
 				"class": "ghunnah",
@@ -4272,6 +4297,11 @@
 				"end": 24
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 35,
+				"end": 40
+			},
+			{
 				"class": "ikhfa",
 				"start": 67,
 				"end": 71
@@ -4953,6 +4983,11 @@
 		"page_number": 248,
 		"translation_aya_text": "Dan kebanyakan mereka tidak beriman kepada Allah, bahkan mereka mempersekutukan-Nya.",
 		"tajweed": [
+			{
+				"class": "ikhfa-syafawi",
+				"start": 25,
+				"end": 30
+			},
 			{
 				"class": "idgham-mimi",
 				"start": 49,
