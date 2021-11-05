@@ -3,18 +3,7 @@
 	import type { IAya } from '$contract/surah';
 
 	import list from '$db/kemenag/list.json';
-	import GenerateRule from '$tajweed/GenerateRule';
-	import Ghunnah from '$tajweed/kemenag/rule/Ghunnah';
-	import IdghamBighunnah from '$tajweed/kemenag/rule/IdghamBighunnah';
-	import IdghamBilaghunnah from '$tajweed/kemenag/rule/IdghamBilaghunnah';
-	import IdghamMimi from '$tajweed/kemenag/rule/IdghamMimi';
-	import Ikhfa from '$tajweed/kemenag/rule/Ikhfa';
-	import Iqlab from '$tajweed/kemenag/rule/Iqlab';
-	import MaddAridLissukun from '$tajweed/kemenag/rule/MaddAridLissukun';
-	import MaddJaiz from '$tajweed/kemenag/rule/MaddJaiz';
-	import MaddLazimHarfi from '$tajweed/kemenag/rule/MaddLazimHarfi';
-	import MaddWajib from '$tajweed/kemenag/rule/MaddWajib';
-	import Qalqalah from '$tajweed/kemenag/rule/Qalqalah';
+	import { GenerateAllRule } from '$tajweed/GenerateRule';
 
 	let surahJson: IAya[] = [];
 	const updateAyaList = async (e) => {
@@ -24,24 +13,7 @@
 	const generateTajeed = () => {
 		Promise.all(
 			surahJson.map(async (aya, i) => {
-				const tajweed = await GenerateRule(
-					aya.aya_text,
-					[
-						Ghunnah,
-						IdghamBighunnah,
-						IdghamBilaghunnah,
-						IdghamMimi,
-						Qalqalah,
-						Ikhfa,
-						Iqlab,
-						MaddJaiz,
-						MaddWajib,
-						MaddAridLissukun,
-						MaddLazimHarfi
-					],
-					i == 0
-				);
-				surahJson[i].tajweed = tajweed;
+				surahJson[i].tajweed = await GenerateAllRule(aya.aya_text, i == 0);
 			})
 		);
 	};

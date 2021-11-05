@@ -881,6 +881,11 @@
 				"end": 37
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 57,
+				"end": 62
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 69,
 				"end": 71
@@ -1082,6 +1087,11 @@
 				"class": "ikhfa",
 				"start": 33,
 				"end": 38
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 62,
+				"end": 67
 			},
 			{
 				"class": "qalqalah",
@@ -1321,6 +1331,11 @@
 				"class": "ikhfa",
 				"start": 44,
 				"end": 48
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 57,
+				"end": 62
 			},
 			{
 				"class": "ikhfa",

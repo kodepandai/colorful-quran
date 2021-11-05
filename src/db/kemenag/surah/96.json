@@ -225,6 +225,11 @@
 		"translation_aya_text": "Tidakkah dia mengetahui bahwa sesungguhnya Allah melihat (segala perbuatannya)?",
 		"tajweed": [
 			{
+				"class": "ikhfa-syafawi",
+				"start": 13,
+				"end": 18
+			},
+			{
 				"class": "ghunnah",
 				"start": 20,
 				"end": 23

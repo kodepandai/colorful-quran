@@ -65,6 +65,11 @@
 				"end": 56
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 100,
+				"end": 105
+			},
+			{
 				"class": "ikhfa",
 				"start": 117,
 				"end": 122
@@ -444,6 +449,16 @@
 				"end": 84
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 88,
+				"end": 90
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 91,
+				"end": 93
+			},
+			{
 				"class": "idgham-bilaghunnah",
 				"start": 106,
 				"end": 111
@@ -601,6 +616,11 @@
 				"class": "idgham-mimi",
 				"start": 64,
 				"end": 69
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 83,
+				"end": 88
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -951,6 +971,11 @@
 		"page_number": 352,
 		"translation_aya_text": "pada hari, (ketika) lidah, tangan dan kaki mereka menjadi saksi atas mereka terhadap apa yang dahulu mereka kerjakan.",
 		"tajweed": [
+			{
+				"class": "ikhfa-syafawi",
+				"start": 70,
+				"end": 75
+			},
 			{
 				"class": "madd-arid-lissukun",
 				"start": 96,
@@ -2971,6 +2996,11 @@
 				"end": 349
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 372,
+				"end": 377
+			},
+			{
 				"class": "ikhfa",
 				"start": 396,
 				"end": 398
@@ -3199,6 +3229,11 @@
 				"end": 501
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 516,
+				"end": 521
+			},
+			{
 				"class": "ikhfa",
 				"start": 525,
 				"end": 527
@@ -3341,6 +3376,11 @@
 				"end": 56
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 67,
+				"end": 72
+			},
+			{
 				"class": "ikhfa",
 				"start": 74,
 				"end": 76
@@ -3420,6 +3460,11 @@
 				"class": "ikhfa",
 				"start": 75,
 				"end": 79
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 136,
+				"end": 141
 			},
 			{
 				"class": "madd-arid-lissukun",

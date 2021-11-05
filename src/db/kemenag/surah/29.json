@@ -276,6 +276,11 @@
 				"end": 112
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 163,
+				"end": 168
+			},
+			{
 				"class": "ikhfa",
 				"start": 174,
 				"end": 178
@@ -424,6 +429,11 @@
 		"page_number": 397,
 		"translation_aya_text": "Dan orang-orang yang kafir berkata kepada orang-orang yang beriman, “Ikutilah jalan kami, dan kami akan memikul dosa-dosamu,” padahal mereka sedikit pun tidak (sanggup) memikul dosa-dosa mereka sendiri. Sesungguhnya mereka benar-benar pendusta.",
 		"tajweed": [
+			{
+				"class": "ikhfa-syafawi",
+				"start": 107,
+				"end": 112
+			},
 			{
 				"class": "idgham-mimi",
 				"start": 137,
@@ -830,6 +840,11 @@
 				"end": 13
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 13,
+				"end": 18
+			},
+			{
 				"class": "madd-wajib",
 				"start": 62,
 				"end": 64
@@ -1013,9 +1028,19 @@
 				"end": 118
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 155,
+				"end": 160
+			},
+			{
 				"class": "idgham-bighunnah",
 				"start": 164,
 				"end": 169
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 187,
+				"end": 192
 			},
 			{
 				"class": "ghunnah",
@@ -1139,6 +1164,11 @@
 				"class": "ghunnah",
 				"start": 35,
 				"end": 38
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 82,
+				"end": 87
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -2254,6 +2284,11 @@
 				"class": "ghunnah",
 				"start": 101,
 				"end": 104
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 106,
+				"end": 111
 			},
 			{
 				"class": "idgham-bighunnah",

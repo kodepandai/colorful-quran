@@ -620,6 +620,11 @@
 				"end": 108
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 113,
+				"end": 118
+			},
+			{
 				"class": "qalqalah",
 				"start": 149,
 				"end": 150
@@ -812,6 +817,11 @@
 				"class": "ikhfa",
 				"start": 36,
 				"end": 41
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 60,
+				"end": 65
 			},
 			{
 				"class": "ghunnah",
@@ -1532,6 +1542,11 @@
 				"class": "madd-jaiz",
 				"start": 5,
 				"end": 8
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 20,
+				"end": 25
 			},
 			{
 				"class": "ikhfa",

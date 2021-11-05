@@ -270,6 +270,11 @@
 		"translation_aya_text": "(yaitu) orang-orang yang tidak menunaikan zakat dan mereka ingkar terhadap kehidupan akhirat.",
 		"tajweed": [
 			{
+				"class": "ikhfa-syafawi",
+				"start": 41,
+				"end": 46
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 69,
 				"end": 71
@@ -622,6 +627,11 @@
 				"end": 178
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 188,
+				"end": 193
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 202,
 				"end": 204
@@ -828,6 +838,11 @@
 				"end": 64
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 87,
+				"end": 92
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 113,
 				"end": 115
@@ -974,6 +989,11 @@
 				"class": "ikhfa",
 				"start": 34,
 				"end": 38
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 38,
+				"end": 43
 			},
 			{
 				"class": "idgham-mimi",
@@ -2323,6 +2343,11 @@
 				"class": "ghunnah",
 				"start": 51,
 				"end": 54
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 63,
+				"end": 68
 			},
 			{
 				"class": "ghunnah",

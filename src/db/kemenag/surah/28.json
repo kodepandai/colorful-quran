@@ -2450,6 +2450,11 @@
 				"end": 43
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 51,
+				"end": 56
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 67,
 				"end": 69
@@ -3224,6 +3229,11 @@
 				"end": 25
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 130,
+				"end": 135
+			},
+			{
 				"class": "madd-wajib",
 				"start": 139,
 				"end": 141
@@ -3253,6 +3263,11 @@
 				"class": "ghunnah",
 				"start": 51,
 				"end": 54
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 132,
+				"end": 137
 			},
 			{
 				"class": "ikhfa",

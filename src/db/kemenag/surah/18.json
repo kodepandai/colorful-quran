@@ -138,6 +138,11 @@
 				"end": 3
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 9,
+				"end": 14
+			},
+			{
 				"class": "idgham-bighunnah",
 				"start": 26,
 				"end": 31
@@ -341,6 +346,11 @@
 		"translation_aya_text": "Kami ceritakan kepadamu (Muhammad) kisah mereka dengan sebenarnya. Sesungguhnya mereka adalah pemuda-pemuda yang beriman kepada Tuhan mereka, dan Kami tambahkan petunjuk kepada mereka.",
 		"tajweed": [
 			{
+				"class": "ikhfa-syafawi",
+				"start": 32,
+				"end": 37
+			},
+			{
 				"class": "ghunnah",
 				"start": 49,
 				"end": 52
@@ -451,6 +461,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 59,
 				"end": 61
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 87,
+				"end": 92
 			},
 			{
 				"class": "iqlab",
@@ -596,6 +611,11 @@
 				"end": 27
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 110,
+				"end": 115
+			},
+			{
 				"class": "ikhfa",
 				"start": 118,
 				"end": 123
@@ -657,6 +677,11 @@
 				"end": 202
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 212,
+				"end": 217
+			},
+			{
 				"class": "madd-jaiz",
 				"start": 232,
 				"end": 236
@@ -680,6 +705,11 @@
 				"class": "ikhfa",
 				"start": 295,
 				"end": 297
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 308,
+				"end": 313
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -757,6 +787,11 @@
 				"class": "qalqalah",
 				"start": 170,
 				"end": 171
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 186,
+				"end": 191
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -1039,6 +1074,11 @@
 				"class": "qalqalah",
 				"start": 37,
 				"end": 38
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 53,
+				"end": 58
 			},
 			{
 				"class": "qalqalah",
@@ -2325,6 +2365,11 @@
 		"page_number": 300,
 		"translation_aya_text": "Dan Tuhanmu Maha Pengampun, memiliki kasih sayang. Jika Dia hendak menyiksa mereka karena perbuatan mereka, tentu Dia akan menyegerakan siksa bagi mereka. Tetapi bagi mereka ada waktu tertentu (untuk mendapat siksa) yang mereka tidak akan menemukan tempat berlindung dari-Nya.",
 		"tajweed": [
+			{
+				"class": "ikhfa-syafawi",
+				"start": 56,
+				"end": 61
+			},
 			{
 				"class": "idgham-mimi",
 				"start": 114,
@@ -3823,7 +3868,13 @@
 		"juz_id": 16,
 		"page_number": 304,
 		"translation_aya_text": "Katakanlah (Muhammad), “Apakah perlu Kami beritahukan kepadamu tentang orang yang paling rugi perbuatannya?”",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "ikhfa-syafawi",
+				"start": 21,
+				"end": 26
+			}
+		]
 	},
 	{
 		"aya_id": 2244,

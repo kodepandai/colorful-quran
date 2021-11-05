@@ -398,6 +398,11 @@
 				"end": 12
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 14,
+				"end": 19
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 40,
 				"end": 42
@@ -555,6 +560,11 @@
 				"class": "ikhfa",
 				"start": 4,
 				"end": 8
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 18,
+				"end": 23
 			},
 			{
 				"class": "ghunnah",
@@ -1177,6 +1187,11 @@
 		"translation_aya_text": "Dan sungguh, jika kamu menaati manusia seperti kamu, niscaya kamu pasti rugi.",
 		"tajweed": [
 			{
+				"class": "ikhfa-syafawi",
+				"start": 18,
+				"end": 23
+			},
+			{
 				"class": "idgham-bighunnah",
 				"start": 25,
 				"end": 27
@@ -1502,6 +1517,11 @@
 				"end": 64
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 109,
+				"end": 114
+			},
+			{
 				"class": "idgham-bighunnah",
 				"start": 116,
 				"end": 118
@@ -1776,6 +1796,11 @@
 				"end": 14
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 24,
+				"end": 29
+			},
+			{
 				"class": "ikhfa",
 				"start": 42,
 				"end": 44
@@ -1831,6 +1856,11 @@
 				"class": "ghunnah",
 				"start": 17,
 				"end": 20
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 33,
+				"end": 38
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -1906,6 +1936,11 @@
 		"translation_aya_text": "dan mereka yang beriman dengan tanda-tanda (kekuasaan) Tuhannya,",
 		"tajweed": [
 			{
+				"class": "ikhfa-syafawi",
+				"start": 15,
+				"end": 20
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 45,
 				"end": 47
@@ -1921,6 +1956,11 @@
 		"page_number": 345,
 		"translation_aya_text": "dan mereka yang tidak mempersekutukan Tuhannya,",
 		"tajweed": [
+			{
+				"class": "ikhfa-syafawi",
+				"start": 15,
+				"end": 20
+			},
 			{
 				"class": "madd-arid-lissukun",
 				"start": 42,
@@ -2050,6 +2090,11 @@
 				"class": "madd-jaiz",
 				"start": 12,
 				"end": 15
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 37,
+				"end": 42
 			},
 			{
 				"class": "qalqalah",
@@ -2248,6 +2293,11 @@
 				"end": 42
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 46,
+				"end": 51
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 91,
 				"end": 93
@@ -2277,6 +2327,11 @@
 				"class": "ghunnah",
 				"start": 88,
 				"end": 91
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 108,
+				"end": 113
 			},
 			{
 				"class": "ikhfa",
@@ -2419,6 +2474,11 @@
 				"end": 7
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 19,
+				"end": 24
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 84,
 				"end": 86
@@ -2438,6 +2498,11 @@
 				"class": "madd-jaiz",
 				"start": 2,
 				"end": 8
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 32,
+				"end": 37
 			},
 			{
 				"class": "ikhfa",
@@ -2818,6 +2883,11 @@
 		"translation_aya_text": "Padahal Kami telah membawa kebenaran kepada mereka, tetapi mere-ka benar-benar pendusta.",
 		"tajweed": [
 			{
+				"class": "ikhfa-syafawi",
+				"start": 15,
+				"end": 20
+			},
+			{
 				"class": "ghunnah",
 				"start": 33,
 				"end": 36
@@ -3123,6 +3193,11 @@
 				"end": 106
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 110,
+				"end": 115
+			},
+			{
 				"class": "qalqalah",
 				"start": 137,
 				"end": 138
@@ -3266,6 +3341,11 @@
 				"class": "ikhfa",
 				"start": 46,
 				"end": 50
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 50,
+				"end": 55
 			},
 			{
 				"class": "madd-arid-lissukun",

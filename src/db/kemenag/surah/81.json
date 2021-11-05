@@ -351,6 +351,11 @@
 		"translation_aya_text": "Dan temanmu (Muhammad) itu bukanlah orang gila. ",
 		"tajweed": [
 			{
+				"class": "ikhfa-syafawi",
+				"start": 15,
+				"end": 20
+			},
+			{
 				"class": "qalqalah",
 				"start": 22,
 				"end": 23

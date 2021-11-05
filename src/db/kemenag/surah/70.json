@@ -629,6 +629,11 @@
 		"translation_aya_text": "dan orang-orang yang berpegang teguh pada kesaksiannya, ",
 		"tajweed": [
 			{
+				"class": "ikhfa-syafawi",
+				"start": 15,
+				"end": 20
+			},
+			{
 				"class": "madd-wajib",
 				"start": 35,
 				"end": 38

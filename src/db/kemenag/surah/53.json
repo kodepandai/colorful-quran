@@ -588,6 +588,11 @@
 		"translation_aya_text": "Dan mereka tidak mempunyai ilmu tentang itu. Mereka tidak lain hanyalah mengikuti dugaan, dan sesungguhnya dugaan itu tidak berfaedah sedikit pun terhadap kebenaran. ",
 		"tajweed": [
 			{
+				"class": "ikhfa-syafawi",
+				"start": 10,
+				"end": 15
+			},
+			{
 				"class": "idgham-bighunnah",
 				"start": 33,
 				"end": 38
