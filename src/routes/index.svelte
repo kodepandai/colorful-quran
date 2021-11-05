@@ -26,18 +26,10 @@
 	};
 </script>
 
-<div
-	class="bg-[#F3F3F3] rounded-full flex py-2 px-4 my-4 justify-between items-center border border-[#E6E6E6]"
->
-	<Icon icon="bx:bx-search" width="20" height="20" color="#757575" />
-	<input
-		bind:value={querySearch}
-		type="text"
-		placeholder="Cari surah yang diinginkan"
-		class="bg-transparent focus:outline-none w-11/12 text-graySecond"
-	/>
-</div>
-<div class="bg-secondary rounded-xl p-3 mb-4 flex">
+<div class="sticky top-16 bg-white dark:bg-dark z-10 pt-1">
+
+
+<div class="bg-secondary rounded-xl p-3 mb-4 flex my-4">
 	<div class="bg-[#F3F3F3] rounded-lg w-5/12 md:w-1/2 flex flex-col p-2">
 		<div class="flex">
 			<Icon icon="codicon:book" width="14" height="14" />
@@ -65,7 +57,18 @@
 		</a>
 	</div>
 </div>
-
+<div
+	class="bg-[#F3F3F3] rounded-full flex py-2 px-4 my-4 justify-between items-center border border-[#E6E6E6]"
+>
+	<Icon icon="bx:bx-search" width="20" height="20" color="#757575" />
+	<input
+		bind:value={querySearch}
+		type="text"
+		placeholder="Cari surah yang diinginkan"
+		class="bg-transparent focus:outline-none w-11/12 text-graySecond"
+	/>
+</div>
+</div>
 {#if dataFiltered.length <= 0}
 	<div class="flex w-full justify-center">
 		<span class="text-gray-500 dark:text-white">Surah tidak ditemukan</span>
@@ -74,12 +77,12 @@
 {#each dataFiltered as surah}
 	<a class="flex flex-row py-3 mb-2 justify-between border-b" href={`/kemenag/surah/${surah.id}`}>
 		<div class="flex">
-			<div class="inline-flex p-1 w-14 justify-center items-center">
+			<div class="inline-flex p-1 w-14 justify-center items-center relative">
 				<img src={'/border.png'} class="w-full" alt="" />
 				<span class="align-middle absolute text-sm dark:text-white">{surah.id}</span>
 			</div>
 			<div class="flex flex-col line ml-3">
-				<span class="text-sm dark:text-white">{` ${surah.surat_name}`}</span>
+				<span class="text-sm dark:text-white" style="direction: ltr; font-size: {$Setting$.ukuranTerjemahan}px;">{` ${surah.surat_name}`}</span>
 				<div class="flex flex-row">
 					<span class="text-xs text-gray-400 dark:text-white">{` ${surah.surat_terjemahan}`}</span>
 					<span class="text-xs ml-2 text-gray-400 dark:text-white"
@@ -88,7 +91,9 @@
 				</div>
 			</div>
 		</div>
-		<span class="font-arab inline-block align-baseline font-bold text-primary dark:text-white"
+		<span 
+			class="font-arab inline-block align-baseline font-bold text-primary dark:text-white"
+			style="font-size: {$Setting$.ukuranAyat}px;"
 			>{surah.surat_text}</span
 		>
 	</a>
