@@ -2,7 +2,8 @@
 ## [Unreleased]
 
 ### New Features
-- add share button to social media
+- add share button to social media ([#56](https://github.com/kodepintar/colorful-quran/issues/56))
+- **tajweed:** ikhfa syafawi rule finder
 
 
 <a name="v0.3.0"></a>
