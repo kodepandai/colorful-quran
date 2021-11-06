@@ -1,10 +1,14 @@
 <a name="unreleased"></a>
 ## [Unreleased]
 
+
+<a name="v0.4.0"></a>
+## [v0.4.0] - 2021-11-07
 ### Bug Fixes
 - disable go to last read when nothing is saved
 
 ### New Features
+- PWA support, now this app is installable
 - add modal info and change layout ([#61](https://github.com/kodepintar/colorful-quran/issues/61))
 - add share button to social media ([#56](https://github.com/kodepintar/colorful-quran/issues/56))
 - **tajweed:** ikhfa syafawi rule finder ([#60](https://github.com/kodepintar/colorful-quran/issues/60))
@@ -99,7 +103,8 @@
 - new db Quran kemenag
 
 
-[Unreleased]: https://github.com/kodepintar/colorful-quran/compare/v0.3.0...HEAD
+[Unreleased]: https://github.com/kodepintar/colorful-quran/compare/v0.4.0...HEAD
+[v0.4.0]: https://github.com/kodepintar/colorful-quran/compare/v0.3.0...v0.4.0
 [v0.3.0]: https://github.com/kodepintar/colorful-quran/compare/v0.2.0...v0.3.0
 [v0.2.0]: https://github.com/kodepintar/colorful-quran/compare/v0.1.0...v0.2.0
 [v0.1.0]: https://github.com/kodepintar/colorful-quran/compare/v0.0.3...v0.1.0
