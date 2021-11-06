@@ -29,7 +29,7 @@
 			"$component/*": ["src/component/*"],
 			"$store/*": ["src/store/*"],
 			"$tajweed/*": ["src/tajweed/*"]
-		},
+		}
 	},
 	"include": [
 		"src/**/*.d.ts",

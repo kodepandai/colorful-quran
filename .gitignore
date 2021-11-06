@@ -5,3 +5,4 @@ node_modules
 /package
 .pnpm-debug.log
 coverage/
+.chglog/
