@@ -1,5 +1,5 @@
 <script lang="ts">
-	export let Title:string;
+	export let title: string;
 	import Icon from '@iconify/svelte';
 	import { createEventDispatcher } from 'svelte';
 	const dispatch = createEventDispatcher();
@@ -14,7 +14,7 @@
 	<div class="w-full relative max-w-sm m-auto rounded-xl bg-white">
 		<div class="flex py-2 relative">
 			<div class="w-full items-center flex justify-center">
-				<span class="font-semibold text-xl">{Title}</span>
+				<span class="font-semibold text-xl">{title}</span>
 			</div>
 			<div class="absolute right-2">
 				<button on:click={dismissModal}>

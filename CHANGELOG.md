@@ -1,22 +1,29 @@
 <a name="unreleased"></a>
+
 ## [Unreleased]
 
 ### New Features
+
 - add share button to social media
 
-
 <a name="v0.3.0"></a>
+
 ## [v0.3.0] - 2021-10-29
+
 ### Bug Fixes
+
 - madd jaiz and madd wajib start index ([#55](https://github.com/kodepintar/colorful-quran/issues/55))
 
 ### New Features
+
 - hide / show terjemahan ([#54](https://github.com/kodepintar/colorful-quran/issues/54))
 
-
 <a name="v0.2.0"></a>
+
 ## [v0.2.0] - 2021-10-23
+
 ### Bug Fixes
+
 - tolltip toggle description
 - input range for dynamic font size
 - madd-lazim-mutsaqal-harfi invalid rule
@@ -26,6 +33,7 @@
 - tooltip direction
 
 ### New Features
+
 - Tasbih ([#48](https://github.com/kodepintar/colorful-quran/issues/48))
 - dark mode and dynamic font size ([#47](https://github.com/kodepintar/colorful-quran/issues/47))
 - madd lazim harfi mukhofaf and mutsaqal rule finder
@@ -36,30 +44,36 @@
 - Arabic number char ([#40](https://github.com/kodepintar/colorful-quran/issues/40))
 - change layout ([#39](https://github.com/kodepintar/colorful-quran/issues/39))
 
-
 <a name="v0.1.0"></a>
+
 ## [v0.1.0] - 2021-10-21
+
 ### New Features
+
 - add madd-arid-lissukun to kemenag tajweed generator script
 - tajweed tooltip ([#38](https://github.com/kodepintar/colorful-quran/issues/38))
 - add share button to social media ([#37](https://github.com/kodepintar/colorful-quran/issues/37))
 - madd arid lissukun rule finder
 
-
 <a name="v0.0.3"></a>
+
 ## [v0.0.3] - 2021-10-19
+
 ### Bug Fixes
+
 - NoonOrTanwinBasedRule when base huruf has shaddah
 - NoonOrTanwinBasedRule split rule scope
 - falsy ghunnah
 - tajweed generator break when load aya that not yet have tajweed
 
 ### Code Refactoring
+
 - change idgham syafawi name to idgham mimi
 - move tajweed from support folder to src folder
 - add helper NoonOrTanwwinBasedRule
 
 ### New Features
+
 - idgham mimi rule finder
 - madd-wajib rule finder
 - add last reading ([#35](https://github.com/kodepintar/colorful-quran/issues/35))
@@ -72,13 +86,16 @@
 - tajweed surah 2 aya 21-30 kemenag ([#26](https://github.com/kodepintar/colorful-quran/issues/26))
 - tajweed surah 2 aya 31-40 kemenag ([#22](https://github.com/kodepintar/colorful-quran/issues/22))
 
-
 <a name="v0.0.2"></a>
+
 ## [v0.0.2] - 2021-10-08
+
 ### Code Refactoring
+
 - remove unused variable
 
 ### New Features
+
 - load current tajweed on tajweed generator
 - add title tajweed class and fix some tajweed rule
 - tajweed surah 2 aya 11-20 kemenag ([#17](https://github.com/kodepintar/colorful-quran/issues/17))
@@ -89,13 +106,16 @@
 - tajweed surah 2 aya 1-5 kemenag version ([#12](https://github.com/kodepintar/colorful-quran/issues/12))
 - add tajweed surah 2 aya 10 kemenag version ([#11](https://github.com/kodepintar/colorful-quran/issues/11))
 
-
 <a name="v0.0.1"></a>
+
 ## v0.0.1 - 2021-10-07
+
 ### Code Refactoring
+
 - remove unused import
 
 ### New Features
+
 - tajweed surah 1 kemenag version ([#3](https://github.com/kodepintar/colorful-quran/issues/3))
 - style page surah ([#2](https://github.com/kodepintar/colorful-quran/issues/2))
 - kemenag LPMQ font
@@ -104,8 +124,7 @@
 - new page for dynamic surah
 - new db Quran kemenag
 
-
-[Unreleased]: https://github.com/kodepintar/colorful-quran/compare/v0.3.0...HEAD
+[unreleased]: https://github.com/kodepintar/colorful-quran/compare/v0.3.0...HEAD
 [v0.3.0]: https://github.com/kodepintar/colorful-quran/compare/v0.2.0...v0.3.0
 [v0.2.0]: https://github.com/kodepintar/colorful-quran/compare/v0.1.0...v0.2.0
 [v0.1.0]: https://github.com/kodepintar/colorful-quran/compare/v0.0.3...v0.1.0
