@@ -1,6 +1,7 @@
 import preprocess from 'svelte-preprocess';
 import adapter from '@sveltejs/adapter-static';
 import { resolve } from 'path';
+import {version, changelog} from './constant.cjs'
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -21,6 +22,10 @@ const config = {
 					$store: resolve('./src/store'),
 					$tajweed: resolve('./src/tajweed')
 				}
+			},
+			define: {
+				"process.env.VERSION": JSON.stringify("V"+version),
+				"process.env.CHANGELOG": JSON.stringify(changelog)
 			}
 		}
 	}

@@ -2,6 +2,7 @@
 ## [Unreleased]
 
 ### New Features
+- markdown import from CHANGELOG.md
 - add modal about us
 - add modal info and change layout
 - add share button to social media ([#56](https://github.com/kodepintar/colorful-quran/issues/56))
@@ -56,11 +57,6 @@
 - falsy ghunnah
 - tajweed generator break when load aya that not yet have tajweed
 
-### Code Refactoring
-- change idgham syafawi name to idgham mimi
-- move tajweed from support folder to src folder
-- add helper NoonOrTanwwinBasedRule
-
 ### New Features
 - idgham mimi rule finder
 - madd-wajib rule finder
@@ -77,9 +73,6 @@
 
 <a name="v0.0.2"></a>
 ## [v0.0.2] - 2021-10-08
-### Code Refactoring
-- remove unused variable
-
 ### New Features
 - load current tajweed on tajweed generator
 - add title tajweed class and fix some tajweed rule
@@ -94,9 +87,6 @@
 
 <a name="v0.0.1"></a>
 ## v0.0.1 - 2021-10-07
-### Code Refactoring
-- remove unused import
-
 ### New Features
 - tajweed surah 1 kemenag version ([#3](https://github.com/kodepintar/colorful-quran/issues/3))
 - style page surah ([#2](https://github.com/kodepintar/colorful-quran/issues/2))

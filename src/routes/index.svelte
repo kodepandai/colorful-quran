@@ -27,7 +27,7 @@
 </script>
 
 <div class="sticky top-16 bg-white dark:bg-dark z-10 pt-1">
-	<div class="bg-secondary rounded-xl p-3 mb-4 flex my-4">
+	<div class="bg-secondary dark:bg-gray-700 rounded-xl p-3 mb-4 flex my-4">
 		<div class="bg-[#F3F3F3] rounded-lg w-5/12 md:w-1/2 flex flex-col p-2">
 			<div class="flex">
 				<Icon icon="codicon:book" width="14" height="14" />

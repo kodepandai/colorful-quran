@@ -8,7 +8,7 @@
 	let showModalInfo = false;
 </script>
 
-<div class="flex justify-between h-16 sticky top-0 bg-primary z-10">
+<div class="flex justify-between h-16 sticky top-0 bg-primary dark:bg-gray-900 z-10">
 	{#if $page.path == '/'}
 		<div
 			on:click={() => (showModalInfo = true)}

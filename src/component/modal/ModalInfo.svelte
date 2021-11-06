@@ -2,7 +2,7 @@
 	import Modal from '$component/Modal.svelte';
 	import { onMount } from 'svelte';
 	import Icon from '@iconify/svelte';
-
+	import snarkdown from 'snarkdown';
 	export let show = false;
 
 	interface Icontributor {
@@ -11,7 +11,8 @@
 		html_url: string;
 		url: string;
 	}
-	let contributor: Icontributor[];
+	let contributor: Icontributor[] = [];
+	// let changelog: string;
 	onMount(async () => {
 		contributor = await fetch(
 			'https://api.github.com/repos/kodepintar/colorful-quran/contributors'
@@ -26,7 +27,7 @@
 </script>
 
 {#if show}
-	<Modal on:dismiss={() => (show = false)} title="Tentang Kami">
+	<Modal on:dismiss={() => (show = false)} title="Colorful Quran {process.env.VERSION}">
 		<tabs class="flex flex-row mb-2">
 			<button
 				class="text-gray-500 w-1/2 py-2 px-6 block hover:text-secondary focus:outline-none {tabs ==
@@ -44,29 +45,28 @@
 					: ''}"
 				on:click={() => moveTabs('changelog')}
 			>
-				Version Updates
+				Log Perubahan
 			</button>
 		</tabs>
 
 		{#if tabs == 'aboutUs'}
-			<div class="flex flex-col">
+			<div class="flex flex-col text-sm">
 				<p class="mb-3">
-					Ini adalah proyek sumber terbuka yang bisa digunakan secara bebas, surah yang ada di
-					colorful-quran diambil dari Kementrian Agama Indonesia, jika anda menemukan kesalahan atau
-					mempunyai ide yang lebih baik, silah submit issue ke repository github kami, segera akan
-					kami perbaiki di versi selanjutnya.
+					Aplikasi ini merupakan sumber terbuka yang bisa digunakan secara bebas. Data surat dan
+					ayat diambil dari Kementrian Agama Indonesia. Aplikasi ini masih jauh dari sempurna. Jika
+					anda menemukan kesalahan atau mempunyai saran, silakan submit issue ke repository github
+					kami, segera akan kami perbaiki di versi selanjutnya.
 				</p>
-				<span class="text-sm mb-2">This our repository</span>
 				<a
 					href="https://github.com/kodepintar/colorful-quran"
 					alt="github repository"
 					class="flex items-center mb-4"
 				>
 					<Icon icon="akar-icons:github-fill" width="25" height="25" />
-					<span class="ml-2">Github</span>
+					<span class="ml-2">Github/KodePintar</span>
 				</a>
 
-				<h3 class="mb-2 text-sm">Contributor</h3>
+				<h3 class="mb-2">Contributor</h3>
 				<div class="grid grid-cols-4 gap-3">
 					{#each contributor as contribute}
 						<a href={contribute.html_url} class="w-20 items-center flex flex-col">
@@ -79,15 +79,8 @@
 		{/if}
 
 		{#if tabs == 'changelog'}
-			<div class="flex flex-col">
-				<span class="text-xl">Perubahan</span>
-				<span class="text-sm mb-2">Version: 0.3.0</span>
-				<hr />
-				<p>
-					Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sunt accusantium in aut quis
-					ullam quaerat veritatis. Dolorum numquam fugit, sequi impedit, id illum accusamus
-					aspernatur, voluptatem harum vel suscipit recusandae?
-				</p>
+			<div class="flex flex-col markdown overflow-y-scroll">
+				{@html snarkdown(process.env.CHANGELOG)}
 			</div>
 		{/if}
 	</Modal>
@@ -99,5 +92,18 @@
 		@apply border-b-2;
 		@apply font-medium;
 		@apply border-primary;
+	}
+	:global(.markdown h2) {
+		@apply font-bold;
+	}
+	:global(.markdown h3) {
+		@apply pl-2;
+		@apply italic;
+		@apply text-sm;
+	}
+	:global(.markdown ul) {
+		@apply text-xs;
+		@apply list-disc;
+		@apply pl-6;
 	}
 </style>
