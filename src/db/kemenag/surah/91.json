@@ -202,6 +202,11 @@
 		"translation_aya_text": "Namun mereka mendustakannya dan menyembelihnya, karena itu Tuhan membinasakan mereka karena dosanya, lalu diratakan-Nya (dengan tanah),",
 		"tajweed": [
 			{
+				"class": "ikhfa-syafawi",
+				"start": 58,
+				"end": 63
+			},
+			{
 				"class": "iqlab",
 				"start": 65,
 				"end": 67

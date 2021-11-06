@@ -375,6 +375,11 @@
 		"translation_aya_text": "Dan Dia memberi balasan kepada mereka karena kesabarannya (berupa) surga dan (pakaian) sutera.",
 		"tajweed": [
 			{
+				"class": "ikhfa-syafawi",
+				"start": 9,
+				"end": 14
+			},
+			{
 				"class": "ghunnah",
 				"start": 30,
 				"end": 33
@@ -436,6 +441,11 @@
 		"page_number": 579,
 		"translation_aya_text": "Dan kepada mereka diedarkan bejana-bejana dari perak dan piala-piala yang bening laksana kristal,",
 		"tajweed": [
+			{
+				"class": "ikhfa-syafawi",
+				"start": 18,
+				"end": 23
+			},
 			{
 				"class": "idgham-bighunnah",
 				"start": 29,

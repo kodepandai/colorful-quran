@@ -640,6 +640,11 @@
 				"end": 133
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 144,
+				"end": 149
+			},
+			{
 				"class": "idgham-bighunnah",
 				"start": 180,
 				"end": 185
@@ -888,6 +893,16 @@
 				"class": "ghunnah",
 				"start": 54,
 				"end": 57
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 80,
+				"end": 82
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 83,
+				"end": 85
 			},
 			{
 				"class": "ghunnah",

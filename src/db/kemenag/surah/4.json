@@ -1661,6 +1661,11 @@
 				"end": 286
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 310,
+				"end": 315
+			},
+			{
 				"class": "ghunnah",
 				"start": 317,
 				"end": 320
@@ -1669,6 +1674,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 326,
 				"end": 331
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 355,
+				"end": 360
 			},
 			{
 				"class": "ghunnah",
@@ -1767,6 +1777,11 @@
 				"end": 175
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 229,
+				"end": 234
+			},
+			{
 				"class": "ghunnah",
 				"start": 243,
 				"end": 246
@@ -1790,6 +1805,11 @@
 				"class": "idgham-bighunnah",
 				"start": 287,
 				"end": 289
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 332,
+				"end": 337
 			},
 			{
 				"class": "iqlab",
@@ -1856,6 +1876,16 @@
 				"class": "ikhfa",
 				"start": 122,
 				"end": 127
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 185,
+				"end": 187
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 189,
+				"end": 191
 			},
 			{
 				"class": "idgham-mimi",
@@ -2060,6 +2090,16 @@
 				"class": "madd-jaiz",
 				"start": 45,
 				"end": 48
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 61,
+				"end": 66
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 72,
+				"end": 77
 			},
 			{
 				"class": "madd-jaiz",
@@ -3152,6 +3192,16 @@
 				"end": 47
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 51,
+				"end": 53
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 55,
+				"end": 57
+			},
+			{
 				"class": "idgham-bighunnah",
 				"start": 81,
 				"end": 86
@@ -3389,6 +3439,11 @@
 				"end": 68
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 95,
+				"end": 100
+			},
+			{
 				"class": "ghunnah",
 				"start": 159,
 				"end": 162
@@ -3506,6 +3561,11 @@
 				"end": 63
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 90,
+				"end": 95
+			},
+			{
 				"class": "ghunnah",
 				"start": 102,
 				"end": 105
@@ -3529,6 +3589,11 @@
 				"class": "ghunnah",
 				"start": 158,
 				"end": 161
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 171,
+				"end": 176
 			},
 			{
 				"class": "ghunnah",
@@ -4813,6 +4878,11 @@
 		"translation_aya_text": "Dan apabila kamu dihormati dengan suatu (salam) penghormatan, maka balaslah penghormatan itu dengan yang lebih baik, atau balaslah (penghormatan itu, yang sepadan) dengannya. Sungguh, Allah memperhitungkan segala sesuatu.",
 		"tajweed": [
 			{
+				"class": "ikhfa-syafawi",
+				"start": 17,
+				"end": 22
+			},
+			{
 				"class": "ikhfa",
 				"start": 29,
 				"end": 34
@@ -4869,6 +4939,11 @@
 		"page_number": 92,
 		"translation_aya_text": "Maka mengapa kamu (terpecah) menjadi dua golongan dalam (menghadapi) orang-orang munafik, padahal Allah telah mengembalikan mereka (kepada kekafiran), disebabkan usaha mereka sendiri? Apakah kamu bermaksud memberi petunjuk kepada orang yang telah dibiarkan sesat oleh Allah? Barangsiapa dibiarkan sesat oleh Allah, kamu tidak akan mendapatkan jalan (untuk memberi petunjuk) baginya.",
 		"tajweed": [
+			{
+				"class": "ikhfa-syafawi",
+				"start": 66,
+				"end": 71
+			},
 			{
 				"class": "ikhfa",
 				"start": 104,
@@ -8156,6 +8231,11 @@
 				"end": 21
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 44,
+				"end": 49
+			},
+			{
 				"class": "iqlab",
 				"start": 82,
 				"end": 84
@@ -8230,6 +8310,11 @@
 				"class": "idgham-bighunnah",
 				"start": 191,
 				"end": 197
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 212,
+				"end": 217
 			},
 			{
 				"class": "ghunnah",
@@ -8992,6 +9077,11 @@
 				"class": "madd-wajib",
 				"start": 28,
 				"end": 30
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 34,
+				"end": 39
 			},
 			{
 				"class": "idgham-bighunnah",

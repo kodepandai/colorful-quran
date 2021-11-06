@@ -369,6 +369,11 @@
 				"end": 6
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 14,
+				"end": 19
+			},
+			{
 				"class": "ghunnah",
 				"start": 52,
 				"end": 55
@@ -886,6 +891,11 @@
 				"class": "idgham-bighunnah",
 				"start": 36,
 				"end": 41
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 101,
+				"end": 106
 			},
 			{
 				"class": "madd-wajib",
@@ -1819,6 +1829,11 @@
 		"translation_aya_text": "atau Allah mengazab mereka pada waktu mereka dalam perjalanan; sehingga mereka tidak berdaya menolak (azab itu),",
 		"tajweed": [
 			{
+				"class": "ikhfa-syafawi",
+				"start": 45,
+				"end": 50
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 58,
 				"end": 60
@@ -2082,6 +2097,11 @@
 				"end": 59
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 59,
+				"end": 64
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 82,
 				"end": 84
@@ -2205,6 +2225,11 @@
 		"page_number": 273,
 		"translation_aya_text": "Padahal apabila seseorang dari mereka diberi kabar dengan (kelahiran) anak perempuan, wajahnya menjadi hitam (merah padam), dan dia sangat marah.",
 		"tajweed": [
+			{
+				"class": "ikhfa-syafawi",
+				"start": 24,
+				"end": 29
+			},
 			{
 				"class": "ikhfa",
 				"start": 34,
@@ -2925,6 +2950,11 @@
 				"end": 73
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 88,
+				"end": 93
+			},
+			{
 				"class": "idgham-bighunnah",
 				"start": 108,
 				"end": 113
@@ -3412,6 +3442,11 @@
 				"class": "idgham-bighunnah",
 				"start": 91,
 				"end": 93
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 163,
+				"end": 168
 			},
 			{
 				"class": "ghunnah",
@@ -4129,6 +4164,11 @@
 				"end": 93
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 98,
+				"end": 103
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 133,
 				"end": 135
@@ -4205,6 +4245,11 @@
 				"end": 123
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 128,
+				"end": 133
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 163,
 				"end": 165
@@ -4261,6 +4306,11 @@
 				"class": "ghunnah",
 				"start": 2,
 				"end": 5
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 68,
+				"end": 73
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -5303,6 +5353,11 @@
 				"end": 3
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 83,
+				"end": 88
+			},
+			{
 				"class": "ghunnah",
 				"start": 114,
 				"end": 117
@@ -5342,6 +5397,11 @@
 				"class": "qalqalah",
 				"start": 51,
 				"end": 52
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 55,
+				"end": 60
 			},
 			{
 				"class": "ikhfa",

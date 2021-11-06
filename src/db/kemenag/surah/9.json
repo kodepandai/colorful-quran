@@ -411,6 +411,11 @@
 				"end": 87
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 98,
+				"end": 103
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 162,
 				"end": 164
@@ -636,6 +641,11 @@
 				"end": 61
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 93,
+				"end": 98
+			},
+			{
 				"class": "ikhfa",
 				"start": 165,
 				"end": 170
@@ -810,6 +820,11 @@
 				"end": 86
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 90,
+				"end": 95
+			},
+			{
 				"class": "madd-wajib",
 				"start": 109,
 				"end": 113
@@ -928,6 +943,11 @@
 		"page_number": 190,
 		"translation_aya_text": "Tuhan menggembirakan mereka dengan memberikan rahmat, keridaan dan surga, mereka memperoleh kesenangan yang kekal di dalamnya,",
 		"tajweed": [
+			{
+				"class": "ikhfa-syafawi",
+				"start": 21,
+				"end": 26
+			},
 			{
 				"class": "idgham-bighunnah",
 				"start": 32,
@@ -1383,6 +1403,11 @@
 				"end": 82
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 110,
+				"end": 115
+			},
+			{
 				"class": "ikhfa",
 				"start": 175,
 				"end": 180
@@ -1607,6 +1632,11 @@
 				"end": 230
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 274,
+				"end": 279
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 291,
 				"end": 293
@@ -1809,6 +1839,11 @@
 				"class": "ikhfa",
 				"start": 65,
 				"end": 69
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 138,
+				"end": 143
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -2613,6 +2648,11 @@
 				"end": 58
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 92,
+				"end": 97
+			},
+			{
 				"class": "idgham-bighunnah",
 				"start": 121,
 				"end": 125
@@ -2972,6 +3012,11 @@
 				"end": 62
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 71,
+				"end": 76
+			},
+			{
 				"class": "ghunnah",
 				"start": 122,
 				"end": 125
@@ -3042,6 +3087,11 @@
 				"class": "qalqalah",
 				"start": 20,
 				"end": 21
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 31,
+				"end": 36
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -3242,6 +3292,11 @@
 				"end": 103
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 148,
+				"end": 153
+			},
+			{
 				"class": "ikhfa",
 				"start": 196,
 				"end": 201
@@ -3250,6 +3305,11 @@
 				"class": "qalqalah",
 				"start": 201,
 				"end": 202
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 207,
+				"end": 212
 			},
 			{
 				"class": "madd-wajib",
@@ -3311,6 +3371,11 @@
 				"class": "qalqalah",
 				"start": 125,
 				"end": 126
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 170,
+				"end": 175
 			},
 			{
 				"class": "ikhfa",
@@ -3931,6 +3996,11 @@
 				"end": 167
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 180,
+				"end": 185
+			},
+			{
 				"class": "ikhfa",
 				"start": 210,
 				"end": 212
@@ -4026,6 +4096,11 @@
 				"class": "idgham-bighunnah",
 				"start": 76,
 				"end": 81
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 91,
+				"end": 96
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -4322,6 +4397,11 @@
 				"end": 192
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 256,
+				"end": 261
+			},
+			{
 				"class": "ikhfa",
 				"start": 267,
 				"end": 271
@@ -4598,6 +4678,11 @@
 				"end": 63
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 92,
+				"end": 97
+			},
+			{
 				"class": "idgham-bilaghunnah",
 				"start": 104,
 				"end": 106
@@ -4751,6 +4836,11 @@
 				"end": 35
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 60,
+				"end": 65
+			},
+			{
 				"class": "ghunnah",
 				"start": 91,
 				"end": 94
@@ -4812,6 +4902,11 @@
 		"page_number": 203,
 		"translation_aya_text": "Dan katakanlah, “Bekerjalah kamu, maka Allah akan melihat pekerjaanmu, begitu juga Rasul-Nya dan orang-orang mukmin, dan kamu akan dikembalikan kepada (Allah) Yang Mengetahui yang gaib dan yang nyata, lalu diberitakan-Nya kepada kamu apa yang telah kamu kerjakan.”",
 		"tajweed": [
+			{
+				"class": "ikhfa-syafawi",
+				"start": 146,
+				"end": 151
+			},
 			{
 				"class": "ikhfa",
 				"start": 157,
@@ -5094,6 +5189,11 @@
 				"end": 52
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 72,
+				"end": 77
+			},
+			{
 				"class": "ghunnah",
 				"start": 79,
 				"end": 82
@@ -5132,6 +5232,11 @@
 				"class": "qalqalah",
 				"start": 286,
 				"end": 287
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 327,
+				"end": 332
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -5578,6 +5683,11 @@
 				"end": 343
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 368,
+				"end": 373
+			},
+			{
 				"class": "ikhfa",
 				"start": 380,
 				"end": 385
@@ -5945,6 +6055,11 @@
 				"end": 105
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 139,
+				"end": 144
+			},
+			{
 				"class": "ghunnah",
 				"start": 146,
 				"end": 149
@@ -5989,6 +6104,11 @@
 				"class": "ikhfa",
 				"start": 35,
 				"end": 39
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 95,
+				"end": 100
 			},
 			{
 				"class": "idgham-bilaghunnah",

@@ -8,7 +8,7 @@
 	const dispatch = createEventDispatcher();
 
 	export let surah: IAya[];
-	export let surahDetail: ISurah;
+	export let surahDetail: ISurah = null;
 	interface IToolTip {
 		tajweed: ITajweed;
 		showDesc: boolean;
@@ -124,20 +124,22 @@
 				</p>
 			</div>
 		{/if}
-		<div class="hidden group-hover:flex mt-2 justify-between">
-			<Share
-				text={decodeURIComponent(
-					`${aya.aya_text} %0A${aya.translation_aya_text} (${surahDetail.surat_name}:${aya.aya_number})`
-				)}
-			/>
-			<button on:click={() => saveLastReading(aya)}>
-				{#if $Setting$.last_read_surah == aya.sura_id.toString() && $Setting$.last_read_aya == aya.aya_number.toString()}
-					<Icon icon="emojione-monotone:open-book" color="#5C7AEA" width="30" height="30" />
-				{:else}
-					<Icon icon="emojione-monotone:open-book" color="#B2B1B9" width="30" height="30" />
-				{/if}
-			</button>
-		</div>
+		{#if surahDetail}
+			<div class="hidden group-hover:flex mt-2 justify-between">
+				<Share
+					text={decodeURIComponent(
+						`${aya.aya_text} %0A${aya.translation_aya_text} (${surahDetail.surat_name}:${aya.aya_number})`
+					)}
+				/>
+				<button on:click={() => saveLastReading(aya)}>
+					{#if $Setting$.last_read_surah == aya.sura_id.toString() && $Setting$.last_read_aya == aya.aya_number.toString()}
+						<Icon icon="emojione-monotone:open-book" color="#5C7AEA" width="30" height="30" />
+					{:else}
+						<Icon icon="emojione-monotone:open-book" color="#B2B1B9" width="30" height="30" />
+					{/if}
+				</button>
+			</div>
+		{/if}
 	</div>
 {/each}
 

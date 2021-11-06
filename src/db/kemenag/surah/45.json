@@ -555,6 +555,11 @@
 		"translation_aya_text": "Dan Kami berikan kepada mereka keterangan-keterangan yang jelas tentang urusan (agama); maka mereka tidak berselisih kecuali setelah datang ilmu kepada mereka, karena kedengkian (yang ada) di antara mereka. Sungguh, Tuhanmu akan memberi putusan kepada mereka pada hari Kiamat terhadap apa yang selalu mereka perselisihkan.",
 		"tajweed": [
 			{
+				"class": "ikhfa-syafawi",
+				"start": 12,
+				"end": 17
+			},
+			{
 				"class": "idgham-bighunnah",
 				"start": 22,
 				"end": 27
@@ -887,6 +892,11 @@
 				"end": 87
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 115,
+				"end": 120
+			},
+			{
 				"class": "ghunnah",
 				"start": 161,
 				"end": 164
@@ -1095,6 +1105,11 @@
 				"class": "ikhfa",
 				"start": 18,
 				"end": 22
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 33,
+				"end": 38
 			},
 			{
 				"class": "ghunnah",
@@ -1322,6 +1337,11 @@
 		"page_number": 502,
 		"translation_aya_text": "Yang demikian itu, karena sesungguhnya kamu telah menjadikan ayat-ayat Allah sebagai olok-olokan dan kamu telah ditipu oleh kehidupan dunia.” Maka pada hari ini mereka tidak dikeluarkan dari neraka dan tidak pula mereka diberi kesempatan untuk bertobat.",
 		"tajweed": [
+			{
+				"class": "ikhfa-syafawi",
+				"start": 6,
+				"end": 11
+			},
 			{
 				"class": "ghunnah",
 				"start": 13,

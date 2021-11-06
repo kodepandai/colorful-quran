@@ -341,7 +341,13 @@
 		"juz_id": 30,
 		"page_number": 592,
 		"translation_aya_text": "Engkau bukanlah orang yang berkuasa atas mereka,",
-		"tajweed": []
+		"tajweed": [
+			{
+				"class": "ikhfa-syafawi",
+				"start": 16,
+				"end": 21
+			}
+		]
 	},
 	{
 		"aya_id": 5990,

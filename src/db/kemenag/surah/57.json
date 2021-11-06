@@ -440,6 +440,16 @@
 		"translation_aya_text": "pada hari engkau akan melihat orang-orang yang beriman laki-laki dan perempuan, betapa cahaya mereka bersinar di depan dan di samping kanan mereka, (dikatakan kepada mereka), “Pada hari ini ada berita gembira untukmu, (yaitu) surga-surga yang mengalir di bawahnya sungai-sungai, mereka kekal di dalamnya. Demikian itulah kemenangan yang agung.”",
 		"tajweed": [
 			{
+				"class": "ikhfa-syafawi",
+				"start": 61,
+				"end": 66
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 99,
+				"end": 104
+			},
+			{
 				"class": "ghunnah",
 				"start": 126,
 				"end": 129
@@ -506,6 +516,11 @@
 				"end": 167
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 183,
+				"end": 188
+			},
+			{
 				"class": "idgham-bilaghunnah",
 				"start": 192,
 				"end": 197
@@ -570,6 +585,11 @@
 				"class": "madd-wajib",
 				"start": 161,
 				"end": 163
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 190,
+				"end": 195
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -1248,6 +1268,11 @@
 				"class": "madd-jaiz",
 				"start": 19,
 				"end": 24
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 33,
+				"end": 38
 			},
 			{
 				"class": "qalqalah",

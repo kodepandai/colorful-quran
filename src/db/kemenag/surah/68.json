@@ -1003,6 +1003,11 @@
 		"translation_aya_text": "Tanyakanlah kepada mereka, “Siapakah di antara mereka yang bertanggung jawab terhadap (keputusan yang diambil itu)?”",
 		"tajweed": [
 			{
+				"class": "ikhfa-syafawi",
+				"start": 16,
+				"end": 21
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 32,
 				"end": 34

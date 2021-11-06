@@ -95,6 +95,11 @@
 				"end": 167
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 215,
+				"end": 220
+			},
+			{
 				"class": "madd-wajib",
 				"start": 224,
 				"end": 226
@@ -742,6 +747,11 @@
 				"end": 55
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 87,
+				"end": 92
+			},
+			{
 				"class": "madd-wajib",
 				"start": 137,
 				"end": 139
@@ -791,6 +801,11 @@
 				"class": "idgham-bighunnah",
 				"start": 70,
 				"end": 72
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 82,
+				"end": 87
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -1317,6 +1332,11 @@
 		"translation_aya_text": "(sambil mengucapkan), “Selamat sejahtera atasmu karena kesabaranmu.” Maka alangkah nikmatnya tempat kesudahan itu.",
 		"tajweed": [
 			{
+				"class": "ikhfa-syafawi",
+				"start": 15,
+				"end": 20
+			},
+			{
 				"class": "qalqalah",
 				"start": 46,
 				"end": 47
@@ -1511,6 +1531,11 @@
 				"end": 35
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 46,
+				"end": 51
+			},
+			{
 				"class": "qalqalah",
 				"start": 93,
 				"end": 94
@@ -1669,6 +1694,11 @@
 				"end": 244
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 288,
+				"end": 293
+			},
+			{
 				"class": "idgham-bighunnah",
 				"start": 336,
 				"end": 338
@@ -1764,6 +1794,11 @@
 				"class": "ghunnah",
 				"start": 100,
 				"end": 103
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 168,
+				"end": 173
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -1958,6 +1993,11 @@
 				"class": "madd-wajib",
 				"start": 71,
 				"end": 73
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 77,
+				"end": 82
 			},
 			{
 				"class": "madd-wajib",

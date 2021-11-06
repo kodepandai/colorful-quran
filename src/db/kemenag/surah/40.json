@@ -390,6 +390,11 @@
 		"translation_aya_text": "Yang demikian itu karena sesungguhnya kamu mengingkari apabila diseru untuk menyembah Allah saja. Dan jika Allah dipersekutukan, kamu percaya. Maka keputusan (sekarang ini) adalah pada Allah Yang Mahatinggi, Mahabesar.",
 		"tajweed": [
 			{
+				"class": "ikhfa-syafawi",
+				"start": 6,
+				"end": 11
+			},
+			{
 				"class": "ghunnah",
 				"start": 13,
 				"end": 16
@@ -513,6 +518,11 @@
 		"page_number": 468,
 		"translation_aya_text": "(yaitu) pada hari (ketika) mereka keluar (dari kubur); tidak sesuatu pun keadaan mereka yang tersembunyi di sisi Allah. (Lalu Allah berfirman), “Milik siapakah kerajaan pada hari ini?” Milik Allah Yang Maha Esa, Maha Mengalahkan.",
 		"tajweed": [
+			{
+				"class": "ikhfa-syafawi",
+				"start": 9,
+				"end": 14
+			},
 			{
 				"class": "idgham-bilaghunnah",
 				"start": 65,
@@ -730,6 +740,11 @@
 				"end": 14
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 49,
+				"end": 54
+			},
+			{
 				"class": "ghunnah",
 				"start": 103,
 				"end": 106
@@ -811,6 +826,11 @@
 				"class": "madd-wajib",
 				"start": 11,
 				"end": 13
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 17,
+				"end": 22
 			},
 			{
 				"class": "ikhfa",
@@ -981,6 +1001,11 @@
 				"end": 135
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 139,
+				"end": 144
+			},
+			{
 				"class": "idgham-bilaghunnah",
 				"start": 159,
 				"end": 164
@@ -1019,6 +1044,11 @@
 				"class": "qalqalah",
 				"start": 244,
 				"end": 245
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 248,
+				"end": 253
 			},
 			{
 				"class": "ghunnah",
@@ -1285,6 +1315,11 @@
 				"class": "madd-wajib",
 				"start": 92,
 				"end": 94
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 98,
+				"end": 103
 			},
 			{
 				"class": "madd-jaiz",
@@ -2023,6 +2058,11 @@
 				"end": 8
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 45,
+				"end": 50
+			},
+			{
 				"class": "qalqalah",
 				"start": 92,
 				"end": 93
@@ -2212,6 +2252,11 @@
 				"class": "idgham-bighunnah",
 				"start": 115,
 				"end": 120
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 125,
+				"end": 130
 			},
 			{
 				"class": "ghunnah",
@@ -2978,6 +3023,11 @@
 		"translation_aya_text": "Yang demikian itu disebabkan karena kamu bersuka ria di bumi (tanpa) mengindahkan kebenaran dan karena kamu selalu bersuka ria (dalam kemaksiatan).",
 		"tajweed": [
 			{
+				"class": "ikhfa-syafawi",
+				"start": 6,
+				"end": 11
+			},
+			{
 				"class": "ikhfa",
 				"start": 17,
 				"end": 21
@@ -3299,6 +3349,11 @@
 				"class": "madd-wajib",
 				"start": 11,
 				"end": 13
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 30,
+				"end": 35
 			},
 			{
 				"class": "ikhfa",

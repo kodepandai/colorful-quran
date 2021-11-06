@@ -7,6 +7,7 @@
 - markdown import from CHANGELOG.md
 - add modal about us
 - add modal info and change layout
+- **tajweed:** ikhfa syafawi rule finder
 - add share button to social media ([#56](https://github.com/kodepintar/colorful-quran/issues/56))
 
 <a name="v0.3.0"></a>

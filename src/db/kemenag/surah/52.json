@@ -261,6 +261,11 @@
 				"end": 31
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 31,
+				"end": 36
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 49,
 				"end": 51
@@ -452,6 +457,11 @@
 				"end": 51
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 56,
+				"end": 61
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 70,
 				"end": 72
@@ -467,6 +477,11 @@
 		"page_number": 524,
 		"translation_aya_text": "Dan orang-orang yang beriman, beserta anak cucu mereka yang mengikuti mereka dalam keimanan, Kami pertemukan mereka dengan anak cucu mereka (di dalam surga), dan Kami tidak mengurangi sedikit pun pahala amal (kebajikan) mereka. Setiap orang terikat dengan apa yang dikerjakannya. ",
 		"tajweed": [
+			{
+				"class": "ikhfa-syafawi",
+				"start": 52,
+				"end": 57
+			},
 			{
 				"class": "qalqalah",
 				"start": 73,
@@ -532,6 +547,11 @@
 				"class": "qalqalah",
 				"start": 8,
 				"end": 9
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 14,
+				"end": 19
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -849,6 +869,11 @@
 		"translation_aya_text": "Apakah mereka diperintah oleh pikiran-pikiran mereka untuk mengucapkan (tuduhan-tuduhan) ini ataukah mereka kaum yang melampaui batas?",
 		"tajweed": [
 			{
+				"class": "ikhfa-syafawi",
+				"start": 29,
+				"end": 34
+			},
+			{
 				"class": "madd-jaiz",
 				"start": 38,
 				"end": 41
@@ -983,6 +1008,11 @@
 				"class": "idgham-bighunnah",
 				"start": 17,
 				"end": 22
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 67,
+				"end": 72
 			},
 			{
 				"class": "idgham-bighunnah",

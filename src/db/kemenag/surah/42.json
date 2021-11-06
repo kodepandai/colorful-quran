@@ -143,6 +143,11 @@
 				"end": 95
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 104,
+				"end": 109
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 113,
 				"end": 115
@@ -1311,6 +1316,11 @@
 				"class": "ikhfa",
 				"start": 9,
 				"end": 13
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 13,
+				"end": 18
 			},
 			{
 				"class": "idgham-mimi",

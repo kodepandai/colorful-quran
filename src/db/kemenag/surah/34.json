@@ -251,6 +251,11 @@
 		"translation_aya_text": "Apakah dia mengada-adakan kebohongan terhadap Allah atau sakit gila?” (Tidak), tetapi orang-orang yang tidak beriman kepada akhirat itu berada dalam siksaan dan kesesatan yang jauh.",
 		"tajweed": [
 			{
+				"class": "ikhfa-syafawi",
+				"start": 34,
+				"end": 39
+			},
+			{
 				"class": "ghunnah",
 				"start": 44,
 				"end": 47
@@ -659,6 +664,11 @@
 		"translation_aya_text": "Tetapi mereka berpaling, maka Kami kirim kepada mereka banjir yang besar dan Kami ganti kedua kebun mereka dengan dua kebun yang ditumbuhi (pohon-pohon) yang berbuah pahit, pohon Atsl dan sedikit pohon Sidr.",
 		"tajweed": [
 			{
+				"class": "ikhfa-syafawi",
+				"start": 69,
+				"end": 74
+			},
+			{
 				"class": "ghunnah",
 				"start": 76,
 				"end": 79
@@ -714,6 +724,11 @@
 		"page_number": 430,
 		"translation_aya_text": "Demikianlah Kami memberi balasan kepada mereka karena kekafiran mereka. Dan Kami tidak menjatuhkan azab (yang demikian itu), melainkan hanya kepada orang-orang yang sangat kafir.",
 		"tajweed": [
+			{
+				"class": "ikhfa-syafawi",
+				"start": 17,
+				"end": 22
+			},
 			{
 				"class": "madd-jaiz",
 				"start": 50,
@@ -1110,6 +1125,11 @@
 				"end": 34
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 37,
+				"end": 42
+			},
+			{
 				"class": "madd-wajib",
 				"start": 51,
 				"end": 53
@@ -1315,6 +1335,11 @@
 				"end": 112
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 116,
+				"end": 121
+			},
+			{
 				"class": "ikhfa",
 				"start": 126,
 				"end": 130
@@ -1447,6 +1472,11 @@
 				"end": 93
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 103,
+				"end": 108
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 117,
 				"end": 119
@@ -1558,6 +1588,11 @@
 				"class": "madd-jaiz",
 				"start": 25,
 				"end": 28
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 39,
+				"end": 44
 			},
 			{
 				"class": "ikhfa",
@@ -1759,9 +1794,24 @@
 				"end": 45
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 51,
+				"end": 53
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 54,
+				"end": 56
+			},
+			{
 				"class": "ghunnah",
 				"start": 87,
 				"end": 90
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 101,
+				"end": 106
 			},
 			{
 				"class": "idgham-mimi",
@@ -1818,6 +1868,11 @@
 				"class": "ikhfa",
 				"start": 140,
 				"end": 144
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 144,
+				"end": 149
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -2024,6 +2079,11 @@
 				"end": 17
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 25,
+				"end": 30
+			},
+			{
 				"class": "ikhfa",
 				"start": 43,
 				"end": 48
@@ -2052,6 +2112,11 @@
 				"class": "idgham-bilaghunnah",
 				"start": 163,
 				"end": 168
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 171,
+				"end": 176
 			},
 			{
 				"class": "ikhfa",

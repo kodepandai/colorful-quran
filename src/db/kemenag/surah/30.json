@@ -337,6 +337,11 @@
 				"end": 208
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 225,
+				"end": 230
+			},
+			{
 				"class": "ikhfa",
 				"start": 285,
 				"end": 290
@@ -678,6 +683,11 @@
 				"end": 66
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 66,
+				"end": 71
+			},
+			{
 				"class": "ikhfa",
 				"start": 73,
 				"end": 78
@@ -800,6 +810,11 @@
 		"page_number": 406,
 		"translation_aya_text": "Dan di antara tanda-tanda (kebesaran)-Nya ialah tidurmu pada waktu malam dan siang hari dan usahamu mencari sebagian dari karunia-Nya. Sungguh, pada yang demikian itu benar-benar terdapat tanda-tanda bagi kaum yang mendengarkan. ",
 		"tajweed": [
+			{
+				"class": "ikhfa-syafawi",
+				"start": 25,
+				"end": 30
+			},
 			{
 				"class": "ghunnah",
 				"start": 43,
@@ -1122,6 +1137,11 @@
 				"end": 44
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 48,
+				"end": 53
+			},
+			{
 				"class": "ikhfa",
 				"start": 64,
 				"end": 66
@@ -1304,6 +1324,11 @@
 				"class": "idgham-bighunnah",
 				"start": 124,
 				"end": 129
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 134,
+				"end": 139
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -1704,6 +1729,11 @@
 				"end": 71
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 87,
+				"end": 92
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 136,
 				"end": 138
@@ -1943,6 +1973,11 @@
 				"class": "madd-wajib",
 				"start": 64,
 				"end": 66
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 72,
+				"end": 77
 			},
 			{
 				"class": "ikhfa",
@@ -2504,6 +2539,11 @@
 				"class": "ikhfa",
 				"start": 78,
 				"end": 83
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 89,
+				"end": 94
 			},
 			{
 				"class": "idgham-bilaghunnah",

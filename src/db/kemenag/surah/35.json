@@ -223,6 +223,11 @@
 				"end": 108
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 110,
+				"end": 115
+			},
+			{
 				"class": "madd-arid-lissukun",
 				"start": 130,
 				"end": 132
@@ -916,6 +921,11 @@
 				"end": 150
 			},
 			{
+				"class": "ikhfa-syafawi",
+				"start": 182,
+				"end": 187
+			},
+			{
 				"class": "ikhfa",
 				"start": 225,
 				"end": 230
@@ -1151,6 +1161,11 @@
 				"class": "madd-wajib",
 				"start": 67,
 				"end": 69
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 86,
+				"end": 91
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -1836,6 +1851,11 @@
 				"class": "idgham-bighunnah",
 				"start": 220,
 				"end": 225
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 253,
+				"end": 258
 			}
 		]
 	},
