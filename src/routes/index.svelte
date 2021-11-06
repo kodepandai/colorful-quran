@@ -22,7 +22,9 @@
 	});
 
 	const gotoLastRead = () => {
-		goto('/kemenag/surah/' + $Setting$.last_read_surah + '#' + $Setting$.last_read_aya);
+		if ($Setting$.last_read_aya) {
+			goto('/kemenag/surah/' + $Setting$.last_read_surah + '#' + $Setting$.last_read_aya);
+		}
 	};
 </script>
 
@@ -41,7 +43,7 @@
 			{/if}
 		</div>
 		<div class="flex items-center justify-around w-7/12 md:w-1/2">
-			<div class="flex flex-col items-center cursor-pointer" on:click={() => gotoLastRead()}>
+			<div class="flex flex-col items-center cursor-pointer" on:click={gotoLastRead}>
 				<Icon icon="emojione-monotone:open-book" color="#fff" width="30" height="30" />
 				<span class="text-xs text-white">Last read</span>
 			</div>
