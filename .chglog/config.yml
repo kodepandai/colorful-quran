@@ -10,13 +10,11 @@ options:
         - feat
         - fix
         - perf
-        - refactor
   commit_groups:
     title_maps:
       feat: New Features
       fix: Bug Fixes
       perf: Performance Improvements
-      refactor: Code Refactoring
   header:
     pattern: "^(\\w*)(?:\\(([\\w\\$\\.\\-\\*\\s]*)\\))?\\:\\s(.*)$"
     pattern_maps:

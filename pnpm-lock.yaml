@@ -13,6 +13,7 @@ specifiers:
   jest: ^27.2.5
   prettier: ^2.4.1
   prettier-plugin-svelte: ^2.4.0
+  snarkdown: ^2.0.0
   svelte: ^3.44.0
   svelte-check: ^2.2.6
   svelte-preprocess: ^4.9.8
@@ -26,7 +27,7 @@ specifiers:
 devDependencies:
   '@iconify/svelte': 2.0.0
   '@sveltejs/adapter-static': 1.0.0-next.20
-  '@sveltejs/kit': 1.0.0-next.193_svelte@3.44.0
+  '@sveltejs/kit': 1.0.0-next.195_svelte@3.44.0
   '@types/jest': 27.0.2
   '@typescript-eslint/eslint-plugin': 4.33.0_cc617358c89d3f38c52462f6d809db4c
   '@typescript-eslint/parser': 4.33.0_eslint@7.32.0+typescript@4.4.4
@@ -36,6 +37,7 @@ devDependencies:
   jest: 27.2.5_ts-node@10.3.0
   prettier: 2.4.1
   prettier-plugin-svelte: 2.4.0_prettier@2.4.1+svelte@3.44.0
+  snarkdown: 2.0.0
   svelte: 3.44.0
   svelte-check: 2.2.6_svelte@3.44.0
   svelte-preprocess: 4.9.8_svelte@3.44.0+typescript@4.4.4
@@ -889,10 +891,11 @@ packages:
       }
     dev: true
 
-  /@sveltejs/kit/1.0.0-next.193_svelte@3.44.0:
+  /@sveltejs/kit/1.0.0-next.195_svelte@3.44.0:
     resolution:
       {
-        integrity: sha512-JRe7ZTZONNL2t+uFUkrT6HDWajD/Dp0lDMiB4FODZAtQLx94PKit0I699/dHrQR0qpzE3gYipqtxInTWasFpBg==
+        integrity: sha512-R2X4FgzXQhp63XOik6S1Flw91S2CEA7sTxdsnNFrq3O+bIN7pQhJhkm6zgH68MZANdDcq8oIiSRkxT4M3t1+jQ==
+
       }
     engines: { node: '>=14.13' }
     hasBin: true
@@ -4865,6 +4868,13 @@ packages:
       ansi-styles: 4.3.0
       astral-regex: 2.0.0
       is-fullwidth-code-point: 3.0.0
+    dev: true
+
+  /snarkdown/2.0.0:
+    resolution:
+      {
+        integrity: sha512-MgL/7k/AZdXCTJiNgrO7chgDqaB9FGM/1Tvlcenenb7div6obaDATzs16JhFyHHBGodHT3B7RzRc5qk8pFhg3A==
+      }
     dev: true
 
   /sorcery/0.10.0:

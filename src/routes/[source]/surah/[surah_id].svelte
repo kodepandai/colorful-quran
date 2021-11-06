@@ -76,8 +76,14 @@
 </div>
 {#if surahDetail.id != 9}
 	<div class="flex flex-col items-center my-4 border-b pb-2 dark:text-white">
-		<span class="text-3xl mb-2 font-arab">{basmalah}</span>
-		<span class="text-xs">{surahDetail.id == 1 ? '1. ' : ''}{basmalah01}</span>
+		<span
+			class="mb-2 font-arab"
+			style="font-size: {$Setting$.ukuranAyat}px; line-height: {Number($Setting$.ukuranAyat) +
+				50}px ">{basmalah}</span
+		>
+		{#if $Setting$.showTranslate}
+			<span class="text-xs">{surahDetail.id == 1 ? '1. ' : ''}{basmalah01}</span>
+		{/if}
 	</div>
 {/if}
 <TajweedView {surah} {surahDetail} on:saveLastReading={saveLastReading} />
