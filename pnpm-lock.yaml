@@ -895,7 +895,6 @@ packages:
     resolution:
       {
         integrity: sha512-R2X4FgzXQhp63XOik6S1Flw91S2CEA7sTxdsnNFrq3O+bIN7pQhJhkm6zgH68MZANdDcq8oIiSRkxT4M3t1+jQ==
-
       }
     engines: { node: '>=14.13' }
     hasBin: true

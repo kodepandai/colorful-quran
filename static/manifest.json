@@ -1,0 +1,22 @@
+{
+	"background_color": "#fff",
+	"theme_color": "#14279B",
+	"name": "Colorful Quran",
+	"short_name": "Colorful Quran",
+	"display": "standalone",
+	"start_url": "/",
+	"icons": [
+		{
+			"src": "/logo/manifest-icon-192.maskable.png",
+			"sizes": "192x192",
+			"type": "image/png",
+			"purpose": "any"
+		},
+		{
+			"src": "/logo/manifest-icon-512.maskable.png",
+			"sizes": "512x512",
+			"type": "image/png",
+			"purpose": "any"
+		}
+	]
+}

@@ -4,7 +4,7 @@ import { browser } from '$app/env';
 interface ISetting {
 	last_read_surah?: string;
 	last_read_aya?: string;
-	theme?: 'light'|'dark';
+	theme?: 'light' | 'dark';
 	ukuranAyat?: number;
 	ukuranTerjemahan?: number;
 	showTranslate?: boolean;

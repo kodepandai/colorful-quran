@@ -92,4 +92,6 @@
 		</div>
 	</div>
 {/if}
-<TajweedView {surah} {surahDetail} on:saveLastReading={saveLastReading} />
+<div class="pb-10">
+	<TajweedView {surah} {surahDetail} on:saveLastReading={saveLastReading} />
+</div>
