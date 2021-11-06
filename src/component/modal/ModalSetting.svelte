@@ -6,9 +6,7 @@
 	export let show = false;
 
 	const themeMode = () => {
-		let gettheme = window.document.getElementsByTagName('html')[0].classList.toggle('dark');
-		let theme = gettheme ? 'dark' : 'light';
-		$Setting$.theme = theme;
+		$Setting$.theme = $Setting$.theme == 'dark' ? 'light' : 'dark';
 	};
 
 	const copyUrl = () => {
@@ -31,19 +29,19 @@
 
 {#if show}
 	<Modal on:dismiss={() => (show = false)} title="Pengaturan">
-		<div class="border-b py-2 flex mb-3 cursor-pointer" on:click={() => themeMode()}>
+		<div class="border-b py-2 flex mb-3 cursor-pointer" on:click={themeMode}>
 			<div class="w-12 flex justify-center">
 				<Icon icon="fluent:dark-theme-24-filled" width="20" height="20" />
 			</div>
 			<span>Tema {$Setting$.theme == 'dark' ? 'terang' : 'gelap'}</span>
 		</div>
-		<div class="border-b py-2 flex mb-3 cursor-pointer" on:click={() => copyUrl()}>
+		<div class="border-b py-2 flex mb-3 cursor-pointer" on:click={copyUrl}>
 			<div class="w-12 flex justify-center">
 				<Icon icon="ant-design:copy-outlined" width="20" height="20" />
 			</div>
 			<span>Salin tautan surah ini</span>
 		</div>
-		<div class="border-b py-2 flex mb-3 cursor-pointer" on:click={() => hideTranslate()}>
+		<div class="border-b py-2 flex mb-3 cursor-pointer" on:click={hideTranslate}>
 			<div class="w-12 flex justify-center">
 				<Icon icon="bi:translate" width="20" height="20" />
 			</div>

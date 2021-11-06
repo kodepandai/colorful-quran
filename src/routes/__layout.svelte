@@ -3,14 +3,15 @@
 
 	import '$lib/style/app.css';
 
-	import { onMount } from 'svelte';
 	import { Setting$ } from '$store/Setting';
 
-	onMount(() => {
-		if ($Setting$.theme == 'dark') {
-			window.document.getElementsByTagName('html')[0].classList.toggle('dark');
-		}
-	});
+	$: if (typeof window !== 'undefined') {
+		const method = {
+			dark: 'add',
+			light: 'remove'
+		};
+		window.document.getElementsByTagName('html')[0].classList[method[$Setting$.theme]]('dark');
+	}
 </script>
 
 <div class="md:w-1/2 mx-auto">

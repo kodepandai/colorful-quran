@@ -4,7 +4,7 @@ import { browser } from '$app/env';
 interface ISetting {
 	last_read_surah?: string;
 	last_read_aya?: string;
-	theme?: string;
+	theme?: 'light'|'dark';
 	ukuranAyat?: number;
 	ukuranTerjemahan?: number;
 	showTranslate?: boolean;
@@ -13,7 +13,7 @@ interface ISetting {
 const defaultSetting: ISetting = {
 	last_read_aya: '',
 	last_read_surah: '',
-	theme: '',
+	theme: 'light',
 	ukuranAyat: 16,
 	ukuranTerjemahan: 12,
 	showTranslate: true

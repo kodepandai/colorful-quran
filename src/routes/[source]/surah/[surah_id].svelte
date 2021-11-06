@@ -31,6 +31,7 @@
 	import TajweedView from '$component/TajweedView.svelte';
 	import { Setting$ } from '$store/Setting';
 	import { goto } from '$app/navigation';
+	import Share from '$component/button/share.svelte';
 
 	export let surah: IAya[];
 	export let surahDetail: ISurah;
@@ -75,15 +76,20 @@
 	</div>
 </div>
 {#if surahDetail.id != 9}
-	<div class="flex flex-col items-center my-4 border-b pb-2 dark:text-white">
+	<div class="group flex flex-col items-center my-4 pb-2 dark:text-white">
 		<span
 			class="mb-2 font-arab"
 			style="font-size: {$Setting$.ukuranAyat}px; line-height: {Number($Setting$.ukuranAyat) +
 				50}px ">{basmalah}</span
 		>
 		{#if $Setting$.showTranslate}
-			<span class="text-xs">{surahDetail.id == 1 ? '1. ' : ''}{basmalah01}</span>
+			<span class="text-xs" style="direction: ltr; font-size: {$Setting$.ukuranTerjemahan}px;"
+				>{surahDetail.id == 1 ? '1. ' : ''}{basmalah01}</span
+			>
 		{/if}
+		<div class="hidden group-hover:flex mt-2 justify-between">
+			<Share text={decodeURIComponent(`${basmalah} %0A${basmalah01}`)} />
+		</div>
 	</div>
 {/if}
 <TajweedView {surah} {surahDetail} on:saveLastReading={saveLastReading} />
