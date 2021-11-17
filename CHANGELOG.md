@@ -2,6 +2,12 @@
 ## [Unreleased]
 
 
+<a name="v0.4.1"></a>
+## [v0.4.1] - 2021-11-17
+### Bug Fixes
+- **tajweed:** avoid noon or tanween based rule conflict with ghunnah fix [#62](https://github.com/kodepintar/colorful-quran/issues/62)
+
+
 <a name="v0.4.0"></a>
 ## [v0.4.0] - 2021-11-07
 ### Bug Fixes
@@ -103,7 +109,8 @@
 - new db Quran kemenag
 
 
-[Unreleased]: https://github.com/kodepintar/colorful-quran/compare/v0.4.0...HEAD
+[Unreleased]: https://github.com/kodepintar/colorful-quran/compare/v0.4.1...HEAD
+[v0.4.1]: https://github.com/kodepintar/colorful-quran/compare/v0.4.0...v0.4.1
 [v0.4.0]: https://github.com/kodepintar/colorful-quran/compare/v0.3.0...v0.4.0
 [v0.3.0]: https://github.com/kodepintar/colorful-quran/compare/v0.2.0...v0.3.0
 [v0.2.0]: https://github.com/kodepintar/colorful-quran/compare/v0.1.0...v0.2.0
