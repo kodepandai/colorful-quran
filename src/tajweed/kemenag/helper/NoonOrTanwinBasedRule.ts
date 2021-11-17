@@ -17,7 +17,7 @@ import {
 	Shaddah,
 	Meem
 } from '../check/Char';
-import { GetNext } from '$tajweed/kemenag/check/Pointer';
+import { GetNext, GetPrevHuruf } from '$tajweed/kemenag/check/Pointer';
 
 const IgnoredChar = [
 	AlifMaksura,
@@ -54,6 +54,13 @@ const NoonOrTanwinBasedRule = (
 			];
 			const splitIndex = FindCharIndex(ayaSplited.slice(i, next).join(''), IgnoredChar);
 			if (splitIndex >= 0) {
+				// avoid conflict with ghunnah
+				if (
+					IsChar(ayaSplited[start], Shaddah) &&
+					IsChar(GetPrevHuruf(ayaSplited, start)[1], [Meem, Noon])
+				) {
+					start += 2;
+				}
 				appendRule = [
 					{
 						class: ruleName,

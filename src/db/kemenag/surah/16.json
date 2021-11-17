@@ -2355,11 +2355,6 @@
 			},
 			{
 				"class": "ikhfa",
-				"start": 129,
-				"end": 131
-			},
-			{
-				"class": "ikhfa",
 				"start": 133,
 				"end": 135
 			},
@@ -4551,11 +4546,6 @@
 			{
 				"class": "ghunnah",
 				"start": 89,
-				"end": 92
-			},
-			{
-				"class": "iqlab",
-				"start": 90,
 				"end": 92
 			},
 			{

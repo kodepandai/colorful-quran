@@ -606,11 +606,6 @@
 			},
 			{
 				"class": "iqlab",
-				"start": 3,
-				"end": 5
-			},
-			{
-				"class": "iqlab",
 				"start": 7,
 				"end": 9
 			},
@@ -8515,11 +8510,6 @@
 			},
 			{
 				"class": "iqlab",
-				"start": 109,
-				"end": 111
-			},
-			{
-				"class": "iqlab",
 				"start": 113,
 				"end": 115
 			},
@@ -14191,11 +14181,6 @@
 			},
 			{
 				"class": "idgham-bighunnah",
-				"start": 104,
-				"end": 106
-			},
-			{
-				"class": "idgham-bighunnah",
 				"start": 107,
 				"end": 109
 			},
@@ -15427,11 +15412,6 @@
 			{
 				"class": "ghunnah",
 				"start": 82,
-				"end": 85
-			},
-			{
-				"class": "ikhfa",
-				"start": 83,
 				"end": 85
 			},
 			{

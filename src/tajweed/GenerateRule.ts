@@ -26,7 +26,7 @@ const GenerateRule = async (
 			rules = [...rules, ...result];
 		})
 	);
-	return rules.sort((a, b) => a.start - b.start);
+	return rules.sort((a, b) => a.start - b.start).filter((x) => x.end > x.start);
 };
 
 export const GenerateAllRule = async (aya: string, isFirstAya = false): Promise<ITajweed[]> =>
