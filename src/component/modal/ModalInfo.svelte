@@ -74,6 +74,14 @@
 							<span class="text-sm text-center">{contribute.login}</span>
 						</a>
 					{/each}
+					<a href="#" class="w-20 items-center flex flex-col">
+						<img
+							src="https://w7.pngwing.com/pngs/613/636/png-transparent-computer-icons-user-profile-male-avatar-avatar-heroes-logo-black-thumbnail.png"
+							alt="Hisky Ariel"
+							class="w-16 rounded-full"
+						/>
+						<span class="text-sm text-center">Hisky Ariel</span>
+					</a>
 				</div>
 			</div>
 		{/if}

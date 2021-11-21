@@ -32,6 +32,7 @@
 	import { Setting$ } from '$store/Setting';
 	import { goto } from '$app/navigation';
 	import Share from '$component/button/share.svelte';
+	import Header from '$component/header.svelte';
 
 	export let surah: IAya[];
 	export let surahDetail: ISurah;
@@ -52,6 +53,7 @@
 	};
 </script>
 
+<Header />
 <div
 	class="flex justify-between items-center pt-4 pb-2 border-b sticky top-14 bg-white dark:bg-dark"
 >
@@ -92,6 +94,6 @@
 		</div>
 	</div>
 {/if}
-<div class="pb-10">
+<div class="p-4">
 	<TajweedView {surah} {surahDetail} on:saveLastReading={saveLastReading} />
 </div>
