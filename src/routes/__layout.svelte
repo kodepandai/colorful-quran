@@ -12,6 +12,6 @@
 	}
 </script>
 
-<div class="md:w-1/2 mx-auto">
+<div class="">
 	<slot />
 </div>

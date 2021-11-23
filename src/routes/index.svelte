@@ -27,9 +27,9 @@
 	};
 </script>
 
-<div class="relative">
+<div class="h-[250px]  flex flex-col fixed z-10 top-0 w-full bg-white">
 	<div
-		class="h-[250px] pt-6 flex flex-col px-4 fixed top-0 w-full"
+		class="px-4 pt-6 pb-10"
 		style="background: linear-gradient(129.41deg, #2B52A1 39.97%, rgba(43, 82, 161, 0) 216.3%);
 	mix-blend-mode: normal;"
 	>
@@ -91,49 +91,45 @@
 			/>
 		</div>
 	</div>
+	<div class="w-full bg-white rounded-t-[20px] h-10 -mt-4" />
+</div>
 
-	<div
-		class="bg-white dark:bg-dark rounded-t-[20px] py-6 px-4 absolute w-full top-[236px] h-screen overflow-y-scroll"
-	>
-		{#if dataFiltered.length <= 0}
-			<div class="flex w-full justify-center">
-				<span class="text-gray-500 dark:text-white">Surah tidak ditemukan</span>
-			</div>
-		{/if}
-		{#each dataFiltered as surah}
-			<a
-				class="flex flex-row pb-4 mb-3 justify-between border-b"
-				href={`/kemenag/surah/${surah.id}`}
-			>
-				<div class="flex">
-					<div class="w-7 h-7 bg-white shadow dark:bg-gray-900 rounded-md text-center">
-						<span class="text-xs font-poppins dark:text-white">{surah.id}</span>
-					</div>
-					<div class="flex flex-col line ml-3">
-						<span
-							class="font-poppins dark:text-white"
-							style="direction: ltr; font-size: {$Setting$.ukuranTerjemahan}px;"
-							>{` ${surah.surat_name}`}</span
+<div class="bg-white dark:bg-dark rounded-t-[20px] py-6 px-4 absolute w-full top-[236px]">
+	{#if dataFiltered.length <= 0}
+		<div class="flex w-full justify-center">
+			<span class="text-gray-500 dark:text-white">Surah tidak ditemukan</span>
+		</div>
+	{/if}
+	{#each dataFiltered as surah}
+		<a class="flex flex-row pb-4 mb-3 justify-between border-b" href={`/kemenag/surah/${surah.id}`}>
+			<div class="flex">
+				<div class="w-7 h-7 bg-white shadow dark:bg-gray-900 rounded-md text-center">
+					<span class="text-xs font-poppins dark:text-white">{surah.id}</span>
+				</div>
+				<div class="flex flex-col line ml-3">
+					<span
+						class="font-poppins dark:text-white"
+						style="direction: ltr; font-size: {$Setting$.ukuranTerjemahan}px;"
+						>{` ${surah.surat_name}`}</span
+					>
+					<div class="flex flex-row">
+						<span class="text-[10px] font-poppins text-gray-400 dark:text-white"
+							>{` ${surah.surat_terjemahan}`}</span
 						>
-						<div class="flex flex-row">
-							<span class="text-[10px] font-poppins text-gray-400 dark:text-white"
-								>{` ${surah.surat_terjemahan}`}</span
-							>
-							<span class="text-[10px] font-poppins ml-2 text-gray-400 dark:text-white"
-								>{` ${surah.count_ayat}`} ayat</span
-							>
-						</div>
+						<span class="text-[10px] font-poppins ml-2 text-gray-400 dark:text-white"
+							>{` ${surah.count_ayat}`} ayat</span
+						>
 					</div>
 				</div>
-				<span
-					class="font-arab inline-block align-baseline font-bold dark:text-white"
-					style="font-size: {$Setting$.ukuranAyat}px;">{surah.surat_text}</span
-				>
-			</a>
-		{/each}
-	</div>
-
-	<ModalSetting bind:show={showModalSetting} />
-
-	<ModalInfo bind:show={showModalInfo} />
+			</div>
+			<span
+				class="font-arab inline-block align-baseline font-bold dark:text-white"
+				style="font-size: {$Setting$.ukuranAyat}px;">{surah.surat_text}</span
+			>
+		</a>
+	{/each}
 </div>
+
+<ModalSetting bind:show={showModalSetting} />
+
+<ModalInfo bind:show={showModalInfo} />
