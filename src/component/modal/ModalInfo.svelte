@@ -69,18 +69,18 @@
 				<h3 class="mb-2">Contributor</h3>
 				<div class="grid grid-cols-4 gap-3">
 					{#each contributor as contribute}
-						<a href={contribute.html_url} class="w-20 items-center flex flex-col">
+						<a href={contribute.html_url} target="_blank" class="w-20 items-center flex flex-col">
 							<img src={contribute.avatar_url} alt={contribute.login} class="w-16 rounded-full" />
 							<span class="text-sm text-center">{contribute.login}</span>
 						</a>
 					{/each}
-					<a href="#" class="w-20 items-center flex flex-col">
+					<a href="https://instagram.com/hizkiariel" target="_blank" class="w-20 items-center flex flex-col">
 						<img
-							src="https://w7.pngwing.com/pngs/613/636/png-transparent-computer-icons-user-profile-male-avatar-avatar-heroes-logo-black-thumbnail.png"
+							src="hizkiariel.jpeg"
 							alt="Hisky Ariel"
 							class="w-16 rounded-full"
 						/>
-						<span class="text-sm text-center">Hisky Ariel</span>
+						<span class="text-sm text-center">Hizkiariel</span>
 					</a>
 				</div>
 			</div>

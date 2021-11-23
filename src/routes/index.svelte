@@ -27,9 +27,9 @@
 	};
 </script>
 
-<div class="h-[250px]  flex flex-col fixed z-10 top-0 w-full bg-white">
+<div class="h-[255px]  flex flex-col fixed z-10 top-0 w-full bg-white">
 	<div
-		class="px-4 pt-6 pb-10"
+		class="px-4 pt-6 pb-9"
 		style="background: linear-gradient(129.41deg, #2B52A1 39.97%, rgba(43, 82, 161, 0) 216.3%);
 	mix-blend-mode: normal;"
 	>
@@ -45,7 +45,7 @@
 		<div class="flex justify-around w-full mb-6">
 			<div class="flex flex-col items-center">
 				<div
-					class="flex items-center justify-center cursor-pointer bg-white rounded-[10px] w-11 h-11"
+					class="mb-1 flex items-center justify-center cursor-pointer bg-white rounded-[10px] w-11 h-11"
 					on:click={() => (showModalSetting = true)}
 				>
 					<img src="icon/setting.svg" alt="setting" class="w-6 h-6" />
@@ -54,7 +54,7 @@
 			</div>
 			<div class="flex flex-col items-center">
 				<div
-					class="flex items-center justify-center cursor-pointer bg-white rounded-[10px] w-11 h-11"
+					class="mb-1 flex items-center justify-center cursor-pointer bg-white rounded-[10px] w-11 h-11"
 					on:click={gotoLastRead}
 				>
 					<img src="icon/bookmark.svg" alt="setting" class="w-6 h-6" />
@@ -63,7 +63,7 @@
 			</div>
 			<div class="flex flex-col items-center">
 				<div
-					class="flex items-center justify-center cursor-pointer bg-white rounded-[10px] w-11 h-11"
+					class="mb-1 flex items-center justify-center cursor-pointer bg-white rounded-[10px] w-11 h-11"
 					on:click={gotoLastRead}
 				>
 					<img src="icon/history.svg" alt="setting" class="w-6 h-6" />
@@ -72,7 +72,7 @@
 			</div>
 			<div class="flex flex-col items-center">
 				<div
-					class="flex items-center justify-center cursor-pointer bg-white rounded-[10px] w-11 h-11"
+					class="mb-1 flex items-center justify-center cursor-pointer bg-white rounded-[10px] w-11 h-11"
 					on:click={gotoTasbih}
 				>
 					<img src="icon/tasbih.svg" alt="setting" class="w-6 h-6" />
@@ -91,7 +91,7 @@
 			/>
 		</div>
 	</div>
-	<div class="w-full bg-white rounded-t-[20px] h-10 -mt-4" />
+	<div class="w-full bg-white dark:bg-dark rounded-t-[20px] h-10 -mt-5" />
 </div>
 
 <div class="bg-white dark:bg-dark rounded-t-[20px] py-6 px-4 absolute w-full top-[236px]">
