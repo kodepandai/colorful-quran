@@ -97,7 +97,7 @@
 	<div class="group border-b py-2">
 		{#if aya.sura_id != 1 || aya.aya_number != 1}
 			<div
-				class="font-arab   text-xl overscroll-auto dark:text-white "
+				class="font-arab text-xl overscroll-auto dark:text-white "
 				id={aya.aya_number.toString()}
 			>
 				<span

@@ -33,9 +33,12 @@
 	import { goto } from '$app/navigation';
 	import Share from '$component/button/share.svelte';
 	import Header from '$component/header.svelte';
+	import ModalGoToAyat from '$component/modal/ModalGoToAyat.svelte';
 
 	export let surah: IAya[];
 	export let surahDetail: ISurah;
+
+	let showModalGoToAyat = false;
 
 	const saveLastReading = ({ detail: { sura_id, aya_number } }: { detail: IAya }) => {
 		$Setting$.last_read_aya = aya_number.toString();
@@ -55,14 +58,14 @@
 
 <Header />
 <div
-	class="flex justify-between items-center pt-4 pb-2 border-b sticky top-14 bg-white dark:bg-dark"
+	class="flex justify-between items-center px-4 pt-4 pb-2 border-b sticky top-14 bg-white dark:bg-dark"
 >
 	<div class="w-8 cursor-pointer dark:text-white" on:click={() => prevSurah()}>
 		{#if surahDetail.id > 1}
 			<Icon icon="ant-design:double-left-outlined" width="30" height="30" />
 		{/if}
 	</div>
-	<div class="flex flex-col">
+	<div class="flex flex-col cursor-pointer" on:click={() => (showModalGoToAyat = true)}>
 		<span class="text-lg font-bold text-center dark:text-white">{surahDetail.surat_name}</span>
 		<div class="flex">
 			<span class="text-xs text-graySecond dark:text-white">{surahDetail.surat_terjemahan}</span>
@@ -97,3 +100,5 @@
 <div class="p-4">
 	<TajweedView {surah} {surahDetail} on:saveLastReading={saveLastReading} />
 </div>
+
+<ModalGoToAyat bind:show={showModalGoToAyat} />
