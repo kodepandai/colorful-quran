@@ -9,17 +9,9 @@
 </script>
 
 <div class="flex justify-between h-16 sticky top-0 bg-primary dark:bg-gray-900 z-10">
-	{#if $page.path == '/'}
-		<div
-			on:click={() => (showModalInfo = true)}
-			class="h-full cursor-pointer items-center flex ml-4"
-		>
-			<Icon icon="bi:info-circle" color="white" width="30" height="30" />
-		</div>
-	{/if}
 	{#if $page.path != '/'}
 		<div on:click={() => goto('/')} class="h-full cursor-pointer items-center flex ml-4">
-			<Icon icon="akar-icons:arrow-left" width="30" height="30" color="#fff" />
+			<Icon icon="akar-icons:chevron-left" width="30" height="30" color="#fff" />
 		</div>
 	{/if}
 	<div class="flex-grow items-center flex justify-center">

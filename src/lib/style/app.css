@@ -6,8 +6,13 @@
 	font-family: 'Kemenag LPMQ';
 	src: url('../font/LPMQ.ttf');
 }
+@font-face {
+	font-family: 'poppins';
+	src: url('../font/poppins.ttf');
+}
 :root {
 	--font-arab: 'Kemenag LPMQ';
+	--font-poppins: 'poppins';
 	--font-sans: Arial, Helvetica, sans-serif;
 	--color-silent: rgba(204, 204, 204, 0.863);
 	--color-madd-4-5: rgb(38, 139, 13);
