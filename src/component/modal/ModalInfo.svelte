@@ -74,12 +74,12 @@
 							<span class="text-sm text-center">{contribute.login}</span>
 						</a>
 					{/each}
-					<a href="https://instagram.com/hizkiariel" target="_blank" class="w-20 items-center flex flex-col">
-						<img
-							src="hizkiariel.jpeg"
-							alt="Hisky Ariel"
-							class="w-16 rounded-full"
-						/>
+					<a
+						href="https://instagram.com/hizkiariel"
+						target="_blank"
+						class="w-20 items-center flex flex-col"
+					>
+						<img src="hizkiariel.jpeg" alt="Hisky Ariel" class="w-16 rounded-full" />
 						<span class="text-sm text-center">Hizkiariel</span>
 					</a>
 				</div>

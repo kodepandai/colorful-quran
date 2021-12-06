@@ -1,10 +1,10 @@
 <script lang="ts">
-import Header from "$component/header.svelte";
+	import Header from '$component/header.svelte';
 
 	export let count = 0;
 </script>
 
-<Header/>
+<Header />
 <div class="flex h-screen -mt-14 pt-14 z-0">
 	<div class="h-full w-full justify-center items-center flex">
 		<div class="w-full h-full relative" style="max-width: 343px; max-height: 343px;">
