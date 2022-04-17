@@ -58,7 +58,7 @@
 
 <Header />
 <div
-	class="flex justify-between items-center px-4 pt-4 pb-2 border-b sticky top-14 bg-white dark:bg-dark"
+	class="flex justify-between items-center px-4 pt-4 pb-2 border-b sticky top-14 bg-white dark:bg-dark z-10"
 >
 	<div class="w-8 cursor-pointer dark:text-white" on:click={() => prevSurah()}>
 		{#if surahDetail.id > 1}
@@ -92,9 +92,6 @@
 				>{surahDetail.id == 1 ? '1. ' : ''}{basmalah01}</span
 			>
 		{/if}
-		<div class="hidden group-hover:flex mt-2 justify-between">
-			<Share text={decodeURIComponent(`${basmalah} %0A${basmalah01}`)} />
-		</div>
 	</div>
 {/if}
 <div class="p-4">
