@@ -16,7 +16,8 @@ import Qalqalah from './kemenag/rule/Qalqalah';
 const GenerateRule = async (
 	aya: string,
 	finder: RuleFinder[],
-	isFirstAya = false
+	isFirstAya = false,
+	file = null
 ): Promise<ITajweed[]> => {
 	const arr = aya.split('');
 	let rules: ITajweed[] = [];
@@ -26,10 +27,19 @@ const GenerateRule = async (
 			rules = [...rules, ...result];
 		})
 	);
-	return rules.sort((a, b) => a.start - b.start).filter((x) => x.end > x.start);
+	const sortedRules = rules.sort((a, b) => a.start - b.start).filter((x) => x.end > x.start);
+	const conflictedIndex = sortedRules.findIndex((x, i) => x.start < sortedRules[i - 1]?.end);
+	if (conflictedIndex > -1) {
+		console.log('conflict', file);
+	}
+	return sortedRules;
 };
 
-export const GenerateAllRule = async (aya: string, isFirstAya = false): Promise<ITajweed[]> =>
+export const GenerateAllRule = async (
+	aya: string,
+	isFirstAya = false,
+	file = null
+): Promise<ITajweed[]> =>
 	GenerateRule(
 		aya,
 		[
@@ -46,7 +56,8 @@ export const GenerateAllRule = async (aya: string, isFirstAya = false): Promise<
 			MaddLazimHarfi,
 			IkhfaSyafawi
 		],
-		isFirstAya
+		isFirstAya,
+		file
 	);
 
 export default GenerateRule;

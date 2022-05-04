@@ -1,6 +1,8 @@
 import surah2 from '$db/kemenag/surah/2.json';
+import surah10 from '$db/kemenag/surah/10.json';
 import Ghunnah from '$tajweed/kemenag/rule/Ghunnah';
 import GenerateRule from '$tajweed/GenerateRule';
+import MaddJaiz from '$tajweed/kemenag/rule/MaddJaiz';
 
 describe('Ghunnah finder kemenag version', () => {
 	it('cannot find ghunnah on surah 2 verse 2', async () => {
@@ -14,7 +16,7 @@ describe('Ghunnah finder kemenag version', () => {
 		expect(result[0]).toEqual({
 			class: 'ghunnah',
 			start: 64,
-			end: 69
+			end: 66
 		});
 	});
 
@@ -29,7 +31,22 @@ describe('Ghunnah finder kemenag version', () => {
 		expect(result[0]).toEqual({
 			class: 'ghunnah',
 			start: 31,
-			end: 34
+			end: 33
+		});
+	});
+
+	it('can avoid conflict with madd jaiz on surah 10 verse 15', async () => {
+		const result = await GenerateRule(surah10[14].aya_text, [Ghunnah, MaddJaiz]);
+		console.log(result);
+		expect(result[3]).toEqual({
+			class: 'ghunnah',
+			start: 255,
+			end: 258
+		});
+		expect(result[4]).toEqual({
+			class: 'madd-jaiz',
+			start: 258,
+			end: 262
 		});
 	});
 });

@@ -16,7 +16,7 @@
 			{
 				"class": "ghunnah",
 				"start": 14,
-				"end": 17
+				"end": 16
 			},
 			{
 				"class": "madd-jaiz",
@@ -73,7 +73,7 @@
 			{
 				"class": "ghunnah",
 				"start": 17,
-				"end": 20
+				"end": 19
 			},
 			{
 				"class": "ikhfa",
@@ -88,7 +88,7 @@
 			{
 				"class": "ghunnah",
 				"start": 66,
-				"end": 69
+				"end": 68
 			},
 			{
 				"class": "iqlab",
@@ -113,7 +113,7 @@
 			{
 				"class": "ghunnah",
 				"start": 162,
-				"end": 165
+				"end": 164
 			},
 			{
 				"class": "iqlab",
@@ -164,7 +164,7 @@
 			{
 				"class": "ghunnah",
 				"start": 89,
-				"end": 92
+				"end": 91
 			},
 			{
 				"class": "qalqalah",
@@ -205,7 +205,7 @@
 			{
 				"class": "ghunnah",
 				"start": 29,
-				"end": 32
+				"end": 31
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -240,7 +240,7 @@
 			{
 				"class": "ghunnah",
 				"start": 77,
-				"end": 80
+				"end": 79
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -326,7 +326,7 @@
 			{
 				"class": "ghunnah",
 				"start": 90,
-				"end": 93
+				"end": 92
 			},
 			{
 				"class": "madd-wajib",
@@ -372,7 +372,7 @@
 			{
 				"class": "ghunnah",
 				"start": 63,
-				"end": 66
+				"end": 65
 			},
 			{
 				"class": "qalqalah",
@@ -433,7 +433,7 @@
 			{
 				"class": "ghunnah",
 				"start": 151,
-				"end": 154
+				"end": 153
 			},
 			{
 				"class": "ikhfa",
@@ -453,7 +453,7 @@
 			{
 				"class": "ghunnah",
 				"start": 223,
-				"end": 226
+				"end": 225
 			},
 			{
 				"class": "madd-jaiz",
@@ -463,7 +463,7 @@
 			{
 				"class": "ghunnah",
 				"start": 387,
-				"end": 390
+				"end": 389
 			},
 			{
 				"class": "ikhfa",
@@ -494,12 +494,12 @@
 			{
 				"class": "ghunnah",
 				"start": 14,
-				"end": 17
+				"end": 16
 			},
 			{
 				"class": "ghunnah",
 				"start": 101,
-				"end": 104
+				"end": 103
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -565,7 +565,7 @@
 			{
 				"class": "ghunnah",
 				"start": 223,
-				"end": 226
+				"end": 225
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -616,7 +616,7 @@
 			{
 				"class": "ghunnah",
 				"start": 125,
-				"end": 128
+				"end": 127
 			},
 			{
 				"class": "ikhfa",
