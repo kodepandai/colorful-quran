@@ -2,6 +2,15 @@
 ## [Unreleased]
 
 
+<a name="v0.6.0"></a>
+## [v0.6.0] - 2022-05-06
+### Bug Fixes
+- **tajweed:** fix doubled huruf caused by tajweed conflict ([#69](https://github.com/kodepintar/colorful-quran/issues/69))
+
+### New Features
+- add share button ([#67](https://github.com/kodepintar/colorful-quran/issues/67))
+
+
 <a name="v0.5.0"></a>
 ## [v0.5.0] - 2021-12-06
 ### Bug Fixes
@@ -112,7 +121,8 @@
 - new db Quran kemenag
 
 
-[Unreleased]: https://github.com/kodepintar/colorful-quran/compare/v0.5.0...HEAD
+[Unreleased]: https://github.com/kodepintar/colorful-quran/compare/v0.6.0...HEAD
+[v0.6.0]: https://github.com/kodepintar/colorful-quran/compare/v0.5.0...v0.6.0
 [v0.5.0]: https://github.com/kodepintar/colorful-quran/compare/v0.4.0...v0.5.0
 [v0.4.0]: https://github.com/kodepintar/colorful-quran/compare/v0.3.0...v0.4.0
 [v0.3.0]: https://github.com/kodepintar/colorful-quran/compare/v0.2.0...v0.3.0
