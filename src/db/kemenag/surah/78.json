@@ -11,7 +11,7 @@
 			{
 				"class": "ghunnah",
 				"start": 2,
-				"end": 5
+				"end": 4
 			},
 			{
 				"class": "madd-wajib",
@@ -37,7 +37,7 @@
 			{
 				"class": "ghunnah",
 				"start": 7,
-				"end": 10
+				"end": 9
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -90,7 +90,7 @@
 			{
 				"class": "ghunnah",
 				"start": 2,
-				"end": 5
+				"end": 4
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -173,7 +173,7 @@
 			{
 				"class": "ghunnah",
 				"start": 15,
-				"end": 18
+				"end": 17
 			}
 		]
 	},
@@ -283,7 +283,7 @@
 			{
 				"class": "ghunnah",
 				"start": 5,
-				"end": 8
+				"end": 7
 			}
 		]
 	},
@@ -299,7 +299,7 @@
 			{
 				"class": "ghunnah",
 				"start": 2,
-				"end": 5
+				"end": 4
 			}
 		]
 	},
@@ -362,12 +362,12 @@
 			{
 				"class": "ghunnah",
 				"start": 2,
-				"end": 5
+				"end": 4
 			},
 			{
 				"class": "ghunnah",
 				"start": 10,
-				"end": 13
+				"end": 12
 			}
 		]
 	},
@@ -472,7 +472,7 @@
 			{
 				"class": "ghunnah",
 				"start": 2,
-				"end": 5
+				"end": 4
 			}
 		]
 	},
@@ -524,7 +524,7 @@
 			{
 				"class": "ghunnah",
 				"start": 2,
-				"end": 5
+				"end": 4
 			}
 		]
 	},
@@ -711,7 +711,7 @@
 			{
 				"class": "ghunnah",
 				"start": 2,
-				"end": 5
+				"end": 4
 			},
 			{
 				"class": "madd-jaiz",

@@ -11,7 +11,7 @@
 			{
 				"class": "ghunnah",
 				"start": 2,
-				"end": 5
+				"end": 4
 			},
 			{
 				"class": "madd-jaiz",
@@ -62,7 +62,7 @@
 			{
 				"class": "ghunnah",
 				"start": 17,
-				"end": 20
+				"end": 19
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -124,12 +124,12 @@
 			{
 				"class": "ghunnah",
 				"start": 70,
-				"end": 73
+				"end": 72
 			},
 			{
 				"class": "ghunnah",
 				"start": 78,
-				"end": 81
+				"end": 80
 			},
 			{
 				"class": "madd-wajib",
@@ -160,7 +160,7 @@
 			{
 				"class": "ghunnah",
 				"start": 14,
-				"end": 17
+				"end": 16
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -212,7 +212,7 @@
 			{
 				"class": "ghunnah",
 				"start": 4,
-				"end": 7
+				"end": 6
 			},
 			{
 				"class": "madd-jaiz",
@@ -238,12 +238,12 @@
 			{
 				"class": "ghunnah",
 				"start": 2,
-				"end": 5
+				"end": 4
 			},
 			{
 				"class": "ghunnah",
 				"start": 8,
-				"end": 11
+				"end": 10
 			}
 		]
 	},
@@ -259,12 +259,12 @@
 			{
 				"class": "ghunnah",
 				"start": 2,
-				"end": 5
+				"end": 4
 			},
 			{
 				"class": "ghunnah",
 				"start": 8,
-				"end": 11
+				"end": 10
 			},
 			{
 				"class": "madd-jaiz",
@@ -290,7 +290,7 @@
 			{
 				"class": "ghunnah",
 				"start": 36,
-				"end": 39
+				"end": 38
 			}
 		]
 	},
@@ -352,7 +352,7 @@
 			{
 				"class": "ghunnah",
 				"start": 61,
-				"end": 64
+				"end": 63
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -430,7 +430,7 @@
 			{
 				"class": "ghunnah",
 				"start": 26,
-				"end": 29
+				"end": 28
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -482,7 +482,7 @@
 			{
 				"class": "ghunnah",
 				"start": 2,
-				"end": 5
+				"end": 4
 			}
 		]
 	},
@@ -534,7 +534,7 @@
 			{
 				"class": "ghunnah",
 				"start": 22,
-				"end": 25
+				"end": 24
 			},
 			{
 				"class": "idgham-bilaghunnah",
@@ -586,12 +586,12 @@
 			{
 				"class": "ghunnah",
 				"start": 21,
-				"end": 24
+				"end": 23
 			},
 			{
 				"class": "ghunnah",
 				"start": 50,
-				"end": 53
+				"end": 52
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -653,7 +653,7 @@
 			{
 				"class": "ghunnah",
 				"start": 0,
-				"end": 5
+				"end": 2
 			},
 			{
 				"class": "qalqalah",
@@ -720,7 +720,7 @@
 			{
 				"class": "ghunnah",
 				"start": 2,
-				"end": 5
+				"end": 4
 			},
 			{
 				"class": "ikhfa",

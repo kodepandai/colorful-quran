@@ -203,7 +203,7 @@
 			{
 				"class": "ghunnah",
 				"start": 2,
-				"end": 5
+				"end": 4
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -239,7 +239,7 @@
 			{
 				"class": "ghunnah",
 				"start": 4,
-				"end": 7
+				"end": 6
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -297,7 +297,7 @@
 			{
 				"class": "ghunnah",
 				"start": 14,
-				"end": 17
+				"end": 16
 			},
 			{
 				"class": "madd-jaiz",
@@ -359,7 +359,7 @@
 			{
 				"class": "iqlab",
 				"start": 21,
-				"end": 23
+				"end": 22
 			},
 			{
 				"class": "ikhfa",
@@ -400,7 +400,7 @@
 			{
 				"class": "ghunnah",
 				"start": 40,
-				"end": 43
+				"end": 42
 			},
 			{
 				"class": "idgham-mimi",
@@ -431,7 +431,7 @@
 			{
 				"class": "ghunnah",
 				"start": 34,
-				"end": 37
+				"end": 36
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -561,7 +561,7 @@
 			{
 				"class": "ghunnah",
 				"start": 22,
-				"end": 25
+				"end": 24
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -597,7 +597,7 @@
 			{
 				"class": "ghunnah",
 				"start": 22,
-				"end": 25
+				"end": 24
 			},
 			{
 				"class": "qalqalah",
@@ -722,7 +722,7 @@
 			{
 				"class": "ghunnah",
 				"start": 8,
-				"end": 11
+				"end": 10
 			},
 			{
 				"class": "madd-jaiz",
@@ -784,7 +784,7 @@
 			{
 				"class": "ghunnah",
 				"start": 52,
-				"end": 55
+				"end": 54
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -883,7 +883,7 @@
 			{
 				"class": "ghunnah",
 				"start": 43,
-				"end": 46
+				"end": 45
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -909,7 +909,7 @@
 			{
 				"class": "ghunnah",
 				"start": 29,
-				"end": 32
+				"end": 31
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -1029,7 +1029,7 @@
 			{
 				"class": "ghunnah",
 				"start": 13,
-				"end": 16
+				"end": 15
 			},
 			{
 				"class": "ikhfa",
@@ -1086,7 +1086,7 @@
 			{
 				"class": "ghunnah",
 				"start": 4,
-				"end": 7
+				"end": 6
 			},
 			{
 				"class": "madd-wajib",
@@ -1096,7 +1096,7 @@
 			{
 				"class": "ghunnah",
 				"start": 55,
-				"end": 58
+				"end": 57
 			},
 			{
 				"class": "qalqalah",
@@ -1111,7 +1111,7 @@
 			{
 				"class": "ghunnah",
 				"start": 82,
-				"end": 85
+				"end": 84
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -1132,7 +1132,7 @@
 			{
 				"class": "ghunnah",
 				"start": 17,
-				"end": 20
+				"end": 19
 			},
 			{
 				"class": "idgham-bilaghunnah",
@@ -1204,7 +1204,7 @@
 			{
 				"class": "ghunnah",
 				"start": 72,
-				"end": 75
+				"end": 74
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -1262,7 +1262,7 @@
 			{
 				"class": "ghunnah",
 				"start": 14,
-				"end": 17
+				"end": 16
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -1309,12 +1309,12 @@
 			{
 				"class": "ghunnah",
 				"start": 51,
-				"end": 54
+				"end": 53
 			},
 			{
 				"class": "ghunnah",
 				"start": 142,
-				"end": 145
+				"end": 144
 			},
 			{
 				"class": "idgham-mimi",
@@ -1329,7 +1329,7 @@
 			{
 				"class": "ghunnah",
 				"start": 202,
-				"end": 205
+				"end": 204
 			},
 			{
 				"class": "qalqalah",
@@ -1355,7 +1355,7 @@
 			{
 				"class": "ghunnah",
 				"start": 23,
-				"end": 26
+				"end": 25
 			},
 			{
 				"class": "madd-jaiz",
@@ -1386,7 +1386,7 @@
 			{
 				"class": "ghunnah",
 				"start": 3,
-				"end": 6
+				"end": 5
 			},
 			{
 				"class": "qalqalah",
@@ -1411,7 +1411,7 @@
 			{
 				"class": "ghunnah",
 				"start": 65,
-				"end": 68
+				"end": 67
 			},
 			{
 				"class": "madd-jaiz",
@@ -1447,7 +1447,7 @@
 			{
 				"class": "ghunnah",
 				"start": 59,
-				"end": 62
+				"end": 61
 			},
 			{
 				"class": "idgham-mimi",
@@ -1494,7 +1494,7 @@
 			{
 				"class": "ghunnah",
 				"start": 2,
-				"end": 5
+				"end": 4
 			},
 			{
 				"class": "madd-wajib",
@@ -1525,7 +1525,7 @@
 			{
 				"class": "ghunnah",
 				"start": 4,
-				"end": 7
+				"end": 6
 			},
 			{
 				"class": "madd-wajib",
@@ -1551,7 +1551,7 @@
 			{
 				"class": "ghunnah",
 				"start": 4,
-				"end": 7
+				"end": 6
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -1587,7 +1587,7 @@
 			{
 				"class": "ghunnah",
 				"start": 25,
-				"end": 28
+				"end": 27
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -1686,7 +1686,7 @@
 			{
 				"class": "ghunnah",
 				"start": 4,
-				"end": 7
+				"end": 6
 			},
 			{
 				"class": "madd-wajib",
@@ -1701,7 +1701,7 @@
 			{
 				"class": "ghunnah",
 				"start": 56,
-				"end": 59
+				"end": 58
 			},
 			{
 				"class": "qalqalah",
@@ -1727,7 +1727,7 @@
 			{
 				"class": "ghunnah",
 				"start": 16,
-				"end": 19
+				"end": 18
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -1789,7 +1789,7 @@
 			{
 				"class": "ghunnah",
 				"start": 16,
-				"end": 19
+				"end": 18
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -1846,7 +1846,7 @@
 			{
 				"class": "ghunnah",
 				"start": 2,
-				"end": 5
+				"end": 4
 			},
 			{
 				"class": "qalqalah",
@@ -1872,7 +1872,7 @@
 			{
 				"class": "ghunnah",
 				"start": 2,
-				"end": 5
+				"end": 4
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -1908,7 +1908,7 @@
 			{
 				"class": "ghunnah",
 				"start": 4,
-				"end": 7
+				"end": 6
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -2117,7 +2117,7 @@
 			{
 				"class": "ghunnah",
 				"start": 4,
-				"end": 7
+				"end": 6
 			},
 			{
 				"class": "idgham-bilaghunnah",
@@ -2201,7 +2201,7 @@
 			{
 				"class": "ghunnah",
 				"start": 26,
-				"end": 29
+				"end": 28
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -2330,12 +2330,12 @@
 			{
 				"class": "ghunnah",
 				"start": 31,
-				"end": 34
+				"end": 33
 			},
 			{
 				"class": "ghunnah",
 				"start": 39,
-				"end": 42
+				"end": 41
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -2361,7 +2361,7 @@
 			{
 				"class": "ghunnah",
 				"start": 22,
-				"end": 25
+				"end": 24
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -2450,7 +2450,7 @@
 			{
 				"class": "ghunnah",
 				"start": 18,
-				"end": 21
+				"end": 20
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -2602,7 +2602,7 @@
 			{
 				"class": "ghunnah",
 				"start": 17,
-				"end": 20
+				"end": 19
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -2717,7 +2717,7 @@
 			{
 				"class": "ghunnah",
 				"start": 9,
-				"end": 12
+				"end": 11
 			},
 			{
 				"class": "ikhfa",
@@ -2743,7 +2743,7 @@
 			{
 				"class": "ghunnah",
 				"start": 2,
-				"end": 5
+				"end": 4
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -2779,7 +2779,7 @@
 			{
 				"class": "ghunnah",
 				"start": 4,
-				"end": 7
+				"end": 6
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -2832,7 +2832,7 @@
 			{
 				"class": "ghunnah",
 				"start": 2,
-				"end": 5
+				"end": 4
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -3021,7 +3021,7 @@
 			{
 				"class": "ghunnah",
 				"start": 51,
-				"end": 54
+				"end": 53
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -3042,7 +3042,7 @@
 			{
 				"class": "ghunnah",
 				"start": 14,
-				"end": 17
+				"end": 16
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -3120,7 +3120,7 @@
 			{
 				"class": "ghunnah",
 				"start": 2,
-				"end": 5
+				"end": 4
 			},
 			{
 				"class": "qalqalah",
@@ -3146,7 +3146,7 @@
 			{
 				"class": "ghunnah",
 				"start": 2,
-				"end": 5
+				"end": 4
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -3182,7 +3182,7 @@
 			{
 				"class": "ghunnah",
 				"start": 4,
-				"end": 7
+				"end": 6
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -3235,7 +3235,7 @@
 			{
 				"class": "ghunnah",
 				"start": 2,
-				"end": 5
+				"end": 4
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -3434,7 +3434,7 @@
 			{
 				"class": "ghunnah",
 				"start": 4,
-				"end": 7
+				"end": 6
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -3460,7 +3460,7 @@
 			{
 				"class": "ghunnah",
 				"start": 2,
-				"end": 5
+				"end": 4
 			},
 			{
 				"class": "madd-jaiz",
@@ -3554,7 +3554,7 @@
 			{
 				"class": "ghunnah",
 				"start": 34,
-				"end": 37
+				"end": 36
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -3590,7 +3590,7 @@
 			{
 				"class": "ghunnah",
 				"start": 4,
-				"end": 7
+				"end": 6
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -3643,7 +3643,7 @@
 			{
 				"class": "ghunnah",
 				"start": 2,
-				"end": 5
+				"end": 4
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -3732,7 +3732,7 @@
 			{
 				"class": "ghunnah",
 				"start": 7,
-				"end": 10
+				"end": 9
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -3868,7 +3868,7 @@
 			{
 				"class": "ghunnah",
 				"start": 12,
-				"end": 15
+				"end": 14
 			},
 			{
 				"class": "madd-jaiz",
@@ -4013,7 +4013,7 @@
 			{
 				"class": "ghunnah",
 				"start": 27,
-				"end": 30
+				"end": 29
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -4049,7 +4049,7 @@
 			{
 				"class": "ghunnah",
 				"start": 4,
-				"end": 7
+				"end": 6
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -4102,7 +4102,7 @@
 			{
 				"class": "ghunnah",
 				"start": 2,
-				"end": 5
+				"end": 4
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -4232,7 +4232,7 @@
 			{
 				"class": "ghunnah",
 				"start": 51,
-				"end": 54
+				"end": 53
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -4253,7 +4253,7 @@
 			{
 				"class": "ghunnah",
 				"start": 8,
-				"end": 11
+				"end": 10
 			},
 			{
 				"class": "idgham-mimi",
@@ -4279,7 +4279,7 @@
 			{
 				"class": "ghunnah",
 				"start": 27,
-				"end": 32
+				"end": 29
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -4352,12 +4352,12 @@
 			{
 				"class": "ghunnah",
 				"start": 2,
-				"end": 5
+				"end": 4
 			},
 			{
 				"class": "ghunnah",
 				"start": 8,
-				"end": 11
+				"end": 10
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -4419,7 +4419,7 @@
 			{
 				"class": "ghunnah",
 				"start": 2,
-				"end": 5
+				"end": 4
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -4455,7 +4455,7 @@
 			{
 				"class": "ghunnah",
 				"start": 4,
-				"end": 7
+				"end": 6
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -4508,7 +4508,7 @@
 			{
 				"class": "ghunnah",
 				"start": 2,
-				"end": 5
+				"end": 4
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -4613,7 +4613,7 @@
 			{
 				"class": "ghunnah",
 				"start": 19,
-				"end": 22
+				"end": 21
 			},
 			{
 				"class": "madd-wajib",
@@ -4660,7 +4660,7 @@
 			{
 				"class": "ghunnah",
 				"start": 12,
-				"end": 15
+				"end": 14
 			},
 			{
 				"class": "madd-jaiz",
@@ -4711,7 +4711,7 @@
 			{
 				"class": "ghunnah",
 				"start": 51,
-				"end": 54
+				"end": 53
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -4799,7 +4799,7 @@
 			{
 				"class": "ghunnah",
 				"start": 56,
-				"end": 59
+				"end": 58
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -4820,7 +4820,7 @@
 			{
 				"class": "ghunnah",
 				"start": 2,
-				"end": 5
+				"end": 4
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -4856,7 +4856,7 @@
 			{
 				"class": "ghunnah",
 				"start": 4,
-				"end": 7
+				"end": 6
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -4877,7 +4877,7 @@
 			{
 				"class": "ghunnah",
 				"start": 4,
-				"end": 7
+				"end": 6
 			},
 			{
 				"class": "ikhfa",
@@ -4961,7 +4961,7 @@
 			{
 				"class": "ghunnah",
 				"start": 4,
-				"end": 7
+				"end": 6
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -5176,7 +5176,7 @@
 			{
 				"class": "ghunnah",
 				"start": 2,
-				"end": 5
+				"end": 4
 			},
 			{
 				"class": "madd-wajib",
@@ -5264,7 +5264,7 @@
 			{
 				"class": "ghunnah",
 				"start": 17,
-				"end": 20
+				"end": 19
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -5327,7 +5327,7 @@
 			{
 				"class": "ghunnah",
 				"start": 2,
-				"end": 5
+				"end": 4
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -5411,7 +5411,7 @@
 			{
 				"class": "ghunnah",
 				"start": 25,
-				"end": 28
+				"end": 27
 			},
 			{
 				"class": "madd-wajib",
@@ -5426,7 +5426,7 @@
 			{
 				"class": "ghunnah",
 				"start": 44,
-				"end": 47
+				"end": 46
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -5495,7 +5495,7 @@
 			{
 				"class": "ghunnah",
 				"start": 2,
-				"end": 5
+				"end": 4
 			},
 			{
 				"class": "madd-arid-lissukun",
@@ -5585,7 +5585,7 @@
 			{
 				"class": "ghunnah",
 				"start": 14,
-				"end": 17
+				"end": 16
 			},
 			{
 				"class": "idgham-bighunnah",
@@ -5611,7 +5611,7 @@
 			{
 				"class": "ghunnah",
 				"start": 4,
-				"end": 7
+				"end": 6
 			},
 			{
 				"class": "madd-arid-lissukun",

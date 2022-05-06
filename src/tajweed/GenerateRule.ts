@@ -26,7 +26,16 @@ const GenerateRule = async (
 			rules = [...rules, ...result];
 		})
 	);
-	return rules.sort((a, b) => a.start - b.start).filter((x) => x.end > x.start);
+	const sortedRules = rules.sort((a, b) => a.start - b.start).filter((x) => x.end > x.start);
+	const conflictedIndex = sortedRules.findIndex((x, i) => x.start < sortedRules[i - 1]?.end);
+	if (conflictedIndex > -1) {
+		sortedRules[conflictedIndex - 1] = {
+			...sortedRules[conflictedIndex - 1],
+			end: sortedRules[conflictedIndex].start
+		};
+		// console.log('conflict', file, sortedRules[conflictedIndex]);
+	}
+	return sortedRules;
 };
 
 export const GenerateAllRule = async (aya: string, isFirstAya = false): Promise<ITajweed[]> =>
