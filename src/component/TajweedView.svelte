@@ -100,24 +100,24 @@
 				class="font-arab text-xl overscroll-auto dark:text-white pr-5 flex flex-1 flex-col"
 				id={aya.aya_number.toString()}
 			>
-			<div class="flex flex-row align-middle">
-				<span
-					style="font-size: {$Setting$.ukuranAyat}px; line-height: {Number($Setting$.ukuranAyat) +
-						50}px "
-				>
-					{#each aya.tajweed as tajweed}
-						<i
-							class={tajweed.class ? 'cursor-pointer ' + tajweed.class : ''}
-							title={tajweed.class}
-							on:click={(e) => showToolTip(e, tajweed)}
-							>{aya.aya_text.slice(tajweed.start, tajweed.end)}</i
-						>
-					{/each}
-				</span>
-				<div class="p-2">
-					<AyaNumber number={aya.aya_number} />
+				<div class="flex flex-row align-middle">
+					<span
+						style="font-size: {$Setting$.ukuranAyat}px; line-height: {Number($Setting$.ukuranAyat) +
+							50}px "
+					>
+						{#each aya.tajweed as tajweed}
+							<i
+								class={tajweed.class ? 'cursor-pointer ' + tajweed.class : ''}
+								title={tajweed.class}
+								on:click={(e) => showToolTip(e, tajweed)}
+								>{aya.aya_text.slice(tajweed.start, tajweed.end)}</i
+							>
+						{/each}
+					</span>
+					<div class="p-2">
+						<AyaNumber number={aya.aya_number} />
+					</div>
 				</div>
-			</div>
 				<p
 					class="font-sans mt-2 pt-2 dark:text-white  {$Setting$.showTranslate
 						? 'h-auto leading-normal'
@@ -128,29 +128,29 @@
 				</p>
 			</div>
 			{#if surahDetail}
-					<div class="flex flex-col items-center space-y-2">
-						<button on:click={() => alert('ini tombol bookmark') }>
-							<!-- ini kondisi nonaktif -->
-							<Icon icon="uit:bookmark" color="#626262" width="20" height="20" />
+				<div class="flex flex-col items-center space-y-2">
+					<button on:click={() => alert('fitur masih dalam tahap pengembangan')}>
+						<!-- ini kondisi nonaktif -->
+						<Icon icon="uit:bookmark" color="#626262" width="24" height="24" />
 
-							<!-- ini ketika di bookmark -->
-							<!-- <Icon icon="bi:bookmark-check-fill" width="20" height="20" /> -->
-						</button>
+						<!-- ini ketika di bookmark -->
+						<!-- <Icon icon="bi:bookmark-check-fill" width="24" height="24" /> -->
+					</button>
 
-						<button on:click={() => saveLastReading(aya)}>
-							{#if $Setting$.last_read_surah == aya.sura_id.toString() && $Setting$.last_read_aya == aya.aya_number.toString()}
-								<Icon icon="emojione-monotone:open-book" color="#5C7AEA" width="20" height="20" />
-							{:else}
-								<Icon icon="emojione-monotone:open-book" color="#626262" width="20" height="20" />
-							{/if}
-						</button>
+					<button on:click={() => saveLastReading(aya)}>
+						{#if $Setting$.last_read_surah == aya.sura_id.toString() && $Setting$.last_read_aya == aya.aya_number.toString()}
+							<Icon icon="emojione-monotone:open-book" color="#5C7AEA" width="24" height="24" />
+						{:else}
+							<Icon icon="emojione-monotone:open-book" color="#626262" width="24" height="24" />
+						{/if}
+					</button>
 
-						<Share
-							text={decodeURIComponent(
-								`${aya.aya_text} %0A${aya.translation_aya_text} (${surahDetail.surat_name}:${aya.aya_number})`
-							)}
-						/>
-					</div>
+					<Share
+						text={decodeURIComponent(
+							`${aya.aya_text} %0A${aya.translation_aya_text} (${surahDetail.surat_name}:${aya.aya_number})`
+						)}
+					/>
+				</div>
 			{/if}
 		{/if}
 	</div>

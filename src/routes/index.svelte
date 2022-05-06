@@ -22,6 +22,10 @@
 		}
 	};
 
+	const gotoBookMark = () => {
+		alert('fitur masih dalam tahap pengembangan');
+	};
+
 	const gotoTasbih = () => {
 		goto('tasbih');
 	};
@@ -55,7 +59,7 @@
 			<div class="flex flex-col items-center">
 				<div
 					class="mb-1 flex items-center justify-center cursor-pointer bg-white rounded-[10px] w-11 h-11"
-					on:click={gotoLastRead}
+					on:click={gotoBookMark}
 				>
 					<img src="icon/bookmark.svg" alt="setting" class="w-6 h-6" />
 				</div>
@@ -123,7 +127,7 @@
 				</div>
 			</div>
 			<span
-				class="font-arab inline-block align-baseline font-bold dark:text-white"
+				class="font-arab inline-block align-baseline dark:text-white"
 				style="font-size: {$Setting$.ukuranAyat}px;">{surah.surat_text}</span
 			>
 		</a>

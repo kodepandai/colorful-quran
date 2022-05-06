@@ -31,7 +31,6 @@
 	import TajweedView from '$component/TajweedView.svelte';
 	import { Setting$ } from '$store/Setting';
 	import { goto } from '$app/navigation';
-	import Share from '$component/button/share.svelte';
 	import Header from '$component/header.svelte';
 	import ModalGoToAyat from '$component/modal/ModalGoToAyat.svelte';
 
@@ -43,7 +42,7 @@
 	const saveLastReading = ({ detail: { sura_id, aya_number } }: { detail: IAya }) => {
 		$Setting$.last_read_aya = aya_number.toString();
 		$Setting$.last_read_surah = sura_id.toString();
-		alert('Data berhasil disimpan');
+		alert('berhasil menandai sebagai ayat terakhir dibaca');
 	};
 
 	const nextSurah = () => {
