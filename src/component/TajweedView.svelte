@@ -94,26 +94,30 @@
 </script>
 
 {#each surah as aya}
-	<div class="group border-b py-2">
+	<div class="group flex flex-row border-b py-2">
 		{#if aya.sura_id != 1 || aya.aya_number != 1}
 			<div
-				class="font-arab text-xl overscroll-auto dark:text-white "
+				class="font-arab text-xl overscroll-auto dark:text-white pr-5 flex flex-1 flex-col"
 				id={aya.aya_number.toString()}
 			>
-				<span
-					style="font-size: {$Setting$.ukuranAyat}px; line-height: {Number($Setting$.ukuranAyat) +
-						50}px "
-				>
-					{#each aya.tajweed as tajweed}
-						<i
-							class={tajweed.class ? 'cursor-pointer ' + tajweed.class : ''}
-							title={tajweed.class}
-							on:click={(e) => showToolTip(e, tajweed)}
-							>{aya.aya_text.slice(tajweed.start, tajweed.end)}</i
-						>
-					{/each}
-				</span>
-				<AyaNumber number={aya.aya_number} />
+				<div class="flex flex-row align-middle">
+					<span
+						style="font-size: {$Setting$.ukuranAyat}px; line-height: {Number($Setting$.ukuranAyat) +
+							50}px "
+					>
+						{#each aya.tajweed as tajweed}
+							<i
+								class={tajweed.class ? 'cursor-pointer ' + tajweed.class : ''}
+								title={tajweed.class}
+								on:click={(e) => showToolTip(e, tajweed)}
+								>{aya.aya_text.slice(tajweed.start, tajweed.end)}</i
+							>
+						{/each}
+					</span>
+					<div class="p-2">
+						<AyaNumber number={aya.aya_number} />
+					</div>
+				</div>
 				<p
 					class="font-sans mt-2 pt-2 dark:text-white  {$Setting$.showTranslate
 						? 'h-auto leading-normal'
@@ -124,19 +128,28 @@
 				</p>
 			</div>
 			{#if surahDetail}
-				<div class="hidden group-hover:flex mt-2 justify-between">
+				<div class="flex flex-col items-center space-y-2">
+					<button on:click={() => alert('fitur masih dalam tahap pengembangan')}>
+						<!-- ini kondisi nonaktif -->
+						<Icon icon="uit:bookmark" color="#626262" width="24" height="24" />
+
+						<!-- ini ketika di bookmark -->
+						<!-- <Icon icon="bi:bookmark-check-fill" width="24" height="24" /> -->
+					</button>
+
+					<button on:click={() => saveLastReading(aya)}>
+						{#if $Setting$.last_read_surah == aya.sura_id.toString() && $Setting$.last_read_aya == aya.aya_number.toString()}
+							<Icon icon="emojione-monotone:open-book" color="#5C7AEA" width="24" height="24" />
+						{:else}
+							<Icon icon="emojione-monotone:open-book" color="#626262" width="24" height="24" />
+						{/if}
+					</button>
+
 					<Share
 						text={decodeURIComponent(
 							`${aya.aya_text} %0A${aya.translation_aya_text} (${surahDetail.surat_name}:${aya.aya_number})`
 						)}
 					/>
-					<button on:click={() => saveLastReading(aya)}>
-						{#if $Setting$.last_read_surah == aya.sura_id.toString() && $Setting$.last_read_aya == aya.aya_number.toString()}
-							<Icon icon="emojione-monotone:open-book" color="#5C7AEA" width="30" height="30" />
-						{:else}
-							<Icon icon="emojione-monotone:open-book" color="#B2B1B9" width="30" height="30" />
-						{/if}
-					</button>
 				</div>
 			{/if}
 		{/if}

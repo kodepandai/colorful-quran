@@ -31,7 +31,6 @@
 	import TajweedView from '$component/TajweedView.svelte';
 	import { Setting$ } from '$store/Setting';
 	import { goto } from '$app/navigation';
-	import Share from '$component/button/share.svelte';
 	import Header from '$component/header.svelte';
 	import ModalGoToAyat from '$component/modal/ModalGoToAyat.svelte';
 
@@ -43,7 +42,7 @@
 	const saveLastReading = ({ detail: { sura_id, aya_number } }: { detail: IAya }) => {
 		$Setting$.last_read_aya = aya_number.toString();
 		$Setting$.last_read_surah = sura_id.toString();
-		alert('Data berhasil disimpan');
+		alert('berhasil menandai sebagai ayat terakhir dibaca');
 	};
 
 	const nextSurah = () => {
@@ -58,7 +57,7 @@
 
 <Header />
 <div
-	class="flex justify-between items-center px-4 pt-4 pb-2 border-b sticky top-14 bg-white dark:bg-dark"
+	class="flex justify-between items-center px-4 pt-4 pb-2 border-b sticky top-14 bg-white dark:bg-dark z-10"
 >
 	<div class="w-8 cursor-pointer dark:text-white" on:click={() => prevSurah()}>
 		{#if surahDetail.id > 1}
@@ -92,9 +91,6 @@
 				>{surahDetail.id == 1 ? '1. ' : ''}{basmalah01}</span
 			>
 		{/if}
-		<div class="hidden group-hover:flex mt-2 justify-between">
-			<Share text={decodeURIComponent(`${basmalah} %0A${basmalah01}`)} />
-		</div>
 	</div>
 {/if}
 <div class="p-4">

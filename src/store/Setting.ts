@@ -14,7 +14,7 @@ const defaultSetting: ISetting = {
 	last_read_aya: '',
 	last_read_surah: '',
 	theme: 'light',
-	ukuranAyat: 16,
+	ukuranAyat: 26,
 	ukuranTerjemahan: 12,
 	showTranslate: true
 };

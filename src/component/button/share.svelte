@@ -1,4 +1,6 @@
 <script>
+	import { onMount } from 'svelte';
+	import { scale } from 'svelte/transition';
 	import Icon from '@iconify/svelte';
 	export let text;
 	export let link = '';
@@ -8,6 +10,33 @@
 	export let related = '';
 
 	let url_whatsapp, url_telegram, url_facebook, url_twitter;
+
+	let show = false; // menu state
+	let menu = null; // menu wrapper DOM reference
+
+	onMount(() => {
+		const handleOutsideClick = (event) => {
+			if (show && !menu.contains(event.target)) {
+				show = false;
+			}
+		};
+
+		const handleEscape = (event) => {
+			if (show && event.key === 'Escape') {
+				show = false;
+			}
+		};
+
+		// add events when element is added to the DOM
+		document.addEventListener('click', handleOutsideClick, false);
+		document.addEventListener('keyup', handleEscape, false);
+
+		// remove events when element is removed from the DOM
+		return () => {
+			document.removeEventListener('click', handleOutsideClick, false);
+			document.removeEventListener('keyup', handleEscape, false);
+		};
+	});
 	$: {
 		url_whatsapp = encodeURI(`https://api.whatsapp.com/send/?text=${text}`);
 		url_telegram = encodeURI(`https://t.me/share/url?url=${link}&text=${text}`);
@@ -18,18 +47,32 @@
 	}
 </script>
 
-<div class="flex space-x-3 items-center">
-	<span class="dark:text-white text-sm">Share:</span>
-	<a href={url_whatsapp}>
-		<Icon icon="logos:whatsapp" width="25" height="25" />
-	</a>
-	<a href={url_telegram}>
-		<Icon icon="bx:bxl-telegram" color="#40b3e0" width="25" height="25" />
-	</a>
-	<a href={url_facebook}>
-		<Icon icon="bi:facebook" color="#1877f2" width="25" height="25" />
-	</a>
-	<a href={url_twitter}>
-		<Icon icon="logos:twitter" color="#40b3e0" width="25" height="25" />
-	</a>
+<div class="relative" bind:this={menu}>
+	<div>
+		<button on:click={() => (show = !show)}>
+			<Icon icon="cil:share-alt" color="#626262" width="24" height="24" />
+		</button>
+
+		{#if show}
+			<div
+				in:scale={{ duration: 100, start: 0.95 }}
+				out:scale={{ duration: 75, start: 0.95 }}
+				class="absolute right-0 bottom-8 p-2 mt-1 bg-gray-200
+			rounded shadow-md flex space-y-3 items-center flex-col"
+			>
+				<a href={url_whatsapp} class="block">
+					<Icon icon="logos:whatsapp" width="24" height="24" />
+				</a>
+				<a href={url_telegram}>
+					<Icon icon="bx:bxl-telegram" color="#40b3e0" width="24" height="24" />
+				</a>
+				<a href={url_facebook}>
+					<Icon icon="bi:facebook" color="#1877f2" width="24" height="24" />
+				</a>
+				<a href={url_twitter}>
+					<Icon icon="logos:twitter" color="#40b3e0" width="24" height="24" />
+				</a>
+			</div>
+		{/if}
+	</div>
 </div>
