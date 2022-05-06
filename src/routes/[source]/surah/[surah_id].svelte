@@ -13,9 +13,9 @@
 		return listSurah[surah_id - 1];
 	};
 
-	export const load: Load = async ({ page }) => {
-		const surah = await getSurah(page.params.source, page.params.surah_id);
-		const surahDetail = await getSurahDetail(page.params.surah_id);
+	export const load: Load = async ({ params }) => {
+		const surah = await getSurah(params.source, params.surah_id);
+		const surahDetail = await getSurahDetail(params.surah_id);
 
 		return {
 			status: 200,
@@ -97,4 +97,4 @@
 	<TajweedView {surah} {surahDetail} on:saveLastReading={saveLastReading} />
 </div>
 
-<ModalGoToAyat bind:show={showModalGoToAyat} />
+<ModalGoToAyat bind:show={showModalGoToAyat} max={surah.length} />

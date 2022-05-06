@@ -26,6 +26,9 @@ const config = {
 				'process.env.VERSION': JSON.stringify('V' + version),
 				'process.env.CHANGELOG': JSON.stringify(changelog)
 			}
+		},
+		prerender: {
+			default: true
 		}
 	}
 };

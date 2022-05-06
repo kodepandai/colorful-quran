@@ -9,7 +9,7 @@
 </script>
 
 <div class="flex justify-between h-16 sticky top-0 bg-primary dark:bg-gray-900 z-10">
-	{#if $page.path != '/'}
+	{#if $page.url.pathname != '/'}
 		<div on:click={() => goto('/')} class="h-full cursor-pointer items-center flex ml-4">
 			<Icon icon="akar-icons:chevron-left" width="30" height="30" color="#fff" />
 		</div>

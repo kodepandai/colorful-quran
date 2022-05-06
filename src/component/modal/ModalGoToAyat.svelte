@@ -4,10 +4,11 @@
 
 	import Modal from '$component/Modal.svelte';
 
-	export let show = false;
+	export let show = false,
+		max = 3;
 	let ayat = 1;
 	const GoToAyat = () => {
-		goto($page.path + '#' + ayat);
+		goto($page.url.pathname + '#' + ayat);
 		show = false;
 	};
 </script>
@@ -19,6 +20,7 @@
 			class="w-full appearance-none focus:outline-none text-center mb-2"
 			placeholder="Go to ayat"
 			bind:value={ayat}
+			{max}
 		/>
 		<button
 			class="flex bg-primary justify-center text-white font-poppins rounded-md py-2"
