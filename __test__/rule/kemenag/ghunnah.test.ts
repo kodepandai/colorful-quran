@@ -37,7 +37,6 @@ describe('Ghunnah finder kemenag version', () => {
 
 	it('can avoid conflict with madd jaiz on surah 10 verse 15', async () => {
 		const result = await GenerateRule(surah10[14].aya_text, [Ghunnah, MaddJaiz]);
-		console.log(result);
 		expect(result[3]).toEqual({
 			class: 'ghunnah',
 			start: 255,

@@ -2,14 +2,21 @@ import type { RuleFinder } from '$contract/rule';
 import type { ITajweed } from '$contract/surah';
 import {
 	Alif,
+	AlifMaksura,
 	FindCharIndex,
 	IsChar,
 	Maddah,
 	Meem,
+	MeemIqlab,
 	Noon,
 	Shaddah,
 	Sukun,
-	Tanwin
+	Tanwin,
+	WaqafAula,
+	WaqafJaiz,
+	WaqafLazim,
+	WaqafLove,
+	Washal
 } from '$tajweed/kemenag/check/Char';
 import { GetPrev } from '$tajweed/kemenag/check/Pointer';
 
@@ -33,7 +40,16 @@ const Ghunnah: RuleFinder = (ayaSplited) => {
 			);
 
 			if (IsChar(txt, [Noon, Meem]) && ShaddahIndex >= 0 && MaddahIndex == -1) {
-				const prev = GetPrev(ayaSplited, i, [Alif]);
+				const prev = GetPrev(ayaSplited, i, [
+					AlifMaksura,
+					Alif,
+					WaqafLove,
+					Washal,
+					WaqafJaiz,
+					WaqafAula,
+					WaqafLazim,
+					MeemIqlab
+				]);
 				if (
 					!(
 						IsChar(ayaSplited[prev], Tanwin) ||

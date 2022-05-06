@@ -8,7 +8,7 @@ Promise.all(
 		const surah: IAya[] = (await import('$db/kemenag/surah/' + file)).default;
 		await Promise.all(
 			surah.map(async (aya, i) => {
-				surah[i].tajweed = await GenerateAllRule(aya.aya_text, i == 0, `${file} ayah ${i + 1}`);
+				surah[i].tajweed = await GenerateAllRule(aya.aya_text, i == 0);
 			})
 		);
 		fs.writeFileSync('src/db/kemenag/surah/' + file, JSON.stringify(surah, null, 4));
