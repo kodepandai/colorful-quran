@@ -113,10 +113,8 @@
 								>{aya.aya_text.slice(tajweed.start, tajweed.end)}</i
 							>
 						{/each}
-					</span>
-					<div class="p-2">
 						<AyaNumber number={aya.aya_number} />
-					</div>
+					</span>
 				</div>
 				<p
 					class="font-sans mt-2 pt-2 dark:text-white  {$Setting$.showTranslate
