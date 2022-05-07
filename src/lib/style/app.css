@@ -87,3 +87,12 @@
 .qalqalah {
 	color: var(--color-qalqalah);
 }
+
+.bg-grad {
+	background: linear-gradient(129.41deg, #2b52a1 39.97%, rgba(43, 82, 161, 0) 216.3%);
+	mix-blend-mode: normal;
+}
+
+.dark .bg-grad {
+	background: linear-gradient(129.41deg, rgb(17, 24, 39) 39.97%, rgba(43, 82, 161, 0) 216.3%);
+}

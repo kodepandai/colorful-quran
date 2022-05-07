@@ -32,11 +32,7 @@
 </script>
 
 <div class="h-[255px]  flex flex-col fixed z-10 top-0 w-full bg-white">
-	<div
-		class="px-4 pt-6 pb-9"
-		style="background: linear-gradient(129.41deg, #2B52A1 39.97%, rgba(43, 82, 161, 0) 216.3%);
-	mix-blend-mode: normal;"
-	>
+	<div class="px-4 pt-6 pb-9 bg-grad">
 		<div class="flex justify-between mb-6">
 			<img src="icon/brand.svg" alt="Brand" class="h-[38px] w-[100px]" />
 			<img

@@ -15,7 +15,7 @@
 	// let changelog: string;
 	onMount(async () => {
 		contributor = await fetch(
-			'https://api.github.com/repos/kodepintar/colorful-quran/contributors'
+			'https://api.github.com/repos/kodepandai/colorful-quran/contributors'
 		).then((data) => data.json());
 	});
 
@@ -58,12 +58,12 @@
 					kami, segera akan kami perbaiki di versi selanjutnya.
 				</p>
 				<a
-					href="https://github.com/kodepintar/colorful-quran"
+					href="https://github.com/kodepandai/colorful-quran"
 					alt="github repository"
 					class="flex items-center mb-4"
 				>
 					<Icon icon="akar-icons:github-fill" width="25" height="25" />
-					<span class="ml-2">Github/KodePintar</span>
+					<span class="ml-2">Github/KodePandai</span>
 				</a>
 
 				<h3 class="mb-2">Contributor</h3>
