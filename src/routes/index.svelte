@@ -5,13 +5,19 @@
 	import { Setting$ } from '$store/Setting';
 	import ModalSetting from '$component/modal/ModalSetting.svelte';
 	import ModalInfo from '$component/modal/ModalInfo.svelte';
+	import Icon from '@iconify/svelte';
 
 	let querySearch = '';
 	let dataFiltered = [];
 	let showModalSetting = false;
 	let showModalInfo = false;
+	let juzamma = false;
+
 	$: {
 		dataFiltered = list.filter((data) => {
+			if (juzamma) {
+				return data.id >= 78 && data.surat_name.toLocaleLowerCase().includes(querySearch.toLocaleLowerCase());
+			}
 			return data.surat_name.toLocaleLowerCase().includes(querySearch.toLocaleLowerCase());
 		});
 	}
@@ -29,6 +35,10 @@
 	const gotoTasbih = () => {
 		goto('tasbih');
 	};
+
+	const juzAmma = () => {
+		juzamma = !juzamma;
+	}
 </script>
 
 <div class="h-[255px]  flex flex-col fixed z-10 top-0 w-full bg-white">
@@ -46,11 +56,15 @@
 			<div class="flex flex-col items-center">
 				<div
 					class="mb-1 flex items-center justify-center cursor-pointer bg-white rounded-[10px] w-11 h-11"
-					on:click={() => (showModalSetting = true)}
+					on:click={juzAmma}
 				>
-					<img src="icon/setting.svg" alt="setting" class="w-6 h-6" />
+				{#if juzamma }
+				<Icon icon="fa-solid:quran" color="#a12b2b" width="24" height="24"/>
+				{:else}
+				<Icon icon="fa-solid:quran" color="#626262" width="24" height="24"/>
+				{/if}
 				</div>
-				<span class="font-poppins text-white text-xs">Setting</span>
+				<span class="font-poppins text-white text-xs">Juz amma</span>
 			</div>
 			<div class="flex flex-col items-center">
 				<div
@@ -78,6 +92,15 @@
 					<img src="icon/tasbih.svg" alt="setting" class="w-6 h-6" />
 				</div>
 				<span class="font-poppins text-white text-xs">Tasbih</span>
+			</div>
+			<div class="flex flex-col items-center">
+				<div
+					class="mb-1 flex items-center justify-center cursor-pointer bg-white rounded-[10px] w-11 h-11"
+					on:click={() => (showModalSetting = true)}
+				>
+					<img src="icon/setting.svg" alt="setting" class="w-6 h-6" />
+				</div>
+				<span class="font-poppins text-white text-xs">Setting</span>
 			</div>
 		</div>
 
