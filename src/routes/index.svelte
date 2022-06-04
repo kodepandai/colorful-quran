@@ -82,7 +82,7 @@
 				>
 					<img src="icon/history.svg" alt="setting" class="w-6 h-6" />
 				</div>
-				<span class="font-poppins text-white text-xs">Last Read</span>
+				<span class="font-poppins text-white text-xs">Last read</span>
 			</div>
 			<div class="flex flex-col items-center">
 				<div
