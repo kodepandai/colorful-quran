@@ -16,7 +16,10 @@
 	$: {
 		dataFiltered = list.filter((data) => {
 			if (juzamma) {
-				return data.id >= 78 && data.surat_name.toLocaleLowerCase().includes(querySearch.toLocaleLowerCase());
+				return (
+					data.id >= 78 &&
+					data.surat_name.toLocaleLowerCase().includes(querySearch.toLocaleLowerCase())
+				);
 			}
 			return data.surat_name.toLocaleLowerCase().includes(querySearch.toLocaleLowerCase());
 		});
@@ -38,7 +41,7 @@
 
 	const juzAmma = () => {
 		juzamma = !juzamma;
-	}
+	};
 </script>
 
 <div class="h-[255px]  flex flex-col fixed z-10 top-0 w-full bg-white">
@@ -53,20 +56,20 @@
 			/>
 		</div>
 		<div class="flex justify-around w-full mb-6">
-			<div class="flex flex-col items-center">
+			<div class="flex flex-col items-center w-1/5">
 				<div
 					class="mb-1 flex items-center justify-center cursor-pointer bg-white rounded-[10px] w-11 h-11"
 					on:click={juzAmma}
 				>
-				{#if juzamma }
-				<Icon icon="fa-solid:quran" color="#a12b2b" width="24" height="24"/>
-				{:else}
-				<Icon icon="fa-solid:quran" color="#626262" width="24" height="24"/>
-				{/if}
+					{#if juzamma}
+						<Icon icon="fa-solid:quran" color="#a12b2b" width="24" height="24" />
+					{:else}
+						<Icon icon="fa-solid:quran" color="#626262" width="24" height="24" />
+					{/if}
 				</div>
 				<span class="font-poppins text-white text-xs">Juz amma</span>
 			</div>
-			<div class="flex flex-col items-center">
+			<div class="flex flex-col items-center w-1/5">
 				<div
 					class="mb-1 flex items-center justify-center cursor-pointer bg-white rounded-[10px] w-11 h-11"
 					on:click={gotoBookMark}
@@ -75,7 +78,7 @@
 				</div>
 				<span class="font-poppins text-white text-xs">Bookmark</span>
 			</div>
-			<div class="flex flex-col items-center">
+			<div class="flex flex-col items-center w-1/5">
 				<div
 					class="mb-1 flex items-center justify-center cursor-pointer bg-white rounded-[10px] w-11 h-11"
 					on:click={gotoLastRead}
@@ -84,7 +87,7 @@
 				</div>
 				<span class="font-poppins text-white text-xs">Last read</span>
 			</div>
-			<div class="flex flex-col items-center">
+			<div class="flex flex-col items-center w-1/5">
 				<div
 					class="mb-1 flex items-center justify-center cursor-pointer bg-white rounded-[10px] w-11 h-11"
 					on:click={gotoTasbih}
@@ -93,7 +96,7 @@
 				</div>
 				<span class="font-poppins text-white text-xs">Tasbih</span>
 			</div>
-			<div class="flex flex-col items-center">
+			<div class="flex flex-col items-center w-1/5">
 				<div
 					class="mb-1 flex items-center justify-center cursor-pointer bg-white rounded-[10px] w-11 h-11"
 					on:click={() => (showModalSetting = true)}
