@@ -33,7 +33,7 @@
 
 <span>
 	<div
-		class="inline-flex p-1 w-8 h-8 justify-center items-center dark:text-white"
+		class="inline-flex p-1 w-8 h-8 justify-center items-center dark:text-gray-300"
 		style="background-image: url('/border.png'); background-position: center; background-size: contain;"
 	>
 		<span>{arabicNumber}</span>

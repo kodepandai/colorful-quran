@@ -94,10 +94,10 @@
 </script>
 
 {#each surah as aya}
-	<div class="group flex flex-row border-b py-2">
+	<div class="group flex flex-row border-b dark:border-gray-700 py-2">
 		{#if aya.sura_id != 1 || aya.aya_number != 1}
 			<div
-				class="font-arab text-xl overscroll-auto dark:text-white pr-5 flex flex-1 flex-col"
+				class="font-arab text-xl overscroll-auto dark:text-gray-300 pr-5 flex flex-1 flex-col"
 				id={aya.aya_number.toString()}
 			>
 				<div class="flex flex-row align-middle">
@@ -117,7 +117,7 @@
 					</span>
 				</div>
 				<p
-					class="font-sans mt-2 pt-2 dark:text-white  {$Setting$.showTranslate
+					class="font-sans mt-2 pt-2 dark:text-gray-300  {$Setting$.showTranslate
 						? 'h-auto leading-normal'
 						: 'h-0 overflow-hidden leading-none'}"
 					style="direction: ltr; font-size: {$Setting$.ukuranTerjemahan}px;"

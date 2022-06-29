@@ -57,30 +57,30 @@
 
 <Header />
 <div
-	class="flex justify-between items-center px-4 pt-4 pb-2 border-b sticky top-14 bg-white dark:bg-dark z-10"
+	class="flex justify-between items-center px-4 pt-4 pb-2 border-b dark:border-gray-700 sticky top-14 bg-white dark:bg-gray-800 z-10"
 >
-	<div class="w-8 cursor-pointer dark:text-white" on:click={() => prevSurah()}>
+	<div class="w-8 cursor-pointer dark:text-gray-300" on:click={() => prevSurah()}>
 		{#if surahDetail.id > 1}
 			<Icon icon="ant-design:double-left-outlined" width="30" height="30" />
 		{/if}
 	</div>
 	<div class="flex flex-col cursor-pointer" on:click={() => (showModalGoToAyat = true)}>
-		<span class="text-lg font-bold text-center dark:text-white">{surahDetail.surat_name}</span>
+		<span class="text-lg font-bold text-center dark:text-gray-300">{surahDetail.surat_name}</span>
 		<div class="flex">
-			<span class="text-xs text-graySecond dark:text-white">{surahDetail.surat_terjemahan}</span>
-			<span class="text-xs text-graySecond dark:text-white">
+			<span class="text-xs text-graySecond dark:text-gray-300">{surahDetail.surat_terjemahan}</span>
+			<span class="text-xs text-graySecond dark:text-gray-300">
 				&nbsp;{surahDetail.count_ayat} ayat</span
 			>
 		</div>
 	</div>
-	<div class="w-8 cursor-pointer dark:text-white" on:click={() => nextSurah()}>
+	<div class="w-8 cursor-pointer dark:text-gray-300" on:click={() => nextSurah()}>
 		{#if surahDetail.id < 114}
 			<Icon icon="ant-design:double-right-outlined" width="30" height="30" />
 		{/if}
 	</div>
 </div>
 {#if surahDetail.id != 9}
-	<div class="group flex flex-col items-center my-4 pb-2 dark:text-white">
+	<div class="group flex flex-col items-center my-4 pb-2 dark:text-gray-300">
 		<span
 			class="mb-2 font-arab"
 			style="font-size: {$Setting$.ukuranAyat}px; line-height: {Number($Setting$.ukuranAyat) +

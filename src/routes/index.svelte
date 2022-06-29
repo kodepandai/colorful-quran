@@ -51,7 +51,7 @@
 			<img
 				src="icon/info.svg"
 				alt="Brand"
-				class="h-6 w-6"
+				class="h-6 w-6 cursor-pointer"
 				on:click={() => (showModalInfo = true)}
 			/>
 		</div>
@@ -117,39 +117,42 @@
 			/>
 		</div>
 	</div>
-	<div class="w-full bg-white dark:bg-dark rounded-t-[20px] h-10 -mt-5" />
+	<div class="w-full bg-white dark:bg-gray-900 rounded-t-[20px] h-10 -mt-5" />
 </div>
 
-<div class="bg-white dark:bg-dark rounded-t-[20px] py-6 px-4 absolute w-full top-[236px]">
+<div class="bg-white dark:bg-gray-900 rounded-t-[20px] py-6 px-4 absolute w-full top-[236px]">
 	{#if dataFiltered.length <= 0}
 		<div class="flex w-full justify-center">
-			<span class="text-gray-500 dark:text-white">Surah tidak ditemukan</span>
+			<span class="text-gray-500 dark:text-gray-300">Surah tidak ditemukan</span>
 		</div>
 	{/if}
 	{#each dataFiltered as surah}
-		<a class="flex flex-row pb-4 mb-3 justify-between border-b" href={`/kemenag/surah/${surah.id}`}>
+		<a
+			class="flex flex-row pb-4 mb-3 justify-between border-b dark:border-gray-700"
+			href={`/kemenag/surah/${surah.id}`}
+		>
 			<div class="flex">
 				<div class="w-7 h-7 bg-white shadow dark:bg-gray-900 rounded-md text-center">
-					<span class="text-xs font-poppins dark:text-white">{surah.id}</span>
+					<span class="text-xs font-poppins dark:text-gray-300">{surah.id}</span>
 				</div>
 				<div class="flex flex-col line ml-3">
 					<span
-						class="font-poppins dark:text-white"
+						class="font-poppins dark:text-gray-300"
 						style="direction: ltr; font-size: {$Setting$.ukuranTerjemahan}px;"
 						>{` ${surah.surat_name}`}</span
 					>
 					<div class="flex flex-row">
-						<span class="text-[10px] font-poppins text-gray-400 dark:text-white"
+						<span class="text-[10px] font-poppins text-gray-400 dark:text-gray-300"
 							>{` ${surah.surat_terjemahan}`}</span
 						>
-						<span class="text-[10px] font-poppins ml-2 text-gray-400 dark:text-white"
+						<span class="text-[10px] font-poppins ml-2 text-gray-400 dark:text-gray-300"
 							>{` ${surah.count_ayat}`} ayat</span
 						>
 					</div>
 				</div>
 			</div>
 			<span
-				class="font-arab inline-block align-baseline dark:text-white"
+				class="font-arab inline-block align-baseline dark:text-gray-300"
 				style="font-size: {$Setting$.ukuranAyat}px;">{surah.surat_text}</span
 			>
 		</a>
