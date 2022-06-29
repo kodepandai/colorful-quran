@@ -1,4 +1,6 @@
 <script lang="ts">
+	import { Setting$ } from '$store/Setting';
+
 	import {
 		One,
 		Two,
@@ -34,7 +36,11 @@
 <span>
 	<div
 		class="inline-flex p-1 w-8 h-8 justify-center items-center dark:text-gray-300"
-		style="background-image: url('/border.png'); background-position: center; background-size: contain;"
+		style="background-image: url('/number_border{$Setting$.theme == 'dark'
+			? '_dark'
+			: ''}.svg'); background-position: center; background-size: contain; width: {Number(
+			$Setting$.ukuranAyat
+		) + 10}px; height: {Number($Setting$.ukuranAyat) + 10}px"
 	>
 		<span>{arabicNumber}</span>
 	</div>
