@@ -14,9 +14,11 @@
 	let contributor: Icontributor[] = [];
 	// let changelog: string;
 	onMount(async () => {
-		contributor = await fetch(
-			'https://api.github.com/repos/kodepandai/colorful-quran/contributors'
-		).then((data) => data.json());
+		contributor = (
+			await fetch('https://api.github.com/repos/kodepandai/colorful-quran/contributors').then(
+				(data) => data.json()
+			)
+		).filter((c) => !c.login.includes('bot'));
 	});
 
 	let tabs = 'aboutUs';
