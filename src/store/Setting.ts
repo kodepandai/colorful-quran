@@ -18,12 +18,11 @@ const defaultSetting: ISetting = {
 	ukuranTerjemahan: 12,
 	showTranslate: true
 };
-export const Setting$ =
-	typeof window !== 'undefined'
-		? writable<ISetting>(JSON.parse(window.localStorage.getItem('setting')) || defaultSetting)
-		: writable<ISetting>(defaultSetting);
-Setting$.subscribe((val) => {
-	if (browser) {
+
+export const Setting$ = writable<ISetting>(defaultSetting)
+if (browser) {
+	Setting$.set(JSON.parse(window.localStorage.getItem('setting')) || defaultSetting)
+	Setting$.subscribe((val) => {
 		localStorage.setItem('setting', JSON.stringify(val));
-	}
-});
+	});
+}
