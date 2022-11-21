@@ -11,14 +11,14 @@
 
 <div class="min-w-screen h-screen fixed flex justify-center inset-0 z-50">
 	<div class="absolute bg-black opacity-30 inset-0 z-0" />
-	<div class="w-full relative max-w-sm m-auto rounded-xl bg-white">
+	<div class="w-full relative max-w-sm m-auto rounded-xl bg-white dark:bg-gray-900 dark:text-gray-300">
 		<div class="flex py-2 relative">
 			<div class="w-full items-center flex justify-center">
 				<span class="font-semibold text-xl">{title}</span>
 			</div>
 			<div class="absolute right-2">
 				<button on:click={dismissModal}>
-					<Icon icon="ant-design:close-circle" color="#383838" width="30" height="30" />
+					<Icon icon="ant-design:close-circle" width="30" height="30" />
 				</button>
 			</div>
 		</div>
