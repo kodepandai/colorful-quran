@@ -24,5 +24,8 @@ if (browser) {
 	Setting$.set(JSON.parse(window.localStorage.getItem('setting')) || defaultSetting)
 	Setting$.subscribe((val) => {
 		localStorage.setItem('setting', JSON.stringify(val));
+		document
+			.getElementsByTagName("html")[0]
+			.classList.toggle("dark", val.theme === "dark")
 	});
 }
