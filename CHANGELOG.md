@@ -2,6 +2,12 @@
 ## [Unreleased]
 
 
+<a name="v0.7.1"></a>
+## [v0.7.1] - 2022-11-25
+### New Features
+- dark mode modal
+
+
 <a name="v0.7.0"></a>
 ## [v0.7.0] - 2022-07-02
 ### Bug Fixes
@@ -132,7 +138,8 @@
 - new db Quran kemenag
 
 
-[Unreleased]: https://github.com/kodepintar/colorful-quran/compare/v0.7.0...HEAD
+[Unreleased]: https://github.com/kodepintar/colorful-quran/compare/v0.7.1...HEAD
+[v0.7.1]: https://github.com/kodepintar/colorful-quran/compare/v0.7.0...v0.7.1
 [v0.7.0]: https://github.com/kodepintar/colorful-quran/compare/v0.6.0...v0.7.0
 [v0.6.0]: https://github.com/kodepintar/colorful-quran/compare/v0.5.0...v0.6.0
 [v0.5.0]: https://github.com/kodepintar/colorful-quran/compare/v0.4.0...v0.5.0
