@@ -14,11 +14,24 @@
 	let contributor: Icontributor[] = [];
 	// let changelog: string;
 	onMount(async () => {
-		contributor = (
-			await fetch('https://api.github.com/repos/kodepandai/colorful-quran/contributors').then(
-				(data) => data.json()
-			)
-		).filter((c) => !c.login.includes('bot'));
+		// contributor = (
+		// 	await fetch('https://api.github.com/repos/kodepandai/colorful-quran/contributors').then(
+		// 		(data) => data.json()
+		// 	)
+		// ).filter((c) => !c.login.includes('bot'));
+		contributor = await fetch("https://api.github.com/repos/kodepandai/colorful-quran/contributors")
+			.then(res => res.json())
+			.then(contributor => {
+				const pending = contributor
+					.filter(c => !c.login.includes("bot"))
+					.map(async c => {
+						const res = await fetch(c.url)
+						const json = await res.json()
+						c.login = json.name
+						return c
+					})
+				return Promise.all(pending)
+			})
 	});
 
 	let tabs = 'aboutUs';
