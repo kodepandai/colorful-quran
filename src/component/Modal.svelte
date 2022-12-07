@@ -1,16 +1,23 @@
 <script lang="ts">
 	export let title: string;
 	import Icon from '@iconify/svelte';
-	import { createEventDispatcher } from 'svelte';
+	import { createEventDispatcher, onMount } from 'svelte';
 	const dispatch = createEventDispatcher();
 
 	const dismissModal = () => {
 		dispatch('dismiss');
 	};
+
+	onMount(() => {
+		document.body.style.overflowY = "hidden"
+		return () => {
+			document.body.style.overflowY = "auto"
+		}
+	})
 </script>
 
 <div class="min-w-screen h-screen fixed flex justify-center inset-0 z-50">
-	<div class="absolute bg-black opacity-30 inset-0 z-0" />
+	<div class="absolute bg-black/30 inset-0 z-0" />
 	<div class="w-full relative max-w-sm m-auto rounded-xl bg-white dark:bg-gray-900 dark:text-gray-300">
 		<div class="flex py-2 relative">
 			<div class="w-full items-center flex justify-center">
