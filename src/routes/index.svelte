@@ -13,16 +13,18 @@
 	let showModalInfo = false;
 	let juzamma = false;
 
-	$: {
-		dataFiltered = list.filter((data) => {
-			if (juzamma) {
-				return (
-					data.id >= 78 &&
-					data.surat_name.toLocaleLowerCase().includes(querySearch.toLocaleLowerCase())
-				);
+	$: dataFiltered = list
+		.filter((surah) => {
+			if (!querySearch) {
+				return true
 			}
-			return data.surat_name.toLocaleLowerCase().includes(querySearch.toLocaleLowerCase());
-		});
+			const q = querySearch.toLocaleLowerCase()
+			return surah.surat_name.toLocaleLowerCase().includes(q) || surah.surat_terjemahan.toLocaleLowerCase().includes(q);
+		})
+		.filter(surah => !juzamma || surah.id >= 78)
+
+	$: if (juzamma) {
+		// dataFiltered = dataFiltered.filter(surah => surah.id >= 78)
 	}
 
 	const gotoLastRead = () => {
