@@ -23,10 +23,6 @@
 		})
 		.filter(surah => !juzamma || surah.id >= 78)
 
-	$: if (juzamma) {
-		// dataFiltered = dataFiltered.filter(surah => surah.id >= 78)
-	}
-
 	const gotoLastRead = () => {
 		if ($Setting$.last_read_aya) {
 			goto('/kemenag/surah/' + $Setting$.last_read_surah + '#' + $Setting$.last_read_aya);
