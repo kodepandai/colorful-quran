@@ -1,4 +1,4 @@
-import {  files, build, version } from '$service-worker';
+import { files, build, version } from '$service-worker';
 
 const _files = files.filter((o) => !o.includes('.DS_Store'));
 const ASSETS = `cache${version}`;

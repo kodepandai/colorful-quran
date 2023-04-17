@@ -16,12 +16,15 @@
 	$: dataFiltered = list
 		.filter((surah) => {
 			if (!querySearch) {
-				return true
+				return true;
 			}
-			const q = querySearch.toLocaleLowerCase()
-			return surah.surat_name.toLocaleLowerCase().includes(q) || surah.surat_terjemahan.toLocaleLowerCase().includes(q);
+			const q = querySearch.toLocaleLowerCase();
+			return (
+				surah.surat_name.toLocaleLowerCase().includes(q) ||
+				surah.surat_terjemahan.toLocaleLowerCase().includes(q)
+			);
 		})
-		.filter(surah => !juzamma || surah.id >= 78)
+		.filter((surah) => !juzamma || surah.id >= 78);
 
 	const gotoLastRead = () => {
 		if ($Setting$.last_read_aya) {
