@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "id.edsentra.quran.twa",
+      "sha256_cert_fingerprints":
+        ["CA:DD:DD:CB:3A:3E:D4:95:81:D6:A5:FD:A0:8F:CA:2A:6A:66:C8:94:5C:EB:9C:1E:A6:CC:A0:60:0C:B6:DB:00"]
+    }
+  }
+]
