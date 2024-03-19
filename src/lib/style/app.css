@@ -35,6 +35,10 @@
 	--color-qalqalah: rgb(11, 1, 141);
 }
 
+.dark {
+	--color-qalqalah: rgb(10, 129, 255);
+}
+
 .font-arab {
 	direction: rtl;
 	line-height: 180%;
