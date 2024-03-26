@@ -17,7 +17,7 @@
 	<Modal on:dismiss={() => (show = false)} title="Go to ayat">
 		<input
 			type="number"
-			class="w-full appearance-none focus:outline-none text-center mb-2"
+			class="w-full appearance-none focus:outline-none text-center mb-2 dark:text-white dark:bg-dark h-10"
 			placeholder="Go to ayat"
 			bind:value={ayat}
 			{max}
