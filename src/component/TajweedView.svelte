@@ -144,6 +144,7 @@
 					</button>
 
 					<Share
+						title={`${surahDetail.surat_name}:${aya.aya_number}`}
 						text={decodeURIComponent(
 							`${aya.aya_text} %0A${aya.translation_aya_text} (${surahDetail.surat_name}:${aya.aya_number})`
 						)}
